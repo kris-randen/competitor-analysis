@@ -1,0 +1,8 @@
+'Pregnancy' related feature requests in pregnancy_fittur reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 0
+
+

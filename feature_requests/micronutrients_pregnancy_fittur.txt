@@ -1,0 +1,8 @@
+'Micronutrients' related feature requests in pregnancy_fittur reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 0
+
+

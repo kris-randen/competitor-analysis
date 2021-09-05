@@ -1,0 +1,1189 @@
+'Micronutrients' related feature requests in nutrients reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 67
+
+
+review id: 2
+
+matches and contexts:
+
+match = vitam
+context = ically useless if it tells me I'm getting 0% of a vitamin when I'm actually getting 50%.
+
+
+id: 2 | rating: 4 | user: 0161019 | date: 2017-07-18 | time: 22:41:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Simple and Accurate
+--------------------------------------------------------------------
+
+Some time after using this app, I've realized it frequently miscalculated percentages of nutrients. The app is basically useless if it tells me I'm getting 0% of a vitamin when I'm actually getting 50%.
+
+
+review id: 7
+
+matches and contexts:
+
+match = iron
+context = wnloaded this app today, to help me track sodium, iron, and potassium. I am surprised that nobody co
+
+match = sodium
+context = Just downloaded this app today, to help me track sodium, iron, and potassium. I am surprised that n
+
+
+id: 7 | rating: 3 | user: MindyMart33 | date: 2021-02-13 | time: 15:16:31.000Z
+
+--------------------------------------------------------------------
+                      Title: No copy and paste feature!!
+--------------------------------------------------------------------
+
+Just downloaded this app today, to help me track sodium, iron, and potassium. I am surprised that nobody complains that all recipes have to be entered the long way!! I would much rather have a quick copy and paste option, after finding a recipe I like from a website.
+
+
+review id: 8
+
+matches and contexts:
+
+match = Vitam
+context = d’s package says that there is 30% daily value of Vitamin A in 2 ounces of their product, the App sa
+
+
+id: 8 | rating: 3 | user: dduukkiiee | date: 2020-09-20 | time: 14:39:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Wish it were more accurate
+--------------------------------------------------------------------
+
+Either the nutrient listing on the back of the bag of Brad’s Crunchy Kale is way off, or your nutrient listing is way off. Whereas the Brad’s package says that there is 30% daily value of Vitamin A in 2 ounces of their product, the App says that there is over 2000% daily value of Vitamin A in 2 ounces of their product. I’ve noticed some other discrepancies as well, which tend to lower my level of trust in the App. I don’t regret buying the App, as it has helped me see where I am lacking in my diet, and it’s fun to see the bars on the chart increase when I add a certain food to address that issue. I just wish I could trust it more and don’t have to keep second guessing it.
+
+
+review id: 11
+
+matches and contexts:
+
+match = vitam
+context = luding total calories, total protein, fat, carbs, vitamins, and minerals. On top of that, you can ad
+
+
+id: 11 | rating: 5 | user: buzzer0913 | date: 2017-07-19 | time: 13:18:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Best App For Tracking Nutrition IMO
+--------------------------------------------------------------------
+
+I have tried multiple other apps for tracking calories and this one is my favorite, hands down. The very simple search interface allows you to find the ENTIRE nutritional profile of an exact portion of food including total calories, total protein, fat, carbs, vitamins, and minerals. On top of that, you can add individual food items or even ENTIRE CUSTOM RECIPES to "your journal" which then keeps track of how much you have eaten for the day. Very happy I purchased this.
+
+
+review id: 14
+
+matches and contexts:
+
+match = iron
+context = e a bit more than that and you need to know about iron, calcium, minerals, etc...this is the app for
+
+match = calci
+context = t more than that and you need to know about iron, calcium, minerals, etc...this is the app for you. 
+
+
+id: 14 | rating: 3 | user: Saussha | date: 2018-11-30 | time: 15:02:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Would rate it a 5 but...
+--------------------------------------------------------------------
+
+Offers the very best tracking of all nutrients in food.  Other so are mostly concerned with calorie breakdown.  If you are like me, you are trying to see a bit more than that and you need to know about iron, calcium, minerals, etc...this is the app for you.  I’d give it a 5 for sure but it badly needs an update to allow the barcode scanner to work better.  All the times I have tried to scan, it’s only worked a couple times.  This ability to enter food and supplements is really important.  Please fix!! :)
+
+
+review id: 16
+
+matches and contexts:
+
+match = micro
+context =  to make sure I am getting a sufficient amount of micro nutrients.
+
+
+id: 16 | rating: 5 | user: thankful1000 | date: 2021-02-05 | time: 00:44:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App, Pantry has glitches
+--------------------------------------------------------------------
+
+Great app for tracking your total nutrition picture. Easy to enter.  Perfect for I what- to make sure I am getting a sufficient amount of micro nutrients.
+
+
+review id: 17
+
+matches and contexts:
+
+match = sodium
+context = ored in the wrong places.  The item had 300 mg of sodium.  I entered the Sodium, but the app display
+
+
+id: 17 | rating: 3 | user: scourge2bunnies | date: 2020-11-20 | time: 00:52:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Bug Needs Fixing
+--------------------------------------------------------------------
+
+So far this is a very good app, but I’ve come across a few bugs that need fixing.  First bug: I tried to add a new item to my pantry, and it overwrote another item I had in the pantry.  I ended up with 2 versions of the new item and the other item disappeared.  Second bug:  I was adding a new item to my pantry, and the nutrition values were being stored in the wrong places.  The item had 300 mg of sodium.  I entered the Sodium, but the app displayed it as 300 g of sugar.  I entered the amount of sugar, and it wasn’t displayed at all. Since I’m diabetic, this bug really concerns me.  Can you please fix it?
+
+
+review id: 20
+
+matches and contexts:
+
+match = vitam
+context = you the total quantity (mg, mcg, IU, etc.) of the vitamin or mineral, it only shows a percentage you
+
+
+id: 20 | rating: 1 | user: NeedsAccuracy | date: 2017-10-15 | time: 16:40:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Limited foods... no option to add your own food brands
+--------------------------------------------------------------------
+
+Nice app if you're not concerned with accuracy. The food journal nutrition information doesn't tell you the total quantity (mg, mcg, IU, etc.) of the vitamin or mineral, it only shows a percentage you have consumed. The total vitamins and minerals needed for males and females is different and the app doesn't ask for sex to calculate the correct RDIs.
+
+
+review id: 26
+
+matches and contexts:
+
+match = vitam
+context = ter a sizable portion of raw sunflower seeds, the vitamin E level doesn’t budge a single percentage 
+
+match = folate
+context = ve seen this happen with some other values around folate and zinc as well. There are some definite g
+
+match = zinc
+context = s happen with some other values around folate and zinc as well. There are some definite gaps in sync
+
+
+id: 26 | rating: 3 | user: heatherMSRD | date: 2019-02-27 | time: 01:17:28.000Z
+
+--------------------------------------------------------------------
+                      Title: If you fix this, it would be great!
+--------------------------------------------------------------------
+
+I’m a dietitian and I enjoy a lot of things about this app EXCEPT that it gets some nutrient values totally wrong. For example, if you enter a sizable portion of raw sunflower seeds, the vitamin E level doesn’t budge a single percentage point. This is clearly inaccurate, as sunflower seeds are quite high in vitamin E. I’ve seen this happen with some other values around folate and zinc as well. There are some definite gaps in syncing up foods from the list and their corresponding nutrient content. If you fixed this misleading element, it would be nearly perfect!
+
+
+review id: 27
+
+matches and contexts:
+
+match = vitam
+context = ritional intake to make sure I was getting enough vitamins, and was put-off by how “weight loss” foc
+
+
+id: 27 | rating: 1 | user: penh | date: 2019-05-28 | time: 15:28:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Not a useful app at all
+--------------------------------------------------------------------
+
+I wanted to track my nutritional intake to make sure I was getting enough vitamins, and was put-off by how “weight loss” focused other apps were, so I gave this a try. I cook at home, and input my recipes, but was confused to learn I could only use their library of ingredients, which doesn’t have a lot of my products. There’s no way to manually enter a product yourself. Once you manage to piece together a recipe that’s similar to what you make, there’s no way to add it to your daily journal of what you ate that day. A total waste of $5.
+
+
+review id: 29
+
+matches and contexts:
+
+match = vitam
+context = Great app to track vitamins, minerals, calories, etc especially if yo
+
+
+id: 29 | rating: 4 | user: Food Allergy Friendly | date: 2020-05-24 | time: 22:52:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Very useful, would like to see more foods in the journal
+--------------------------------------------------------------------
+
+Great app to track vitamins, minerals, calories, etc especially if you have to avoid certain foods and want to keep a balanced diet. Only recommendation is I would like to see more unusual fresh fruits/vegetables listed like broccolini, bok choy, various sweet potatoes (white varieties like Japanese yam or Hannah yam-they have less vitamin A than the orange varieties). Although for raw arugula they have several “brands” which throws me off?
+
+
+review id: 35
+
+matches and contexts:
+
+match = iron
+context =  counter apps just don’t provide. Specifically my iron intake since I am anemic. It works well and g
+
+
+id: 35 | rating: 4 | user: Doris43321 | date: 2021-08-18 | time: 14:53:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app
+--------------------------------------------------------------------
+
+I purchased this app because I wanted more details about the nutrients I was eating that other calorie counter apps just don’t provide. Specifically my iron intake since I am anemic. It works well and gives you a general idea, but don’t expect 100% accuracy since many foods aren’t listed and you need to find a close match.
+
+
+review id: 40
+
+matches and contexts:
+
+match = vitam
+context = ients is helping me maintain a healthy balance of vitamins, protein, etc.
+
+
+id: 40 | rating: 3 | user: Reason for four stars | date: 2018-01-27 | time: 17:33:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Very useful app, crashes often
+--------------------------------------------------------------------
+
+Nutrients is a handy app for seeing my overall nutrition, and especially useful in detecting gaps. I just started a vegetarian/pescatarian diet and Nutrients is helping me maintain a healthy balance of vitamins, protein, etc.
+
+
+review id: 43
+
+matches and contexts:
+
+match = vitam
+context = I wish you could add in specific vitamins you are taking instead of just being able
+
+
+id: 43 | rating: 4 | user: HNR8989 | date: 2021-02-02 | time: 20:08:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Vitamins
+--------------------------------------------------------------------
+
+I wish you could add in specific vitamins you are taking instead of just being able to add food. It would be nice to be able to see if you’re able to hit your vitamin goals.
+
+
+review id: 51
+
+matches and contexts:
+
+match = vitam
+context = Knowing your vitamin intake is really great, but not if the app
+
+
+id: 51 | rating: 2 | user: Knope for America | date: 2018-05-04 | time: 03:46:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs improvement
+--------------------------------------------------------------------
+
+Knowing your vitamin intake is really great, but not if the app doesn’t have half of the things in your diet listed. Raw ingredients are usually there, but something as simple as an item from Chipotle is not. Super disappointing, wouldn’t recommend the app unless they make more frequent additions to their database
+
+
+review id: 55
+
+matches and contexts:
+
+match = Biotin
+context = ork for me. I with Nutrients tracked Omega-3s and Biotin but overall this is a great app!
+
+match = Omega
+context = d no longer work for me. I with Nutrients tracked Omega-3s and Biotin but overall this is a great ap
+
+
+id: 55 | rating: 5 | user: kkmashon | date: 2021-06-20 | time: 15:56:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Great to Track Nutrients!
+--------------------------------------------------------------------
+
+I finally found an app that really tracks nutrients! After a health scare, I found a typical calorie or diet app would no longer work for me. I with Nutrients tracked Omega-3s and Biotin but overall this is a great app!
+
+
+review id: 57
+
+matches and contexts:
+
+match = vitam
+context = m. I love it. It would be great if they could add vitamin pills to the list too.
+
+
+id: 57 | rating: 5 | user: Ghhfcbhdbjb | date: 2020-02-10 | time: 03:38:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+This app tracks every important nutrient in your diet. It has a huge list of fresh, prepared, and restaurant foods to choose from. I love it. It would be great if they could add vitamin pills to the list too.
+
+
+review id: 60
+
+matches and contexts:
+
+match = vitam
+context =  to track what I'm eating and get a sense of what vitamins/minerals I'm not getting enough of
+
+
+id: 60 | rating: 5 | user: moirajanning | date: 2017-10-07 | time: 17:45:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Really helpful
+--------------------------------------------------------------------
+
+Great app, love being able to track what I'm eating and get a sense of what vitamins/minerals I'm not getting enough of
+
+
+review id: 64
+
+matches and contexts:
+
+match = Vitam
+context = ods.  Example:  Almond flour is a great source of Vitamin E, but most of the flours listed show none
+
+
+id: 64 | rating: 2 | user: Sammyretired | date: 2019-02-01 | time: 16:37:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Must have Nutrients right to call it “Nutrients”
+--------------------------------------------------------------------
+
+Finding a number of errors on nutrients listed for various foods.  Example:  Almond flour is a great source of Vitamin E, but most of the flours listed show none, which does not match label on the bag.
+
+
+review id: 105
+
+matches and contexts:
+
+match = choli
+context = worth it if additional nutrients were added (like choline, omega fats, etc) but they weren't. And so
+
+match = omega
+context = if additional nutrients were added (like choline, omega fats, etc) but they weren't. And some foods 
+
+
+id: 105 | rating: 3 | user: Edenwild | date: 2013-05-09 | time: 17:04:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Overwhelming
+--------------------------------------------------------------------
+
+On the old version I complained they didn't list enough foods....but now there are too many! The original had only real, whole foods listed, now it's got those plus a boatload of processed foods, which I almost never eat. It's nice I can finally look up yogurt (a food missing from previous version), but I have to scroll through like 50 versions of yogurt before I get to plain, whole milk yogurt. It would be worth it if additional nutrients were added (like choline, omega fats, etc) but they weren't. And some foods I eat still aren't listed. Sigh. Hopefully it will be worth it for the foods I eat that weren't in the previous version but made it in this one.
+
+
+review id: 108
+
+matches and contexts:
+
+match = vitam
+context = o, I am using this for the purpose of tracking my vitamin needs during my pregnancy.  So it would be
+
+
+id: 108 | rating: 3 | user: PinAddict78 | date: 2015-01-01 | time: 15:05:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Great start, but missing just a few things
+--------------------------------------------------------------------
+
+For what is available, this is the best app I found for what I needed.  However there are a few things that would make this a great app!  First, my purpose is to track my nutrients every day. But the journal does not allow you to go back and edit a day's items. This was a real bummer.  I woke up this morning and was forced to enter my food items from last night, on today's date.  Also, I am using this for the purpose of tracking my vitamin needs during my pregnancy.  So it would be extremely helpful  if there was some way to calculate everything daily.   There is no other app out there that does this.  If these two functions were added, I am sure you could definitely increase your revenue.  Especially if you would promote it to the pregnancy community.  Finally, it would be great if you simply added a notes page. Where users could take personal notes. Ideally, integrated into the journal page some how.  I am calculating my nutrients and storing key details in a notepad.  I am sure this one is probably an easy add.
+
+
+review id: 109
+
+matches and contexts:
+
+match = micro
+context = s fortified with B12 - I can't record this and my micronutrient journal will always show a major vit
+
+match = vitam
+context = my micronutrient journal will always show a major vitamin B12 deficiency. This obviates the point of
+
+
+id: 109 | rating: 3 | user: Cococove | date: 2016-06-13 | time: 20:38:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Some obvious fixable shortcomings
+--------------------------------------------------------------------
+
+1. The food list is too limited. This really needs a custom food function so users can add their own foods manually with the nutritional information. For example, as part of my diet I got no natural source of B12 so regularly eat nutritional yeast flakes fortified with B12 - I can't record this and my micronutrient journal will always show a major vitamin B12 deficiency. This obviates the point of nutrition tracking. There is no reason to keep users from adding personal custom foods to their pantries.
+
+
+review id: 111
+
+matches and contexts:
+
+match = vitam
+context =  sort the food list by the levels of a particular vitamin or nutrient doesn't really do that. I trie
+
+match = sodium
+context =  tried to sort the list based on calories, and by sodium and by Potassium, and the levels are never 
+
+
+id: 111 | rating: 2 | user: misspieeye | date: 2011-09-28 | time: 22:16:42.000Z
+
+--------------------------------------------------------------------
+                      Title: MissPiii
+--------------------------------------------------------------------
+
+This app certainly is a thorough source of information. Unfortunately, the extra feature that they claim will sort the food list by the levels of a particular vitamin or nutrient doesn't really do that. I tried to sort the list based on calories, and by sodium and by Potassium, and the levels are never really in low-to-high order. They're a bit scrambled up. And it seems to exclude the foods that have none (zero) of the nutrient in question, which would be extremely helpful when trying to follow a restricted diet.
+
+
+review id: 112
+
+matches and contexts:
+
+match = vitam
+context = ile trying to find out how much nutrition of what vitamins and minerals i am getting everyday. I hav
+
+
+id: 112 | rating: 5 | user: Jon Jon the Pirate | date: 2011-11-15 | time: 02:48:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent source of info
+--------------------------------------------------------------------
+
+I find this app to be very helpful for me while trying to find out how much nutrition of what vitamins and minerals i am getting everyday. I have not checked to see how accurate it is but most of the values seembelievable and a few of thr items i knew the values of were accurate. Excellent idea, but could def use some improvement. Look at the other responses for some good ideas on improvements.
+
+
+review id: 113
+
+matches and contexts:
+
+match = vitam
+context = l - having said that, I also paid $.99 to get the vitamin info and its well worth it. Also, you CAN 
+
+
+id: 113 | rating: 5 | user: Kathleen_Erin | date: 2013-01-07 | time: 23:19:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Functional and User-Friendly
+--------------------------------------------------------------------
+
+I've been using this app for months and I find it very useful - having said that, I also paid $.99 to get the vitamin info and its well worth it. Also, you CAN change the serving size -if grams does not work for you- with a tab at the top of the nutrition page.
+
+
+review id: 116
+
+matches and contexts:
+
+match = micro
+context =  for nutrient information. It features macro- and micro-nutrient information such as vitamins, miner
+
+match = vitam
+context = res macro- and micro-nutrient information such as vitamins, minerals, and amino acids. This alone ma
+
+
+id: 116 | rating: 5 | user: 100% Plant Based | date: 2016-01-01 | time: 04:19:17.000Z
+
+--------------------------------------------------------------------
+                      Title: My go to nutrient app
+--------------------------------------------------------------------
+
+This is my go to app for nutrient information. It features macro- and micro-nutrient information such as vitamins, minerals, and amino acids. This alone makes the app indispensable. The app has an easy to use interface and a tremendously useful presentation of the nutrient data. You can also specify food quantities in a variety of measures (e.g. grams, ounces, cups, etc.).
+
+
+review id: 118
+
+matches and contexts:
+
+match = vitam
+context = out each of the nutrients (especially each of the vitamins and minerals) and their role in the body,
+
+
+id: 118 | rating: 4 | user: FutureDietitian | date: 2016-04-25 | time: 08:29:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Useful! Needs a profile of each nutrient.
+--------------------------------------------------------------------
+
+I have used this app for quite some time and find it extremely useful. Would give it 5 stars if it included information about each of the nutrients (especially each of the vitamins and minerals) and their role in the body, health benefits, deficiency and toxicity info, etc. A link to the Wikipedia page (as it has been done for each food item) for each nutrient might suffice. Thank you.
+
+
+review id: 123
+
+matches and contexts:
+
+match = vitam
+context = This app gives a quick look at the vitamins and minerals in a lot of foods. It's visu
+
+
+id: 123 | rating: 4 | user: Ecorrine22 | date: 2012-10-04 | time: 04:07:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Helpful quick reference, just one suggestion
+--------------------------------------------------------------------
+
+This app gives a quick look at the vitamins and minerals in a lot of foods. It's visually appealing and easy to navigate. The only negative I've seen so far is that the nutrition facts for all foods are based on a 100 gram serving size. I don't really know what 100 grams translates to for most foods, so it's a little difficult to know what serving size the nutrition data applies to.
+
+
+review id: 128
+
+matches and contexts:
+
+match = vitam
+context =  create foods of their own.  I take a daily multi vitamin and would love to see this added to my nut
+
+
+id: 128 | rating: 4 | user: Tmargette | date: 2015-05-23 | time: 02:53:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs some tweaking
+--------------------------------------------------------------------
+
+I love this app! The only improvements I see would be for the user to add or create foods of their own.  I take a daily multi vitamin and would love to see this added to my nutrients.  I sync this with Apple health and that's a good thing.  It would be great to get a daily overview that compares it with the recommended daily allowances so one can compare or figure out deficiency.  Thanks for the great app!
+
+
+review id: 129
+
+matches and contexts:
+
+match = micro
+context = I’ve been looking for an app to track micronutrient data for quite some time and, as oth
+
+
+id: 129 | rating: 3 | user: patapra | date: 2016-09-03 | time: 20:21:37.000Z
+
+--------------------------------------------------------------------
+                      Title: great nutrient info, but lacking a few features
+--------------------------------------------------------------------
+
+I’ve been looking for an app to track micronutrient data for quite some time and, as others have stated, nutrients does a great job at this. however, it would be awesome if it could:
+
+
+review id: 143
+
+matches and contexts:
+
+match = vitam
+context =  2000 calorie diet, and not depend too heavily on vitamin/mineral supplements. I only wish I could s
+
+
+id: 143 | rating: 5 | user: RBJ54 | date: 2014-05-02 | time: 11:26:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Pedantic Food Planning
+--------------------------------------------------------------------
+
+This app is for you if the heading describes you. Knowing empty from potent calories can make all the difference in food choice. It's possible to actually achieve 100% of the RDA on a 2000 calorie diet, and not depend too heavily on vitamin/mineral supplements. I only wish I could synch my lists between devices or a cloud database.
+
+
+review id: 146
+
+matches and contexts:
+
+match = vitam
+context =  would find on a label (calories, carbs, protein, vitamins, minerals) plus amino acids. I could quic
+
+
+id: 146 | rating: 5 | user: Centrallanding | date: 2015-10-14 | time: 02:58:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent!
+--------------------------------------------------------------------
+
+I am really impressed with Foodle. It tells me everything I need to know about just about any food. All of the nutritional information you would find on a label (calories, carbs, protein, vitamins, minerals) plus amino acids. I could quickly see why a pear is a much better choice than an apple. Love it!
+
+
+review id: 154
+
+matches and contexts:
+
+match = vitam
+context = ecific nutrients from most to least. For instance vitamin a or protein. You can select it but the or
+
+
+id: 154 | rating: 1 | user: Nurse230 | date: 2013-06-07 | time: 03:30:57.000Z
+
+--------------------------------------------------------------------
+                      Title: New version lacking key items
+--------------------------------------------------------------------
+
+Unless I'm missing something they new version has two glaring omissions from earlier version. First is search tool. Second is a correct list of foods highest in specific nutrients from most to least. For instance vitamin a or protein. You can select it but the order is no longer starting with the item with the most. Since his was one of the main reasons I liked this app, really don't like it now.
+
+
+review id: 155
+
+matches and contexts:
+
+match = vitam
+context = gh, to make it more of a one-stop guide: for each vitamin/mineral, include a short explanation of wh
+
+
+id: 155 | rating: 5 | user: CHODEFUNK MCBLASTCHUNK | date: 2013-06-30 | time: 06:42:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome food guide!
+--------------------------------------------------------------------
+
+Everything about it is very useful. I have an idea though, to make it more of a one-stop guide: for each vitamin/mineral, include a short explanation of what it does for you. Obviously it's an easy google, but it would be convenient. :)
+
+
+review id: 158
+
+matches and contexts:
+
+match = vitam
+context = riendly: if you give top 100 foods with a certain vitamin, it would be logical to place a food with 
+
+
+id: 158 | rating: 1 | user: Havrosha | date: 2015-05-23 | time: 14:38:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Disappointing
+--------------------------------------------------------------------
+
+It is not what I expected. Very limited and not user friendly: if you give top 100 foods with a certain vitamin, it would be logical to place a food with the highest content of the vitamin at the top of the list and with the lowest content at the bottom. The app is just an attempt to categorize random information about food. If I need just information, Google and Wikipedia are sufficient. I wish I could try the app before purchasing. I would never purchase it.
+
+
+review id: 159
+
+matches and contexts:
+
+match = sodium
+context = , required a diet that targets getting a range of sodium, prosperous, potassium and sugar each day. 
+
+
+id: 159 | rating: 5 | user: Comicyogi | date: 2016-04-04 | time: 15:41:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Essential Fantastic
+--------------------------------------------------------------------
+
+Found nutrients after my health, and my doctor, required a diet that targets getting a range of sodium, prosperous, potassium and sugar each day. This app makes it possible for me to eat! Strongly recommended for anyone on a restricted diet and especially for folks, like me, on kidney dialysis.
+
+
+review id: 162
+
+matches and contexts:
+
+match = iron
+context = t all the time to ensure that I am getting enough iron/protein/etc with my vegan diet. This app is a
+
+
+id: 162 | rating: 5 | user: Liferndob | date: 2012-12-25 | time: 17:16:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing!
+--------------------------------------------------------------------
+
+My brother, who has type 1 diabetes uses this app to count carbs. It's really helpful for him. I also use it all the time to ensure that I am getting enough iron/protein/etc with my vegan diet. This app is amazing and I recommend it to everyone!
+
+
+review id: 170
+
+matches and contexts:
+
+match = vitam
+context = e all leafy greens according to rank in any given vitamin or mineral - very eye opening!
+
+
+id: 170 | rating: 5 | user: Srm22180 | date: 2011-08-03 | time: 03:15:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Serving sizes
+--------------------------------------------------------------------
+
+Best feature are the selectable and ver practical serving sizes like 1 medium banana versus 100g which nobody can relate to - purchased both paid addons for $3 that allow me to rank for example all leafy greens according to rank in any given vitamin or mineral - very eye opening!
+
+
+review id: 178
+
+matches and contexts:
+
+match = vitam
+context = e the app useless if you are trying to track your vitamin and mineral intake. How am I supposed to k
+
+
+id: 178 | rating: 1 | user: esinopole | date: 2015-05-03 | time: 16:45:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs a cumulative nutrition journal
+--------------------------------------------------------------------
+
+The journal is nothing more than a list of foods you ate - it does not generate a cumulative overview of of you nutrition for the day and make the app useless if you are trying to track your vitamin and mineral intake. How am I supposed to know what vitamins I am low in for the day? The app is the best I have seen to itemize the vitamins and mineral for EACH ITEM but the journal ruins the whole app for me. Please add a tracking system!
+
+
+review id: 183
+
+matches and contexts:
+
+match = iron
+context = the many nutrients in foods.  Having to watch the iron I consume (or other less common nutrients), t
+
+
+id: 183 | rating: 5 | user: orbe01 | date: 2012-05-01 | time: 21:17:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Iron intake
+--------------------------------------------------------------------
+
+I'm a carrier of the hemochromotosis gene, so I was so very pleased to find an app that sorts foods according to the many nutrients in foods.  Having to watch the iron I consume (or other less common nutrients), this app is perfect for many specific sorting by nutrients.
+
+
+review id: 194
+
+matches and contexts:
+
+match = vitam
+context =  It would be nice if you could tap the mineral or vitamins and it could give you a general rundown o
+
+
+id: 194 | rating: 3 | user: Aaronw1 | date: 2012-10-28 | time: 16:52:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs a little more
+--------------------------------------------------------------------
+
+Informative and helpful app. It would be nice if you could tap the mineral or vitamins and it could give you a general rundown of what they are useful for. Possibly some symptoms of deficiencies even. Otherwise a nice app. It would be nice to have more updates.
+
+
+review id: 197
+
+matches and contexts:
+
+match = vitam
+context = I love this app - you can search anything by vitamin or mineral!  Well worth whatever I paid fo
+
+
+id: 197 | rating: 5 | user: JDK in AK | date: 2014-10-12 | time: 02:46:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Best App Ever!!!
+--------------------------------------------------------------------
+
+I love this app - you can search anything by vitamin or mineral!  Well worth whatever I paid for it! I'd get it all over again because I use it all the time!
+
+
+review id: 200
+
+matches and contexts:
+
+match = Vitam
+context = ort to see which food has the most Zinc, the most Vitamin K, etc. otherwise super app.
+
+match = Zinc
+context = utrients. eg. Sort to see which food has the most Zinc, the most Vitamin K, etc. otherwise super app
+
+
+id: 200 | rating: 4 | user: PurpleChips19 | date: 2011-04-22 | time: 21:55:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Sort by nutrients
+--------------------------------------------------------------------
+
+I left off a star because I think you could improve by adding a sort field by nutrients. eg. Sort to see which food has the most Zinc, the most Vitamin K, etc. otherwise super app.
+
+
+review id: 205
+
+matches and contexts:
+
+match = vitam
+context = d welcome a feature that told me what the certain vitamins etc are good for. For example: calcium is
+
+match = calci
+context = e certain vitamins etc are good for. For example: calcium is good for the bones, vitamin E for the e
+
+
+id: 205 | rating: 4 | user: Denunuke | date: 2011-08-06 | time: 22:39:55.000Z
+
+--------------------------------------------------------------------
+                      Title: What is missing.
+--------------------------------------------------------------------
+
+The app is nice and easy to use, however I would welcome a feature that told me what the certain vitamins etc are good for. For example: calcium is good for the bones, vitamin E for the eyes, and so on. Please, develop such an addition.
+
+
+review id: 208
+
+matches and contexts:
+
+match = vitam
+context = info so that I can see how much of each nutrient/ vitamin/ mineral I am getting over the course of a
+
+
+id: 208 | rating: 3 | user: Canarycreeper | date: 2014-11-28 | time: 20:00:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Good info but needs a data synthesis feature
+--------------------------------------------------------------------
+
+Lots of great info on nutrition of each food. Only 3 stars b/c I would like a way to process that info so that I can see how much of each nutrient/ vitamin/ mineral I am getting over the course of a day or week.
+
+
+review id: 226
+
+matches and contexts:
+
+match = vitam
+context = at app, wide variety of food options. I found the vitamin and mineral content particularly helpful. 
+
+
+id: 226 | rating: 4 | user: PaigeBeatrice | date: 2013-02-05 | time: 21:50:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Helpful for the Educated
+--------------------------------------------------------------------
+
+Great app, wide variety of food options. I found the vitamin and mineral content particularly helpful. Make sure you know how to read food labels before investing in this app!
+
+
+review id: 228
+
+matches and contexts:
+
+match = iron
+context = I would rather not see it on the top 100 list for iron along with seal and beaver and 50 different k
+
+
+id: 228 | rating: 3 | user: Hotside123 | date: 2013-06-10 | time: 22:35:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Like not love
+--------------------------------------------------------------------
+
+It's a nice app but not worth the paid version: too many obscure meats. I don't really care about the nutritional value of walrus, and I would rather not see it on the top 100 list for iron along with seal and beaver and 50 different kinds of organ meat.
+
+
+review id: 231
+
+matches and contexts:
+
+match = vitam
+context = n record what ou eat each day and how much of eah vitamin and mineral you actually consumed.
+
+
+id: 231 | rating: 5 | user: Lisa25543 | date: 2012-02-13 | time: 04:45:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Suggestion
+--------------------------------------------------------------------
+
+Excellent app i love it! You should include a feature wherw ou can record what ou eat each day and how much of eah vitamin and mineral you actually consumed.
+
+
+review id: 241
+
+matches and contexts:
+
+match = Manga
+context = If only it told me what Manganese is good for...
+
+
+id: 241 | rating: 4 | user: Nespakashuty | date: 2011-09-01 | time: 16:20:26.000Z
+
+--------------------------------------------------------------------
+                      Title: What is missing
+--------------------------------------------------------------------
+
+If only it told me what Manganese is good for...
+
+
+review id: 245
+
+matches and contexts:
+
+match = vitam
+context =  juice for a sick family member who needs certain vitamins and minerals. It is perfect!
+
+
+id: 245 | rating: 5 | user: SteveBroxxx | date: 2012-09-30 | time: 14:39:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for juicing
+--------------------------------------------------------------------
+
+This is one of the best apps I have found.   We juice for a sick family member who needs certain vitamins and minerals. It is perfect!
+
+
+review id: 269
+
+matches and contexts:
+
+match = vitam
+context = I think Centrum Multivitamins should be listed so can be added to the J
+
+
+id: 269 | rating: 3 | user: Octocroco | date: 2017-05-01 | time: 21:10:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Want to add items
+--------------------------------------------------------------------
+
+I think Centrum Multivitamins should be listed so can be added to the Journal to know that those vitamins have been taken. I do not see a way to add it myself.
+
+
+review id: 270
+
+matches and contexts:
+
+match = vitam
+context = nd also please include information about how each vitamin and mineral is good for you and how much o
+
+
+id: 270 | rating: 2 | user: Quintessence137 | date: 2011-04-23 | time: 04:00:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Ms.
+--------------------------------------------------------------------
+
+Not enough foods and not enough information. Should include everything in the food; antioxidants, phytochemicals, etc. And also please include information about how each vitamin and mineral is good for you and how much of it one should consume. Thank you! =)
+
+
+review id: 290
+
+matches and contexts:
+
+match = vitam
+context = but I can't seem to find one that adds up all the vitamins and minerals intake.
+
+
+id: 290 | rating: 2 | user: Kdub22 | date: 2011-06-22 | time: 08:28:46.000Z
+
+--------------------------------------------------------------------
+                      Title: This app blows and so does the add on fees
+--------------------------------------------------------------------
+
+I was hoping that it would calculate what I ate for the day but it's more like a reference guide. There are a lot of calorie/fat calculators but I can't seem to find one that adds up all the vitamins and minerals intake.
+
+
+review id: 295
+
+matches and contexts:
+
+match = iron
+context = en I try to look up which foods are, say, high in iron, it requires $1.99 to unlock. But get this, y
+
+
+id: 295 | rating: 1 | user: katbrain | date: 2013-02-19 | time: 22:38:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Umm...bait & switch?!
+--------------------------------------------------------------------
+
+Seems nice enough, but when I try to look up which foods are, say, high in iron, it requires $1.99 to unlock. But get this, you have to pay $1.99 for EACH nutrient and mineral. (There are 30 items total.) That's $60 to "unlock" all info. No thanks.
+
+
+review id: 316
+
+matches and contexts:
+
+match = vitam
+context = al info; we need to monitor potassium, manganese, vitamins such as  E & K.
+
+match = manga
+context = h nutritional info; we need to monitor potassium, manganese, vitamins such as  E & K.
+
+
+id: 316 | rating: 5 | user: The Good Life Tools | date: 2012-09-17 | time: 12:10:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Very deep
+--------------------------------------------------------------------
+
+Finally an app that goes all the way with nutritional info; we need to monitor potassium, manganese, vitamins such as  E & K.
+
+
+review id: 341
+
+matches and contexts:
+
+match = sodium
+context = There is no equivalent for sodium which is most important.
+
+
+id: 341 | rating: 4 | user: chanatehall | date: 2011-05-02 | time: 05:24:09.000Z
+
+--------------------------------------------------------------------
+                      Title: Looks good one suggestion
+--------------------------------------------------------------------
+
+There is no equivalent for sodium which is most important.
+
+
+review id: 348
+
+matches and contexts:
+
+match = vitam
+context = ars if they add an option to view the benefits of vitamins and minerals and antioxidants.
+
+
+id: 348 | rating: 4 | user: Sam98553 | date: 2012-09-28 | time: 19:22:15.000Z
+
+--------------------------------------------------------------------
+                      Title: I love it!
+--------------------------------------------------------------------
+
+I will give it 5 stars if they add an option to view the benefits of vitamins and minerals and antioxidants.
+
+
+review id: 388
+
+matches and contexts:
+
+match = iod
+context = The perfect app but please include iodine love. Thank you
+
+
+id: 388 | rating: 5 | user: Adobespain | date: 2016-02-08 | time: 20:14:32.000Z
+
+--------------------------------------------------------------------
+                      Title: The prefect app love it
+--------------------------------------------------------------------
+
+The perfect app but please include iodine love. Thank you
+
+
+review id: 420
+
+matches and contexts:
+
+match = iron
+context = his app, but would love a sort feature. i.e. Most iron, or calcium...
+
+match = calci
+context = but would love a sort feature. i.e. Most iron, or calcium...
+
+
+id: 420 | rating: 3 | user: Big diggy dog | date: 2011-04-23 | time: 02:52:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app, but...
+--------------------------------------------------------------------
+
+I love this app, but would love a sort feature. i.e. Most iron, or calcium...
+
+
+review id: 446
+
+matches and contexts:
+
+match = vitam
+context = l non-meat eating people. According to the guide, vitamin B12 can only be obtained from animal sourc
+
+
+id: 446 | rating: 1 | user: Vegmuncher | date: 2012-05-25 | time: 21:19:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Not very plant-based diet friendly!
+--------------------------------------------------------------------
+
+Not very useful for all non-meat eating people. According to the guide, vitamin B12 can only be obtained from animal sources. So sad.
+
+
+review id: 531
+
+matches and contexts:
+
+match = iod
+context = Best nutrition app available, period.
+
+
+id: 531 | rating: 5 | user: Jermay01 | date: 2011-03-25 | time: 07:03:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Killer app
+--------------------------------------------------------------------
+
+Best nutrition app available, period.
+
+
+review id: 537
+
+matches and contexts:
+
+match = vitam
+context = addition would be to be able to search by highest vitamin/mineral content.  Well done! :)))))
+
+
+id: 537 | rating: 5 | user: Peadoll | date: 2011-03-29 | time: 03:08:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+This is the best app I have down loaded so far!! It's soo amazingly thorough and the Wiki is great! And it's free! A great addition would be to be able to search by highest vitamin/mineral content.  Well done! :)))))
+
+
+review id: 603
+
+matches and contexts:
+
+match = sodium
+context = Need to add the sodium content
+
+
+id: 603 | rating: 3 | user: DietitianLa | date: 2011-02-04 | time: 18:13:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Information
+--------------------------------------------------------------------
+
+Need to add the sodium content
+
+
+review id: 609
+
+matches and contexts:
+
+match = omega
+context =  to be a bean right? I would also like to see all omegas, sodium, and cholesterol content.  Please.
+
+match = sodium
+context =  bean right? I would also like to see all omegas, sodium, and cholesterol content.  Please.
+
+
+id: 609 | rating: 3 | user: Slychkt01 | date: 2011-02-10 | time: 20:23:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs more stuff!!
+--------------------------------------------------------------------
+
+What happen? I just got it right now and the first food I thought of is not in the list. Lentils is consider to be a bean right? I would also like to see all omegas, sodium, and cholesterol content.  Please.
+
+
+review id: 623
+
+matches and contexts:
+
+match = vitam
+context = f you could sort by value. For instance, sort by "vitamin A" and have all the foods rich in that vit
+
+
+id: 623 | rating: 2 | user: 123xyx123 | date: 2011-01-11 | time: 11:34:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Not good enough...
+--------------------------------------------------------------------
+
+Good concept, but lacking many basic items. Also would be nice if you could sort by value. For instance, sort by "vitamin A" and have all the foods rich in that vitamin list. Can't wait to check back for an update on this app
+
+
+review id: 634
+
+matches and contexts:
+
+match = vitam
+context = I love how it has the vitamin content and the sugar content, and this ap
+
+
+id: 634 | rating: 4 | user: hanban | date: 2010-12-29 | time: 02:48:56.000Z
+
+--------------------------------------------------------------------
+                      Title: It's almost there
+--------------------------------------------------------------------
+
+I love how it has the vitamin content and the sugar content, and this app doesn't focus on the calorie content as much which I surely like, as I'm not worried about that stuff! But... It only has fruits, vegetables, cheese, and fish... If it had meat and grains, this app would be top notch! Great layout- interesting, easy to follow, and colorful.
+
+
+review id: 635
+
+matches and contexts:
+
+match = vitam
+context = I love it how it shows all the minerals and vitamins each food has. Makes me want to be a calo
+
+
+id: 635 | rating: 5 | user: Jessica Bath | date: 2010-12-29 | time: 18:02:36.000Z
+
+--------------------------------------------------------------------
+                      Title: This app is so cool!
+--------------------------------------------------------------------
+
+I love it how it shows all the minerals and vitamins each food has. Makes me want to be a calorie counter. Having wikipedia makes it 10 times better :) props to pom apps!
+
+

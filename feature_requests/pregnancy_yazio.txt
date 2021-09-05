@@ -1,0 +1,76 @@
+'Pregnancy' related feature requests in yazio reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 4
+
+
+review id: 27
+
+matches and contexts:
+
+match = baby
+context = I am trying to lose 30 more pounds after having a baby, I’ve lost 50 so far just on my own  but I’ve
+
+
+id: 27 | rating: 4 | user: momsmoothie | date: 2020-01-07 | time: 15:49:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app but...
+--------------------------------------------------------------------
+
+Easy to use. I’ve been using it for about four days and I really love it. I am trying to lose 30 more pounds after having a baby, I’ve lost 50 so far just on my own  but I’ve stopped making progress. This gives me a clear idea of where I am at each day. I love that it calculates how much I’ve burned based on how many steps I’ve taken.
+
+
+review id: 313
+
+matches and contexts:
+
+match = milk
+context = data this collects is so wrong I scanned a almond milk package and it said it had 500 calories for 2
+
+
+id: 313 | rating: 2 | user: Natesjammin | date: 2018-09-23 | time: 20:05:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Barcode scan data is so off..
+--------------------------------------------------------------------
+
+I like apps that I can just scan my ingredients as I prepare my food but the data this collects is so wrong I scanned a almond milk package and it said it had 500 calories for 2oz and it also doesn’t give you alternate measures like tbsp cups or pieces
+
+
+review id: 384
+
+matches and contexts:
+
+match = milk
+context =  don’t think my bowl of Barbara’s Oat Cereal with milk and ¼ cup of blueberries is 991 calories! I t
+
+
+id: 384 | rating: 1 | user: jdlfrustrated | date: 2020-09-30 | time: 00:45:18.000Z
+
+--------------------------------------------------------------------
+                      Title: TOTALLY INACCURATE!
+--------------------------------------------------------------------
+
+None of the foods you try to enter have an accurate calorie count! I really don’t think my bowl of Barbara’s Oat Cereal with milk and ¼ cup of blueberries is 991 calories! I thought it would be great to have the info syncing with the Health app. Get your act together before you release apps.!
+
+
+review id: 481
+
+matches and contexts:
+
+match = milk
+context = lways set to one ounce. No one drinks an ounce of milk. A glass of milk is 8oz, this is the case mos
+
+
+id: 481 | rating: 1 | user: jnoahr | date: 2017-11-19 | time: 16:56:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app poor database
+--------------------------------------------------------------------
+
+The app is great, but the food stored in the database is lacking. The portion sizes are almost always set to one ounce. No one drinks an ounce of milk. A glass of milk is 8oz, this is the case most of the time I enter food.
+
+

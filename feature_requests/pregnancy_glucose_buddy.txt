@@ -1,0 +1,1063 @@
+'Pregnancy' related feature requests in glucose_buddy reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 52
+
+
+review id: 118
+
+matches and contexts:
+
+match = baby
+context =  needing to get enough calories and nutrition for baby.
+
+match = gesta
+context = ferentiated goals and nutritional information for gestational diabetes. The goals and recommendation
+
+match = gestation
+context = ferentiated goals and nutritional information for gestational diabetes. The goals and recommendation
+
+match = gestational
+context = ferentiated goals and nutritional information for gestational diabetes. The goals and recommendation
+
+
+id: 118 | rating: 4 | user: MeemsZ | date: 2021-01-10 | time: 21:02:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Helpful - please add section geared to gestational diabetes
+--------------------------------------------------------------------
+
+Great app very helpful at consistently tracking in one place, glucose levels, nutrition and med adherence. Please add section/differentiated goals and nutritional information for gestational diabetes. The goals and recommendations are importantly different due to needing to get enough calories and nutrition for baby.
+
+
+review id: 241
+
+matches and contexts:
+
+match = feeding
+context =  century economic model that you have embraced by feeding off people with health issues. The new Ame
+
+
+id: 241 | rating: 1 | user: Pin collector | date: 2018-04-03 | time: 22:39:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Monthly or annual charges? Really?
+--------------------------------------------------------------------
+
+Great way to go from best to worst. Easy track records emailed to my physician for free now need to be printed out and are no longer free. Let me welcome your organization to the new 21st century economic model that you have embraced by feeding off people with health issues. The new American way. You should be ashamed. I’m gone.
+
+
+review id: 360
+
+matches and contexts:
+
+match = nurs
+context = Although I'm new to diabetes & a nurse, I think this app is awesome.
+
+
+id: 360 | rating: 5 | user: Pac50133 | date: 2018-01-27 | time: 18:07:30.000Z
+
+--------------------------------------------------------------------
+                      Title: New to Diabetes
+--------------------------------------------------------------------
+
+Although I'm new to diabetes & a nurse, I think this app is awesome.
+
+
+review id: 494
+
+matches and contexts:
+
+match = preg
+context = s the reason why the docs said I had a successful pregnancy.
+
+match = gesta
+context = Made it very easy to track my gestational diabetes. With no experience this app 
+
+match = gestation
+context = Made it very easy to track my gestational diabetes. With no experience this app 
+
+match = gestational
+context = Made it very easy to track my gestational diabetes. With no experience this app 
+
+
+id: 494 | rating: 5 | user: C-Me | date: 2011-05-18 | time: 13:29:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use and great management tool
+--------------------------------------------------------------------
+
+Made it very easy to track my gestational diabetes. With no experience this app was easy to use and learn. As a tool I heartily cite it as the reason why the docs said I had a successful pregnancy.
+
+
+review id: 496
+
+matches and contexts:
+
+match = gesta
+context = to keep track of my BG since being diagnosed with gestational diabetes. The note part is great becau
+
+match = gestation
+context = to keep track of my BG since being diagnosed with gestational diabetes. The note part is great becau
+
+match = gestational
+context = to keep track of my BG since being diagnosed with gestational diabetes. The note part is great becau
+
+
+id: 496 | rating: 5 | user: Notagamerreally | date: 2011-11-01 | time: 14:53:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Perfect for gestational diabetes
+--------------------------------------------------------------------
+
+Have found it extremely useful to keep track of my BG since being diagnosed with gestational diabetes. The note part is great because I am controlling it with diet so I can note what I ate that gave the reading and understand better how to choose the next meal!
+
+
+review id: 514
+
+matches and contexts:
+
+match = Gesta
+context = This is a great app! I was diagnosed with Gestational Diabetes and had to learn how to live 
+
+match = Gestation
+context = This is a great app! I was diagnosed with Gestational Diabetes and had to learn how to live 
+
+match = Gestational
+context = This is a great app! I was diagnosed with Gestational Diabetes and had to learn how to live 
+
+
+id: 514 | rating: 5 | user: Whit M. | date: 2010-01-08 | time: 18:13:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Perfect for managing Gestational Diabetes
+--------------------------------------------------------------------
+
+This is a great app! I was diagnosed with Gestational Diabetes and had to learn how to live with testing and tracking very quickly. Glucose Buddy was easy to learn and use. I had to report my levels to my doctor weekly and it was very easy with the reports I could generate with Glucose Buddy. It would have been much harder for me to control my gestational diabetes without this app, I would have never been able to keep so organized. I gave birth to a healthy, 7lb6oz boy and I am certain that has everything to do with keeping on top of my diabetes because of Glucose Buddy.  So thank you so much!
+
+
+review id: 535
+
+matches and contexts:
+
+match = preg
+context = s I'm getting into the last couple of weeks of my pregnancy. All together this is great and has save
+
+
+id: 535 | rating: 4 | user: Wife21&Mom23 | date: 2011-11-16 | time: 21:09:00.000Z
+
+--------------------------------------------------------------------
+                      Title: AWESOME!!!
+--------------------------------------------------------------------
+
+This app is why I have an iPhone. I love this app and I've only been using it for the past three months. One drawback, when you email numbers to the doc, it sends them ALL. It would be awesome to send a range (1 week, month, etc). My doc informed me she printed 25 pages of my blood sugar numbers and asked if I would do the slightly annoying task of deleting some of the old numbers. Wouldn't be too much of a problem, but I'm emailing twice a week as I'm getting into the last couple of weeks of my pregnancy. All together this is great and has saved me time and money already!!! Thanks!!!
+
+
+review id: 548
+
+matches and contexts:
+
+match = gesta
+context = Just diagnosed with gestational diabetes and have to test 4x per day. 
+
+match = gestation
+context = Just diagnosed with gestational diabetes and have to test 4x per day. 
+
+match = gestational
+context = Just diagnosed with gestational diabetes and have to test 4x per day. 
+
+
+id: 548 | rating: 4 | user: NV JSW | date: 2013-09-15 | time: 05:50:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Gestational Diabetes
+--------------------------------------------------------------------
+
+Just diagnosed with gestational diabetes and have to test 4x per day. My doctor gave me a sheet to write everything down on but found this app to be easier for me during the day while at work and away from home. I just write everything down on my doctors sheet at the end of the day. I would like to be able to set some parameters on the graph. I'm also having trouble loading my meter brand/info - app always shuts down when I try. Otherwise a great app for keeping basic info on my readings - very happy with it and definitely recommend.
+
+
+review id: 569
+
+matches and contexts:
+
+match = gesta
+context = I developed gestational diabetes and this app has been fantast
+
+match = gestation
+context = I developed gestational diabetes and this app has been fantast
+
+match = gestational
+context = I developed gestational diabetes and this app has been fantast
+
+
+id: 569 | rating: 5 | user: Janchicago | date: 2015-05-24 | time: 19:09:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Perfect for tracking, sending logs
+--------------------------------------------------------------------
+
+I developed gestational diabetes and this app has been fantastic for keeping a log of my daily readings. Plus I can email the log to my doctors. I use it along with Daily Carb - that app has been good for looking up carb values of food. It'd be great if a feature like that could be incorporated into this app.  And it'd be even better if I could plug in an amount of carbs (say 15g) and a food (say quinoa) and have it tell me how much I could eat.
+
+
+review id: 585
+
+matches and contexts:
+
+match = nurs
+context =  track and record my sugar levels. My sister is a nurse and loves that it downloads and emails accur
+
+
+id: 585 | rating: 5 | user: Teeny118 | date: 2012-03-19 | time: 19:27:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Works Great for What I do Use of It!
+--------------------------------------------------------------------
+
+I really didn't use the calorie burning portion because I use another system through my gym that has its own tracking system. I've never had a single problem using it to track and record my sugar levels. My sister is a nurse and loves that it downloads and emails accurately and correctly in an easy to read format for doctors.
+
+
+review id: 596
+
+matches and contexts:
+
+match = gesta
+context = I didn't need anything complicated as I got gestational diabetes and just needed to track my l
+
+match = gestation
+context = I didn't need anything complicated as I got gestational diabetes and just needed to track my l
+
+match = gestational
+context = I didn't need anything complicated as I got gestational diabetes and just needed to track my l
+
+
+id: 596 | rating: 5 | user: Mahina31 | date: 2013-05-11 | time: 17:52:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Great tracking app
+--------------------------------------------------------------------
+
+I didn't need anything complicated as I got gestational diabetes and just needed to track my levels.  I love how with a few taps I'm able to log my level select time of day and which reading I was making, but also make notes as to what I ate to see if one food made a difference over others.    Love the graphing and email features as well! Perfect!
+
+
+review id: 601
+
+matches and contexts:
+
+match = gesta
+context = t used app. I can keep track of everything for my gestational diabetes and sync it to their website.
+
+match = gestation
+context = t used app. I can keep track of everything for my gestational diabetes and sync it to their website.
+
+match = gestational
+context = t used app. I can keep track of everything for my gestational diabetes and sync it to their website.
+
+
+id: 601 | rating: 5 | user: McWeizer | date: 2009-06-23 | time: 21:08:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Why pay when the best app is free!!
+--------------------------------------------------------------------
+
+This app is by far my most used app. I can keep track of everything for my gestational diabetes and sync it to their website. The support is awesome, they are very responsive to all my emails. I paid for another diabetes app and ended up deleting it because this one has everything I needed and did it better. Keep up the great work!!
+
+
+review id: 645
+
+matches and contexts:
+
+match = gesta
+context = ack of glucose levels. I use this to Track for my gestational diabetes. It's easy for on the go use.
+
+match = gestation
+context = ack of glucose levels. I use this to Track for my gestational diabetes. It's easy for on the go use.
+
+match = gestational
+context = ack of glucose levels. I use this to Track for my gestational diabetes. It's easy for on the go use.
+
+
+id: 645 | rating: 5 | user: Liz Lara | date: 2013-04-07 | time: 15:19:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+This is a very easy to use way to keep track of glucose levels. I use this to Track for my gestational diabetes. It's easy for on the go use. It beats having to hand log in. On line sync lets you email to your dr. Office. This is a great app to have. I truly recommend it if you serious about monitoring and keeping up with you health.
+
+
+review id: 646
+
+matches and contexts:
+
+match = gesta
+context = This app has really saved me. I have gestational diabetes & I'm at home on bed rest wit
+
+match = gestation
+context = This app has really saved me. I have gestational diabetes & I'm at home on bed rest wit
+
+match = gestational
+context = This app has really saved me. I have gestational diabetes & I'm at home on bed rest wit
+
+
+id: 646 | rating: 5 | user: Chels4723 | date: 2014-10-20 | time: 16:24:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Very helpful!
+--------------------------------------------------------------------
+
+This app has really saved me. I have gestational diabetes & I'm at home on bed rest with twins after a month in the hospital. Keeping track of the numbers is a lot & this app is simple & easy to use. I love how I can see all my numbers on one screen & how easy it is to input numbers. I would definitely recommend it!
+
+
+review id: 657
+
+matches and contexts:
+
+match = preg
+context = This is my 2nd pregnancy managing my gestational diabetes with th
+
+match = gesta
+context = This is my 2nd pregnancy managing my gestational diabetes with this app and it's been g
+
+match = gestation
+context = This is my 2nd pregnancy managing my gestational diabetes with this app and it's been g
+
+match = gestational
+context = This is my 2nd pregnancy managing my gestational diabetes with this app and it's been g
+
+
+id: 657 | rating: 5 | user: Nyt reader since 1998 | date: 2012-12-29 | time: 11:52:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Made my life easier!
+--------------------------------------------------------------------
+
+This is my 2nd pregnancy managing my gestational diabetes with this app and it's been great!  I love being able to quickly enter my blood sugar level, when I checked, what part of the day it was (post-prandial, out of bed, etc), and the free space to make a little note to myself about what I ate or extenuating circumstances. Thank you!
+
+
+review id: 660
+
+matches and contexts:
+
+match = nurs
+context = ails can be difficult to read for the doctors and nurses who need the info. Overall, great app.
+
+
+id: 660 | rating: 4 | user: Optimist Prime | date: 2009-06-01 | time: 12:50:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Good for tracking/managing.
+--------------------------------------------------------------------
+
+I use this app daily. There have been lots of improvements and bug fixed since I started and it just keeps getting better. It has helped me track my blood sugar levels and manage my diabetes since diagnosis. The only gripe I have is that the charts it emails can be difficult to read for the doctors and nurses who need the info. Overall, great app.
+
+
+review id: 694
+
+matches and contexts:
+
+match = gesta
+context = I was diagnosed with gestational diabetes, and this app really helps ke
+
+match = gestation
+context = I was diagnosed with gestational diabetes, and this app really helps ke
+
+match = gestational
+context = I was diagnosed with gestational diabetes, and this app really helps ke
+
+
+id: 694 | rating: 4 | user: Gbkelly | date: 2012-11-08 | time: 15:25:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Great!
+--------------------------------------------------------------------
+
+I was diagnosed with gestational diabetes, and this app really helps keep me in track. Like others have said, I wish it would sync with Myfitness Pal. Also, I wish there was a way to email specific parts of your log to your provider, instead of the whole thing every time. Otherwise, fantastic app....especially for being free!!!
+
+
+review id: 698
+
+matches and contexts:
+
+match = nurs
+context = n from 13 to 6.6 in a little over 1 month! I am a nurse and have had several of my PTA , Doctors & f
+
+
+id: 698 | rating: 5 | user: ..~GiGi~ | date: 2014-07-07 | time: 16:04:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Azumio geniues
+--------------------------------------------------------------------
+
+I am type 2 diabetic with the help of this app I was able to get my a1c down from 13 to 6.6 in a little over 1 month! I am a nurse and have had several of my PTA , Doctors & fellow nurses download this app and teach their PTA how to use it! I love the graph and I upload my bs to my chart at my des once a month! Genius!!! 10*********
+
+
+review id: 700
+
+matches and contexts:
+
+match = Gesta
+context =  greatful for this app! I was just diagnosed with Gestational Diabetes and am still trying to find m
+
+match = Gestation
+context =  greatful for this app! I was just diagnosed with Gestational Diabetes and am still trying to find m
+
+match = Gestational
+context =  greatful for this app! I was just diagnosed with Gestational Diabetes and am still trying to find m
+
+
+id: 700 | rating: 5 | user: Heather76 | date: 2009-08-07 | time: 04:28:19.000Z
+
+--------------------------------------------------------------------
+                      Title: A Great App for Your Life with Diabetes
+--------------------------------------------------------------------
+
+I am so greatful for this app! I was just diagnosed with Gestational Diabetes and am still trying to find my footing a bit. This app has made tracking my pertinent medical information so much easier! I would recommend it to EVERYONE who needs to track their sugar and food information!
+
+
+review id: 717
+
+matches and contexts:
+
+match = nurs
+context = I have to see my medication nurse every three months. She really likes the e-m
+
+
+id: 717 | rating: 4 | user: Bronze Star Vietnam | date: 2012-11-10 | time: 14:47:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App...... But
+--------------------------------------------------------------------
+
+I have to see my medication nurse every three months. She really likes the e-mailed readings. I have to delete the previous three months to start fresh. What a pain to delete each reading one at a time. THERE SHOULD BE A WAY T O DELETE A DATE RANGE. Work on it guys. I find it easier to delete the app and reinstall. Much quicker even if I have to redo my account info.
+
+
+review id: 721
+
+matches and contexts:
+
+match = gesta
+context = I was diagnosed with gestational diabetes and have to test 4 times a da
+
+match = gestation
+context = I was diagnosed with gestational diabetes and have to test 4 times a da
+
+match = gestational
+context = I was diagnosed with gestational diabetes and have to test 4 times a da
+
+
+id: 721 | rating: 5 | user: JJ Jackson | date: 2012-01-31 | time: 02:33:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Great free app
+--------------------------------------------------------------------
+
+I was diagnosed with gestational diabetes and have to test 4 times a day. This app is great for keeping up with my numbers. I like that I can add notes of what I ate with each entry to keep track of food triggers.  Also, my doc loves how easy it is to review my numbers at a glance.  The graph is a nice overview, too. No complaints here!
+
+
+review id: 741
+
+matches and contexts:
+
+match = Gesta
+context = Since my Gestational Diabetes diagnosis, I've found it to b
+
+match = Gestation
+context = Since my Gestational Diabetes diagnosis, I've found it to b
+
+match = Gestational
+context = Since my Gestational Diabetes diagnosis, I've found it to b
+
+
+id: 741 | rating: 4 | user: Sroberts03 | date: 2011-09-22 | time: 02:28:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Helpful
+--------------------------------------------------------------------
+
+Since my Gestational Diabetes diagnosis, I've found it to be very helpful to keep track of my numbers.
+
+
+review id: 745
+
+matches and contexts:
+
+match = gesta
+context = This app has allowed me to track my bgl during gestational diabetes.  It is easy for my doctor to
+
+match = gestation
+context = This app has allowed me to track my bgl during gestational diabetes.  It is easy for my doctor to
+
+match = gestational
+context = This app has allowed me to track my bgl during gestational diabetes.  It is easy for my doctor to
+
+
+id: 745 | rating: 5 | user: 5ofud | date: 2012-08-30 | time: 12:47:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+This app has allowed me to track my bgl during gestational diabetes.  It is easy for my doctor to read and simple for me to use. I like that it links online as well. I have not used anything in it except the logs for tracking bgl so I can't speak for the rest of the app
+
+
+review id: 758
+
+matches and contexts:
+
+match = gesta
+context = Have to monitor for gestational. Love the fact the app is so easy to u
+
+match = gestation
+context = Have to monitor for gestational. Love the fact the app is so easy to u
+
+match = gestational
+context = Have to monitor for gestational. Love the fact the app is so easy to u
+
+
+id: 758 | rating: 5 | user: Ell26409 | date: 2015-03-24 | time: 21:21:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it
+--------------------------------------------------------------------
+
+Have to monitor for gestational. Love the fact the app is so easy to use and keep up with everything especially while I am at work. I also like that it has different settings to show if you're type 1/2 or gestational.
+
+
+review id: 763
+
+matches and contexts:
+
+match = preg
+context = I have been pre-diabetic and during my pregnancy I know have diabetes. Been using this ap
+
+
+id: 763 | rating: 5 | user: AliciaA04 | date: 2012-09-09 | time: 18:25:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+I have been pre-diabetic and during my pregnancy I know have diabetes. Been using this app to send my blood sugars to my doctors office and I love it. So much easier than hand writing all my readings and faxing it in. Wish there was a way to record carbs eaten at each meal though.
+
+
+review id: 772
+
+matches and contexts:
+
+match = gesta
+context = e this app to record my gl while I'm dealing with gestational diabetes. The food chart doesn't save 
+
+match = gestation
+context = e this app to record my gl while I'm dealing with gestational diabetes. The food chart doesn't save 
+
+match = gestational
+context = e this app to record my gl while I'm dealing with gestational diabetes. The food chart doesn't save 
+
+
+id: 772 | rating: 3 | user: Ngsgoddess | date: 2011-05-22 | time: 15:35:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Does the job
+--------------------------------------------------------------------
+
+I use this app to record my gl while I'm dealing with gestational diabetes. The food chart doesn't save so I put my food in the notes section of my test results. The program tends to freeze up on occasion or kicks me out of the program which is annoying but overall it does what I need it to do and I love that it syncs to the net and that I can print off the spreadsheet.
+
+
+review id: 795
+
+matches and contexts:
+
+match = gesta
+context = eally helpful for me. This is my second bout with gestational diabetes and I am require to fax or ca
+
+match = gestation
+context = eally helpful for me. This is my second bout with gestational diabetes and I am require to fax or ca
+
+match = gestational
+context = eally helpful for me. This is my second bout with gestational diabetes and I am require to fax or ca
+
+
+id: 795 | rating: 4 | user: JenDanahy | date: 2012-06-07 | time: 13:25:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Helps with keeping track and sending in #
+--------------------------------------------------------------------
+
+This app is really helpful for me. This is my second bout with gestational diabetes and I am require to fax or call in my numbers weekly to my RN. This app allows me to email then in. Us the notes section helps me keep track of food so we can change my diet as needed.
+
+
+review id: 813
+
+matches and contexts:
+
+match = gesta
+context = I'm trying to manage gestational diabetes; this app is easy and quick t
+
+match = gestation
+context = I'm trying to manage gestational diabetes; this app is easy and quick t
+
+match = gestational
+context = I'm trying to manage gestational diabetes; this app is easy and quick t
+
+
+id: 813 | rating: 4 | user: Moongoddess255 | date: 2012-03-17 | time: 20:46:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use!
+--------------------------------------------------------------------
+
+I'm trying to manage gestational diabetes; this app is easy and quick to record readings. The graphs are very unhelpful for me, and the program that you can integrate food data from continually crashes my phone, so is not a helpful feature either. otherwise great!
+
+
+review id: 908
+
+matches and contexts:
+
+match = gesta
+context = I was recently diagnosed with gestational diabetes and am tracking my glucose fo
+
+match = gestation
+context = I was recently diagnosed with gestational diabetes and am tracking my glucose fo
+
+match = gestational
+context = I was recently diagnosed with gestational diabetes and am tracking my glucose fo
+
+
+id: 908 | rating: 5 | user: Mitten queen | date: 2013-07-30 | time: 19:07:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+I was recently diagnosed with gestational diabetes and am tracking my glucose four times a day. I have been using this app daily and I love it. I also love that I can email my log to myself and print for my doctors appointment!
+
+
+review id: 965
+
+matches and contexts:
+
+match = nurs
+context =  for the purpose of sending the information to my nurse. However, I cannot create an account via the
+
+
+id: 965 | rating: 1 | user: Gyveidv | date: 2012-12-31 | time: 15:00:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Can't create an account
+--------------------------------------------------------------------
+
+I spent hours uploading my handwritten notes to Glucose Buddy for the purpose of sending the information to my nurse. However, I cannot create an account via the Glucose Buddy website! I receive a message each time that indicates that there is an internal server problem.  I've reported this to their support website, and haven't heard back after 2 days.  Fail!
+
+
+review id: 1022
+
+matches and contexts:
+
+match = nurs
+context = r lack of progress! Love it! Also share info with nurse and doc thru website!
+
+
+id: 1022 | rating: 5 | user: Supa - D | date: 2011-09-01 | time: 15:00:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Better than expected
+--------------------------------------------------------------------
+
+Really helps staying in top of your progress or lack of progress! Love it! Also share info with nurse and doc thru website!
+
+
+review id: 1151
+
+matches and contexts:
+
+match = Nurs
+context = 'm a Type II Diabetic x 1 year, also a Registered Nurse... I'd highly recommend this to anyone needi
+
+
+id: 1151 | rating: 5 | user: L_and_D_RN | date: 2011-05-18 | time: 04:57:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Great!
+--------------------------------------------------------------------
+
+I'm a Type II Diabetic x 1 year, also a Registered Nurse... I'd highly recommend this to anyone needing to watch their blood glucose levels!  It's a great way to help your Dr see a history of your glucose in one touch!
+
+
+review id: 1185
+
+matches and contexts:
+
+match = gesta
+context = I used this app all through my gestational diabetes. The only thing I didn't like
+
+match = gestation
+context = I used this app all through my gestational diabetes. The only thing I didn't like
+
+match = gestational
+context = I used this app all through my gestational diabetes. The only thing I didn't like
+
+
+id: 1185 | rating: 4 | user: Wan8998 | date: 2011-08-13 | time: 04:00:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Gestational wonder
+--------------------------------------------------------------------
+
+I used this app all through my gestational diabetes. The only thing I didn't like was that you had to erase every entry individually. I ended up erasing the app and then re-downloading it every two weeks.
+
+
+review id: 1265
+
+matches and contexts:
+
+match = gesta
+context = I was just diagnosed with gestational diabetes and this app has really helpe
+
+match = gestation
+context = I was just diagnosed with gestational diabetes and this app has really helpe
+
+match = gestational
+context = I was just diagnosed with gestational diabetes and this app has really helpe
+
+
+id: 1265 | rating: 5 | user: Meas27 | date: 2011-12-31 | time: 01:47:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Helpful
+--------------------------------------------------------------------
+
+I was just diagnosed with gestational diabetes and this app has really helped me stay organized keeping track of my levels.
+
+
+review id: 1309
+
+matches and contexts:
+
+match = preg
+context =  of my blood sugars and insulin doses while I was pregnant!!
+
+
+id: 1309 | rating: 5 | user: StephanieC3PO | date: 2016-11-02 | time: 09:49:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Thankful
+--------------------------------------------------------------------
+
+Without GO I would not have been able to keep track of my blood sugars and insulin doses while I was pregnant!!
+
+
+review id: 1331
+
+matches and contexts:
+
+match = gesta
+context = I use this to track my levels only since I have gestational diabetes and don't need insulin right 
+
+match = gestation
+context = I use this to track my levels only since I have gestational diabetes and don't need insulin right 
+
+match = gestational
+context = I use this to track my levels only since I have gestational diabetes and don't need insulin right 
+
+
+id: 1331 | rating: 4 | user: DLLB80 | date: 2012-08-11 | time: 21:15:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Reliable and easy
+--------------------------------------------------------------------
+
+I use this to track my levels only since I have gestational diabetes and don't need insulin right now. I use notes line to record what I eat.
+
+
+review id: 1371
+
+matches and contexts:
+
+match = preg
+context = This app has been so useful and easy during my pregnancy.  I used it everyday and now every other
+
+
+id: 1371 | rating: 5 | user: MCF1234 | date: 2011-05-19 | time: 00:45:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Gestational diabetes
+--------------------------------------------------------------------
+
+This app has been so useful and easy during my pregnancy.  I used it everyday and now every other day. Excellent!!!
+
+
+review id: 1421
+
+matches and contexts:
+
+match = preg
+context = This had helped me with my GD during pregnancy.  Could not have made it through without
+
+
+id: 1421 | rating: 5 | user: Beff G | date: 2013-01-02 | time: 22:53:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Really helpful
+--------------------------------------------------------------------
+
+This had helped me with my GD during pregnancy.  Could not have made it through without it.
+
+
+review id: 1552
+
+matches and contexts:
+
+match = preg
+context = nd this came in soo handy during my last month of pregnancy! Very user friendly!
+
+
+id: 1552 | rating: 5 | user: Langfuhr | date: 2010-02-10 | time: 03:53:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Great tool for Gestational Diabetes!
+--------------------------------------------------------------------
+
+My ObGyn requested a blood glucose log and this came in soo handy during my last month of pregnancy! Very user friendly!
+
+
+review id: 1597
+
+matches and contexts:
+
+match = gesta
+context = This has helped record levels during my gestational diabetes. My doctor was even impressed
+
+match = gestation
+context = This has helped record levels during my gestational diabetes. My doctor was even impressed
+
+match = gestational
+context = This has helped record levels during my gestational diabetes. My doctor was even impressed
+
+
+id: 1597 | rating: 4 | user: Jergles | date: 2012-10-22 | time: 00:24:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Nice app
+--------------------------------------------------------------------
+
+This has helped record levels during my gestational diabetes. My doctor was even impressed with the print outs.
+
+
+review id: 1784
+
+matches and contexts:
+
+match = gesta
+context = Great app for managing gestational diabetes! It has made it a lot easier 
+
+match = gestation
+context = Great app for managing gestational diabetes! It has made it a lot easier 
+
+match = gestational
+context = Great app for managing gestational diabetes! It has made it a lot easier 
+
+
+id: 1784 | rating: 5 | user: EmanuelaPalamares | date: 2012-04-17 | time: 19:02:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for managing gestational diabetes!
+--------------------------------------------------------------------
+
+Great app for managing gestational diabetes! It has made it a lot easier for me to be on track and keep all my doctors involved.
+
+
+review id: 1820
+
+matches and contexts:
+
+match = nurs
+context = he ease of us for emailing results to my diabetic nurse and doctor.  Great job!
+
+
+id: 1820 | rating: 5 | user: JNeedels | date: 2011-05-19 | time: 14:35:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Best glucose testing app ever!
+--------------------------------------------------------------------
+
+Easy to use, with a lot of options.  I love the ease of us for emailing results to my diabetic nurse and doctor.  Great job!
+
+
+review id: 1871
+
+matches and contexts:
+
+match = preg
+context = I'm recently pregnant with diabetes and this app has been very 
+
+
+id: 1871 | rating: 5 | user: Lastat lioncourt | date: 2011-12-10 | time: 01:33:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome!
+--------------------------------------------------------------------
+
+I'm recently pregnant with diabetes and this app has been very helpful in keeping track of my sugars and relaying it to my Dr!
+
+
+review id: 1913
+
+matches and contexts:
+
+match = nurs
+context = Set it up to use on the go & the school nurse uses the website to keep me informed too. Lo
+
+
+id: 1913 | rating: 5 | user: SuzBQ | date: 2011-11-16 | time: 15:47:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Great!
+--------------------------------------------------------------------
+
+Set it up to use on the go & the school nurse uses the website to keep me informed too. Love it
+
+
+review id: 1991
+
+matches and contexts:
+
+match = Nurs
+context = eping track of BG numbers so much easier.  Even a Nurse can do it...
+
+
+id: 1991 | rating: 5 | user: Brett H. | date: 2011-05-17 | time: 05:33:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Glucose Buddy
+--------------------------------------------------------------------
+
+Makes keeping track of BG numbers so much easier.  Even a Nurse can do it...
+
+
+review id: 2064
+
+matches and contexts:
+
+match = nurs
+context = d allows review of information with physician and nurses. Great app.
+
+
+id: 2064 | rating: 5 | user: BWS-FDL | date: 2012-10-04 | time: 12:47:13.000Z
+
+--------------------------------------------------------------------
+                      Title: A Winner
+--------------------------------------------------------------------
+
+Terrific program. Easy to use and allows review of information with physician and nurses. Great app.
+
+
+review id: 2071
+
+matches and contexts:
+
+match = nurs
+context = I email my son's diabetes nurse his numbers-- it beats that fancy $500 monit
+
+
+id: 2071 | rating: 5 | user: Mymariboo | date: 2011-05-16 | time: 15:19:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Works great!
+--------------------------------------------------------------------
+
+I email my son's diabetes nurse his numbers-- it beats that fancy $500 monitor they tried pushing on us!
+
+
+review id: 2329
+
+matches and contexts:
+
+match = Nurs
+context = Very helpful. Nurse impressed and wants every doctor to be aware
+
+
+id: 2329 | rating: 5 | user: Nellies paints | date: 2013-03-02 | time: 04:03:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Great
+--------------------------------------------------------------------
+
+Very helpful. Nurse impressed and wants every doctor to be aware of this app.
+
+
+review id: 3004
+
+matches and contexts:
+
+match = nurs
+context = As a nurse and diabetic, this is a great tool...thanks!
+
+
+id: 3004 | rating: 5 | user: BABS929 | date: 2012-03-11 | time: 03:31:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Great tool
+--------------------------------------------------------------------
+
+As a nurse and diabetic, this is a great tool...thanks!
+
+
+review id: 3390
+
+matches and contexts:
+
+match = nurs
+context = My diabetes nurse and I can track my progress easily, online. 
+
+
+id: 3390 | rating: 5 | user: Spaceechik | date: 2011-03-31 | time: 20:57:50.000Z
+
+--------------------------------------------------------------------
+                      Title: So Easy to use...
+--------------------------------------------------------------------
+
+My diabetes nurse and I can track my progress easily, online. It's helped me keep on track and I don't have to worry about losing my notes! Great app!!
+
+
+review id: 3417
+
+matches and contexts:
+
+match = gesta
+context = I have gestational diabetes and Glucose buddy makes track
+
+match = gestation
+context = I have gestational diabetes and Glucose buddy makes track
+
+match = gestational
+context = I have gestational diabetes and Glucose buddy makes track
+
+
+id: 3417 | rating: 5 | user: Shel7997 | date: 2011-03-27 | time: 16:06:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Wonderful!!
+--------------------------------------------------------------------
+
+I have gestational diabetes and Glucose buddy makes tracking my blood sugars SO easy!! I can then email my results to my Dr. with ease!
+
+
+review id: 3480
+
+matches and contexts:
+
+match = preg
+context = anges in my blood sugars so much easier through 2 pregnancies. It's so convenient and I can easily e
+
+
+id: 3480 | rating: 5 | user: RebaHigbee | date: 2011-03-12 | time: 12:02:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+This app has made logging and tracking changes in my blood sugars so much easier through 2 pregnancies. It's so convenient and I can easily e-mail my logs right to my doctor.
+
+

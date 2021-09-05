@@ -1,0 +1,340 @@
+'Micronutrients' related feature requests in healthify-me reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 19
+
+
+review id: 0
+
+matches and contexts:
+
+match = micro
+context = e new feature -  ‘insights’ that provides info on micro and macro nutrients after each meal, day aft
+
+
+id: 0 | rating: 5 | user: Ramdas Pabbaraju | date: 2020-11-03 | time: 05:09:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Value for money - Improving health, fitness and Wealth
+--------------------------------------------------------------------
+
+An app that can change course and set it right to improve and build health and fitness and also to an extent remove the daily pill for sugar and blood pressure by combining diet and exercise .  Healthify studio brings in the expert coach home to get you fit and strong.  I love the features of the app and am a great fan.  The health records enable one to quantify progress made over time on key parameters, tracking health progress with proper diet and exercise .  A supporting tool for all who wish to make drastic improvements to pave way for great health and fitness . What endears me the most is the new feature -  ‘insights’ that provides info on micro and macro nutrients after each meal, day after day informing and enabling the  actions that can be taken to improve health.  I live all the features of the app that inspires, informs, motivates and easily the best to gain and achieve great health results .
+
+
+review id: 21
+
+matches and contexts:
+
+match = iod
+context = opular ones in Appstore but nothing beats this Period. The USP of this app is its extensive database
+
+
+id: 21 | rating: 5 | user: iPhone_Guru_2018 | date: 2018-09-14 | time: 05:02:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Best health app ever used
+--------------------------------------------------------------------
+
+I have dabbled with quite a few calorie counter apps for quite some time. I have tried the so called most popular ones in Appstore but nothing beats this Period. The USP of this app is its extensive database it has got every variety of local food you usually eat along with nutritional info. Hats off thats an achievement in itself. Not to mention the integrators and the coach plans. The integrators integrate with default health app of iOS and tells you the calories you run/walk. Big kudos to the dev team keep it this way don’t change anything..!!!
+
+
+review id: 30
+
+matches and contexts:
+
+match = iod
+context = full because "it helped keep track over a long period  of time, we could go back to a previous date 
+
+
+id: 30 | rating: 4 | user: vikyviks.vs | date: 2018-06-14 | time: 03:06:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Recent update is not good
+--------------------------------------------------------------------
+
+Your app basically solved a very good purpose of tracking our daily eating habbits and the calorie intake as well as it suggesting the right amount of calorie intake wether to put on weight or lose it and it was really helpfull because "it helped keep track over a long period  of time, we could go back to a previous date " but after your recent update, one cannot go back to a previous date to modify any dietary change or to look back at any particular meal of the previous so many days.
+
+
+review id: 35
+
+matches and contexts:
+
+match = micro
+context = ealth, etc. The calorie tracker tracks macros and micronutrients, it works in tandem with built in p
+
+
+id: 35 | rating: 5 | user: Ankitasri96 | date: 2021-05-20 | time: 12:06:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Value for Money, sophisticated and easy to use
+--------------------------------------------------------------------
+
+This is probably the best in the field. Their expert professionals are able to help in terms of diet, workouts (prescribed and the ones in studio), mental health, etc. The calorie tracker tracks macros and micronutrients, it works in tandem with built in phone apps for health. And the trainers are always working towards individual goals for the users. The weight loss/strength training is gradual, healthy and aims at lifestyle change. Their methods are not hearsay and are properly researched and executed by trained professionals.
+
+
+review id: 74
+
+matches and contexts:
+
+match = micro
+context = iet plan is spot on keeping in mind the macro and micronutrients. The diet coach makes sure you be o
+
+
+id: 74 | rating: 4 | user: ArfathShaikh | date: 2021-07-01 | time: 13:57:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Helpful
+--------------------------------------------------------------------
+
+HealthifyMe application is very helpful for your weightloss journey. Diet plan is spot on keeping in mind the macro and micronutrients. The diet coach makes sure you be on track with regular calls and checks. Fatima Adam has been very kind and helpful as my diet coach. Workout plan is also good but it gets a little repetitive over the course of a month. If a doctor on call could be included in the package it would really help in case of injuries.
+
+
+review id: 84
+
+matches and contexts:
+
+match = iod
+context = hy lifestyle even during this current lockdown period. One should never hesitate while choosing Heal
+
+
+id: 84 | rating: 5 | user: Yjain60 | date: 2021-07-26 | time: 16:28:59.000Z
+
+--------------------------------------------------------------------
+                      Title: More Value with decent costs
+--------------------------------------------------------------------
+
+This is the app that I use more often than WhatsApp on my phone. Not only has this app made me feel better about my health but also got me into living a healthy lifestyle even during this current lockdown period. One should never hesitate while choosing HealthifyMe app. They’re the best at what they do.
+
+
+review id: 189
+
+matches and contexts:
+
+match = micro
+context = logue. The breakup for all the macronutrients and micronutrients truly helps to modify the diet. Onl
+
+
+id: 189 | rating: 4 | user: Vaibhavi111 | date: 2020-07-04 | time: 04:05:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing
+--------------------------------------------------------------------
+
+Its truly an excellent app with almost every indian food in the catalogue. The breakup for all the macronutrients and micronutrients truly helps to modify the diet. Only glitch with the app stays to be too many ads....if the ads can be limited to some extent...it will honestly be one of the best apps in the market.
+
+
+review id: 211
+
+matches and contexts:
+
+match = micro
+context =  Indian) available. Combined with the insights of micronutrients is very useful.  Adding and trackin
+
+
+id: 211 | rating: 4 | user: VishnuforHealth | date: 2018-12-03 | time: 13:48:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Feature rich and excellent food database
+--------------------------------------------------------------------
+
+I am impressed by the local choices of Indian food (especially South Indian) available. Combined with the insights of micronutrients is very useful.  Adding and tracking of food items is as well very intuitive and easy to handle.
+
+
+review id: 215
+
+matches and contexts:
+
+match = iod
+context = ealthyfyme”. I could reduce 7 kg over 6 months period. Really useful.
+
+
+id: 215 | rating: 5 | user: Prabav | date: 2019-10-23 | time: 00:45:35.000Z
+
+--------------------------------------------------------------------
+                      Title: My experience with the App
+--------------------------------------------------------------------
+
+Excellent app on which I accidentally bumped while surfing for some useful health tips. Diligently following my food intake with an excellent guide behind me called “Healthyfyme”. I could reduce 7 kg over 6 months period. Really useful.
+
+
+review id: 236
+
+matches and contexts:
+
+match = micro
+context = I have been able to track my calories n micro nutrient with the help of this app.
+
+
+id: 236 | rating: 5 | user: AnandTripathi | date: 2021-07-31 | time: 19:28:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Super Helpful app for Calories management
+--------------------------------------------------------------------
+
+I have been able to track my calories n micro nutrient with the help of this app.
+
+
+review id: 264
+
+matches and contexts:
+
+match = iod
+context = During this lockdown period I am totally dependent on HealthifyMe. Those a
+
+
+id: 264 | rating: 5 | user: KD fitness | date: 2020-05-19 | time: 14:25:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Loved it
+--------------------------------------------------------------------
+
+During this lockdown period I am totally dependent on HealthifyMe. Those are concerned about their fitness should install this app. This app will help you as a trainer, as a guide or as a reminder app to have water on time😄.
+
+
+review id: 375
+
+matches and contexts:
+
+match = micro
+context = amazing app for Indians as it tracks calories and micronutrients for Indian foods efficiently.
+
+
+id: 375 | rating: 5 | user: Samanweeta | date: 2019-07-22 | time: 17:27:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Loved it... Awesome app
+--------------------------------------------------------------------
+
+Its really amazing app for Indians as it tracks calories and micronutrients for Indian foods efficiently.
+
+
+review id: 495
+
+matches and contexts:
+
+match = iron
+context = ctions. This will help users who have an Apple environment.
+
+
+id: 495 | rating: 4 | user: ab471 | date: 2020-09-10 | time: 19:23:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Option for more device connections
+--------------------------------------------------------------------
+
+Please add Apple Watch in device connections. This will help users who have an Apple environment.
+
+
+review id: 547
+
+matches and contexts:
+
+match = vitam
+context = nd more nutritional information like calcium,iron,vitamins in food .
+
+match = iron
+context = pes and more nutritional information like calcium,iron,vitamins in food .
+
+match = calci
+context = ore recipes and more nutritional information like calcium,iron,vitamins in food .
+
+
+id: 547 | rating: 3 | user: dr sum | date: 2020-05-23 | time: 07:40:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Improve app
+--------------------------------------------------------------------
+
+I am pro user..App is repeatedly closing while doing workouts after recent update,try to add more recipes and more nutritional information like calcium,iron,vitamins in food .
+
+
+review id: 555
+
+matches and contexts:
+
+match = iod
+context = I lost 10 kgs systematically over a period of 11 months . I think it’s a healthy way of l
+
+
+id: 555 | rating: 5 | user: Rics99 | date: 2018-09-27 | time: 14:13:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+I lost 10 kgs systematically over a period of 11 months . I think it’s a healthy way of loosing weight
+
+
+review id: 631
+
+matches and contexts:
+
+match = vitam
+context = There should be option to track vitamins as well
+
+
+id: 631 | rating: 3 | user: xani260 | date: 2021-07-03 | time: 14:04:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Micro tracking
+--------------------------------------------------------------------
+
+There should be option to track vitamins as well
+
+
+review id: 634
+
+matches and contexts:
+
+match = micro
+context = - App does not tell the food source of micro nutrients
+
+
+id: 634 | rating: 1 | user: Amit KM | date: 2020-09-26 | time: 01:06:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Lots of features missing
+--------------------------------------------------------------------
+
+- App does not tell the food source of micro nutrients
+
+
+review id: 656
+
+matches and contexts:
+
+match = micro
+context = I see micronutrients count of this app doesn’t contain V
+
+match = Vitam
+context =  micronutrients count of this app doesn’t contain Vitamins and other important Minerals.
+
+
+id: 656 | rating: 4 | user: Vibha Tripathi 1511 | date: 2019-05-09 | time: 16:08:50.000Z
+
+--------------------------------------------------------------------
+                      Title: App is satisfactory but needs improvement
+--------------------------------------------------------------------
+
+I see micronutrients count of this app doesn’t contain Vitamins and other important Minerals.
+
+
+review id: 952
+
+matches and contexts:
+
+match = micro
+context = Please stop micro advertising your various plans all over the 
+
+
+id: 952 | rating: 1 | user: H.A.T.E | date: 2020-12-12 | time: 13:55:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Please STOP THIS!
+--------------------------------------------------------------------
+
+Please stop micro advertising your various plans all over the app and at every swipe. I just want to track my food and interact with the community, that’s it.
+
+

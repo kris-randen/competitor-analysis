@@ -1,0 +1,728 @@
+'Pregnancy' related feature requests in lifesum reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 39
+
+
+review id: 25
+
+matches and contexts:
+
+match = milk
+context = , a suggested recipe to me was a tomato and buttermilk shake?? While that might not be hard to make,
+
+
+id: 25 | rating: 2 | user: jilshs | date: 2019-03-26 | time: 16:49:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Not Great
+--------------------------------------------------------------------
+
+I bought the premium version because I thought it would be friendlier and more helpful than apps like myfitnesspal. Its not very smart, it doesn’t have a lot of foods in its database, and the recipes provided are few and not impressive. There’s no way to find easy meals, it seems to be time consuming and not super appetizing. For example, a suggested recipe to me was a tomato and buttermilk shake?? While that might not be hard to make, it sounds disgusting. Most of these recipes seem to be more about looks and “instagram” quality than nutrition and simplicity, which is what most people loom to food trackers for. In the app’s attempt to be more millenial-geared and well-rounded, they made a complicated app with a few flashy features (choosing your type of diet, taking a picture of your food to log it-which didn’t work when I tried-, and recipes-which have limited options and seem complicated). I wish they offered a trial of the premium but I understand why they don’t because I definitely wouldn’t have bought premium if I knew that not much would change, and the additional features are less than satisfactory. I absolutely regret purchasing this.
+
+
+review id: 59
+
+matches and contexts:
+
+match = milk
+context = ble the calories is really has, then for my plant milk says it has 27 grams of protein instead of 10
+
+
+id: 59 | rating: 2 | user: Mugglord | date: 2019-06-17 | time: 04:52:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Inaccurate
+--------------------------------------------------------------------
+
+I like the idea of it but it’s completely inaccurate for a lot of things. Even though I scanned the exact items I was using to try to make it more accurate, it was saying my bread had half the protein and double the calories is really has, then for my plant milk says it has 27 grams of protein instead of 10? Very confusing and completely wrong. It also gave a better rating to my vegan Caesar dressing than HALF of a small avocado and celery.. Also I put that my food preference was vegan and every single meal suggestion it gave me wasn’t even vegetarian, they were all meat? It’s also inaccurate for the amount of protein you need, it shows that I’m low in protein because it says I need just under 100 grams a day which is literally double what I need for my weight? I feel like I can’t trust it at all and it’s honestly annoying how even when you scan the item it doesn’t pull up the correct nutrition facts and the ratings are so off. Like Caesar dressing is really healthier than celery and avocado.. definitely not a good app. Disappointed.
+
+
+review id: 70
+
+matches and contexts:
+
+match = milk
+context = y searching simple things like “Apple” or “almond milk.”
+
+
+id: 70 | rating: 3 | user: Alicebeth | date: 2018-04-03 | time: 18:12:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app, but the bugs ruin it!
+--------------------------------------------------------------------
+
+I really love the concept and aesthetics of this app- enough that I switched from MyFitnessPal as a long-time user. Problem is, more than half the time I go to search a food to add it to my meal or create a recipe, the search turns up blank. There’s no error message, just no results. And I’m usually searching simple things like “Apple” or “almond milk.”
+
+
+review id: 117
+
+matches and contexts:
+
+match = breastfeed
+context =  motivating. However, I would LOVE if there was a breastfeeding/pregnancy feature. Pregnant people a
+
+match = milk
+context =  quickly or else you risk completely tanking your milk supply. I’ve tried to use the suggested amoun
+
+match = preg
+context = owever, I would LOVE if there was a breastfeeding/pregnancy feature. Pregnant people are meant to GA
+
+match = feeding
+context = ating. However, I would LOVE if there was a breastfeeding/pregnancy feature. Pregnant people are mea
+
+
+id: 117 | rating: 4 | user: A Sick Kid | date: 2019-10-28 | time: 19:04:42.000Z
+
+--------------------------------------------------------------------
+                      Title: More features
+--------------------------------------------------------------------
+
+I normally do not write reviews, but I figured I would add some commentary/suggestions and also what I have found that I do like at this point. The app is pretty easy to use, has a decently large database of foods you can search/scan and can be motivating. However, I would LOVE if there was a breastfeeding/pregnancy feature. Pregnant people are meant to GAIN weight and apps like this definitely don’t encourage that, even if it’s necessary for a developing fetus. While breastfeeding, you also can’t lose weight too quickly or else you risk completely tanking your milk supply. I’ve tried to use the suggested amount of calories but every time I do that, I notice the amount of milk I produce plummets quite quickly.
+
+
+review id: 557
+
+matches and contexts:
+
+match = baby
+context = e and My Fitness Pal’s food database could have a baby.
+
+
+id: 557 | rating: 3 | user: TMZ reader | date: 2020-01-24 | time: 19:46:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Food database needs work
+--------------------------------------------------------------------
+
+I love the interface of this app. It is so great for tracking based on whatever way of eating you prefer. However, the food data base is a mess. First, the scanner functionality works about 50% of the time; and second, the food database is SO difficult to use. Users have entered information and, instead of correctly entering serving sizes, have entered unreliable data which makes it incredibly hard to track with accuracy. I wish this app’s interface and My Fitness Pal’s food database could have a baby.
+
+
+review id: 622
+
+matches and contexts:
+
+match = milk
+context = this morning it informed me I should try drinking milk to get vitamin d. Huh?
+
+
+id: 622 | rating: 3 | user: Dabeanie | date: 2018-03-26 | time: 12:39:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Ideas
+--------------------------------------------------------------------
+
+I actually really love this app and have been using for a solid month and have seen an improvement in my life. However, I have my preferences set to be lactose intolerant and have a dairy allergy yet this morning it informed me I should try drinking milk to get vitamin d. Huh?
+
+
+review id: 856
+
+matches and contexts:
+
+match = breastfeed
+context =  setting for those who are currently pregnant (or breastfeeding). In that situation, tracking your m
+
+match = preg
+context = d be to add a setting for those who are currently pregnant (or breastfeeding). In that situation, tr
+
+match = feeding
+context = ng for those who are currently pregnant (or breastfeeding). In that situation, tracking your meals i
+
+
+id: 856 | rating: 4 | user: Cecilia Noelle | date: 2021-01-13 | time: 16:41:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Really Great, but Could use some Extra Features
+--------------------------------------------------------------------
+
+I really appreciate this app, and how easy it is to use. My main complaint or suggestion would be to add a setting for those who are currently pregnant (or breastfeeding). In that situation, tracking your meals is still be hugely important, but your goals, acceptable weight, and intake of certain things will naturally be different.
+
+
+review id: 1033
+
+matches and contexts:
+
+match = breastfeed
+context =  a little more or maybe have more options. I am a breastfeeding mom which means I need to consume 50
+
+match = feeding
+context = tle more or maybe have more options. I am a breastfeeding mom which means I need to consume 500 extr
+
+
+id: 1033 | rating: 3 | user: CGwoman123 | date: 2018-07-23 | time: 02:05:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Can’t really choose what your lifestyle is
+--------------------------------------------------------------------
+
+I would like to personalize my plan a little more or maybe have more options. I am a breastfeeding mom which means I need to consume 500 extra calories a day. I’m sure the people who created the app just don’t know a lot about post partum dieting so I probably should have kept looking for something else. I regret purchasing the three months.
+
+
+review id: 1112
+
+matches and contexts:
+
+match = Milk
+context = dd a food to my diary and the counts are all off. Milk doesn’t have 30 grams of sugar. The conversio
+
+
+id: 1112 | rating: 1 | user: Pony0413 | date: 2018-12-16 | time: 13:35:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Poor performance for a great idea
+--------------------------------------------------------------------
+
+Calorie count, fat count, protein count, carb count... nearly twice a day I add a food to my diary and the counts are all off. Milk doesn’t have 30 grams of sugar. The conversions are not calculating correctly either. This was such a waste of money and there is no way to get a refund. If the developers spent more time on getting accurate information and less time on looking pretty they would make a real difference, otherwise this is just a sham. Really disappointed.
+
+
+review id: 1169
+
+matches and contexts:
+
+match = postpartum
+context = This is so helpful when I was postpartum for eating more healthy  meals. But wha
+
+match = postp
+context = This is so helpful when I was postpartum for eating more healthy  meals. But wha
+
+
+id: 1169 | rating: 5 | user: real mom life | date: 2021-07-21 | time: 13:24:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Post partum
+--------------------------------------------------------------------
+
+This is so helpful when I was postpartum for eating more healthy  meals. But what I really loved is as a busy mom I forget to eat and this would remind me now I just need to have the practice of food prepping it all before the week starts! 🥰thank you so much!
+
+
+review id: 1170
+
+matches and contexts:
+
+match = nursing
+context = re is the ability to choose a status specific for nursing mothers as they burn and should consume ad
+
+match = nurs
+context = re is the ability to choose a status specific for nursing mothers as they burn and should consume ad
+
+
+id: 1170 | rating: 4 | user: kaydeedid850 | date: 2019-06-08 | time: 05:23:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Good content at upgrade levels.
+--------------------------------------------------------------------
+
+Seems like a great app. Have to pay for the most useful content. Free version doesn’t provide much support. A great added feature is the ability to choose a status specific for nursing mothers as they burn and should consume added calories.
+
+
+review id: 1193
+
+matches and contexts:
+
+match = breastfeed
+context = doesn’t have an option to add if your pregnant or breastfeeding. I wish it would help to add in thos
+
+match = preg
+context = ssing is it doesn’t have an option to add if your pregnant or breastfeeding. I wish it would help to
+
+match = feeding
+context = t have an option to add if your pregnant or breastfeeding. I wish it would help to add in those brea
+
+
+id: 1193 | rating: 4 | user: kelsemarie | date: 2020-05-19 | time: 14:49:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+I love the life sum app because it gives you a grade on what you eat and helps to better pick quality calories. The only thing it’s missing is it doesn’t have an option to add if your pregnant or breastfeeding. I wish it would help to add in those breastfeeding calories.
+
+
+review id: 1199
+
+matches and contexts:
+
+match = preg
+context = ting. Wish there was an option to put that you’re pregnant so it can adjust accordingly. Otherwise, 
+
+
+id: 1199 | rating: 4 | user: BrookeAnn2292 | date: 2019-08-17 | time: 18:41:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app... need a pregnancy option
+--------------------------------------------------------------------
+
+I love to use it to track the amount of carbs and protein and fat I’m getting. Wish there was an option to put that you’re pregnant so it can adjust accordingly. Otherwise, this app is great for people who aren’t pregnant and looking to be/stay healthy or lose weight.
+
+
+review id: 1237
+
+matches and contexts:
+
+match = breastfeed
+context =  if it could be modified to include pregnancy and breastfeeding somehow. On average that burns aroun
+
+match = preg
+context = t I would love if it could be modified to include pregnancy and breastfeeding somehow. On average th
+
+match = feeding
+context =  could be modified to include pregnancy and breastfeeding somehow. On average that burns around 200 
+
+
+id: 1237 | rating: 4 | user: moma of two | date: 2020-08-21 | time: 12:11:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Breastfeeding
+--------------------------------------------------------------------
+
+This is an awesome app but I would love if it could be modified to include pregnancy and breastfeeding somehow. On average that burns around 200 calories per day and requires extra hydration also. Currently I just have to remember to add 200 calories to my daily allowance, which then shows me as over on calories for the day.
+
+
+review id: 1496
+
+matches and contexts:
+
+match = milk
+context =  let people try what you have to offer before you milk them for cash...
+
+
+id: 1496 | rating: 1 | user: phormality | date: 2020-05-18 | time: 17:39:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Horrible Onboaridng Experience
+--------------------------------------------------------------------
+
+This is by far the worst intro I’ve ever had to an app. All I wanted to do was download an app to log my lunch. I threw my phone on the floor in frustration at one point, as I thought the attempts to rope me into premium would never end. I deleted the app before even getting to the point of logging a single meal. Maybe let people try what you have to offer before you milk them for cash...
+
+
+review id: 1522
+
+matches and contexts:
+
+match = preg
+context = ays preferred this app over others until I became pregnant. It does not help me keep up with my info
+
+
+id: 1522 | rating: 3 | user: Hfcjjggdfgjjjj | date: 2018-10-27 | time: 13:40:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Pregnancy
+--------------------------------------------------------------------
+
+I’ve always preferred this app over others until I became pregnant. It does not help me keep up with my information as a pregnant woman and not a regular person. Adding a feature like that would be very helpful. Can’t purchase premium without it unfortunately.
+
+
+review id: 1536
+
+matches and contexts:
+
+match = preg
+context = I love the app but I wish there was pregnancies mode to eat healthier and that would s
+
+
+id: 1536 | rating: 5 | user: OrgSparky | date: 2019-09-09 | time: 01:07:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Works well
+--------------------------------------------------------------------
+
+I love the app but I wish there was pregnancies mode to eat healthier and that would say you are overweight when you know your doctors say your fine.
+
+
+review id: 1592
+
+matches and contexts:
+
+match = milk
+context = considered “added sugar”. For example, when I log milk, the info for the whole meal includes the sug
+
+
+id: 1592 | rating: 3 | user: Clouddan | date: 2019-03-31 | time: 01:22:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Added Sugar?!?
+--------------------------------------------------------------------
+
+I love this app but the only thing that I’m upset about is how natural sugar is considered “added sugar”. For example, when I log milk, the info for the whole meal includes the sugars from the milk as added, not natural. This is a little frustrating as this information is incorrect.
+
+
+review id: 1666
+
+matches and contexts:
+
+match = milk
+context = e database is incorrect. For example, under whole milk, a cup has 21 calories and a tablespoon has 3
+
+
+id: 1666 | rating: 2 | user: uhygdws12 | date: 2020-01-24 | time: 16:23:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Misleading
+--------------------------------------------------------------------
+
+A lot of calorie information in the database is incorrect. For example, under whole milk, a cup has 21 calories and a tablespoon has 308 calories. Makes me doubt everything in the database. I don’t always have a barcode to scan so the search results need to be accurate and they are not.
+
+
+review id: 1752
+
+matches and contexts:
+
+match = milk
+context =  fairly useless for me. Hard to track things like milk with 1% milk and 1 sugar etc.
+
+
+id: 1752 | rating: 1 | user: jsjsnabshs | date: 2018-11-26 | time: 15:34:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Not what I expected
+--------------------------------------------------------------------
+
+I didn’t realize this was a UK app. I can’t find the names of typical foods and you can’t adjust the portions as you can in many apps. If a standard meat portion in this app is 3oz you can’t adjust to 4oz as you can in many other apps. Unfortunately I paid for 3 months but it’s fairly useless for me. Hard to track things like milk with 1% milk and 1 sugar etc.
+
+
+review id: 1764
+
+matches and contexts:
+
+match = preg
+context = Love the app but i wish their was a setting for pregnant women. I’m always “overeating” but i actu
+
+
+id: 1764 | rating: 4 | user: AlyssaJean325 | date: 2020-06-20 | time: 02:16:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Please make maternity friendly.
+--------------------------------------------------------------------
+
+Love the app but i wish their was a setting for pregnant women. I’m always “overeating” but i actually need an extra 400 calories and more protein everyday. That would be a really cool update.
+
+
+review id: 1977
+
+matches and contexts:
+
+match = baby
+context =  oz (you can’t type in your weight). I just had a baby so I lost like 30 pounds off the bat so it ta
+
+
+id: 1977 | rating: 1 | user: hdunj | date: 2020-06-05 | time: 23:02:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Annoying weight section
+--------------------------------------------------------------------
+
+Every day when I go to enter my weight it goes back to square one (resets) and I have to manually decrease the weight by oz (you can’t type in your weight). I just had a baby so I lost like 30 pounds off the bat so it takes like 10 minutes just to add my weight in.
+
+
+review id: 2440
+
+matches and contexts:
+
+match = preg
+context = and enjoyed it, but it's not working for me while pregnant. Their isn't a plan, or a way to edit a p
+
+
+id: 2440 | rating: 3 | user: RMW07272013 | date: 2017-10-11 | time: 13:43:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Pregnancy setting
+--------------------------------------------------------------------
+
+I have used this app and enjoyed it, but it's not working for me while pregnant. Their isn't a plan, or a way to edit a plan, for pregnancy, or needing to gain weight.
+
+
+review id: 2470
+
+matches and contexts:
+
+match = breastfeed
+context = I’m a breastfeeding mama and it would be awesome if that
+
+match = feeding
+context = I’m a breastfeeding mama and it would be awesome if that was a
+
+
+id: 2470 | rating: 3 | user: Susu500 | date: 2017-10-09 | time: 18:10:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Breastfeeding
+--------------------------------------------------------------------
+
+I’m a breastfeeding mama and it would be awesome if that was an added to this app because it’s hard to track calories burned from feedings.
+
+
+review id: 2643
+
+matches and contexts:
+
+match = breastfeed
+context = This app is good but has no place to account for breastfeeding moms.
+
+match = feeding
+context = app is good but has no place to account for breastfeeding moms.
+
+
+id: 2643 | rating: 4 | user: No breasts | date: 2019-01-20 | time: 15:44:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Overall good
+--------------------------------------------------------------------
+
+This app is good but has no place to account for breastfeeding moms.
+
+
+review id: 2721
+
+matches and contexts:
+
+match = breastfeed
+context = might use it eventually but it has no options for breastfeeding mothers.
+
+match = feeding
+context = use it eventually but it has no options for breastfeeding mothers.
+
+
+id: 2721 | rating: 2 | user: fiferk | date: 2018-09-05 | time: 20:28:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Works for some People
+--------------------------------------------------------------------
+
+I like this app app and I might use it eventually but it has no options for breastfeeding mothers.
+
+
+review id: 3197
+
+matches and contexts:
+
+match = breastfeed
+context = was with no extra exercise, just diet! I'm also a breastfeeding mom and I appreciate that it allows 
+
+match = feeding
+context = th no extra exercise, just diet! I'm also a breastfeeding mom and I appreciate that it allows me to 
+
+
+id: 3197 | rating: 5 | user: danisaur88 | date: 2017-04-27 | time: 17:47:56.000Z
+
+--------------------------------------------------------------------
+                      Title: This App is the only one that works for me
+--------------------------------------------------------------------
+
+I'm not a very self motivated person, I'm not driven for health or weight loss and I don't know why but it's hard for me (probably because prior to this point in my life I was naturally slim). Anyway, this app has been amazing for me, I took the test to see what diet would fit my needs and found that Keto-light was a fit. After reading up on it, I decided to give it a go. It grades my meals and tells me what to do to improve my food choices, helps me find recipes and able to save my own, I have been using the app for a little over 2 months and have lost 15lbs. This was with no extra exercise, just diet! I'm also a breastfeeding mom and I appreciate that it allows me to add to my calorie allowance to account for the extra that I need.
+
+
+review id: 3322
+
+matches and contexts:
+
+match = baby
+context = sh I would have found this earlier. I had my last baby three years ago, and instead of losing weight
+
+
+id: 3322 | rating: 5 | user: Passthepickles | date: 2015-01-08 | time: 17:24:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app!
+--------------------------------------------------------------------
+
+I wish I would have found this earlier. I had my last baby three years ago, and instead of losing weight after he was born like I did with my other two children, I have continued to gain and gain. This is the first thing I have found that actually works AND is convenient enough to use without it seeming like a hassle. It's motivating and it's helping. Three days in and I am already down four pounds. Great app- I paid for the gold version (subscription) and it is worth every cent. :)
+
+
+review id: 3340
+
+matches and contexts:
+
+match = baby
+context = app to monitor my weight and also to help lose my baby weight after having twins. It's mostly a help
+
+
+id: 3340 | rating: 4 | user: Bekkilli | date: 2012-06-25 | time: 13:58:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Helpful and easy
+--------------------------------------------------------------------
+
+I have used this app to monitor my weight and also to help lose my baby weight after having twins. It's mostly a helpful reminder for me and keeps me on track.
+
+
+review id: 3454
+
+matches and contexts:
+
+match = milk
+context = disease/lactose intolerance. (Can't have bread or milk) and how accurate the products are. I like ho
+
+
+id: 3454 | rating: 5 | user: Pink995 | date: 2016-09-08 | time: 18:13:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing, Love it
+--------------------------------------------------------------------
+
+It's wonderful, I think everyone should have this, if nothing else, just to see the impact of the food we eat. I love that it can accommodate my celiac disease/lactose intolerance. (Can't have bread or milk) and how accurate the products are. I like how easily you can add products that aren't there. I kind of wish I had the paid stuff for free, but that's kind of the point. 10/10. 😊
+
+
+review id: 3528
+
+matches and contexts:
+
+match = preg
+context = ture when I'm back in weight loss mode (currently pregnant), as I think it's worth it.
+
+
+id: 3528 | rating: 5 | user: krismus | date: 2017-08-08 | time: 19:32:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+So far my fave nutrition app, and I've tried a lot. Beautiful, simple interface (no ads/clutter like the leading nutrition tracker). I've tried premium and enjoyed the benefits but am currently using the free version to save money. May upgrade again in the future when I'm back in weight loss mode (currently pregnant), as I think it's worth it.
+
+
+review id: 3598
+
+matches and contexts:
+
+match = breastfeed
+context = I am a breastfeeding mother, I really wish there were way
+
+match = feeding
+context = I am a breastfeeding mother, I really wish there were ways to a
+
+
+id: 3598 | rating: 3 | user: ChyAnnLee | date: 2017-03-14 | time: 08:31:43.000Z
+
+--------------------------------------------------------------------
+                      Title: I like it but....
+--------------------------------------------------------------------
+
+I am a breastfeeding mother, I really wish there were ways to adjust the advisory content accordingly. I am required to eat a minimum of 500 calories more than the normal amount in order to account for the calories burned while breastfeeding and yet it shames me ( so to speech) for doing exactly that.
+
+
+review id: 3609
+
+matches and contexts:
+
+match = baby
+context = nding it hard to lose weight after my most recent baby. I am down four pounds with the help of this 
+
+
+id: 3609 | rating: 5 | user: Virgosplash | date: 2017-08-03 | time: 01:05:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the Premium Version!
+--------------------------------------------------------------------
+
+I downloaded this app to help me keep better track of my food intake. I am finding it hard to lose weight after my most recent baby. I am down four pounds with the help of this app so far, and am excited to see where it takes me!
+
+
+review id: 3610
+
+matches and contexts:
+
+match = baby
+context = ensure I was eating the calories and nutrition my baby needed, and now an using it to track weightlo
+
+match = preg
+context = d this one is my fav. I used this one while I was pregnant to set goals to gain weight, ensure I was
+
+
+id: 3610 | rating: 5 | user: 101pigs101 | date: 2013-03-06 | time: 14:10:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!!!
+--------------------------------------------------------------------
+
+I love this app. I've tried other nutrition apps and this one is my fav. I used this one while I was pregnant to set goals to gain weight, ensure I was eating the calories and nutrition my baby needed, and now an using it to track weightloss. I've only used the free version, but have used it for about 2yrs. I highly reccomend this one!
+
+
+review id: 3767
+
+matches and contexts:
+
+match = milk
+context = ncluding the specific brand of protein powder and milk that I consume! Love this app, keep up the go
+
+
+id: 3767 | rating: 5 | user: Stopyellingatme | date: 2016-12-03 | time: 05:21:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Fantastic and Beautiful!
+--------------------------------------------------------------------
+
+I've always been pretty active, but I'm awful at keeping track of what I consume. This app had literally everything that I've eaten including the specific brand of protein powder and milk that I consume! Love this app, keep up the good work fellas.
+
+
+review id: 3798
+
+matches and contexts:
+
+match = feeding
+context = acking my food and made me more aware of what I'm feeding my body. I found this app very useful in h
+
+
+id: 3798 | rating: 5 | user: Maddie_b_h_ | date: 2016-12-28 | time: 19:45:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing app🐶
+--------------------------------------------------------------------
+
+Lifesum has helped me so much with getting back on track. It's very helpful with tracking my food and made me more aware of what I'm feeding my body. I found this app very useful in helping me get fit again. It's a definite must have app.
+
+
+review id: 3804
+
+matches and contexts:
+
+match = nursing
+context =  reviews and bad about gold. I'm a single mom, in nursing school; so while 2.99/month isn't much, it
+
+match = nurs
+context =  reviews and bad about gold. I'm a single mom, in nursing school; so while 2.99/month isn't much, it
+
+
+id: 3804 | rating: 4 | user: OMG what a fake | date: 2015-10-07 | time: 15:29:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Seems great so far!
+--------------------------------------------------------------------
+
+I switched for myfitness pal to this app. I've only had about two weeks, and so far I really like it! Considering upgrading to Gold but concerned. I've seen some good reviews and bad about gold. I'm a single mom, in nursing school; so while 2.99/month isn't much, it is if it is wasted!
+
+
+review id: 4792
+
+matches and contexts:
+
+match = milk
+context =  together extremely common things like cereal and milk.
+
+
+id: 4792 | rating: 2 | user: mface | date: 2015-09-15 | time: 03:34:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Impractical
+--------------------------------------------------------------------
+
+Useless unless you bring measuring tools everywhere you go. Default serving sizes are completely impractical. Doesn't group together extremely common things like cereal and milk.
+
+
+review id: 5630
+
+matches and contexts:
+
+match = milk
+context = meals that are not so out there too (tomato buttermilk smoothie?). Unfortunately I paid for a year s
+
+
+id: 5630 | rating: 3 | user: Dr Professor Face | date: 2020-06-04 | time: 16:31:18.000Z
+
+--------------------------------------------------------------------
+                      Title: App for single or couple, not family friendly
+--------------------------------------------------------------------
+
+Downloaded the app to help me lose some weight, break some bad eating habits and eat healthier. While the app itself is beautiful and makes tracking easy, the recipes and meal plans are unattainable for me to prepare as a homeschooling mom of 5. It would be nice to have meals that are not so out there too (tomato buttermilk smoothie?). Unfortunately I paid for a year subscription and wish I would’ve not wasted 30.99.
+
+

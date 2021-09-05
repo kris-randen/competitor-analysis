@@ -1,0 +1,31 @@
+'Pregnancy' related feature requests in health_2_sync reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 1
+
+
+review id: 51
+
+matches and contexts:
+
+match = gesta
+context = I have used this app since I was diagnosed with gestational diabetes. I like how easy to use and t
+
+match = gestation
+context = I have used this app since I was diagnosed with gestational diabetes. I like how easy to use and t
+
+match = gestational
+context = I have used this app since I was diagnosed with gestational diabetes. I like how easy to use and t
+
+
+id: 51 | rating: 5 | user: TiffRice | date: 2016-04-30 | time: 17:51:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+I have used this app since I was diagnosed with gestational diabetes. I like how easy to use and that I can email the reports for my doctor to see!
+
+

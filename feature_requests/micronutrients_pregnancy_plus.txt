@@ -1,0 +1,331 @@
+'Micronutrients' related feature requests in pregnancy_plus reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 19
+
+
+review id: 6
+
+matches and contexts:
+
+match = omega
+context = re increasingly emphasizing the importance of the omegas in oily fish. Other articles are the typica
+
+
+id: 6 | rating: 2 | user: mahckes | date: 2019-06-01 | time: 12:02:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Poor articles; great images
+--------------------------------------------------------------------
+
+The interactive images are beautifully rendered. But like other reviews have noted, the articles are bland, out of date with current medical advice and uninformative. For example, it says to be limit fish to 1-2 times a week and only 1 oily fish, while most OBs are increasingly emphasizing the importance of the omegas in oily fish. Other articles are the typical round up of vapid takes on the usual topics of what to eat and buying clothes and talking to your doctor if you feel down. These could be much more interesting! Also, in an article about possible Down syndrome testing in early pregnancy, they say only that “some women prefer to find out during their pregnancy so they can learn more about the condition and what special care is required.” It undermines the pain and extreme difficultly women wrestle with as they decide whether to keep a pregnancy with confirmed chromosomal problems. Pretending that doesn’t exist at all is really weird whitewashing. It’s not a political issue.
+
+
+review id: 8
+
+matches and contexts:
+
+match = iod
+context = adjust your menstrual cycle length, so if your periods aren’t exactly 28 days, the only way to track
+
+
+id: 8 | rating: 5 | user: Tfzzzzz1128 | date: 2020-11-22 | time: 03:24:38.000Z
+
+--------------------------------------------------------------------
+                      Title: *Nearly* perfect - can’t adjust cycle length
+--------------------------------------------------------------------
+
+This app is absolutely incredible. It’s really everything you could need and want in a pregnancy app. Lots of information, planning capabilities, and my most favorite feature - the weekly growth aspect that offers true to size fetal development. My ONLY gripe is that you cannot adjust your menstrual cycle length, so if your periods aren’t exactly 28 days, the only way to track your pregnancy is through a due date. That’s certainly not a deal breaker, but when I look at my calendar I would like to be able to see my LMP. I have PCOS and ovulate close to 3 weeks into my cycle, so I would just like to be able to customize my calendar to reflect that.
+
+
+review id: 50
+
+matches and contexts:
+
+match = iod
+context = counts with because they were connected to the period and fertility tracker apps I had been using. I
+
+
+id: 50 | rating: 5 | user: cheerblondie23 | date: 2017-08-24 | time: 17:41:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Best pregnancy tracker I've found
+--------------------------------------------------------------------
+
+After I saw those little pink lines I downloaded every pregnancy tracker app I could find, including the two apps I already had accounts with because they were connected to the period and fertility tracker apps I had been using. I spent a little while getting to know all of the apps, and this was simply the best one. I almost never spend money on apps but I bought the premium version of this one. It is the only app I will be using for this pregnancy.
+
+
+review id: 51
+
+matches and contexts:
+
+match = iod
+context = product, make it free at the time of download. Period. Otherwise charge up-front at the time of down
+
+
+id: 51 | rating: 1 | user: lamihous | date: 2017-09-19 | time: 02:50:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Not Truly Free
+--------------------------------------------------------------------
+
+If a company is going to offer a free product, make it free at the time of download. Period. Otherwise charge up-front at the time of download. Women download this app thinking they don't have to pay for the content, then after 14 weeks, surprise! You have to pay to play. That is not transparent at all. Especially since it's not mentioned on the detail page of the app store.
+
+
+review id: 230
+
+matches and contexts:
+
+match = vitam
+context = e can do some checklist if you take you pre natal vitamins, do kegel exercise etc... Thank you!
+
+
+id: 230 | rating: 5 | user: Mina_minchan | date: 2017-08-10 | time: 20:05:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Wonderful apps.
+--------------------------------------------------------------------
+
+I really like the format of this pregnancy application. Very colorful and the video is really nice. I hope you can add more were we can do some checklist if you take you pre natal vitamins, do kegel exercise etc... Thank you!
+
+
+review id: 314
+
+matches and contexts:
+
+match = iod
+context = years I even got pregnant both times using the period app they make. Don’t let these people rip you 
+
+
+id: 314 | rating: 1 | user: jebest94 | date: 2018-07-06 | time: 10:21:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Sneaky
+--------------------------------------------------------------------
+
+I’m sorry but there are way more apps I can go to and still not be charged for what call consider “extra” or “premium” if you want a good pregnancy app that’s not a scam I’d suggest ovia I've used it for years I even got pregnant both times using the period app they make. Don’t let these people rip you off. It’s not worth it. Spend that money on the baby and not an app.
+
+
+review id: 735
+
+matches and contexts:
+
+match = iod
+context =  weeks pregnant to tell me that the free trial period was up and I had to pay $3.99 for the full ver
+
+
+id: 735 | rating: 1 | user: Jaxsonsmommy! | date: 2015-03-26 | time: 15:12:54.000Z
+
+--------------------------------------------------------------------
+                      Title: DO NOT DOWNLOAD!!!!!!!
+--------------------------------------------------------------------
+
+Over all, I like this app BUT it waited until I was 28 weeks pregnant to tell me that the free trial period was up and I had to pay $3.99 for the full version. If I would have known that, I would have done it 28 weeks ago. Now it's like I'm forced to buy it and I won't be using it after the baby comes so why waste $4 for a few more weeks of use? I'm promptly deleting it just on principal. Not fair guys! Some apps I've had on my phone for years and actually get some use out of. Those apps were not even close to $4. This app is just a glorified ticker if you don't have the full app. At 14 weeks it also stops showing you images of the actual size of your baby. It also stops giving you updates on your baby. Your better off downloading "What to expect when your expecting" app or "baby center" app, which are born FREE! I don't mind paying for apps, but I want to be able to use them, so this one is a waste.
+
+
+review id: 870
+
+matches and contexts:
+
+match = micro
+context = ons that I learned in high school biology.  I'm a microbiologist and physician assistant and so I su
+
+
+id: 870 | rating: 3 | user: Julie Clark | date: 2013-06-12 | time: 06:01:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Fun at first
+--------------------------------------------------------------------
+
+Kept me busy at first but went through the info pretty quick.  Planning tools (appointment scheduler and weight tracker etc) were handy though.  Overall, most of these apps are pretty redundant, filled with mostly generic "official" recommendations that I learned in high school biology.  I'm a microbiologist and physician assistant and so I suppose I am looking for something that digs a little deeper into the less obvious, and even addresses the controversial issues and science of what makes for the healthiest pregnancy.
+
+
+review id: 906
+
+matches and contexts:
+
+match = iod
+context = ss you dnt mind paying for it after the "trial period" as I'm calling it, dnt even bother installing
+
+
+id: 906 | rating: 1 | user: Noneya😜 | date: 2015-08-07 | time: 10:18:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Uninstalled
+--------------------------------------------------------------------
+
+Started using this app when I found out I was pregnant. I'm now 15wks and last wk (my 14th wk) the app stopped working. I contacted someone by email to only be told that the app stops working on lite version at 13wks (not stated in the description btw), so disappointing app! Unless you dnt mind paying for it after the "trial period" as I'm calling it, dnt even bother installing. There's plenty more good quality pregnancy apps out there that offer the same services (baby's development and your body changes) FOR FREE! I'm actually loving one right now, that I started using just yesterday.
+
+
+review id: 995
+
+matches and contexts:
+
+match = iod
+context = ff. You should make the Pro version like other period tracker apps that you can upgrade with cooler 
+
+
+id: 995 | rating: 1 | user: Burr burr swag | date: 2015-08-02 | time: 19:15:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Hate having to upgrade !!
+--------------------------------------------------------------------
+
+It was a great app and I looked and heckled it everyday in my pregnancy until week 14 and then I got cut off unexpectedly because I had to pay for the rest of my weeks of pregnancy. Absolute crap !! What a serious rip off. You should make the Pro version like other period tracker apps that you can upgrade with cooler things as an incentive, not to track your 3/4 of pregnancy. Very upsetting. It honestly was the best pregnancy app that looked the best and had the best pictures and information. Pretty sad.
+
+
+review id: 1149
+
+matches and contexts:
+
+match = iod
+context = th paying for the full version after the trial period expires.
+
+
+id: 1149 | rating: 5 | user: thebuzz1179 | date: 2017-01-19 | time: 12:45:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Love!
+--------------------------------------------------------------------
+
+Love this app; used it with my first baby, and now with my second. Very informative, and the interface is user-friendly. Definitely worth paying for the full version after the trial period expires.
+
+
+review id: 1365
+
+matches and contexts:
+
+match = iod
+context = nding about your partner through the pregnancy period. Thank you for thinking and putting this info 
+
+
+id: 1365 | rating: 5 | user: Yesenia De La Cruz | date: 2014-05-13 | time: 06:33:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Great information!
+--------------------------------------------------------------------
+
+I love this app it give you a lot for a better understanding about your partner through the pregnancy period. Thank you for thinking and putting this info together . Chistian Soriano
+
+
+review id: 1406
+
+matches and contexts:
+
+match = iod
+context = e I've been using it since the day I missed my period now I'm 36 weeks lol the information is always
+
+
+id: 1406 | rating: 5 | user: Asiapersuasia | date: 2016-04-19 | time: 16:29:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Perfect
+--------------------------------------------------------------------
+
+Nothing bad to say about this app I love I've been using it since the day I missed my period now I'm 36 weeks lol the information is always accurate I love love love it
+
+
+review id: 1413
+
+matches and contexts:
+
+match = iod
+context =  calendar to input symptoms and notes like the period app has.
+
+
+id: 1413 | rating: 4 | user: romas027 | date: 2013-06-19 | time: 07:36:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+Amazing pics, love the daily and weekly tabs, user-friendly, informative...only thing I would like added is a daily log or calendar to input symptoms and notes like the period app has.
+
+
+review id: 1443
+
+matches and contexts:
+
+match = iod
+context = I love how it keep track of my baby growing period and all the new changes I feel in my body ... 
+
+
+id: 1443 | rating: 5 | user: Aya092 | date: 2013-07-29 | time: 22:25:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing app
+--------------------------------------------------------------------
+
+I love how it keep track of my baby growing period and all the new changes I feel in my body ... And how much information I get from it ... Soo educational
+
+
+review id: 1635
+
+matches and contexts:
+
+match = iod
+context = ll my info was lost. I had to re-enter my last period date, due date, the weight gain, etc. I have b
+
+
+id: 1635 | rating: 1 | user: Minipei | date: 2014-10-06 | time: 00:49:48.000Z
+
+--------------------------------------------------------------------
+                      Title: App shut down and lost all information
+--------------------------------------------------------------------
+
+I used to love this app. However, when I opened it today, all my info was lost. I had to re-enter my last period date, due date, the weight gain, etc. I have been tracking my weight with the app so it was very frustrating to find that all info was gone!
+
+
+review id: 1685
+
+matches and contexts:
+
+match = iod
+context = this app going into my 3rd trimester. No trial period or free aspects of the app after 1st trimester
+
+
+id: 1685 | rating: 3 | user: ptan888 | date: 2015-02-07 | time: 23:47:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Misleading. Requires payment after 1st trimester
+--------------------------------------------------------------------
+
+I got this app going into my 3rd trimester. No trial period or free aspects of the app after 1st trimester. I am not sure if this is for me as i cannot access any part of the app since i was not using it from the onset of my pregnancy.
+
+
+review id: 1874
+
+matches and contexts:
+
+match = iod
+context = onestly from the beginning that it was a trial period. There are other great apps and I'll stick wit
+
+
+id: 1874 | rating: 1 | user: Jennyruok | date: 2015-05-18 | time: 03:18:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Deceptive!
+--------------------------------------------------------------------
+
+You invest and get this all set up with your personal details and then down the road they tell you that you need to purchase the app for $3.99. Should've stated honestly from the beginning that it was a trial period. There are other great apps and I'll stick with those instead.
+
+
+review id: 3464
+
+matches and contexts:
+
+match = iod
+context = his app has helped me get through this waiting period my appointment is next week and I hope they le
+
+
+id: 3464 | rating: 5 | user: 1234556778898 | date: 2020-11-13 | time: 15:18:13.000Z
+
+--------------------------------------------------------------------
+                      Title: 2020😭😡
+--------------------------------------------------------------------
+
+I am happy to have this app because I have not been able to see the doctor I called to make an appointment about 5 weeks ago and they had no available spots open they told they couldn’t see me until November 20 2020 and from my calculations I am around 13 weeks pregnant and this app has helped me get through this waiting period my appointment is next week and I hope they let me hear the heartbeat for the first time.
+
+

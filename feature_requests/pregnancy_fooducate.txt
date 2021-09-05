@@ -1,0 +1,814 @@
+'Pregnancy' related feature requests in fooducate reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 46
+
+
+review id: 63
+
+matches and contexts:
+
+match = preg
+context = nsitive to and was a great resource when I became pregnant so I could have more peace of mind with w
+
+
+id: 63 | rating: 4 | user: Vaya8 | date: 2018-01-22 | time: 20:15:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Great compliment to a healthy lifestyle
+--------------------------------------------------------------------
+
+I've been using this app for a couple years now. Helped me eat more consciously, while being aware of ingredients I'm sensitive to and was a great resource when I became pregnant so I could have more peace of mind with what I was eating. I would like to see more consistent units of measurement so I don't have to guess with oz, cups, tbsp etc., would like to see my historic data in longer ranges, and see more ingredient options when viewing historic data charts. These features I'm sure are in the works though:)
+
+
+review id: 289
+
+matches and contexts:
+
+match = feeding
+context = r that will also count my micros so I know if I’m feeding my body the right nutrients.
+
+
+id: 289 | rating: 3 | user: lisamq73 | date: 2020-12-31 | time: 16:09:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Not what I was looking for
+--------------------------------------------------------------------
+
+Not what I was looking for.  I thought I’d give this a try to do something different. It tracks calories yes. Breaks down fat, carbs, and proteins in a very basic way. I’m looking for a tracker that will also count my micros so I know if I’m feeding my body the right nutrients.
+
+
+review id: 304
+
+matches and contexts:
+
+match = breastfeed
+context =  reviewing it. It also won’t let me list that I’m breastfeeding on the free version which really alt
+
+match = feeding
+context = wing it. It also won’t let me list that I’m breastfeeding on the free version which really alters wh
+
+
+id: 304 | rating: 2 | user: Shmash☀️ | date: 2018-10-08 | time: 17:23:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Annoying pop up
+--------------------------------------------------------------------
+
+Every time you click on something new it asks you to review the app. So frustrating as I prefer to use an app for an extended period before reviewing it. It also won’t let me list that I’m breastfeeding on the free version which really alters what calorie intake should be.
+
+
+review id: 319
+
+matches and contexts:
+
+match = milk
+context = ts that were just plain wrong. First it says skim milk had 27 grams of sugar then a chipotle burrito
+
+
+id: 319 | rating: 2 | user: Minecraftdude47 | date: 2020-07-18 | time: 23:08:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Wrong info
+--------------------------------------------------------------------
+
+After just 2 days of using it I ran into 3 foods that showed incorrect calorie count or nutritional facts that were just plain wrong. First it says skim milk had 27 grams of sugar then a chipotle burrito that had 900 calories when the chipotle website even said it had 600. Great idea poor information.
+
+
+review id: 745
+
+matches and contexts:
+
+match = milk
+context = ay to store a particular combination like my skim milk shakes or omelet.
+
+
+id: 745 | rating: 3 | user: Jmarlin | date: 2015-10-15 | time: 23:16:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app could be better
+--------------------------------------------------------------------
+
+I really like this app but I have a difficult time with things I make from scratch. I have to enter all of the ingredients each time I make something and I often have to substitute something from the list as I can't find what I actually used. It doesn't do to ask me to enter info as I don't normally have it. Also measurements of servings in grams is not at all useful. I might have rated it 4 or 5 stars if there were a few of my problems addressed. One thing might be to have a way to store a particular combination like my skim milk shakes or omelet.
+
+
+review id: 837
+
+matches and contexts:
+
+match = milk
+context = . No formula gets better then a c because "breast milk is the best". That may be true but breast mil
+
+match = baby
+context = nd then also put corn syrup at a c. Same goes for baby formula. No formula gets better then a c beca
+
+
+id: 837 | rating: 1 | user: C0J7 | date: 2016-05-30 | time: 14:54:26.000Z
+
+--------------------------------------------------------------------
+                      Title: System is off a few beats
+--------------------------------------------------------------------
+
+This app is definitely on to something great but the execution needs some work. Categories need their own rating system. You can't rate all sugars a c because they are sugars. I want an f through a rating for sugars where the best sugars in their category are an A and the worst are an F. I don't want all sugars to be a C because they are just sugars. You can't put 100% pure maple syrup at a c and then also put corn syrup at a c. Same goes for baby formula. No formula gets better then a c because "breast milk is the best". That may be true but breast milk is not a formula so the ratings shouldn't be compared to breast milk. They should be compared to the ingredient list vs other ingredients in other formulas. I've only used the app a little bit but I've already found several cases like this. I'm sure there are many more.
+
+
+review id: 861
+
+matches and contexts:
+
+match = baby
+context =  than the fresh form). I also tried scanning peas baby food which is only peas and water and those h
+
+
+id: 861 | rating: 3 | user: Abbs0399 | date: 2012-09-10 | time: 02:21:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Wonderful idea
+--------------------------------------------------------------------
+
+This is a very informative product that is well-designed and very user friendly. I do question some of the information provided though. For example, I have yet to find a product that will get higher than a B+. I even tried just scanning frozen broccoli and still got a B+. I'm not sure what can possibly be better than frozen veggies (arguably better even than the fresh form). I also tried scanning peas baby food which is only peas and water and those had a B- grade. I checked the alternatives and it gave me puréed sweet potatoes and corn... Not sure who decided an overused grain (corn) and a starch would be better for my baby than a green veggie... Makes me question the source.
+
+
+review id: 908
+
+matches and contexts:
+
+match = breastfeed
+context =  along with vegetarian, vegan, eating for healthy breastfeeding, etc.  It is to help users  evaluate
+
+match = feeding
+context =  with vegetarian, vegan, eating for healthy breastfeeding, etc.  It is to help users  evaluate and c
+
+
+id: 908 | rating: 4 | user: mglamb | date: 2015-05-25 | time: 19:02:23.000Z
+
+--------------------------------------------------------------------
+                      Title: No, "Avoid GMOs" is a PREFERENCE
+--------------------------------------------------------------------
+
+To the reviewer who dinged this app with one star and deleted it, LEARN TO READ.  Avoiding GMOs is clearly a preference setting, along with vegetarian, vegan, eating for healthy breastfeeding, etc.  It is to help users  evaluate and choose items to fit their needs.  Just because the developers accommodate users with a certain dietary preference that you happen not to believe in does not make the app scientifically invalid.  As a diabetic, I have found this app and its extensive nutritional database to be extremely valuable in helping me control my blood glucose, lose weight (75 pounds so far), and eat healthier.
+
+
+review id: 979
+
+matches and contexts:
+
+match = breastfeed
+context = m" features that I think should be free (like the breastfeeding diet!) but all in all I really like 
+
+match = feeding
+context = tures that I think should be free (like the breastfeeding diet!) but all in all I really like this a
+
+
+id: 979 | rating: 4 | user: xrobotlovex | date: 2017-05-26 | time: 13:23:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Great dieting tool
+--------------------------------------------------------------------
+
+This app has really helped me realize how much sugar and salt I was consuming. It's also made me measure my food so that I can keep accurate records which has definitely helped with my over eating and portion control issue. I wish I could figure out how to add foods (it says I need a mail account?) and there are some "premium" features that I think should be free (like the breastfeeding diet!) but all in all I really like this app. It's easier to use than any diet app I've used (and given up on) in the past.
+
+
+review id: 1015
+
+matches and contexts:
+
+match = baby
+context = Got the free version of the app after my baby was born in July, but really didn't do anythi
+
+
+id: 1015 | rating: 4 | user: Mrs. Robocoach | date: 2015-01-27 | time: 15:49:00.000Z
+
+--------------------------------------------------------------------
+                      Title: 41 yr old Wife and Mom
+--------------------------------------------------------------------
+
+Got the free version of the app after my baby was born in July, but really didn't do anything with it. Purchased the 1 yr plan and have been using it religiously since 1/5/15 and, as of this morning, I've lost 9lbs!!! (Due to a recent shoulder injury, the weight lose is based strictly on dietary changes; NO exercise.  And I allow myself a cheat day once per week where anything goes!).  It really helps me hold myself accountable for what and how I'm eating. I recommended it to all my Facebook friends!
+
+
+review id: 1033
+
+matches and contexts:
+
+match = milk
+context = Produce items are well covered, but try searching milk, eggs, meat, grains, pulses, cheese, and you 
+
+
+id: 1033 | rating: 4 | user: Bwanasonic | date: 2013-06-10 | time: 01:57:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for tracking brand-name foods.
+--------------------------------------------------------------------
+
+This app delivers most of what I was looking for, but it's a little weak on generic food items. Produce items are well covered, but try searching milk, eggs, meat, grains, pulses, cheese, and you are presented with lists of brand-name products, with no easy way to select just generic 2 eggs, chicken breast, 4 oz ground beef, 1/2 cup brown rice,etc. You can enter these items, but you have to do the nutrition info and food grading yourself. A better database of generic food items would make this a 5-star app.
+
+
+review id: 1169
+
+matches and contexts:
+
+match = feeding
+context = me and opened my eyes to see what I am eating and feeding my family. I love the explanations of the 
+
+
+id: 1169 | rating: 5 | user: MLT20 | date: 2017-03-29 | time: 00:51:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Enlightening
+--------------------------------------------------------------------
+
+This app has really educated me and opened my eyes to see what I am eating and feeding my family. I love the explanations of the grade. Very helpful in understanding the ingredients that are bad for you so you can look out for them in other places. One suggestion I would make is a "where to buy" feature for the top graded products or alternative products listed.
+
+
+review id: 1214
+
+matches and contexts:
+
+match = milk
+context = ut why some foods are rated the way they are. The milk I drink is rated C+, although it is organic a
+
+
+id: 1214 | rating: 4 | user: Tyberius44 | date: 2013-06-24 | time: 19:41:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app- with a few flaws
+--------------------------------------------------------------------
+
+The app overall is extremely useful, but I sometimes find it hard to figure out why some foods are rated the way they are. The milk I drink is rated C+, although it is organic and lowfat. I'd like to be provided with more insight into the food grading process. Also, the place to enter your age has major flaws. Many months are gray and unable to be selected, as well as any year before 1995. Please fix.
+
+
+review id: 1245
+
+matches and contexts:
+
+match = feeding
+context = Everyone should know what they are eating and feeding they're family! This app is a lifesaver fo
+
+
+id: 1245 | rating: 5 | user: Synergisticchic | date: 2012-04-07 | time: 18:45:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Lifesaver for people with Allergies or Intolerances!!!!
+--------------------------------------------------------------------
+
+Everyone should know what they are eating and feeding they're family! This app is a lifesaver for me! It's spot on with glutamate free/MSG info which is why they won't rate anything an A+. Unless you grow it yourself... You truly can't be sure what's in your food or how your body will react to it. At least that's how it is for me with Ulcerative Colitis. Love this app and the blogs!!!
+
+
+review id: 1442
+
+matches and contexts:
+
+match = feeding
+context =  caloric & dietary needs for women who are breast feeding, vegans, vegetarians, and other special co
+
+
+id: 1442 | rating: 5 | user: a crunchy chick | date: 2014-03-14 | time: 15:01:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for healthy living
+--------------------------------------------------------------------
+
+Fooducate is perfect because it has an option for calculating caloric & dietary needs for women who are breast feeding, vegans, vegetarians, and other special considerations. It also will issue reminders without being obnoxious. I also like the articles posted on the home page.
+
+
+review id: 1484
+
+matches and contexts:
+
+match = breastfeed
+context = nformative. I also appreciate that you can select breastfeeding since this changes caloric intake (a
+
+match = feeding
+context = tive. I also appreciate that you can select breastfeeding since this changes caloric intake (althoug
+
+
+id: 1484 | rating: 5 | user: Tree357941 | date: 2014-05-29 | time: 03:49:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Loving it
+--------------------------------------------------------------------
+
+This app is great for becoming more aware of the foods that you are eating (and how much of them). The design is intuitive and simple yet informative. I also appreciate that you can select breastfeeding since this changes caloric intake (although you have to have an upgrade).
+
+
+review id: 1607
+
+matches and contexts:
+
+match = nursing
+context = I love the app. As a nursing mom I was put on a dairy restriction for m
+
+match = nurs
+context = I love the app. As a nursing mom I was put on a dairy restriction for m
+
+
+id: 1607 | rating: 5 | user: MRB80 | date: 2014-12-13 | time: 23:55:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app
+--------------------------------------------------------------------
+
+I love the app. As a nursing mom I was put on a dairy restriction for my child. This app has saved me so much time and worry about whether I am eating things that could adversely affect my newborn. This is the second child I've had a dietary restriction and chose to use the this app through. Love it.
+
+
+review id: 1721
+
+matches and contexts:
+
+match = feeding
+context = preservatives (artificial) were in the food I was feeding my family!
+
+
+id: 1721 | rating: 5 | user: Moonchildmich | date: 2012-01-10 | time: 18:02:44.000Z
+
+--------------------------------------------------------------------
+                      Title: An App that I can't do without!
+--------------------------------------------------------------------
+
+I initially downloaded this app to confirm that I've been eating healthy. I was surprised to find how many preservatives (artificial) were in the food I was feeding my family!
+
+
+review id: 1737
+
+matches and contexts:
+
+match = baby
+context = relatively healthy--not the case. I recently ha a baby and wanted to get some baby weight off. I sta
+
+
+id: 1737 | rating: 5 | user: Liztodd6 | date: 2015-09-18 | time: 01:31:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this so far!
+--------------------------------------------------------------------
+
+Really like this app so far! I always thought I are relatively healthy--not the case. I recently ha a baby and wanted to get some baby weight off. I started using this app in conjunction with a running app for exercise. Working well so far!! I'll keep with it!
+
+
+review id: 1772
+
+matches and contexts:
+
+match = feeding
+context =  the rating it did. Thanks to this app I won't be feeding breakfast sausage to my family anymore. Th
+
+
+id: 1772 | rating: 5 | user: Jplev1117 | date: 2013-08-26 | time: 21:51:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy & Useful
+--------------------------------------------------------------------
+
+This is the best food tracking app I've tried. Love that you can find out why an item received the rating it did. Thanks to this app I won't be feeding breakfast sausage to my family anymore. They alerted me to a dangerous additive that I never knew about.
+
+
+review id: 1820
+
+matches and contexts:
+
+match = nurs
+context = I am a research nurse, so I am aware of updated studies on fat/hea
+
+
+id: 1820 | rating: 4 | user: MomWonder | date: 2011-04-27 | time: 14:27:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for me, but needs updated research on fats to be useful
+--------------------------------------------------------------------
+
+I am a research nurse, so I am aware of updated studies on fat/health/nutrition, however most people do not have the time (nor energy because they are following outdated "low-fat" advice) to find out the best and most fervently researched studies which have come to light in the past 1 to 5 years.
+
+
+review id: 1847
+
+matches and contexts:
+
+match = baby
+context = king the right decisions in selecting food for my baby.
+
+
+id: 1847 | rating: 5 | user: carolann210 | date: 2011-12-19 | time: 14:24:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Wonderful tool at the grocery store
+--------------------------------------------------------------------
+
+I love this app, I use it at the store and won't buy anything less than a B for my 10 month old. Gives me the confidence I need to know I making the right decisions in selecting food for my baby.
+
+
+review id: 2078
+
+matches and contexts:
+
+match = nursing
+context = e it! One thing I wish was they had an option for nursing mothers in the health tracker. But other t
+
+match = nurs
+context = e it! One thing I wish was they had an option for nursing mothers in the health tracker. But other t
+
+
+id: 2078 | rating: 5 | user: Bethdug | date: 2014-03-13 | time: 19:06:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Love
+--------------------------------------------------------------------
+
+Love this app.  Bought the pro version on my new phone. Was surprised by the health tracker and love it! One thing I wish was they had an option for nursing mothers in the health tracker. But other than that, I highly recommend.
+
+
+review id: 2190
+
+matches and contexts:
+
+match = milk
+context = s a certain item a certain grade. Like is coconut milk better than almond milk and why.
+
+
+id: 2190 | rating: 3 | user: Doggymama76 | date: 2014-02-12 | time: 04:15:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Nice to have
+--------------------------------------------------------------------
+
+While this app is neat, I would like to see the better options that are rated at a better Grade and I want to know what makes a certain item a certain grade. Like is coconut milk better than almond milk and why.
+
+
+review id: 2224
+
+matches and contexts:
+
+match = baby
+context = e grocery store when purchasing food items for my baby son. Great info is quickly displayed and in a
+
+
+id: 2224 | rating: 4 | user: Britscott78 | date: 2011-11-09 | time: 03:27:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Great and useful app!
+--------------------------------------------------------------------
+
+Downloaded the app a few weeks ago and have been using it several times at the grocery store when purchasing food items for my baby son. Great info is quickly displayed and in a timely fashion.
+
+
+review id: 2313
+
+matches and contexts:
+
+match = milk
+context = diet criteria which gives some foods like coconut milk a C just because it has fat, even though that
+
+
+id: 2313 | rating: 3 | user: Heather HP Laptop Tablet | date: 2013-05-15 | time: 11:46:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app but with major flaw
+--------------------------------------------------------------------
+
+I love this app conceptually, but it seems to rate food based on a typical standard American diet criteria which gives some foods like coconut milk a C just because it has fat, even though that fat is a very healthy one.   So for those who are eating a diet higher in healthy fats on purpose this app is frustrating.
+
+
+review id: 2366
+
+matches and contexts:
+
+match = milk
+context = ng enough nutrition while pumping 37 oz of breast milk a day.  Tells me if I need to get more protei
+
+
+id: 2366 | rating: 5 | user: Neverweatherbeatensail | date: 2013-12-31 | time: 14:58:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Premium great to track protein while breastfeeding.
+--------------------------------------------------------------------
+
+I love it. It's reassuring that I'm getting enough nutrition while pumping 37 oz of breast milk a day.  Tells me if I need to get more protein at dinner if I didn't eat enough during the day.  Awesome for vegetarians
+
+
+review id: 2400
+
+matches and contexts:
+
+match = feeding
+context = have it you have to get it! Do you know what your feeding your family? Find out with this app
+
+
+id: 2400 | rating: 5 | user: Chrisyxoxo | date: 2013-12-20 | time: 17:09:03.000Z
+
+--------------------------------------------------------------------
+                      Title: LOVE this app!
+--------------------------------------------------------------------
+
+I loveeeee this app I don't eat anything without checking the app first if you don't have it you have to get it! Do you know what your feeding your family? Find out with this app
+
+
+review id: 2405
+
+matches and contexts:
+
+match = preg
+context = his app is really helping me lose weight after my pregnancy.
+
+
+id: 2405 | rating: 5 | user: MsAngB | date: 2014-08-20 | time: 18:40:27.000Z
+
+--------------------------------------------------------------------
+                      Title: I like this app
+--------------------------------------------------------------------
+
+I'm not a dieter but wanted to get back on track making better food choices. This app is really helping me lose weight after my pregnancy.
+
+
+review id: 2514
+
+matches and contexts:
+
+match = preg
+context = foods I'm eating. Wish it had info or options for pregnant women (I put on 20 lbs in 3 months which 
+
+
+id: 2514 | rating: 4 | user: Lolzbag | date: 2013-03-11 | time: 12:52:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it
+--------------------------------------------------------------------
+
+I use this pretty much everyday. It's very simple and I'm always surprised at how little I know about the foods I'm eating. Wish it had info or options for pregnant women (I put on 20 lbs in 3 months which looks horrible on this app :-P), but otherwise it's great.
+
+
+review id: 3271
+
+matches and contexts:
+
+match = Milk
+context = of the time when I open the app, a banner for Soy Milk is displayed. When I close the ad my screen r
+
+
+id: 3271 | rating: 3 | user: SammieDavisJrJr | date: 2014-06-18 | time: 16:58:09.000Z
+
+--------------------------------------------------------------------
+                      Title: Please Fix the Banner
+--------------------------------------------------------------------
+
+50% of the time when I open the app, a banner for Soy Milk is displayed. When I close the ad my screen remains white. Very annoying and problem still occurs when I close the app and reopen it.
+
+
+review id: 3645
+
+matches and contexts:
+
+match = feeding
+context = st have" if you truly desire to know what you are feeding you body.
+
+
+id: 3645 | rating: 5 | user: Shamus323 | date: 2012-06-04 | time: 17:12:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Fooducate
+--------------------------------------------------------------------
+
+A very accurate and easy to use app; a "must have" if you truly desire to know what you are feeding you body.
+
+
+review id: 3695
+
+matches and contexts:
+
+match = preg
+context = oducts but overall helpful. I especially like the pregnancy feature.
+
+
+id: 3695 | rating: 4 | user: Medmommafitness | date: 2014-04-04 | time: 17:38:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app
+--------------------------------------------------------------------
+
+Still missing some food products but overall helpful. I especially like the pregnancy feature.
+
+
+review id: 3791
+
+matches and contexts:
+
+match = feeding
+context = one wanting to know more about the foods they are feeding themselves and their family. Very user fri
+
+
+id: 3791 | rating: 5 | user: VJ Marc | date: 2012-04-27 | time: 11:41:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Marc V
+--------------------------------------------------------------------
+
+Would recommend to anyone wanting to know more about the foods they are feeding themselves and their family. Very user friendly.
+
+
+review id: 4200
+
+matches and contexts:
+
+match = milk
+context = dwalla smoothie it gave me the alternative of soy milk, not a better juice.
+
+
+id: 4200 | rating: 4 | user: Swell nomad | date: 2011-12-16 | time: 08:36:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app
+--------------------------------------------------------------------
+
+It classifies food by letter grade help to gain a general idea about the products before you buy them. The alternatives option stinks like for a odwalla smoothie it gave me the alternative of soy milk, not a better juice.
+
+
+review id: 4352
+
+matches and contexts:
+
+match = feeding
+context = I have a 1 year old and I prefer feeding her fresh foods but it's hard to avoid pro
+
+
+id: 4352 | rating: 5 | user: Star c | date: 2012-01-29 | time: 14:43:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for toddlers
+--------------------------------------------------------------------
+
+I have a 1 year old and I prefer feeding her fresh foods but it's hard to avoid processed foods. This app helps figure out what's a good choice.
+
+
+review id: 5285
+
+matches and contexts:
+
+match = milk
+context = ubmitted are not there such as different types of milk and health food choices.
+
+
+id: 5285 | rating: 3 | user: Natandscotty | date: 2012-05-19 | time: 16:16:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Fooducate app
+--------------------------------------------------------------------
+
+Fooducate app has limited items in their database. So far way too many I have submitted are not there such as different types of milk and health food choices.
+
+
+review id: 5307
+
+matches and contexts:
+
+match = feeding
+context = t if you don't know them, you shouldn't really be feeding yourself. I mean "contains natural or arti
+
+
+id: 5307 | rating: 2 | user: binford2k | date: 2011-08-27 | time: 00:24:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Great idea, poor execution.
+--------------------------------------------------------------------
+
+Only gives you a handful of factoids and a grade, without explaining why it got the grade. And the factoids are so simple that if you don't know them, you shouldn't really be feeding yourself. I mean "contains natural or artificial sweeteners"?  I mean, really.
+
+
+review id: 5373
+
+matches and contexts:
+
+match = baby
+context = is app! Creating a healthy lifestyle is all about baby steps and this is a great tool to make it sup
+
+
+id: 5373 | rating: 5 | user: Coffeemama | date: 2011-08-06 | time: 12:55:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome!
+--------------------------------------------------------------------
+
+Love this app! Creating a healthy lifestyle is all about baby steps and this is a great tool to make it super easy!
+
+
+review id: 5653
+
+matches and contexts:
+
+match = feeding
+context = Very helpful for weight watchers and for feeding my daughter better.
+
+
+id: 5653 | rating: 5 | user: DoodlesMaa | date: 2012-06-11 | time: 15:50:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Wonderful
+--------------------------------------------------------------------
+
+Very helpful for weight watchers and for feeding my daughter better.
+
+
+review id: 6299
+
+matches and contexts:
+
+match = nurs
+context = As a nurse educator, I have my students use this - grea
+
+
+id: 6299 | rating: 5 | user: MJNurseS | date: 2012-11-17 | time: 13:24:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Fooducate
+--------------------------------------------------------------------
+
+As a nurse educator, I have my students use this - great info!
+
+
+review id: 6381
+
+matches and contexts:
+
+match = nurs
+context = As a nurse practitioner I will be recommending this to 
+
+
+id: 6381 | rating: 5 | user: LKDH | date: 2011-05-16 | time: 14:08:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Works well
+--------------------------------------------------------------------
+
+As a nurse practitioner I will be recommending this to my patients
+
+
+review id: 6501
+
+matches and contexts:
+
+match = baby
+context =  great app!  I'm using it to help me buy the best baby food.
+
+
+id: 6501 | rating: 5 | user: Erin14420 | date: 2011-05-10 | time: 22:42:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this!
+--------------------------------------------------------------------
+
+This is a great app!  I'm using it to help me buy the best baby food.
+
+
+review id: 9122
+
+matches and contexts:
+
+match = baby
+context = re it gives organic earth's best stage one banana baby food. However, if you're in the mood for a be
+
+
+id: 9122 | rating: 2 | user: Confused | date: 2011-04-08 | time: 02:32:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Maybe all I know is wrong?
+--------------------------------------------------------------------
+
+This app doesn't make much sense to me. For example, it gives kraft macaroni and cheese a c+. Which happens to be the same score it gives organic earth's best stage one banana baby food. However, if you're in the mood for a better alternative to the original kraft mac n' cheese, you're in luck. The kraft mac n' cheese with  Shrek noodles is a B. This app gives you healthier alternatives to all other products as well. Did you know water is a better alternative than coke? Download this app and you'll be able to blow people's minds too! Great concept, but right now this is kinda useless...to me at least.
+
+
+review id: 9218
+
+matches and contexts:
+
+match = nursing
+context = As a college nursing student, I'm Interested in trying to eat t
+
+match = nurs
+context = As a college nursing student, I'm Interested in trying to eat t
+
+
+id: 9218 | rating: 5 | user: amensign1017 | date: 2011-04-05 | time: 21:29:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing App!
+--------------------------------------------------------------------
+
+As a college nursing student, I'm Interested in trying to eat the healthiest foods possible. This app is great for that! It reveals things about foods that are difficult to understand by simply reading the label. I love looking at all the healthy alternatives the app offers you and it is very easy to use! I definitely recommend this app.
+
+
+review id: 9264
+
+matches and contexts:
+
+match = milk
+context = ure too.  It would be amazing to warn for gluten, milk, nuts, etc.
+
+
+id: 9264 | rating: 5 | user: Dragonslsayer | date: 2011-03-18 | time: 23:31:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome!
+--------------------------------------------------------------------
+
+I would love to see this app handle food allergies in the future too.  It would be amazing to warn for gluten, milk, nuts, etc.
+
+

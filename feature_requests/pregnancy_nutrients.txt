@@ -1,0 +1,181 @@
+'Pregnancy' related feature requests in nutrients reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 10
+
+
+review id: 105
+
+matches and contexts:
+
+match = milk
+context = 0 versions of yogurt before I get to plain, whole milk yogurt. It would be worth it if additional nu
+
+
+id: 105 | rating: 3 | user: Edenwild | date: 2013-05-09 | time: 17:04:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Overwhelming
+--------------------------------------------------------------------
+
+On the old version I complained they didn't list enough foods....but now there are too many! The original had only real, whole foods listed, now it's got those plus a boatload of processed foods, which I almost never eat. It's nice I can finally look up yogurt (a food missing from previous version), but I have to scroll through like 50 versions of yogurt before I get to plain, whole milk yogurt. It would be worth it if additional nutrients were added (like choline, omega fats, etc) but they weren't. And some foods I eat still aren't listed. Sigh. Hopefully it will be worth it for the foods I eat that weren't in the previous version but made it in this one.
+
+
+review id: 108
+
+matches and contexts:
+
+match = preg
+context = he purpose of tracking my vitamin needs during my pregnancy.  So it would be extremely helpful  if t
+
+
+id: 108 | rating: 3 | user: PinAddict78 | date: 2015-01-01 | time: 15:05:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Great start, but missing just a few things
+--------------------------------------------------------------------
+
+For what is available, this is the best app I found for what I needed.  However there are a few things that would make this a great app!  First, my purpose is to track my nutrients every day. But the journal does not allow you to go back and edit a day's items. This was a real bummer.  I woke up this morning and was forced to enter my food items from last night, on today's date.  Also, I am using this for the purpose of tracking my vitamin needs during my pregnancy.  So it would be extremely helpful  if there was some way to calculate everything daily.   There is no other app out there that does this.  If these two functions were added, I am sure you could definitely increase your revenue.  Especially if you would promote it to the pregnancy community.  Finally, it would be great if you simply added a notes page. Where users could take personal notes. Ideally, integrated into the journal page some how.  I am calculating my nutrients and storing key details in a notepad.  I am sure this one is probably an easy add.
+
+
+review id: 114
+
+matches and contexts:
+
+match = nursing
+context = This is great! Having been in nursing and want to feed myself and family nutriti
+
+match = nurs
+context = This is great! Having been in nursing and want to feed myself and family nutriti
+
+
+id: 114 | rating: 5 | user: Sunshines49 | date: 2013-05-21 | time: 11:41:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Foodle
+--------------------------------------------------------------------
+
+This is great! Having been in nursing and want to feed myself and family nutritious foods...this helps me a lot.
+
+
+review id: 140
+
+matches and contexts:
+
+match = milk
+context = ed.  Please add CHOCOLATE! Different kinds; dark, milk, etc., for those of us who want to dissect ou
+
+
+id: 140 | rating: 5 | user: iron bridge | date: 2011-07-01 | time: 14:08:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Keep going!
+--------------------------------------------------------------------
+
+This is a helpful app. If you don't see the food you want be PATIENT. There are updates. Just got one that added things people requested.  Please add CHOCOLATE! Different kinds; dark, milk, etc., for those of us who want to dissect our chocolate lives. Keep adding more foods. It is so interesting to analyze what you eat.
+
+
+review id: 184
+
+matches and contexts:
+
+match = milk
+context = ls for the doctor. Couldn't you add these to your milk category?
+
+
+id: 184 | rating: 4 | user: LMgrafix | date: 2012-09-23 | time: 15:43:24.000Z
+
+--------------------------------------------------------------------
+                      Title: ALMOST THERE
+--------------------------------------------------------------------
+
+I like your program very much - works great on iPad 3, but wish there was a dairy category with butters, cottage cheese, sour cream, yogurt, etc. I found this to be a glaring omission when figuring each days food totals for the doctor. Couldn't you add these to your milk category?
+
+
+review id: 188
+
+matches and contexts:
+
+match = milk
+context =  cup, 1 small, etc). I noticed unsweetened almond milk is not listed or traditional rolled oats. Als
+
+
+id: 188 | rating: 3 | user: Moi, monsieur | date: 2015-01-26 | time: 08:04:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Needed info
+--------------------------------------------------------------------
+
+Great thorough info and good selection on quantities of each item (eg: apple 1 /2 cup, 1 small, etc). I noticed unsweetened almond milk is not listed or traditional rolled oats. Also, caffeine isn't transferring to Health app when "journal"-ing my coffee intake. Makes me wonder what other categories aren't being transferred accurately either.
+
+
+review id: 331
+
+matches and contexts:
+
+match = milk
+context = They don't have almond milk or coconut milk listed which is surprising. H
+
+
+id: 331 | rating: 4 | user: pentaxkt | date: 2011-06-09 | time: 17:03:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it...but
+--------------------------------------------------------------------
+
+They don't have almond milk or coconut milk listed which is surprising. Hopefully it will get added in an update.
+
+
+review id: 342
+
+matches and contexts:
+
+match = preg
+context = Very informative. I'm pregnant and it was nice to know some of this stuf
+
+
+id: 342 | rating: 5 | user: Kendra2009 | date: 2011-05-14 | time: 04:39:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Great Info.
+--------------------------------------------------------------------
+
+Very informative. I'm pregnant and it was nice to know some of this stuff.
+
+
+review id: 512
+
+matches and contexts:
+
+match = milk
+context = nconventional items such a soy based products(soy milk, tofu, tempeh, etc.) as well as almond or ric
+
+
+id: 512 | rating: 4 | user: Jwussta32 | date: 2011-04-06 | time: 12:36:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+Very informative. Needs to include more unconventional items such a soy based products(soy milk, tofu, tempeh, etc.) as well as almond or rice milk. Otherwise great.
+
+
+review id: 582
+
+matches and contexts:
+
+match = milk
+context = s, edamame in and out of the pods, pumpkin, tofu, milk, yogurt, butter, oils and nut butters.  Also 
+
+
+id: 582 | rating: 3 | user: Elyse4design | date: 2011-02-21 | time: 16:08:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Good so far
+--------------------------------------------------------------------
+
+Could use grains, edamame in and out of the pods, pumpkin, tofu, milk, yogurt, butter, oils and nut butters.  Also a way to search for the best sources of various nutrients.
+
+

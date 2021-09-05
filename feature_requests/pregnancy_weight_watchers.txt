@@ -1,0 +1,1187 @@
+'Pregnancy' related feature requests in weight_watchers reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 66
+
+
+review id: 8
+
+matches and contexts:
+
+match = preg
+context = t the program a few months later because I became pregnant, but came back as soon as I could, and I 
+
+
+id: 8 | rating: 4 | user: Yohuallix | date: 2020-06-04 | time: 18:23:39.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s getting better with each upgrade
+--------------------------------------------------------------------
+
+I first became a WW member 3 years ago, and back then, the app was pretty nice. Unfortunately, my heart wasn’t in the right place and I ended up leaving the program a month later. I gave it a second chance a year ago, and I found the app to be better than the last time I used it, because they added the barcode reader and definitely made tracking easier. I left the program a few months later because I became pregnant, but came back as soon as I could, and I was totally amazed with the upgraded app. It has a way bigger library than it used to, and it’s even more user friendly. The only reason I didn’t gave it 5 stars is because sometimes it’s hard to find some items. For instance, the other day I was looking for “fresh strawberries” in the search engine because I wanted to track it, but because I was searching for other packaged snacks before that, the option list only offered stuff like “frozen strawberries”, “dried strawberries”, “strawberry cereal”, etc. I got tired of scrolling down looking for what I wanted, so I waited to track the strawberries later in the day. I know this could be solved if I save the items I want, so it’s easier for the search engine to figure out what I’m looking for, but sometimes I forget (yes, I suffer from “mommy-brain”). I don’t know if the problem can be fixed, but it would be great if it could.
+
+
+review id: 88
+
+matches and contexts:
+
+match = Nurs
+context = ns of failure in my body that my P.A., Sister and Nurse, fiancé had identified. Main indicator was t
+
+
+id: 88 | rating: 5 | user: Pvtclubs | date: 2020-08-28 | time: 15:48:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Game Changer
+--------------------------------------------------------------------
+
+I’ll keep it brief... so I bought a scale after 3 years of not owning one and was up to 265 from 235. I had started showing signs of failure in my body that my P.A., Sister and Nurse, fiancé had identified. Main indicator was the fluid on my ankles. Especially after eating anything with salt. After researching, I decided to try the WW app. In 6 months I’m down to 228 and headed to my goal of 215. No more swelling of the ankles and I can even have salt again without it creating an issue. One thing that the app has really done for me is to make different choices across the board. That is the true feature that can change the same old game that we have played, probably, our whole life with the weight roller coaster (which is really bad for you). Feeling great physically and mentally and looking forward to living longer because of the choices that WW has educated me to make. Of course, I already knew what I needed to do but this technic that why have created after decades of work, really hits you in the forehead like a 2x4! CHOOSE LIFE!
+
+
+review id: 111
+
+matches and contexts:
+
+match = breastfeed
+context =  so adaptable and friendly and even caters to the breastfeeding mom like myself. Sure, sometimes the
+
+match = feeding
+context = aptable and friendly and even caters to the breastfeeding mom like myself. Sure, sometimes the app h
+
+
+id: 111 | rating: 4 | user: MrmH2016 | date: 2018-10-22 | time: 15:07:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Fantastic program!
+--------------------------------------------------------------------
+
+I’ve comeback to say that I deleted and re-downloaded the app which completely fixed the problem I was having on my watch. I love this program. I’ve done WW on and off for years and this go round is the most successful I’ve been. I started faithfully tracking on 8/27 and since that time I’m down 12 pounds. I’ve been doing so well that my husband even decided to join and he’s lost 22! Then, my brother and sister in law were on board and they’ve also lost in just the few short weeks they’ve joined. This program is so adaptable and friendly and even caters to the breastfeeding mom like myself. Sure, sometimes the app has glitches and bugs, but all apps do and this one isn’t perfect by any means but it’s never hindered my success on the program. I highly recommend the new freestyle/WW program. Get together with a supportive person and do it together, it’ll make it so much easier and when you refer a friend through their email you both get a free month! Don’t put your health off for another day!
+
+
+review id: 236
+
+matches and contexts:
+
+match = milk
+context = ot and lose weight! I went from eating cereal and milk for breakfast to eating plain Greek yogurt wi
+
+
+id: 236 | rating: 5 | user: Barry Brian | date: 2019-07-18 | time: 18:00:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Finally, I can lose weight and not feel hungry!
+--------------------------------------------------------------------
+
+In the past, I had used apps like MyFitnessPal that do a great job of tracking calories. I would faithfully track the calories while I gained weight. By contrast, the WW app counts points, not calories. This app enables me to eat a lot and lose weight! I went from eating cereal and milk for breakfast to eating plain Greek yogurt with fresh fruit. For lunch I would eat cut up chicken breast in low point soup. At the grocery store, the app’s barcode reader would let me (actually my wife) scan sauces on the shelf to find the ones that were zero or low points, i. e., those that did not have added sugar. With the help of this app I had lost 18 pounds in two months and was on lifetime six weeks later. I have continued to eat a low-carb diet and have lost 33 pounds, which is Closer to an ideal weight even though that is below my goal weight.
+
+
+review id: 249
+
+matches and contexts:
+
+match = breastfeed
+context = I love WW! With three young children, and still breastfeeding I needed something to keep myself ho
+
+match = milk
+context =  wanted to lose some baby weight while keeping my milk and helping my energy level so I could keep u
+
+match = baby
+context = water intake and nutrition. I wanted to lose some baby weight while keeping my milk and helping my e
+
+match = feeding
+context = ve WW! With three young children, and still breastfeeding I needed something to keep myself honest w
+
+
+id: 249 | rating: 5 | user: momming machine | date: 2021-03-06 | time: 19:06:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Breastfeeding mother
+--------------------------------------------------------------------
+
+I love WW! With three young children, and still breastfeeding I needed something to keep myself honest with my water intake and nutrition. I wanted to lose some baby weight while keeping my milk and helping my energy level so I could keep up with my children and be all in for my beautiful life! Weight Watchers mobile was the answer! In 9 weeks I have lost 16 pounds and my milk supply has actually gone up! I sleep better and I’m not so tired and cranky all the time, definitely have more energy! The app is so convenient because it keeps track of all my health data in one spot and links to my Fitbit! I have my points, my water, my exercise and sleep all tracked in one spot! And I love the green plan with all its 0 point snack options to fill me up with healthy energy and I don’t have to track them when I’m on the go!
+
+
+review id: 255
+
+matches and contexts:
+
+match = preg
+context = in in June. I was the heaviest I’d had ever been, pregnancies included. I hadn’t heard of the new ap
+
+
+id: 255 | rating: 5 | user: Csugar5 | date: 2019-12-23 | time: 16:07:55.000Z
+
+--------------------------------------------------------------------
+                      Title: WW App
+--------------------------------------------------------------------
+
+Over the years I have used the Weight Watchers program with initial success, and then the tracking and calculating would become too arduous. Eventually, I’d go back to my old habits and the weight would come back on, plus. I joined WW again in June. I was the heaviest I’d had ever been, pregnancies included. I hadn’t heard of the new app, but was ready to work the program again. At 65, I knew I had a long road ahead of me. Then I used the new app! It has truly changed my life! The app makes it very easy to track, calculate points and best of all the information is at my fingertips! No more hunting for my tracking book, adding and re-adding to be sure my totals are correct. With the app, there is only success ahead of me! I have lost 30 pounds to date.  I hope to reach my goal weight by the beginning of the new year! Thank you WW!
+
+
+review id: 280
+
+matches and contexts:
+
+match = preg
+context = d I needed help losing weight I had gained with a pregnancy over 4 years ago. Years ago I had to eit
+
+
+id: 280 | rating: 5 | user: MistyYandell | date: 2019-03-16 | time: 19:18:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Losing weight thanks to this app!!!
+--------------------------------------------------------------------
+
+I returned to WW after I realized I needed help losing weight I had gained with a pregnancy over 4 years ago. Years ago I had to either write everything on a tracking paper or use the little points counter which was a step up. This app blows every past method away. It helps me easily track my daily points, scans barcodes so I can quickly check things as I grocery shop, has tons of wonderful recipes for any food you can imagine and there is even a social media site where you can post, comment, or just scroll to see how other members are doing. I can not recommend this app enough to anyone who is already a member and not really using it or to anyone contemplating taking that step to join. I’m down over 15 pounds in 2 months and still going strong.
+
+
+review id: 321
+
+matches and contexts:
+
+match = postp
+context = Is it a day of maintaining, losing or a choice to postpone my goal? I wouldn’t know, without the app
+
+
+id: 321 | rating: 4 | user: Tract With App | date: 2019-04-20 | time: 02:11:47.000Z
+
+--------------------------------------------------------------------
+                      Title: The App Keeps Me on Tract
+--------------------------------------------------------------------
+
+The WW App sets the program apart from all the other weight loss programs. The ability to scan store products removes guesswork and tedious calculations. Those are huge barriers to staying on a program. The database of exiting food points and restaurant foods educate me and help me learn about healthy choices. Reading about the success of others, seeing pictures of their transformations and getting support from others in the Connect feature is a great motivational tool. I’m impressed by the frequency of improvements in the app. Most recently features like Siri and fitness coaches have been added bonuses. Uses of the app keeps me on track because it’s become a valuable research tool and a habit that keeps me mindful of my status each day. Is it a day of maintaining, losing or a choice to postpone my goal? I wouldn’t know, without the app.
+
+
+review id: 355
+
+matches and contexts:
+
+match = nursing
+context =  that too. I am the member who lives in a skilled nursing home and share about how I have to do this
+
+match = nurs
+context =  that too. I am the member who lives in a skilled nursing home and share about how I have to do this
+
+
+id: 355 | rating: 5 | user: brewsterdoggie | date: 2021-03-01 | time: 19:24:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Connect on the WW app is Great!!!
+--------------------------------------------------------------------
+
+I use Connect every day to help myself and others. My encouragement can make a difference for someone who is having a rough time of it in their life. I particularly share with those with alcohol and sugar problems as I have that too. I am the member who lives in a skilled nursing home and share about how I have to do this eating institutional food. I would love to cook and make those zero points meals but I still have mostly blue dot days. I have had my room redone here and completely changed the atmosphere to make my space special and beautiful with paintings from my travels and hobbies. I would not have been able to do this without Weight Watchers and the support I receive from my coach, my followers on Connect and my saint of a supportive husband.
+
+
+review id: 511
+
+matches and contexts:
+
+match = preg
+context = ns) and I personally don’t care to scroll through pregnancy announcements, videos of people’s pet du
+
+
+id: 511 | rating: 2 | user: Logo Maker Krissy | date: 2018-02-03 | time: 03:39:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Could be a lot better
+--------------------------------------------------------------------
+
+This app is great for tracking foods, scanning barcodes, and tracking weight. However, I feel like it’s upgrades behind where it needs to be to compete with other food/fitness apps. Connect is great, but it’s so slow. I scroll through 5 posts and I have to sit and wait until more populate and sometimes that means the app makes me start from the beginning. Also, when I scroll, I end up “liking” every post because the touch it’s so sensitive compared to other apps. I wish the app had algorithmic technology. I like to look at about 2 different kinds of posts (low point meals, transformations) and I personally don’t care to scroll through pregnancy announcements, videos of people’s pet ducks, or acceptance into the peace corps. The app can also just stop working and slow down—that should not happen to a company with over 1 million subscribers.
+
+
+review id: 606
+
+matches and contexts:
+
+match = milk
+context = e really random answers. For example, say I type “milk,” I might get “milk duds” or “creamy pasta” o
+
+
+id: 606 | rating: 3 | user: Kimcheru | date: 2020-09-18 | time: 13:05:52.000Z
+
+--------------------------------------------------------------------
+                      Title: For the most part...
+--------------------------------------------------------------------
+
+For the most part, the app is great. However, there have been numerous times, almost a daily basis where I’ll type a food in and get some really random answers. For example, say I type “milk,” I might get “milk duds” or “creamy pasta” or “potatoes.” Ok, it may not be that random but it doesn’t always bring up the item I am trying to find. It seems like it is the simple stuff that I have more of an issue with.
+
+
+review id: 609
+
+matches and contexts:
+
+match = MILK
+context = ome of the things i didnt think were too bad like MILK could actually be one of my worst food items 
+
+
+id: 609 | rating: 5 | user: Weefaerie | date: 2019-10-20 | time: 20:10:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Willpower App
+--------------------------------------------------------------------
+
+This program has helped me so much. Im always on my phone and scheduling work and home. I have always been on the heavy side and thought i would have to think seriously about  surgery to help me find the Willpower to not eat so poorly.  I dont eat a lot of sweets. Im a meat and potatoes girl. This app has changed my life. I didnt realize some of the things i didnt think were too bad like MILK could actually be one of my worst food items because of the quantity daily. In 25 days I have lost 26 pounds. I really do have more energy and look forward to learning more about a healthier me. Im 45 and the future looks bright.  I would say Good Luck but if you follow the app you wont need it. 🧚🏻‍♀️
+
+
+review id: 688
+
+matches and contexts:
+
+match = milk
+context = I always have black tea with one tablespoon of 1% milk- it’s not listed at all when every other comb
+
+
+id: 688 | rating: 5 | user: magsmd | date: 2019-06-18 | time: 20:18:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Like the app but would like some extra features
+--------------------------------------------------------------------
+
+It’s easy to use mostly. It’s a bit of a hassle to make my own meals . For example I always have black tea with one tablespoon of 1% milk- it’s not listed at all when every other combination of tea and milk is! I haven’t bothered to make my own so I’m just approximating.
+
+
+review id: 734
+
+matches and contexts:
+
+match = baby
+context = been able to lose weight on my own—until my third baby! I have struggled with 20 lbs for 2 years now
+
+
+id: 734 | rating: 5 | user: sellmajr | date: 2021-04-21 | time: 14:46:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy and creates mindfulness
+--------------------------------------------------------------------
+
+I am a person who has always been able to lose weight on my own—until my third baby! I have struggled with 20 lbs for 2 years now and needed something simple to help me along. Within the first day I realized how many snacks and extra servings of food have been standing in my way of weight loss. Yesterday was a hard day and I splurged on a high calorie protein bar which put me over my points, but today is better. It just creates simple boundaries and reminders of food choices! For some reason i also find that it encourages exercise, I’m sure there’s some psychology to this with the app. It works!
+
+
+review id: 828
+
+matches and contexts:
+
+match = baby
+context = ry of joining WW.  I am learning its. benefits in baby steps!  It is helping me add another arrow to
+
+
+id: 828 | rating: 5 | user: ET2E | date: 2019-09-01 | time: 20:58:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Baby steps
+--------------------------------------------------------------------
+
+I signed up for etools at three months before my fourth anniversary of joining WW.  I am learning its. benefits in baby steps!  It is helping me add another arrow to my quiver satchel to accomplish my weight, fitness, and wellness goals as well as community strong input and ideas in good, cooking, shopping, moving, mental health and me time as well as leaning the app!  We are stronger together in the real and digital worlds!  Playing darts and archery helps with the metaphor of thinking about scale and non scales successes and failures.  I embrace each outcome on my journey as each shine the path to value, wholeness and a good life!  One baby step at a time!  As marathoners know, the tortoise over the hare!
+
+
+review id: 842
+
+matches and contexts:
+
+match = milk
+context = when I just tested it) return, “oatmeal,” “almond milk,” “chicken broth.”
+
+
+id: 842 | rating: 1 | user: Catelab | date: 2019-03-20 | time: 17:36:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazed by the high reviews
+--------------------------------------------------------------------
+
+The bad: This app is basically a webpage that searches for foods to match your search criteria. But about 65% of the time, I will search for “vegetables” and the search results will (as they did when I just tested it) return, “oatmeal,” “almond milk,” “chicken broth.”
+
+
+review id: 891
+
+matches and contexts:
+
+match = preg
+context = ription through iTunes. Six months later I became pregnant. Weight watchers does not allow you to do
+
+
+id: 891 | rating: 4 | user: Jaime3lee | date: 2018-12-06 | time: 00:40:22.000Z
+
+--------------------------------------------------------------------
+                      Title: DO NOT BUY THE PLAN THROUGH ITUNES
+--------------------------------------------------------------------
+
+Weight watchers is incredible. I rate this so low just to warn you not to purchase a weight watchers plan through iTunes. Just do it right through weight watchers. I bought a year subscription through iTunes. Six months later I became pregnant. Weight watchers does not allow you to do their program while pregnant. Weight watchers would have refunded my money. iTunes refuses. They said it’s outside of their refund timeframe. So now I have a plan that I can’t even use. I am very upset with iTunes. It’s about $110. This is a special circumstance and they couldn’t even make an exception. DO NOT BUY THROUGH ITUNES! (Weight watchers is great though and I highly recommend it!)
+
+
+review id: 1058
+
+matches and contexts:
+
+match = preg
+context = This app has helped me go from post pregnancy weight of 154 pounds to 125 pounds. I li
+
+
+id: 1058 | rating: 5 | user: eamdahl | date: 2021-07-08 | time: 02:54:03.000Z
+
+--------------------------------------------------------------------
+                      Title: I love this app
+--------------------------------------------------------------------
+
+This app has helped me go from post pregnancy weight of 154 pounds to 125 pounds. I like how It is simple to use and cost very little compared to other food tracker apps. They have lots of resources such as recipes, tips, and weekly goal setting. It has motivated me to stay on track with what I’m eating and working out daily. The points are given for each individual persons weight goals. You can also earn points daily and use those points that you earn for prizes. If you are self motivated to lose the weight or get fit this app can help you get there.
+
+
+review id: 1073
+
+matches and contexts:
+
+match = preg
+context = hers two years ago and lost 30 pounds. Then I got pregnant and had to stop. After my delivery I had 
+
+match = postpartum
+context = pregnant and had to stop. After my delivery I had postpartum depression and gained more weight than 
+
+match = postp
+context = pregnant and had to stop. After my delivery I had postpartum depression and gained more weight than 
+
+
+id: 1073 | rating: 5 | user: Lrojas86 | date: 2019-05-09 | time: 17:42:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app!
+--------------------------------------------------------------------
+
+I’ve struggled with my weight all my life. I did weight watchers two years ago and lost 30 pounds. Then I got pregnant and had to stop. After my delivery I had postpartum depression and gained more weight than during my pregnancy. I had pain in my joints and couldn’t even wear my wedding band. I decided to sign up again with just the app and within the first week not only did my joint pain stop but my wedding band fit again. It’s not a diet but it’s a way to teach yourself to eat the foods that are beneficial for your body instead of those that don’t. It’s definitely worth it.
+
+
+review id: 1172
+
+matches and contexts:
+
+match = nurs
+context = ike after midnight I can stop eating either. As a nurse we have a high demand job and need food to f
+
+
+id: 1172 | rating: 5 | user: Kay2dajay24 | date: 2020-07-22 | time: 20:59:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Third shifter
+--------------------------------------------------------------------
+
+This app is okay.  I just wish they would add a feature for people who aren’t on a first shift eating habit. I’m a third shifter and it’s kinda annoying I have to spilt my points for one of my days between two days. Or I don’t use all my points. I’m sure there are many people who work different shifts that struggle with this. It’s not like after midnight I can stop eating either. As a nurse we have a high demand job and need food to fuel our energy for our long shift. So please make it third shift friendly not everyone is on the normal 24 hour day
+
+
+review id: 1236
+
+matches and contexts:
+
+match = preg
+context = I left WW a year and a half ago because I got pregnant. Just joined back and the app is so cumbe
+
+
+id: 1236 | rating: 2 | user: sdmbcp | date: 2021-01-21 | time: 12:49:34.000Z
+
+--------------------------------------------------------------------
+                      Title: The app is not user friendly or easy to navigate
+--------------------------------------------------------------------
+
+I left WW a year and a half ago because I got pregnant. Just joined back and the app is so cumbersome and not user friendly. I can’t find where to weigh in without scrolling all over and clicking all the icons on the bottom. My scanned food list has never updated - it has random things from 2-3 years ago that I can’t remove but if I scanned something 5 minutes ago it won’t show up (it has been like that since I downloaded the app originally). I think WW tried to simplify the app’s appearance but it is difficult to navigate. I would appreciate a new, straight forward app. I’m not downloading it for aesthetics; I am downloading it to work for me.
+
+
+review id: 1403
+
+matches and contexts:
+
+match = milk
+context =  app how you do it. Technically I could drink one milkshake a day and an app and be within points. B
+
+
+id: 1403 | rating: 5 | user: Courtsize | date: 2018-02-16 | time: 17:36:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Helping me stay on track!
+--------------------------------------------------------------------
+
+Joined WW on jan 10th and I’m down 10 so far with the help of this app. Only one enhancement I would suggest is a break down somewhere that it tells you “you ate these many carbs, this much in sugar, you need to eat more fruits/veggies.”  Weight watchers is great because it sets you up for a lifetime of mindfulness but they need to emphasize in the app how you do it. Technically I could drink one milkshake a day and an app and be within points. But that’s clearly not setting me up long term. It would be nice to know where I need to improve.
+
+
+review id: 1516
+
+matches and contexts:
+
+match = nurs
+context = As a busy wife, mother & nurse, it’s hard staying on track sometimes. Over 
+
+
+id: 1516 | rating: 5 | user: determined wife/mom/nurse | date: 2019-05-03 | time: 15:04:17.000Z
+
+--------------------------------------------------------------------
+                      Title: The best!
+--------------------------------------------------------------------
+
+As a busy wife, mother & nurse, it’s hard staying on track sometimes. Over the last 5 years I’ve tried multiple ‘weight loss’ apps, with little success. WW has been a game changer. Weight loss is 80% food intake. Many people forget this. Even myself! WW lays a solid foundation for you to be able to make the best, healthiest food choices. I gave up too soon when I began this program over a year ago. I thought a month was long enough & I was wrong! I restarted on 3/6/19 & I’m down 20#! I recommend WW to anyone!
+
+
+review id: 1797
+
+matches and contexts:
+
+match = baby
+context = he long trip to Sweden this summer to see the new baby. The app is simple to follow and use and we w
+
+
+id: 1797 | rating: 5 | user: turkey4eva1 | date: 2020-01-10 | time: 18:59:22.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s a new beginning.......again
+--------------------------------------------------------------------
+
+My husband and I are once again starting our Weigjt Watchers journey. We hope we can discipline ourselves to see it through. We recently found out we are going to be grandparents and we want to be healthy enough to make the long trip to Sweden this summer to see the new baby. The app is simple to follow and use and we want to try all the recipes. Thank you for being so patient and forgiving with us. This time we have a purpose and goal!
+
+
+review id: 1841
+
+matches and contexts:
+
+match = baby
+context = y to track my points and stay on track. Blue dots baby.  Connect is awesome, wish I could like and r
+
+
+id: 1841 | rating: 5 | user: Lization | date: 2017-09-19 | time: 15:09:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app!
+--------------------------------------------------------------------
+
+I love the app. So easy to track my points and stay on track. Blue dots baby.  Connect is awesome, wish I could like and reply to comments though. Not sure why so many people are complaining about logging in and getting logged out.  That never happens to me.  Maybe it's a phone setting?? I use iPhone and I'm just logged in all the time.  Do wish the good I eat just about everyday would be in the look up window. Easier to track.  Overall, love the app and WW!!
+
+
+review id: 2165
+
+matches and contexts:
+
+match = preg
+context = I used WW after each of my 3 pregnancies and lost weight. Years later, after pu
+
+
+id: 2165 | rating: 5 | user: Btmomof3 | date: 2021-04-29 | time: 20:02:25.000Z
+
+--------------------------------------------------------------------
+                      Title: I love WW!
+--------------------------------------------------------------------
+
+I used WW after each of my 3 pregnancies and lost weight. Years later, after putting on weight due to my own eating issues, I tried every diet one could imagine and none of them worked. It took so many attempts at trying to lose weight and then seeing a friend and her husband do WW that I decided to go back to what works. I put my husband, son and I on WW and the results are amazing! Altogether we lost almost 35lbs in 2 months. WW works...period!
+
+
+review id: 2294
+
+matches and contexts:
+
+match = baby
+context = W point system,  I lost 20 pounds before I had my baby back in 2012.  This is the second time I am t
+
+
+id: 2294 | rating: 4 | user: Military Proud | date: 2019-03-20 | time: 22:47:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Point system
+--------------------------------------------------------------------
+
+I still miss the old WW point system,  I lost 20 pounds before I had my baby back in 2012.  This is the second time I am trying this system,  and the only way it seems to get the most out my points is low fat and no fat.  It is advertised you can eat what you want but in reality that is if it is no fat or low fat or eat 0 points to save for the meal you want.  I would like a choice which system I want to use when I am paying for it.  I want the old 2012 version.
+
+
+review id: 2317
+
+matches and contexts:
+
+match = milk
+context = r we used to track fruits and veggie servings and milk servings...maybe that’s next.  Bring it on wh
+
+
+id: 2317 | rating: 5 | user: sleepy water | date: 2020-10-25 | time: 03:38:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the new updates: water and sleep
+--------------------------------------------------------------------
+
+I am still working during this pandemic yet my job duties are slow, allowing me to either grab snacks (😔) or catch up on this app (🥳).  I enjoy the new addition of tracking water and sleep.  I’m wondering about what we will track next? I remember we used to track fruits and veggie servings and milk servings...maybe that’s next.  Bring it on while keeping the great encouragement from leaders and members.  Thank you, WW!
+
+
+review id: 2435
+
+matches and contexts:
+
+match = milk
+context = y unrelated foods. E.g., salmon might give you soymilk, bagel, and apple. If you backspace to remove
+
+
+id: 2435 | rating: 2 | user: Rexiana | date: 2021-01-18 | time: 02:24:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Infuriating bugs
+--------------------------------------------------------------------
+
+2 major bugs. 1-Searching for a food is difficult. If you let your phone autocomplete a word, search finds completely unrelated foods. E.g., salmon might give you soymilk, bagel, and apple. If you backspace to remove the final few letters, you get better results.
+
+
+review id: 2534
+
+matches and contexts:
+
+match = breastfeed
+context = enge. There aren’t many options for dieting while breastfeeding. This app is so breastfeeding friend
+
+match = baby
+context = Having a baby and being postpartum trying to loose weight i
+
+match = postpartum
+context = Having a baby and being postpartum trying to loose weight is a challenge. 
+
+match = postp
+context = Having a baby and being postpartum trying to loose weight is a challenge. 
+
+match = feeding
+context = There aren’t many options for dieting while breastfeeding. This app is so breastfeeding friendly and
+
+
+id: 2534 | rating: 5 | user: ENC120 | date: 2021-07-17 | time: 18:30:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Love WW
+--------------------------------------------------------------------
+
+Having a baby and being postpartum trying to loose weight is a challenge. There aren’t many options for dieting while breastfeeding. This app is so breastfeeding friendly and I have been able to loose the baby weight, then some and maintain my supply! I love the ease of the app and how most things I’ve ever searched comes up. I can still eat so many normal things and it’s part of my lifestyle. Love and recommend it!
+
+
+review id: 2719
+
+matches and contexts:
+
+match = breastfeed
+context = hier choices and was also super helpful during my breastfeeding journey. It was nice having so many 
+
+match = feeding
+context = hoices and was also super helpful during my breastfeeding journey. It was nice having so many points
+
+
+id: 2719 | rating: 5 | user: kw2214 | date: 2021-05-24 | time: 22:07:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to navigate and helps keep me motivated.
+--------------------------------------------------------------------
+
+I love the suggestions for things to work on through the week when you do your weekly check in! My other favorite thing is that you never run out of something you can eat. It helps steer me toward healthier choices and was also super helpful during my breastfeeding journey. It was nice having so many points during that time!!
+
+
+review id: 2727
+
+matches and contexts:
+
+match = baby
+context =  a week. And my days off I spend watching a grand baby so my daughter can finish school. So my downt
+
+
+id: 2727 | rating: 5 | user: Mommastaf | date: 2021-02-14 | time: 20:11:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Accountability
+--------------------------------------------------------------------
+
+I work many hours a week. And my days off I spend watching a grand baby so my daughter can finish school. So my downtime is very limited. I appreciate doing everything remotely and would prefer this even if we were not in a pandemic. I love the app. I love scanning items for points before I think about eating them. Planning is huge for my success and this app helps me do that. Thank you!
+
+
+review id: 2991
+
+matches and contexts:
+
+match = preg
+context = nts for several years (minus a hiatus while I was pregnant in 2016) and I have found that this versi
+
+
+id: 2991 | rating: 5 | user: Pegster P | date: 2017-12-16 | time: 19:42:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Major improvement to old version!
+--------------------------------------------------------------------
+
+I have been using the app to track my smart points for several years (minus a hiatus while I was pregnant in 2016) and I have found that this version is much more user friendly! The implementation of the Blue Dots and the fact that they are now visible from the home page (without going into the calendar view) has helped motivate me emensely!
+
+
+review id: 3148
+
+matches and contexts:
+
+match = baby
+context = om of a potty training two year old and a nursing baby). Sleep isn’t always an option. The reasons y
+
+match = nursing
+context =  (like mom of a potty training two year old and a nursing baby). Sleep isn’t always an option. The r
+
+match = nurs
+context =  (like mom of a potty training two year old and a nursing baby). Sleep isn’t always an option. The r
+
+
+id: 3148 | rating: 5 | user: krissy576 | date: 2021-08-18 | time: 20:14:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Great with a few tweeks
+--------------------------------------------------------------------
+
+I absolutely love the app! I wish there were more considerations for reasons you can’t sleep (like mom of a potty training two year old and a nursing baby). Sleep isn’t always an option. The reasons you can chose from are just stress etc. I would also love more clear explanations for fitness tracking. Like how do I know that my walk was moderate versus light...
+
+
+review id: 3279
+
+matches and contexts:
+
+match = milk
+context = t WW about health?  I haven’t once tracked the 2% milk in my coffee and managed to lose 100 lbs anyw
+
+
+id: 3279 | rating: 3 | user: annieq03 | date: 2019-05-22 | time: 02:19:57.000Z
+
+--------------------------------------------------------------------
+                      Title: WW app review
+--------------------------------------------------------------------
+
+I wish you had more so values for typical restaurant type dishes that are Asian or other types.  Also think the so values for dairy with fat are ridiculous as everyone knows fat is better than sugar and to penalize you for higher fat dairy over non fat dairy products which use chemicals and sugar to offset the lack of fat are ridiculous and not healthy.  Isn’t WW about health?  I haven’t once tracked the 2% milk in my coffee and managed to lose 100 lbs anyway. Change your methods on this please if you really are About health!
+
+
+review id: 3426
+
+matches and contexts:
+
+match = nurs
+context = s be able to keep track of what I’m eating! I’m a nurse and work all sorts of hours. Being able to q
+
+
+id: 3426 | rating: 4 | user: LeeTropea | date: 2020-04-19 | time: 15:02:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Why I prefer the app
+--------------------------------------------------------------------
+
+So easy!! Allows me to always be able to keep track of what I’m eating! I’m a nurse and work all sorts of hours. Being able to quickly log my lunch, or scan a snack is what helps me stay on top of my points! Also, when I work over night shifts, it’s easy to over eat since “breakfast, lunch, and dinner” are thrown off of their usual time frames. Totally worth the monthly fee to manage my over all health
+
+
+review id: 3649
+
+matches and contexts:
+
+match = milk
+context = but didn't realize their high point value), whole milk lattes every afternoon- I switched to almond 
+
+
+id: 3649 | rating: 5 | user: Ozark Honey | date: 2017-09-27 | time: 02:28:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Opened my eyes to my Problem Foods
+--------------------------------------------------------------------
+
+I just rejoined WW, and love tracking with my app. Within a few days, I realized my weight problem revolved around 3 things - nuts as my snack food (I thought they were healthy - but didn't realize their high point value), whole milk lattes every afternoon- I switched to almond milk), and wine (but with WW, I can have one glass). I hope I see the results after one week.
+
+
+review id: 3740
+
+matches and contexts:
+
+match = breastfeed
+context = e take the quiz every time I log in.  I am also a breastfeeding mother and I have to edit that setti
+
+match = feeding
+context =  the quiz every time I log in.  I am also a breastfeeding mother and I have to edit that setting abo
+
+
+id: 3740 | rating: 4 | user: JessLynnScott | date: 2018-05-30 | time: 21:03:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Would love it even more if...
+--------------------------------------------------------------------
+
+I would love the app even more if it didn’t make me take the quiz every time I log in.  I have logged out and re started the phone and logged back in.  I have deleted the app and downloaded the app again and it still makes me take the quiz every time I log in.  I am also a breastfeeding mother and I have to edit that setting about 4 times a day...:/ other than that pretty niceeee
+
+
+review id: 3781
+
+matches and contexts:
+
+match = nurs
+context = n my adult life found something that works! I’m a nurse and when I retire, 2 years from now I’m goin
+
+
+id: 3781 | rating: 5 | user: 3Golfgirl16 | date: 2021-02-12 | time: 15:43:46.000Z
+
+--------------------------------------------------------------------
+                      Title: WW is the best!
+--------------------------------------------------------------------
+
+I love everything about this program! I miss the meetings more than words can say. I’m 2 years in now staying at my goal weight, and for the first time in my adult life found something that works! I’m a nurse and when I retire, 2 years from now I’m going to work for this terrific company and motivate as many people as I can to lead a healthy lifestyle.
+
+
+review id: 4006
+
+matches and contexts:
+
+match = milk
+context = mpt me with, would you like to track a cup of oat milk?
+
+
+id: 4006 | rating: 5 | user: Nathan Lannan | date: 2020-06-10 | time: 16:50:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app, only minor complaints.
+--------------------------------------------------------------------
+
+Love the WW app. I’ve lost ~40 pounds since COVID-19 hit the states. I use lots of Hello Fresh, so I wish WW had it in their system, but they have a deal with Blue Apron. Also it would be great if WW had a “frequently paired with” feature. For example if I track Cheerios, it could prompt me with, would you like to track a cup of oat milk?
+
+
+review id: 4595
+
+matches and contexts:
+
+match = baby
+context = I’ve finally lost those 10 lbs of baby weight without much effort.  I ate pretty hea
+
+
+id: 4595 | rating: 5 | user: scovich34 | date: 2019-07-07 | time: 21:18:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to follow!
+--------------------------------------------------------------------
+
+I’ve finally lost those 10 lbs of baby weight without much effort.  I ate pretty healthy to begin with but over time put on more weight then my body liked - had lots of joint pain. My pains are gone and I feel a whole lot better overall plus I fit in clothes I haven’t worn since before I got married.
+
+
+review id: 4659
+
+matches and contexts:
+
+match = baby
+context = years and it has always worked for me. After each baby was born, I’d have 30-40lbs to lose and this 
+
+
+id: 4659 | rating: 5 | user: Grace581201 | date: 2021-01-14 | time: 13:54:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this Program!
+--------------------------------------------------------------------
+
+I’ve done Weight Watchers throughout the years and it has always worked for me. After each baby was born, I’d have 30-40lbs to lose and this helped me to do. It’s not a magic diet pill, you have to put the work in, and this app makes it easier than ever to stay on track.
+
+
+review id: 4677
+
+matches and contexts:
+
+match = breastfeed
+context = ight which is hidden in your profile.  Also, as a breastfeeding mom I wish it would document my calo
+
+match = feeding
+context = hich is hidden in your profile.  Also, as a breastfeeding mom I wish it would document my calories s
+
+
+id: 4677 | rating: 3 | user: autigercourt | date: 2020-06-08 | time: 21:13:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Could be better
+--------------------------------------------------------------------
+
+Definitely does it’s job. But took me a few days to find everything and figure it out. Took me forever to find the restaurants bottom hidden all the way at the bottom and also took some time to find where to track my weight which is hidden in your profile.  Also, as a breastfeeding mom I wish it would document my calories so I could keep up with that too!
+
+
+review id: 4722
+
+matches and contexts:
+
+match = milk
+context = my mouth. That includes that last cup of tea with milk and agave that I consume just before settling
+
+
+id: 4722 | rating: 5 | user: 1rawgirl | date: 2018-03-12 | time: 01:31:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Tracking on the go
+--------------------------------------------------------------------
+
+I love that I am able to track whenever and wherever I have my mobile phone with me. And that is everywhere. This way I am not likely to forget to track everything I put in my mouth. That includes that last cup of tea with milk and agave that I consume just before settling in for a good night’s sleep.
+
+
+review id: 4792
+
+matches and contexts:
+
+match = preg
+context = tchers, and I loved it.  I had to stop when I was pregnant with my son.  When I started again, every
+
+
+id: 4792 | rating: 2 | user: Turtlesfreak | date: 2020-04-15 | time: 00:15:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Used to love WW
+--------------------------------------------------------------------
+
+I lost 75 pounds with Weight Watchers, and I loved it.  I had to stop when I was pregnant with my son.  When I started again, everything had changed.  I struggled with it.  I stopped and restarted a couple times.  My weight kept going up and I could not stick with it.  Eventually I got above my starting weight.  Every change that they made made it harder to stick to.  I also got frustrated with the constant pushing of yoga and meditation.  I am done with WW.  I am going to try something else.
+
+
+review id: 4892
+
+matches and contexts:
+
+match = milk
+context =  serving size. For example, the serving size on a milk jug is one cup. But I only have 1/2 cup with 
+
+
+id: 4892 | rating: 4 | user: hello everyone 2021 | date: 2021-04-08 | time: 14:36:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs half serving option
+--------------------------------------------------------------------
+
+It’s a very convenient app that goes with a membership that costs about $20/month. I wish they would add a button for 1/2 servings. Servings are based on the food package’s serving size. For example, the serving size on a milk jug is one cup. But I only have 1/2 cup with my cereal. There are buttons for Save and Track. I wish it also had Track a Half Serving.
+
+
+review id: 5101
+
+matches and contexts:
+
+match = nurs
+context = Generally I love the app. I am a traveling nurse and sometimes I want a quick lunch that is i
+
+
+id: 5101 | rating: 5 | user: L Diane | date: 2019-07-11 | time: 17:26:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Add a Calculation
+--------------------------------------------------------------------
+
+Generally I love the app. I am a traveling nurse and sometimes I want a quick lunch that is inexpensive so I run into Sam’s Club for a hot dog and a sugar free drink. Their hot dogs are larger than most so I am unable to calculate points. I am in my 6th month of maintenance so I am very cautious. Does anyone know the answer to that issue. I rave to everyone about WW and the app is a big bonus!
+
+
+review id: 5478
+
+matches and contexts:
+
+match = Nurs
+context = ing. A much healthier approach. Take it from this Nurse that has learned the hard way and robbed.
+
+
+id: 5478 | rating: 1 | user: The ME State | date: 2021-05-03 | time: 18:01:18.000Z
+
+--------------------------------------------------------------------
+                      Title: CAUTION
+--------------------------------------------------------------------
+
+Be careful when signing up because you can get locked into memberships that will penalize you if you if you wish to change type of membership. Also,charms for weight loss are only sent to Digital Members...Studio members must physically attend studio to receive charm. There is NO PHONE numbers to call for help everything is done thru chats and one hand doesn’t know what the next is offering. JOIN I Track Bites for points and caloric/nutritional logging. A much healthier approach. Take it from this Nurse that has learned the hard way and robbed.
+
+
+review id: 5562
+
+matches and contexts:
+
+match = baby
+context = ices, tracking them, celebrating them. I love it, baby steps change patterns of behavior which becom
+
+
+id: 5562 | rating: 5 | user: Carpesalutatem | date: 2019-07-10 | time: 01:07:24.000Z
+
+--------------------------------------------------------------------
+                      Title: WW app
+--------------------------------------------------------------------
+
+This app taught me all about making choices, tracking them, celebrating them. I love it, baby steps change patterns of behavior which become meaningful lifestyle changes. This is so much more than a diet, embrace it and you will be surprised at how strong you really are. 1-2 pounds a week, slow and steady not complicated at all.
+
+
+review id: 5725
+
+matches and contexts:
+
+match = milk
+context = existing items . Example if I have coffee and add milk, I can add the points to the existing item in
+
+
+id: 5725 | rating: 5 | user: canlou61221 | date: 2019-05-17 | time: 15:52:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Add points
+--------------------------------------------------------------------
+
+The app is good it would be great if you could add points to already existing items . Example if I have coffee and add milk, I can add the points to the existing item instead of looking up every ingredient.
+
+
+review id: 5729
+
+matches and contexts:
+
+match = nursing
+context = I taught nutrition to nursing students for years. I some of their projec
+
+match = nurs
+context = I taught nutrition to nursing students for years. I some of their projec
+
+
+id: 5729 | rating: 5 | user: Happiness120 | date: 2019-03-16 | time: 13:14:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Comparison
+--------------------------------------------------------------------
+
+I taught nutrition to nursing students for years. I some of their projects they would use other weight tracking apps but complained how long it took for the app to respond and open. This app is rapid in response and so easy to use. It takes the drudgery out of monitoring progress and nutritional decisions. Thank you.
+
+
+review id: 6110
+
+matches and contexts:
+
+match = preg
+context =  difference in the weight that I had gained while pregnant. This app has helped me lose 15 pounds in
+
+
+id: 6110 | rating: 5 | user: P.Porras | date: 2021-03-15 | time: 13:39:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing!
+--------------------------------------------------------------------
+
+I was working out but seeing no difference in the weight that I had gained while pregnant. This app has helped me lose 15 pounds in a healthy way and it’s so great to have a reliable food journal. Plus, you have access to an online community of people with the same goals.
+
+
+review id: 6930
+
+matches and contexts:
+
+match = milk
+context = imple way to show liquid intake as well as fruit, milk etc. Nice looking, but new one is hard to nav
+
+
+id: 6930 | rating: 5 | user: Bestyrs | date: 2021-07-19 | time: 16:37:16.000Z
+
+--------------------------------------------------------------------
+                      Title: The new WW app
+--------------------------------------------------------------------
+
+As a life time member I am extremely disappointed in your new app. Please bring back the previous app.....way more functionality. The new app even lacks the simple way to show liquid intake as well as fruit, milk etc. Nice looking, but new one is hard to navigate. Chuck
+
+
+review id: 7110
+
+matches and contexts:
+
+match = milk
+context = I tried to add my lactose free milk to the database in ml, since it’s easy and pr
+
+
+id: 7110 | rating: 3 | user: Kenzielizabeth | date: 2017-11-08 | time: 22:12:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Need ml measurement option
+--------------------------------------------------------------------
+
+I tried to add my lactose free milk to the database in ml, since it’s easy and precise to weigh on my scale and my milk’s nutrition label has the serving size listed as 240ml. However, the ml measurement isn’t an option when adding a food (or calculating at all), so I had to list it as “240 servings” rather than “240 ml”. Works okay for me, but may be confusing for any fellow weight watchers who try to use the food I added.
+
+
+review id: 7324
+
+matches and contexts:
+
+match = baby
+context = unds (25 when I first started and after having my baby another 30!). You NEED to be disciplined, but
+
+
+id: 7324 | rating: 5 | user: bcbandchick | date: 2021-04-29 | time: 19:06:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing
+--------------------------------------------------------------------
+
+If you have the self discipline, you can use the app and not go to the meetings! I’ve lost collectively 50+ pounds (25 when I first started and after having my baby another 30!). You NEED to be disciplined, but the app makes tracking points SO easy ❤️🙌🏻
+
+
+review id: 7529
+
+matches and contexts:
+
+match = baby
+context = h   This time I’m doing online only. I’m too busy babysitting my grandkids to go to meetings. I was 
+
+
+id: 7529 | rating: 5 | user: Sittoopatti | date: 2021-03-30 | time: 20:58:34.000Z
+
+--------------------------------------------------------------------
+                      Title: WW AGAIN!!!
+--------------------------------------------------------------------
+
+I’ve done WW a few times, going to the meetings, and always lost weigh   This time I’m doing online only. I’m too busy babysitting my grandkids to go to meetings. I was afraid it wouldn’t work, but I’ve lost 19 lbs in 7 weeks and I’m happy with that! Thank you WW for making this available to us.
+
+
+review id: 7572
+
+matches and contexts:
+
+match = Nurs
+context = s not a healthy choice. My wife, a PhD and Family Nurse Practitioner, selected WW for me.  I am so g
+
+
+id: 7572 | rating: 5 | user: Demetrius1969 | date: 2020-07-15 | time: 19:19:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Heathy choice in dieting
+--------------------------------------------------------------------
+
+I snack pretty much all day. With WW I have still lost 10 lbs In three weeks. The WW app gives me a variety of healthy choice foods with Zero points. I also lost quickly on the Atkins diet but Atkins is not a healthy choice. My wife, a PhD and Family Nurse Practitioner, selected WW for me.  I am so glad she did!
+
+
+review id: 7797
+
+matches and contexts:
+
+match = milk
+context = d to find full fat Greek yogurt options and whole milk items in the pull downs. I want real food, re
+
+
+id: 7797 | rating: 4 | user: Jdawn25 | date: 2020-05-08 | time: 19:54:19.000Z
+
+--------------------------------------------------------------------
+                      Title: App is great but...
+--------------------------------------------------------------------
+
+I use the app and appreciate it but I don’t choose low fat, “diet-y” foods. It’s hard to find full fat Greek yogurt options and whole milk items in the pull downs. I want real food, real fat choices as ‘diet’ foods are not my main food choices. I am willing to spend points on regular food.
+
+
+review id: 8043
+
+matches and contexts:
+
+match = baby
+context = asier than ever! WW has always helped me loose my baby weight. I’m a nursing mom and this is my thir
+
+match = nursing
+context =  has always helped me loose my baby weight. I’m a nursing mom and this is my third time to use WW. T
+
+match = nurs
+context =  has always helped me loose my baby weight. I’m a nursing mom and this is my third time to use WW. T
+
+
+id: 8043 | rating: 5 | user: E Lolady | date: 2019-09-27 | time: 13:57:45.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s working!
+--------------------------------------------------------------------
+
+I’m happy with the app! The scanner works so smooth it makes logging points easier than ever! WW has always helped me loose my baby weight. I’m a nursing mom and this is my third time to use WW. The system works for me and I’m able to have a good supply for my baby.
+
+
+review id: 8343
+
+matches and contexts:
+
+match = baby
+context = ver made. Now I’m only 15 pounds away from my pre baby body!
+
+
+id: 8343 | rating: 5 | user: ANGELICGRACE1989 | date: 2019-04-18 | time: 16:32:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing app and company!
+--------------------------------------------------------------------
+
+The recipes are easy and amazing, the app is always up to date and working great, and tracking is simple and takes just a couple seconds. I love this app and Weight Watchers. Best decision I ever made. Now I’m only 15 pounds away from my pre baby body!
+
+
+review id: 8453
+
+matches and contexts:
+
+match = preg
+context = It is my 3rd time doing w w. I did after my 2 pregnancies and lost 20 pounds each time. Over 40 
+
+
+id: 8453 | rating: 5 | user: RBeato | date: 2021-02-19 | time: 15:24:47.000Z
+
+--------------------------------------------------------------------
+                      Title: The only plan that works !
+--------------------------------------------------------------------
+
+It is my 3rd time doing w w. I did after my 2 pregnancies and lost 20 pounds each time. Over 40 now and more than never I am staying with it. Lost 10 pounds in 1.5 months and have way more energy!
+
+
+review id: 8845
+
+matches and contexts:
+
+match = baby
+context = have used weight watchers in the past (after each baby) and this version is so much easier to use! B
+
+
+id: 8845 | rating: 5 | user: Eenasmom | date: 2018-02-07 | time: 16:05:15.000Z
+
+--------------------------------------------------------------------
+                      Title: The best version yet!
+--------------------------------------------------------------------
+
+I have used weight watchers in the past (after each baby) and this version is so much easier to use! Being mostly vegan is so much easier with the new weight watchers! I’ve already lost 3 pounds❤️
+
+
+review id: 8970
+
+matches and contexts:
+
+match = feeding
+context = flavors.  My family enjoys the recipes and I like feeding them food that is healthier for them!
+
+
+id: 8970 | rating: 5 | user: Ketchumclan | date: 2020-05-12 | time: 17:24:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the WW App!
+--------------------------------------------------------------------
+
+I am really enjoying the WW App.  It is easy to use and really covers the many food selections throughout the world.  The recipes are user friendly, and WW has really kicked up the flavors.  My family enjoys the recipes and I like feeding them food that is healthier for them!
+
+
+review id: 9119
+
+matches and contexts:
+
+match = baby
+context = icious item, I whip out my phone and - ugh - that baby goes back on the shelf! No more guesswork!
+
+
+id: 9119 | rating: 5 | user: LinksPilgrim | date: 2021-07-22 | time: 19:07:15.000Z
+
+--------------------------------------------------------------------
+                      Title: The Only Way to Fly!
+--------------------------------------------------------------------
+
+I’d be lost without the WW App! I use it when I food shop; big points stuff doesn’t even make it into the cart. If I see a delicious item, I whip out my phone and - ugh - that baby goes back on the shelf! No more guesswork!
+
+
+review id: 9920
+
+matches and contexts:
+
+match = baby
+context =  be successful! Between COVID eating and having a baby I needed help losing weight. I’ve been using 
+
+
+id: 9920 | rating: 5 | user: Smiley0748 | date: 2021-08-15 | time: 13:04:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use and very resourceful
+--------------------------------------------------------------------
+
+This app has so much to help you be successful! Between COVID eating and having a baby I needed help losing weight. I’ve been using WW for  5 months and am down to pre-baby and pre-Covid weight. I’m going to keep going!
+
+
+review id: 10309
+
+matches and contexts:
+
+match = baby
+context =  Starting second month.  Just doing the program...baby steps. 🥳
+
+
+id: 10309 | rating: 5 | user: twobluesocks | date: 2020-07-19 | time: 16:13:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Memo-Pause
+--------------------------------------------------------------------
+
+I was told when I hit menopause I would pack on weight so I did. I made no changes in my eating habits or work. Joined WW read, listened, tracked and lost 12# first month. Starting second month.  Just doing the program...baby steps. 🥳
+
+

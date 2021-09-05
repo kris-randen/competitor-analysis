@@ -1,0 +1,105 @@
+'Pregnancy' related feature requests in ate-food-diary reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 5
+
+
+review id: 95
+
+matches and contexts:
+
+match = baby
+context = ting in general, but I am trying to get rid of my baby weight so I gave this a chance. I’ve only bee
+
+
+id: 95 | rating: 4 | user: KateWV10 | date: 2019-08-07 | time: 12:22:26.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s working for me
+--------------------------------------------------------------------
+
+I’m not really in to calorie counting or dieting in general, but I am trying to get rid of my baby weight so I gave this a chance. I’ve only been using for a week and I am down 2 lbs., which doesn’t seem like much but hey it’s a start in the right direction. This app makes me more mindful of my eating choices and I really think it’s helping me stay on track. I like that it’s so simple and easy to use. I like that my friend and I can motivate each other and chat through the app. My only negative feedback is that I wish there was a section to log fitness just so you can also stay accountable with that.
+
+
+review id: 151
+
+matches and contexts:
+
+match = baby
+context = ealthy, dark chocolate shared the fiancé, on path baby! BigThanks to the youate team! Love, Slay all
+
+
+id: 151 | rating: 5 | user: Sly all day | date: 2019-03-04 | time: 17:07:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Great tool.
+--------------------------------------------------------------------
+
+I was looking for a food tracking app that didn’t require weight stats, I was not having much luck and then I found Youate! This app is a great tool and provides a user friendly format for keeping track of daily food intake, water, activity and most importantly pre and post hunger/mood. Approaching nutrition with a on path/off path perspective has helped me to really see what it means to eat healthy, dark chocolate shared the fiancé, on path baby! BigThanks to the youate team! Love, Slay all day.
+
+
+review id: 210
+
+matches and contexts:
+
+match = feeding
+context = en hungry too so I love tracking the time between feedings.
+
+
+id: 210 | rating: 5 | user: jawjuh | date: 2018-08-07 | time: 12:33:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app just 1 wish
+--------------------------------------------------------------------
+
+Love this app. So much more sustainable to take a photo than to try to track all my macros. I am trying to only eat when hungry too so I love tracking the time between feedings.
+
+
+review id: 217
+
+matches and contexts:
+
+match = gesta
+context = I was diagnosed with gestational diabetes and have been using this app 
+
+match = gestation
+context = I was diagnosed with gestational diabetes and have been using this app 
+
+match = gestational
+context = I was diagnosed with gestational diabetes and have been using this app 
+
+
+id: 217 | rating: 5 | user: amem04 | date: 2020-07-24 | time: 17:22:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for tracking diabetes
+--------------------------------------------------------------------
+
+I was diagnosed with gestational diabetes and have been using this app to compare my glucose numbers with what I ate.  I also set and alarm for myself for 1 hr after my meal to remind me to test.  This app helps me remember how long until the last time I ate and is very helpful for showing my doctor the sorts of foods I’ve been eating. Its a must for newly diagnosed diabetes patients....
+
+
+review id: 242
+
+matches and contexts:
+
+match = gesta
+context = I have gestational diabetes and I use this app to make no
+
+match = gestation
+context = I have gestational diabetes and I use this app to make no
+
+match = gestational
+context = I have gestational diabetes and I use this app to make no
+
+
+id: 242 | rating: 5 | user: Lalafoilalal | date: 2017-08-31 | time: 15:00:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Game changer for gestational diabetes
+--------------------------------------------------------------------
+
+I have gestational diabetes and I use this app to make notes on what I've eaten and what my blood sugars were. I love that I can see exactly when my last meal was, how long I've gone in in between meals, overnight fasting, and what I ate all without the hassle of logging calories. I can make notes on exactly what I want to remember about a meal. This app is amazing!
+
+

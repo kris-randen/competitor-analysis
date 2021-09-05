@@ -1,0 +1,379 @@
+'Pregnancy' related feature requests in calorie-counter reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 19
+
+
+review id: 74
+
+matches and contexts:
+
+match = feeding
+context =  and it has helped me understand exactly how I am feeding my body. I focus mostly on protein intake,
+
+
+id: 74 | rating: 5 | user: MedTech CEO | date: 2021-01-30 | time: 17:51:17.000Z
+
+--------------------------------------------------------------------
+                      Title: The perfect app for managing your diet!!!
+--------------------------------------------------------------------
+
+I have used this app for the past four months to track my caloric intake and macros. It is so easy to enter the foods you eat, and it has helped me understand exactly how I am feeding my body. I focus mostly on protein intake, and the fats and carbohydrates naturally show up with the addition of fruits and vegetables. It also helps when deciding whether or not to add pleasure calories like beer and ice cream. There is no substitute for tracking what you eat, and FatSecret is the perfect tool to make this an easy part of your daily routine!
+
+
+review id: 354
+
+matches and contexts:
+
+match = breastfeed
+context = s and watching protein and fat intake. But I am a breastfeeding mother who needs 500 extra calories 
+
+match = feeding
+context = watching protein and fat intake. But I am a breastfeeding mother who needs 500 extra calories daily 
+
+
+id: 354 | rating: 3 | user: Caterlyn | date: 2018-10-08 | time: 04:16:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Not Friendly for Breastfeeding Mothers
+--------------------------------------------------------------------
+
+This is a great app for counting calories and watching protein and fat intake. But I am a breastfeeding mother who needs 500 extra calories daily and different dietary needs, so when this app tells me I'm 119% above my recommended daily intake, I know my intake is fine but I still wish I could change the RDI. Also it's hard to input homemade meals. But it's hard to do that in any calorie counting app.
+
+
+review id: 387
+
+matches and contexts:
+
+match = baby
+context = g this time and i am sure will after I deliver my baby!
+
+match = Gesta
+context = is app has really helped me. I was diagnosed with Gestational Diabetes and I feel fat secret is easy
+
+match = Gestation
+context = is app has really helped me. I was diagnosed with Gestational Diabetes and I feel fat secret is easy
+
+match = Gestational
+context = is app has really helped me. I was diagnosed with Gestational Diabetes and I feel fat secret is easy
+
+
+id: 387 | rating: 5 | user: M3sta12 | date: 2019-10-09 | time: 20:11:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Pregnant and trying to be in charge!
+--------------------------------------------------------------------
+
+New to the counting Carbs and Calories but this app has really helped me. I was diagnosed with Gestational Diabetes and I feel fat secret is easy to use and easy way to keep myself in check during this time and i am sure will after I deliver my baby!
+
+
+review id: 401
+
+matches and contexts:
+
+match = baby
+context = ndful of times...trying to lose the last 7 lbs of baby weight by tracking calories. I just ran into 
+
+
+id: 401 | rating: 4 | user: Nuttynutrition | date: 2018-05-09 | time: 16:15:36.000Z
+
+--------------------------------------------------------------------
+                      Title: So far no complaints.
+--------------------------------------------------------------------
+
+The food data base is large, so that’s awesome. I have only used the app a handful of times...trying to lose the last 7 lbs of baby weight by tracking calories. I just ran into some recipes today so I will probably start checking out that area as well. Maybe will be a 5 star soon.
+
+
+review id: 551
+
+matches and contexts:
+
+match = preg
+context =  and I am now using it to manage my macros during pregnancy! Strong recommendation!
+
+
+id: 551 | rating: 5 | user: Jenn Danielle | date: 2018-03-11 | time: 03:55:37.000Z
+
+--------------------------------------------------------------------
+                      Title: 9 years strong!
+--------------------------------------------------------------------
+
+I began using FatSecret as a way to understand serving sizes and get ahold of my calorie intake in 2009 while I was couch-hopping in the city. I have tracked my weight ever since to stay knowledgeable, and I am now using it to manage my macros during pregnancy! Strong recommendation!
+
+
+review id: 1118
+
+matches and contexts:
+
+match = gesta
+context = asier for me! I also helped me so much when I had gestational diabetes and had to monitor my diets v
+
+match = gestation
+context = asier for me! I also helped me so much when I had gestational diabetes and had to monitor my diets v
+
+match = gestational
+context = asier for me! I also helped me so much when I had gestational diabetes and had to monitor my diets v
+
+
+id: 1118 | rating: 5 | user: ljwhite44 | date: 2019-06-21 | time: 17:55:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome app!
+--------------------------------------------------------------------
+
+Love this app! It has made dieting so much easier for me! I also helped me so much when I had gestational diabetes and had to monitor my diets very carefully!
+
+
+review id: 1159
+
+matches and contexts:
+
+match = preg
+context = his app. I’ve been using it for years after every pregnancy and with multiple diets. There are so ma
+
+
+id: 1159 | rating: 5 | user: aadunbar86 | date: 2018-11-28 | time: 13:06:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Fat girl wants to be skinny
+--------------------------------------------------------------------
+
+Love this app. I’ve been using it for years after every pregnancy and with multiple diets. There are so many resources!
+
+
+review id: 2242
+
+matches and contexts:
+
+match = milk
+context = ow there is no ability to have less than 1 cup of milk.  Where have the quarter and half cup options
+
+
+id: 2242 | rating: 1 | user: Biketoportland | date: 2018-06-29 | time: 20:44:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Poor upgrade
+--------------------------------------------------------------------
+
+Now there is no ability to have less than 1 cup of milk.  Where have the quarter and half cup options gone?
+
+
+review id: 2304
+
+matches and contexts:
+
+match = breastfeed
+context = just wish they'd let you enter you're breastfeeding. seriously, all health apps are woef
+
+match = preg
+context = usly, all health apps are woefully behind on this pregnant/nursing/recovery feature
+
+match = feeding
+context = just wish they'd let you enter you're breastfeeding. seriously, all health apps are woefully b
+
+match = nursing
+context =  health apps are woefully behind on this pregnant/nursing/recovery feature
+
+match = nurs
+context =  health apps are woefully behind on this pregnant/nursing/recovery feature
+
+
+id: 2304 | rating: 4 | user: tweeangelina | date: 2020-08-28 | time: 15:12:34.000Z
+
+--------------------------------------------------------------------
+                      Title: good free app
+--------------------------------------------------------------------
+
+just wish they'd let you enter you're breastfeeding. seriously, all health apps are woefully behind on this pregnant/nursing/recovery feature
+
+
+review id: 2680
+
+matches and contexts:
+
+match = milk
+context = er-- we make ours with ground turkey and fat free milk, but the calorie count is as prepared with be
+
+
+id: 2680 | rating: 4 | user: donnamm | date: 2010-03-29 | time: 23:44:42.000Z
+
+--------------------------------------------------------------------
+                      Title: wanting/wishing
+--------------------------------------------------------------------
+
+I love this program for its possibilities!  It is great as is, when it is not closing without notice, usually while you are trying to enter the food in your diary.  I do however, wish that I could do substitutions. (example.. hamburger helper-- we make ours with ground turkey and fat free milk, but the calorie count is as prepared with beef and skim milk. I also wish that when counting fat grams that I was able to view good fats vs. bad fats.  It lumps them all in together.
+
+
+review id: 2804
+
+matches and contexts:
+
+match = preg
+context = my weight fluctuations and patterns between being pregnant and not.
+
+
+id: 2804 | rating: 5 | user: Glitter freak | date: 2016-09-13 | time: 17:11:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the community of this app
+--------------------------------------------------------------------
+
+I have been using this site in general for 6 years and I love it. It is amazing to see how far they have come with their app! The community of people there are so kind and helpful. It is awesome to see my weight fluctuations and patterns between being pregnant and not.
+
+
+review id: 2934
+
+matches and contexts:
+
+match = baby
+context = or the second time after having another beautiful baby girl! After gaining 50 lbs both times, I am b
+
+match = preg
+context = er gaining 50 lbs both times, I am back in my pre-pregnancy clothes at 4 months postpartum again! Lo
+
+match = postpartum
+context = I am back in my pre-pregnancy clothes at 4 months postpartum again! Love this app!
+
+match = postp
+context = I am back in my pre-pregnancy clothes at 4 months postpartum again! Love this app!
+
+
+id: 2934 | rating: 5 | user: BeTheKim | date: 2016-07-02 | time: 16:00:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Baby weight gone!
+--------------------------------------------------------------------
+
+Using this app for the second time after having another beautiful baby girl! After gaining 50 lbs both times, I am back in my pre-pregnancy clothes at 4 months postpartum again! Love this app!
+
+
+review id: 3170
+
+matches and contexts:
+
+match = breastfeed
+context = ould work even better for me if it took pregnancy/breastfeeding into consideration when calculating 
+
+match = preg
+context =  app! It would work even better for me if it took pregnancy/breastfeeding into consideration when ca
+
+match = feeding
+context = ork even better for me if it took pregnancy/breastfeeding into consideration when calculating one's 
+
+
+id: 3170 | rating: 3 | user: DZMomma | date: 2010-06-17 | time: 01:09:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Pregnancy/Breastfeeding Calories
+--------------------------------------------------------------------
+
+I LOVE this app! It would work even better for me if it took pregnancy/breastfeeding into consideration when calculating one's RDI. Just a couple of simple yes or no questions added when entering one's height and weight would do the trick. Once they add that, I'll give this app five stars.
+
+
+review id: 3209
+
+matches and contexts:
+
+match = breastfeed
+context = n ratio. I love that you can add in exercise even breastfeeding which makes it a big help! Wish more
+
+match = feeding
+context = o. I love that you can add in exercise even breastfeeding which makes it a big help! Wish more peopl
+
+
+id: 3209 | rating: 5 | user: Mother0fPearl | date: 2016-03-21 | time: 05:31:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing! Love the pie chart!!
+--------------------------------------------------------------------
+
+I love the pie chart, it is great to see my fat, carb, protein ratio. I love that you can add in exercise even breastfeeding which makes it a big help! Wish more people knew about this app.
+
+
+review id: 3302
+
+matches and contexts:
+
+match = baby
+context = aling interface. It helped me lose the rest of my baby weight.
+
+
+id: 3302 | rating: 5 | user: Gendii | date: 2012-03-15 | time: 16:18:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app!
+--------------------------------------------------------------------
+
+This app is so easy to use and has an appealing interface. It helped me lose the rest of my baby weight.
+
+
+review id: 3304
+
+matches and contexts:
+
+match = milk
+context = ized foods because certain things like peanuts or milk do not have the same calories as what the app
+
+
+id: 3304 | rating: 4 | user: S o u t h p a w | date: 2012-05-10 | time: 21:29:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Good but...
+--------------------------------------------------------------------
+
+You should be able to make your own customized foods because certain things like peanuts or milk do not have the same calories as what the app says.
+
+
+review id: 3353
+
+matches and contexts:
+
+match = feeding
+context = ries you want to eat over the day, excellent on refeeding days.
+
+
+id: 3353 | rating: 5 | user: Xxuchihaxx | date: 2014-09-21 | time: 21:04:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Excelent aplication
+--------------------------------------------------------------------
+
+So easy to diet with this app, and you can edit the calories you want to eat over the day, excellent on refeeding days.
+
+
+review id: 4079
+
+matches and contexts:
+
+match = gesta
+context = Me ayuda a controlar mi ingesta diaria, a tener disciplina a la hora de come
+
+
+id: 4079 | rating: 5 | user: Amgyer | date: 2021-01-06 | time: 11:23:25.000Z
+
+--------------------------------------------------------------------
+                      Title: FatSecret
+--------------------------------------------------------------------
+
+Me ayuda a controlar mi ingesta diaria, a tener disciplina a la hora de comer, a conocer las calorías que consumo y me ayudo a bajar de peso
+
+
+review id: 4148
+
+matches and contexts:
+
+match = gesta
+context = ez más fácil ingresar tus alimentos y checar tu ingesta de macros!!
+
+
+id: 4148 | rating: 5 | user: Guerrera de Sion | date: 2019-01-11 | time: 15:40:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Excelente herramienta para contar calorías
+--------------------------------------------------------------------
+
+Al principio medio difícil pero cuando le agarras la onda es cada vez más fácil ingresar tus alimentos y checar tu ingesta de macros!!
+
+

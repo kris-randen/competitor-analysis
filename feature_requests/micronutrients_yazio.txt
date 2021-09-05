@@ -1,0 +1,204 @@
+'Micronutrients' related feature requests in yazio reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 11
+
+
+review id: 38
+
+matches and contexts:
+
+match = iod
+context =  now going to have to manually set the fasting period and for the second time. Also when I look at m
+
+
+id: 38 | rating: 4 | user: Roadrunnermd | date: 2021-05-28 | time: 15:22:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app but a couple of complaints
+--------------------------------------------------------------------
+
+I’m giving this app a 4 star rating because it is a great app. However, the fasting tracker doesn’t track properly. I have my fasting time set to MWF, but it doesn’t keep the schedule correctly. It is saying that I can eat today when it’s supposed to be a fasting day. I am now going to have to manually set the fasting period and for the second time. Also when I look at my fasting history which only started this week, the days are off. It doesn’t show that I fasted on Monday, which I did.  Something needs to be fixed the fasting tracker.
+
+
+review id: 54
+
+matches and contexts:
+
+match = micro
+context = this app.  The nutrition data is unreliable.  The micronutrient data is missing even after inputting
+
+
+id: 54 | rating: 1 | user: paescot | date: 2019-12-28 | time: 03:04:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Just Another Diet Scam in App Form.
+--------------------------------------------------------------------
+
+I’m a Registered Dietitian advising you to avoid this app.  The nutrition data is unreliable.  The micronutrient data is missing even after inputting a days worth of food (a painful process), the database is hopeless and the customer service is abysmal.  They hide the full nutrient data behind the pay wall for a reason.  It’s a deceptive business practice.  They then flat out refused my request for a refund.  I had to go to Apple who refunded me within minutes.  Yazio feel the money grab is worth driving away customers, a complete false economy showing their true values.   Just use MyFitnessPal, it gives you everything you need and more than Yazio, with the very best database, for free.
+
+
+review id: 76
+
+matches and contexts:
+
+match = vitam
+context = toes carrots and broccoli all have quite a bit of vitamin a. I consumed a ton one day and my log sho
+
+
+id: 76 | rating: 4 | user: flealy | date: 2019-12-03 | time: 03:31:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Nutrients don’t show up
+--------------------------------------------------------------------
+
+I would give this review five stars, however after very carefully and dutifully tracking my diet I noticed that many nutrients aren’t accounted for, an example, sweet potatoes carrots and broccoli all have quite a bit of vitamin a. I consumed a ton one day and my log shows none for the day. I’m majoring in nutrition so tracking my nutrients is a big part of my day. The vitamin a is just one example, though many of the nutrients are deficient in logging.
+
+
+review id: 79
+
+matches and contexts:
+
+match = iod
+context = h, 1) widget doesn’t correctly reflect fasting periods and way too big (smaller size please), 2) App
+
+
+id: 79 | rating: 3 | user: nusnna | date: 2021-01-19 | time: 05:56:56.000Z
+
+--------------------------------------------------------------------
+                      Title: App with great potential but room for improvement
+--------------------------------------------------------------------
+
+Love the recipes and different fasting options. Few bugs though, 1) widget doesn’t correctly reflect fasting periods and way too big (smaller size please), 2) Apple Watch complication doesn’t correctly display fasting status, and 3) please make auto fasting an option but not a default, it would be great to not have to adjust the start and end time every time, I’d like to have a button that starts the fasting when I’m ready.
+
+
+review id: 106
+
+matches and contexts:
+
+match = sodium
+context = here seems to be a major discrepancy with the way sodium intake is logged. Some days it’s normal and
+
+
+id: 106 | rating: 4 | user: Umm AbdulHameed | date: 2020-07-25 | time: 01:19:06.000Z
+
+--------------------------------------------------------------------
+                      Title: So far so good except one small problem
+--------------------------------------------------------------------
+
+I love the app. I just started the keto diet and I track all my meals/water intake. My only issue is there seems to be a major discrepancy with the way sodium intake is logged. Some days it’s normal and some days it’s showing a sodium intake in the hundred thousands of mg. I’ve gone back to look at the foods I was eating and check the nutrition labels and it doesn’t add. Please look into this!
+
+
+review id: 512
+
+matches and contexts:
+
+match = vitam
+context = Please add vitamins and minerals and Omega3, 6
+
+match = Omega
+context = Please add vitamins and minerals and Omega3, 6
+
+
+id: 512 | rating: 5 | user: Pblessin | date: 2019-10-17 | time: 21:18:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it- please add Vitamins and minerals
+--------------------------------------------------------------------
+
+Please add vitamins and minerals and Omega3, 6
+
+
+review id: 537
+
+matches and contexts:
+
+match = micro
+context = l, imo), enter its mass, and input its macro- and micronutrients. Micronutrients included both salt 
+
+match = vitam
+context =  units of grams (!!), and the usual complement of vitamins, minerals, and metals, which had to be en
+
+match = sodium
+context = onutrients. Micronutrients included both salt and sodium (!), which had to be entered in units of gr
+
+
+id: 537 | rating: 2 | user: Sarah2124096 | date: 2017-06-30 | time: 23:10:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Logging is awful
+--------------------------------------------------------------------
+
+The food database is small, and adding foods is painful and likely leads to the inaccuracies other users have complained of. I tried to log a bagel first thing. It wasn't in the database, even though it was from a huge chain with easily accessible nutrition info. To add it, I had to categorize it (either a bread or a roll, imo), enter its mass, and input its macro- and micronutrients. Micronutrients included both salt and sodium (!), which had to be entered in units of grams (!!), and the usual complement of vitamins, minerals, and metals, which had to be entered in mg (!!!). These are ludicrous choices that make one wonder how knowledgeable the app builders are. They also ensure that user-input foods will essentially all have inaccurate data, since people are unlikely to put in the effort to get everything in the units the app wants.
+
+
+review id: 619
+
+matches and contexts:
+
+match = zınc
+context = n kaç gram? Artı neden akşam yemegıne hamburger yazınca sizin tarifiniz de çıkmıyor.. bir porsiyon 4
+
+
+id: 619 | rating: 2 | user: dyggrcn | date: 2019-07-18 | time: 16:23:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Tariflerin kalorileri ve gramları
+--------------------------------------------------------------------
+
+Herşey harika, gerçekten kullandıgım ve severek uyguladığım bir program fakat neden kahvaltıda tarçınlı granola yı yazdığımda böyle bi yiyicek yok diyor.. halbuki sizin tarifinizi uyguladım.. bence verdiginiz tarifleri de gram olarak porsiyon değil yemek bölümüne eklemelisiniz. Dün hamburger yaptım ve enfes oldu sizin tariflerinizden teşekkür ederim ama bir porsiyon 450 kalori mi ne olması gerek bşr porsiyon kaç gram? Artı neden akşam yemegıne hamburger yazınca sizin tarifiniz de çıkmıyor.. bir porsiyon 450 kalori ama o porsiyon kaç gram? Bunun haricinde gerçekten uygulamanızdan memnunum, iyi günler🙏🏻👋🏻
+
+
+review id: 627
+
+matches and contexts:
+
+match = micro
+context = This is a great app for keeping track of your micro and macro nutrients. It connects with apple 
+
+
+id: 627 | rating: 5 | user: Chef Dallas | date: 2021-01-04 | time: 14:34:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+This is a great app for keeping track of your micro and macro nutrients. It connects with apple and android operating systems and merges your vitals with it.
+
+
+review id: 628
+
+matches and contexts:
+
+match = vitam
+context =  is the inability to get real information on your vitamin and mineral intake. I take supplements, th
+
+
+id: 628 | rating: 2 | user: KCap44 | date: 2021-01-19 | time: 15:13:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Has some good information, but overall disappointing.
+--------------------------------------------------------------------
+
+The app has good health and fasting information. Keeps logs for you in numerous areas, weight activity etc. But you need to connect to another app you have for that.There is a recipe section which if you are vegetarian may appeal to you. I’ve tried a handful of recipes and they are not bad just needed ingredients I do not typically have. The app has a barcode scanner which is helpful , however the information often contradicts itself. Particularly in the quantity/ calorie area. Annoying but you can sort of figure it out I just feel I shouldn’t have to. The epic fail of the program is the inability to get real information on your vitamin and mineral intake. I take supplements, the app reads the barcode no problem, but DOES NOT add the ingredients to your list. So what is the point? A terrible flaw which I had to pay money to find out. Hopefully you don’t.
+
+
+review id: 635
+
+matches and contexts:
+
+match = vitam
+context = lements I take but there is no option for IUs for vitamins A, D, and E. Up until now I was using MyN
+
+
+id: 635 | rating: 3 | user: DirtPiler | date: 2020-01-18 | time: 01:13:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Nutrient Values
+--------------------------------------------------------------------
+
+I just paid for a year subscription and a little disappointed with the nutrient values. Why is it in grams and mgs only? Why can’t you choose to show it in % of daily allowances. Also I went to add a custom food and wanted to add the supplements I take but there is no option for IUs for vitamins A, D, and E. Up until now I was using MyNetDiary and was very happy with its features. I thought this app would be good because it has intermittent fasting but after mentioning the above I may go back to MyNeyDiary.
+
+

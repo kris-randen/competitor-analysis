@@ -1,0 +1,671 @@
+'Micronutrients' related feature requests in yummly reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 39
+
+
+review id: 7
+
+matches and contexts:
+
+match = iod
+context = ery-single-time I start the app.  I don’t mind periodic reviews but I am getting annoyed.  When I ge
+
+
+id: 7 | rating: 3 | user: Fun/awesome/cool | date: 2020-12-13 | time: 21:24:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Updated - lowered to 3 - plus it a couple of suggestions
+--------------------------------------------------------------------
+
+I gave it 4 stars but I’m down to three right now.  I respect the right to have a paid/subscription service but if I’m not interested in that please let me know if I’m going to have an offer thrown in my face every-single-time I start the app.  I don’t mind periodic reviews but I am getting annoyed.  When I get annoyed I begin to look at alternatives.
+
+
+review id: 57
+
+matches and contexts:
+
+match = sodium
+context = er looking to follow a particular diet (keto, low sodium, etc.) or just have other parameters or res
+
+
+id: 57 | rating: 5 | user: DSquared7 | date: 2020-01-27 | time: 23:19:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Best Cooking Database
+--------------------------------------------------------------------
+
+Great app! This app is my favorite. It’s awesome for individuals either looking to follow a particular diet (keto, low sodium, etc.) or just have other parameters or restrictions they need to adhere to. As opposed to vaguely browsing a search engine for something that stands out, this app makes it easy for me to say, “Hey! I want chicken with cilantro but I only have 30 minutes or less”. Furthermore, seeing how many people have liked the recipe and being able to easily adjust the serving size is another plus. And I can’t forget about the ability to easily save and organize recipes that have interested me. I recommend this app to everyone! There are even drink recipes as well.
+
+
+review id: 63
+
+matches and contexts:
+
+match = micro
+context = is so nice to just pull the out, heat them in the microwave, add a salad or fruit, or a muffin or so
+
+
+id: 63 | rating: 5 | user: grandmahoney22 | date: 2019-03-05 | time: 02:41:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Finding good foods to eat finally!!
+--------------------------------------------------------------------
+
+I am probably the worlds pickiest eater. Because of that I have a hard time finding new foods to eat and I get sick of the same things over and over. I decided to take some chances on internet sights and YUM is the best place I’ve found so far! I love the potato, ham, corn chowder! It’s so good! And the ground beef minestrone soup and stuffed cabbage, truly yummy!!! I make meals a couple of months in advance and freeze them. It is so nice to just pull the out, heat them in the microwave, add a salad or fruit, or a muffin or some kind of bread — try the banana bread with the streusel, it is to die for!! Everything I have made has frozen nicely and tasted just as good after thawed and reheated! Love this site!
+
+
+review id: 118
+
+matches and contexts:
+
+match = sodium
+context = I can find recipes that are little-no fat, low-no sodium, a sugar alternative, make my “heart happy”
+
+
+id: 118 | rating: 5 | user: Lil Wag | date: 2020-05-04 | time: 11:08:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Love my new YUM App❤️😋👍
+--------------------------------------------------------------------
+
+This foodie app is just the berries for my heart friendly meal plans. I love the fact that it comes up with recipes according to my food choices. Build your own grocery list too. There are so many great recipe apps at my finger tips but this is the only one so far that I can find recipes that are little-no fat, low-no sodium, a sugar alternative, make my “heart happy” recipes. There’s a whole world out there of heart friendly meals & I believe I’ve finally found the jackpot of food choices for my meal plans. I definitely would recommend this YUM App. I give it ⭐️⭐️⭐️⭐️⭐️ & a 👍!
+
+
+review id: 306
+
+matches and contexts:
+
+match = iod
+context = k on a recipe, I just want to see that recipe. Period. This app seems to be trying to give me everyt
+
+
+id: 306 | rating: 2 | user: Name#1,954 | date: 2020-06-14 | time: 19:00:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Annoying App
+--------------------------------------------------------------------
+
+First, I love Yummly and routinely use their recipes that I find online. Today, I downloaded the app and it is so annoying, 8m going to remove it! When I tell you once that I’m not interested in Yummly Pro, it should not pop up every time I click on a recipe. When I click on a recipe, I just want to see that recipe. Period. This app seems to be trying to give me everything but the recipe I’m trying to get to. I can eventually get the recipe, but it takes persistence. Other recipe apps are much less cumbersome to use. Trying to use on an iPad Pro, updated with the latest software.
+
+
+review id: 924
+
+matches and contexts:
+
+match = sodium
+context = able in finding flavorful recipes without all the sodium (if there is salt in the recipe I just omit
+
+
+id: 924 | rating: 5 | user: MyNameisMyBusiness | date: 2019-08-26 | time: 20:47:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app!
+--------------------------------------------------------------------
+
+My husband has congestive heart failure, so I’m cooking fresh food for us, only without the salt. Yummly has proved invaluable in finding flavorful recipes without all the sodium (if there is salt in the recipe I just omit it). It’s worth it for the pan-seared tuna steak recipe alone! It’s not a dedicated “low sodium” app but it’s really good for finding quick and flavorful meals.
+
+
+review id: 1178
+
+matches and contexts:
+
+match = sodium
+context = g the same meal 🥘 also has health facts so far as sodium 🧂 percentage, calorie intake, and etc.
+
+
+id: 1178 | rating: 5 | user: Buffy'Posh | date: 2020-04-07 | time: 16:56:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome
+--------------------------------------------------------------------
+
+I love ❤️ this app. Very helpful. And super simple to understand. Has everything you need such as Directions 🧭, Ingredients, Prep Time, Cook 👨🏽‍🍳 Time, and Comments from others that have made or considering the same meal 🥘 also has health facts so far as sodium 🧂 percentage, calorie intake, and etc.
+
+
+review id: 1183
+
+matches and contexts:
+
+match = micro
+context = es me time.  I used to get restaurant delivery or microwave frozen food at least two nights a week d
+
+
+id: 1183 | rating: 5 | user: yummomi | date: 2020-01-23 | time: 04:19:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the meal planning features
+--------------------------------------------------------------------
+
+The meal planning features keep me organized and saves me time.  I used to get restaurant delivery or microwave frozen food at least two nights a week due to  not planning ahead.  My family is getting healthier meals and I save money.
+
+
+review id: 1189
+
+matches and contexts:
+
+match = iod
+context = ave used this app for years. It went through a period where it was very buggy and I thought the comp
+
+
+id: 1189 | rating: 4 | user: Gl@sh | date: 2019-10-19 | time: 01:41:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Improvement
+--------------------------------------------------------------------
+
+I have used this app for years. It went through a period where it was very buggy and I thought the company might close. However they relaunched a new and much improved version a little while ago and it is one of my go-tos once again.
+
+
+review id: 1353
+
+matches and contexts:
+
+match = sodium
+context = ly meal times. I can even tailor my search to low sodium, no nuts (allergic), slow cooker. Great app
+
+
+id: 1353 | rating: 5 | user: TheWordwoman | date: 2020-10-06 | time: 17:39:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Can’t Live without It
+--------------------------------------------------------------------
+
+Yep! I said it! Been using this app for several months now and it’s become my go to for finding fresh ideas for family meal times. I can even tailor my search to low sodium, no nuts (allergic), slow cooker. Great app!
+
+
+review id: 1661
+
+matches and contexts:
+
+match = iod
+context = ats night after night. Yummly (the app and the periodic) emails are a great prompt to do just a litt
+
+
+id: 1661 | rating: 5 | user: @gerrywieder | date: 2018-06-04 | time: 18:10:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Great motivator!
+--------------------------------------------------------------------
+
+I’m inclined to just throw in the same old eats night after night. Yummly (the app and the periodic) emails are a great prompt to do just a little bit more. Love the built in shopping list to remind me to pick up the missing ingredients!
+
+
+review id: 1878
+
+matches and contexts:
+
+match = sodium
+context = lter based on certain diets such as low carb, low sodium, high fiber. It’s awesome and my favorite a
+
+
+id: 1878 | rating: 5 | user: Steph0606 | date: 2019-08-21 | time: 16:15:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Best app if you want to cook healthy
+--------------------------------------------------------------------
+
+I love this app. You can set filters based on allergy and food preferences. You can also filter based on certain diets such as low carb, low sodium, high fiber. It’s awesome and my favorite app to find great recipes.
+
+
+review id: 1934
+
+matches and contexts:
+
+match = sodium
+context = his is the nicest and easiest place to go for low sodium recipes. My mother has had bypass surgery a
+
+
+id: 1934 | rating: 5 | user: D Lusk | date: 2019-05-20 | time: 19:59:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Fantastic
+--------------------------------------------------------------------
+
+This is the nicest and easiest place to go for low sodium recipes. My mother has had bypass surgery and also replaced values she needs dinner ideas with low sodium. I also need to watch my heart also so easy.
+
+
+review id: 2091
+
+matches and contexts:
+
+match = sodium
+context = o follow. Ability to find recipes as low cal, low sodium or just likes and disliked ingredients is e
+
+
+id: 2091 | rating: 5 | user: tidyheide | date: 2020-04-29 | time: 01:37:39.000Z
+
+--------------------------------------------------------------------
+                      Title: One of my top 3 apps!
+--------------------------------------------------------------------
+
+Recipes are varied and easy to follow. Ability to find recipes as low cal, low sodium or just likes and disliked ingredients is easy to use.
+
+
+review id: 2183
+
+matches and contexts:
+
+match = iod
+context =  app because we could just look at it for long periods finding recipes we’d love to try and have act
+
+
+id: 2183 | rating: 5 | user: HekataClare | date: 2020-01-24 | time: 23:51:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome App
+--------------------------------------------------------------------
+
+My mother and I love this app because we could just look at it for long periods finding recipes we’d love to try and have actually made quite a few from here.
+
+
+review id: 2364
+
+matches and contexts:
+
+match = iod
+context = . If you don’t have this app your missing out! Period! Excellent recipes, videos & feedback reviews 
+
+
+id: 2364 | rating: 5 | user: Plynwfire | date: 2019-02-17 | time: 19:47:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Priceless!
+--------------------------------------------------------------------
+
+Let’s just jump to the point. If you don’t have this app your missing out! Period! Excellent recipes, videos & feedback reviews from others. Priceless!
+
+
+review id: 2431
+
+matches and contexts:
+
+match = sodium
+context = k you for showing the calories, carbs, fibers and sodium content.
+
+
+id: 2431 | rating: 5 | user: Papa Gates | date: 2019-03-13 | time: 13:14:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Yummy
+--------------------------------------------------------------------
+
+It’s a great app and helps you find recipes thats it’s not on the app I give it thumbs up thank you for your recipes and thank you for showing the calories, carbs, fibers and sodium content.
+
+
+review id: 2460
+
+matches and contexts:
+
+match = iron
+context = and jellies, jerk seasoning, how to cook w a cast iron skillet...to name a few.  I recommend Yummly 
+
+
+id: 2460 | rating: 5 | user: Zahz47 | date: 2021-01-24 | time: 05:37:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Super timesaver
+--------------------------------------------------------------------
+
+I always go to Yummly when I want a specific recipe or cooking method.  I always find what I am looking for...baking, jams and jellies, jerk seasoning, how to cook w a cast iron skillet...to name a few.  I recommend Yummly to my friends all the time.
+
+
+review id: 4788
+
+matches and contexts:
+
+match = sodium
+context = My daughter has a restrictive low sodium diet due to kidney issues. I love that I ca
+
+
+id: 4788 | rating: 5 | user: Mcw1973 | date: 2020-11-22 | time: 02:12:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Low sodium recipes
+--------------------------------------------------------------------
+
+My daughter has a restrictive low sodium diet due to kidney issues. I love that I can find great tasting low sodium options on Yummly!!
+
+
+review id: 6506
+
+matches and contexts:
+
+match = iod
+context = going to cancel subscription during free trial period.
+
+
+id: 6506 | rating: 3 | user: Swagyboy007 | date: 2020-06-18 | time: 23:37:32.000Z
+
+--------------------------------------------------------------------
+                      Title: No Ads PLEASE
+--------------------------------------------------------------------
+
+The recipes are great but I would’ve rated higher if it didn’t have pop up Ads and I’m going to cancel subscription during free trial period.
+
+
+review id: 8222
+
+matches and contexts:
+
+match = sodium
+context = t healthy diet and I alike that they give you the sodium, cholesterol and saturated fat counts.
+
+
+id: 8222 | rating: 5 | user: teriada | date: 2021-07-01 | time: 17:04:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Heart Healthy Recipes
+--------------------------------------------------------------------
+
+My husbands on a heart healthy diet and I alike that they give you the sodium, cholesterol and saturated fat counts.
+
+
+review id: 8254
+
+matches and contexts:
+
+match = iron
+context = My family calls me the iron chef!
+
+
+id: 8254 | rating: 5 | user: Ed oc | date: 2020-07-16 | time: 21:57:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Never a dull dinner
+--------------------------------------------------------------------
+
+My family calls me the iron chef!
+
+
+review id: 9265
+
+matches and contexts:
+
+match = sodium
+context = or recipes without salt.  App didn’t recognize no sodium and didn’t have low or no sodium diet on li
+
+
+id: 9265 | rating: 2 | user: ColfNY | date: 2018-07-15 | time: 14:24:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Need a lot of patience
+--------------------------------------------------------------------
+
+I was looking for recipes without salt.  App didn’t recognize no sodium and didn’t have low or no sodium diet on list
+
+
+review id: 10491
+
+matches and contexts:
+
+match = iod
+context = I like the app but only wanted the free trial period and I cannot figure out how to cancel it
+
+
+id: 10491 | rating: 1 | user: wytammic | date: 2021-01-14 | time: 22:44:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Not easy to cancel
+--------------------------------------------------------------------
+
+I like the app but only wanted the free trial period and I cannot figure out how to cancel it
+
+
+review id: 10544
+
+matches and contexts:
+
+match = iod
+context = That’s on period
+
+
+id: 10544 | rating: 5 | user: MusixAddix | date: 2019-10-10 | time: 10:26:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Best cooking app
+--------------------------------------------------------------------
+
+That’s on period
+
+
+review id: 10711
+
+matches and contexts:
+
+match = iod
+context = I love Yummly!!!  Awesome site!  Period.
+
+
+id: 10711 | rating: 5 | user: barrelracer61 | date: 2020-04-15 | time: 14:46:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Site
+--------------------------------------------------------------------
+
+I love Yummly!!!  Awesome site!  Period.
+
+
+review id: 11847
+
+matches and contexts:
+
+match = sodium
+context = I'm allergic to mushrooms & I don't do low fat or sodium because it really doesn't do much your body
+
+
+id: 11847 | rating: 3 | user: brookm24 | date: 2016-11-03 | time: 21:30:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Good but want more simple & Options
+--------------------------------------------------------------------
+
+I really like this app. I didn't give more than 3 stars because, I'm a picky simple eater and I did the beginner cooking skill & added foods to dislike because the allergies section didn't let me add my food allergies and the intolerance to foods like I am slightly lactose intolerant I'm allergic to mushrooms & I don't do low fat or sodium because it really doesn't do much your body needs these things you just don't over do the salt or over eat. I would likfe the dishes that are listed for me didn't have or list what I said I can't eat have or dislike. Or if they had other ingredients listed for substituting or omitting them all together.
+
+
+review id: 11869
+
+matches and contexts:
+
+match = sodium
+context = ecipes, but wished I could hide recipes with high sodium/millions of calories... So I send support s
+
+
+id: 11869 | rating: 5 | user: Marcaurellius | date: 2017-07-29 | time: 22:21:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Holy convenience
+--------------------------------------------------------------------
+
+I used the app for a couple of days, thought it was pretty sweet that you can make a shopping list from your saved recipes, but wished I could hide recipes with high sodium/millions of calories... So I send support some feedback thinking maybe if enough people suggested it they might change things in the future. Turns out I'm just an idiot. They emailed me back the same day and told me where the filters were, right under the search function. I says to myself, "well that's nice, but I'll bet you don't have one for slow cookers, or prep time..." Open up the app and check it out, shazam; filter by fat, cholesterol, calories, cooking methods, prep time, carbs, salt, bitterness, sweetness, meal course, what tv show it pairs with, you get the idea. They've thought of it all. Just quit reading this and get the app already. It's good.
+
+
+review id: 12085
+
+matches and contexts:
+
+match = sodium
+context =  easy to find tasty meals with significantly less sodium. I imagine it would work just as well for s
+
+
+id: 12085 | rating: 5 | user: Barefootndirtyhaired | date: 2015-02-24 | time: 04:22:18.000Z
+
+--------------------------------------------------------------------
+                      Title: High Blood Pressure!
+--------------------------------------------------------------------
+
+I found this app while looking for recipes to better suit my partner who recently found out he has high blood pressure. It worked so well for us and made it very easy to find tasty meals with significantly less sodium. I imagine it would work just as well for someone with a food allergy or specific eat restrictions. I honestly cannot believe the app is free. I would pay for this app it's great.
+
+
+review id: 12291
+
+matches and contexts:
+
+match = iod
+context = s sent to Facebook timelines disappear after a period of time but not to worry! Type it into search 
+
+
+id: 12291 | rating: 4 | user: getyasome57 | date: 2014-01-22 | time: 19:33:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Greatest Thing Ever!
+--------------------------------------------------------------------
+
+No longer do I have to waste time writing down recipes or money on cookbooks! Everything I need to find is within this app! Recipes sent to Facebook timelines disappear after a period of time but not to worry! Type it into search and Yummly will find it and save it to my yums! Pictures and videos are priceless; you won't get those in a cookbook!
+
+
+review id: 12631
+
+matches and contexts:
+
+match = vitam
+context = the nutrition content tracks fat, carbs, and some vitamins, but not protein?  Why track only two of 
+
+
+id: 12631 | rating: 2 | user: Glopro1 | date: 2014-01-22 | time: 17:58:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Has potential...
+--------------------------------------------------------------------
+
+This app had so much potential for me... Until I saw the nutrition content tracks fat, carbs, and some vitamins, but not protein?  Why track only two of the three caloric bases and not include the most essential for a lot of people?  Essentially makes this app unhelpful in keeping a balanced intake.
+
+
+review id: 12877
+
+matches and contexts:
+
+match = iod
+context =  one star because I get a connection error and periodically lose connectivity, even when my wifi is 
+
+
+id: 12877 | rating: 4 | user: Beatlefan129 | date: 2014-09-10 | time: 00:52:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Beautiful app
+--------------------------------------------------------------------
+
+This app is gorgeous! The pictures of the food always inspires me to try new recipes. However, I'm knocking off one star because I get a connection error and periodically lose connectivity, even when my wifi is full strength.
+
+
+review id: 13565
+
+matches and contexts:
+
+match = iod
+context = This is the best app for cooking, period. I have six others but this is the one I go to
+
+
+id: 13565 | rating: 5 | user: ISatlow | date: 2015-05-12 | time: 12:46:49.000Z
+
+--------------------------------------------------------------------
+                      Title: THE BEST
+--------------------------------------------------------------------
+
+This is the best app for cooking, period. I have six others but this is the one I go to first. Easy to use, great organization for recipes, great selection of recipes, love the search too!
+
+
+review id: 14141
+
+matches and contexts:
+
+match = sodium
+context =  be a 5 star app if I had an option to select low sodium food options. Other than that it's pretty g
+
+
+id: 14141 | rating: 4 | user: Relly23! | date: 2016-09-04 | time: 21:39:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Pretty great.
+--------------------------------------------------------------------
+
+This would be a 5 star app if I had an option to select low sodium food options. Other than that it's pretty great.
+
+
+review id: 14198
+
+matches and contexts:
+
+match = iod
+context = Best recipe site. Period. Everything compiled in one easy to search and
+
+
+id: 14198 | rating: 5 | user: Fraochfire | date: 2017-04-24 | time: 20:03:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Best recipe site. Period.
+--------------------------------------------------------------------
+
+Best recipe site. Period. Everything compiled in one easy to search and easy to file place. Just love it!
+
+
+review id: 15030
+
+matches and contexts:
+
+match = micro
+context = a look. I'm sick & tired of faint gray fonts with microscopic print size. Do you want me to read you
+
+
+id: 15030 | rating: 1 | user: mmbrownie | date: 2014-11-06 | time: 17:48:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Would use IF I could read. Delete.
+--------------------------------------------------------------------
+
+I was fired up to check this out. But it seems that developers are going for a bit too sleek of a look. I'm sick & tired of faint gray fonts with microscopic print size. Do you want me to read your stuff? Make it readable!
+
+
+review id: 15372
+
+matches and contexts:
+
+match = sodium
+context = Looking for low sodium recipes, which an Internet search brings up
+
+
+id: 15372 | rating: 1 | user: Tacona | date: 2014-01-25 | time: 15:39:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Search options
+--------------------------------------------------------------------
+
+Looking for low sodium recipes, which an Internet search brings up this particular app often, do a search in the app and it returns recipes with 1300mg (and higher) of sodium on a regular basis??? How is this low sodium? Fail
+
+
+review id: 15630
+
+matches and contexts:
+
+match = iod
+context =  Now I'm making exquisite dishes like a madman Period.
+
+
+id: 15630 | rating: 5 | user: xNeOnx N II K E | date: 2014-06-25 | time: 15:25:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Yummly...
+--------------------------------------------------------------------
+
+I can't cook to save my life... Now I'm making exquisite dishes like a madman Period.
+
+
+review id: 16807
+
+matches and contexts:
+
+match = iod
+context = I love this app. Period.
+
+
+id: 16807 | rating: 5 | user: Pizza Chefette | date: 2014-07-12 | time: 03:42:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Aesthetically pleasing and taste-bud tempting!
+--------------------------------------------------------------------
+
+I love this app. Period.
+
+

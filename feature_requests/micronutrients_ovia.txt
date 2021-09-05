@@ -1,0 +1,943 @@
+'Micronutrients' related feature requests in ovia reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 55
+
+
+review id: 6
+
+matches and contexts:
+
+match = vitam
+context = weight, BP, etc. The daily reminders for prenatal vitamins helps if you’re the sort of person who mi
+
+
+id: 6 | rating: 3 | user: Upmove | date: 2018-10-06 | time: 00:34:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Like it, but needs improvements on articles
+--------------------------------------------------------------------
+
+This is one of my favorite pregnancy apps for tracking the baby’s progress. I like how you can also put in doctors appointments, track weight, BP, etc. The daily reminders for prenatal vitamins helps if you’re the sort of person who might forget.
+
+
+review id: 8
+
+matches and contexts:
+
+match = vitam
+context = aring. I love being encouraged to log my food and vitamins, and have truly been eating more intentio
+
+
+id: 8 | rating: 4 | user: Mung Bean's Mommy | date: 2018-08-09 | time: 10:03:33.000Z
+
+--------------------------------------------------------------------
+                      Title: This is THE app to use!
+--------------------------------------------------------------------
+
+I downloaded another popular app when I became  pregnant and quickly got burned out on it - it was all advertisements and fashion advice. I downloaded Ovia and WOW am I glad I was still in the 1st trimester when I found it. The interface is user friendly, the content is truly about my health and the health of my baby, not about what other people think or what I should be wearing. I love being encouraged to log my food and vitamins, and have truly been eating more intentional foods since starting it. It’s encouraging, informative, and my husband even got to subscribe to the daily emails! It helps him feel involved and he has been following the recommendations for nutrition by going to the grocery store for me without me even having to ask- the app is telling him what we need! Love this app! The only function I wish it had was an option for a more detailed food log, and the ability to list more specific high-risk categories that aren’t preloaded. I’m high risk with a connective tissue and joint hyper mobility disorder but there’s currently no option to record it as it’s uncommon.
+
+
+review id: 10
+
+matches and contexts:
+
+match = vitam
+context = would keep your recently used meds (like prenatal vitamins) up at the top so you could easily find t
+
+
+id: 10 | rating: 4 | user: S_Schultz | date: 2017-10-13 | time: 16:53:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App but Update Left Something to be Desired
+--------------------------------------------------------------------
+
+I have really enjoyed using this app for my first pregnancy! I like the week by week articles, the fun themes, and the tools like the symptom checker and food/medication safety. However, there are a couple things I would improve. Since the last app update, it's harder to look up and find medications to record. In the previous version, it would keep your recently used meds (like prenatal vitamins) up at the top so you could easily find them. Now I have to search prenatal vitamins every time which is frustrating. Also, the kick counter was moved off the front data screen and moved into the more tab, which doesn't seem to fit for me. That is something I use everyday and data that I would like to be able to chart out (it's a higher priority for me than the activity tracker). Overall, the app is great and I do recommend it to my friends. Just a couple things that I would change to improve ease of use.
+
+
+review id: 27
+
+matches and contexts:
+
+match = iod
+context = I’d been using the Ovia app for my period for years, so when I got pregnant I switched t
+
+
+id: 27 | rating: 5 | user: kleinemBudget | date: 2021-03-16 | time: 16:57:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy, basic, and I loved it my whole pregnancy!
+--------------------------------------------------------------------
+
+I’d been using the Ovia app for my period for years, so when I got pregnant I switched to the pregnancy app. It was so simple to use, and I loved the familiarity of the app having come from using their fertility app. The simplicity I think is what I really liked, simple but certainly enough! I loved the little images to show how big baby is compared to your hand or a seed per say. The little feet, it was a nice touch. I didn’t use the kick counter tbh because once I could feel my daughter kick, she basically never stopped moving. She was kicking so much it just didn’t make sense to try and record it all 😅. But anyways if you need the kick counter it works super great, and there’s all sorts of supportive and informational articles through the app that I appreciated. It helped me get my breast pump as well which was fantastic. Highly recommend!
+
+
+review id: 39
+
+matches and contexts:
+
+match = iod
+context = rds, I used the Ovia fertility app to track my periods and eventually become pregnant again... And n
+
+
+id: 39 | rating: 5 | user: Piscearicorn | date: 2019-07-03 | time: 18:16:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Ovia EVERYTHING apps are AMAZING
+--------------------------------------------------------------------
+
+I used this Ovia pregnancy app for my pregnancy with my daughter, and I absolutely adored it... Afterwards, I used the Ovia fertility app to track my periods and eventually become pregnant again... And now I'm using the Ovia pregnancy app during THIS pregnancy with my son. I can't say enough great things about all of the Ovia apps...
+
+
+review id: 41
+
+matches and contexts:
+
+match = iod
+context = rack ovulation but only to track when I had my periods so I would know when it was coming, and under
+
+
+id: 41 | rating: 5 | user: SaltAndPepperMe | date: 2018-06-24 | time: 15:35:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Useful, helpful, fun, & cute!!
+--------------------------------------------------------------------
+
+I used the regular Ovia app not to track ovulation but only to track when I had my periods so I would know when it was coming, and understand when my moods would change during the cycle. When I marked I was pregnant (we weren’t really planning it but took a chance and it happens on the first try 😳), the app brought me to the ovia pregnancy app. I loaded it and found that it was even more fun and cute than the regular app. You can decide your background colors, post your picture, nickname your baby a fun name, even choose if you want the app to show you the size of your baby in bakery food references or fruit references, or some other reference. I like it. It give you info daily also about the growth and development of the baby.
+
+
+review id: 51
+
+matches and contexts:
+
+match = iod
+context = pressive part has been the “health coach” that periodically sends a message about general pregnancy 
+
+
+id: 51 | rating: 5 | user: Dogodokov | date: 2018-03-23 | time: 23:28:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome companion
+--------------------------------------------------------------------
+
+This app has been like a caring companion to me throughout my pregnancy. The style is kept light and friendly and is inviting. The interface is easy to use even though there are so many options. I love the ability to track daily stuff like emotions & symptoms in addition to food intake. I love seeing updates of baby’s size and a summary of what to expect each week.  The most impressive part has been the “health coach” that periodically sends a message about general pregnancy topics but then actually talks to me when I reply back and offers advice on any questions. It’s hard to believe this is a free app! So many wonderful features that have been a great help and comfort through my pregnancy. Thanks Ovia for this good service you offer!
+
+
+review id: 59
+
+matches and contexts:
+
+match = vitam
+context = rd enough. We feel bad we can’t take the prenatal vitamin (which isn’t as necessary to baby health a
+
+
+id: 59 | rating: 2 | user: Reviewer7531 | date: 2019-06-19 | time: 19:04:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Doesn’t take into account diseases
+--------------------------------------------------------------------
+
+Hyperemesis is a condition that affects about 1-2% of pregnant women. Common, but rare. And every day the app shames HGers by asking us if we are taking our prenatal. Trust us, we’d love to take a prenatal and do pregnancy yoga and love the life, but taking a prenatal generally makes us vomit our stomach contents. Brushing our teeth, walking through a grocery store, daily life is already hard enough. We feel bad we can’t take the prenatal vitamin (which isn’t as necessary to baby health as NUTRITIONAL FOOD is, says the American Pregnancy Association.) But even knowing that we have HG, because the app asks, it still shames us every time we open it, we can’t use it without it being like the nagging parent going “you really need to take a prenatal.” I would, if I could, if it didn’t make me vomit everywhere. Thanks, Ovia, for shaming pregnant women when you’re aware already of their disability during pregnancy.
+
+
+review id: 71
+
+matches and contexts:
+
+match = iron
+context = rk together to improve your app experience, which ironically is taking away from mine. Not sure I’ll
+
+
+id: 71 | rating: 3 | user: LittleIssa | date: 2018-02-06 | time: 14:20:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Too many insurance plugs
+--------------------------------------------------------------------
+
+I used this app for my last pregnancy(3 years ago) and loved it, so I was quick to download it again when we found out we were pregnant a second time. However, this time there seems to be less information about the pregnancy and fetal development, but significantly more plugs for connecting the app through your employer for insurance information. I understand how that could be helpful to some but not to all of us (we have Tricare for the military insurance and it won’t even recognize it). It seems like every-other article on my feed is a promo for how Ovia and your insurance can work together to improve your app experience, which ironically is taking away from mine. Not sure I’ll be using this as my primary app for this pregnancy, unfortunately.
+
+
+review id: 85
+
+matches and contexts:
+
+match = vitam
+context =  and check off that you are taking your pre-natal vitamin each day! I used the Ovia ovulation before
+
+
+id: 85 | rating: 5 | user: aledda88 | date: 2019-03-01 | time: 10:52:16.000Z
+
+--------------------------------------------------------------------
+                      Title: On point!
+--------------------------------------------------------------------
+
+As I go through my pregnancy, from the very beginning this app has been spot on! From the growth (compared to my OBGYN appts.) to what I’m feeling and the progress. My family loves getting the weekly updates and it’s so easy to screen shot the home page with your update and weeks. It’s so cute to see the tiny baby hands and feet as they grow to what a newborns “average” size comparison would be at birth. So tiny and sweet! Easy to log daily and check off that you are taking your pre-natal vitamin each day! I used the Ovia ovulation before this and was just as good, as we can tell - I’m pregnant! My husband and I are so excited for our first bundle of joy! Thanks Ovia!
+
+
+review id: 92
+
+matches and contexts:
+
+match = iron
+context = e identified as percents of protein or percent of iron and such as to how many cups of something I n
+
+
+id: 92 | rating: 4 | user: madcat2go | date: 2018-09-02 | time: 01:12:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Happy and helped by this app
+--------------------------------------------------------------------
+
+I really enjoy using this app. It’s really help me keep track of all the items I need to for my pregnancy. I wish that there was more options for someone having twins. I was only able to identify that I was having one child. In addition to keeping track of all the items that you eat it would be really helpful if it were identified as percents of protein or percent of iron and such as to how many cups of something I need to eat. Maybe this is already integrated into the app but I did not see that anywhere so I’m continuously trying to find that online and asking questions online.
+
+
+review id: 93
+
+matches and contexts:
+
+match = iod
+context = ertility which really helped pin point when my periods were (not a person that ever tracked) to my b
+
+
+id: 93 | rating: 5 | user: Tessa0786 | date: 2018-11-06 | time: 06:22:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Well worth it!
+--------------------------------------------------------------------
+
+This app has been well worth the download. I started out with Ovia fertility which really helped pin point when my periods were (not a person that ever tracked) to my bbt, weight etc. loved it! So when I found out I was pregnant, it seemed clear to me to download ovia pregnancy also. It’s kept my dates clear on when I had appts. to little notes about random things. One of my favorite features of this app is the “community” where you can ask questions and read other peoples questions with quick responses And vote on them. It’s fun, interesting and also helpful.
+
+
+review id: 95
+
+matches and contexts:
+
+match = iod
+context = After my first missed period I knew I was pregnant. My sister told me about
+
+
+id: 95 | rating: 5 | user: ZWMeyers | date: 2018-11-20 | time: 16:49:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Absolutely Perfect.
+--------------------------------------------------------------------
+
+After my first missed period I knew I was pregnant. My sister told me about Ovia because she had used it for her last pregnancy. So I downloaded and it was so informative about every step of the way. Unfortunately I was not able to get to the doctor until 4months so Ovia was my only source of information of what was happening. When I finally was able to be seen, Ovia was right on the money with just how far along I was and even had the exact due date! I highly recommend this app to anyone who’s pregnant especially new mothers who want a lot of insight on what’s going on and things they should be doing.
+
+
+review id: 101
+
+matches and contexts:
+
+match = vitam
+context = y helpful because it reminds you to take prenatal vitamins and there is a place to put in all of the
+
+
+id: 101 | rating: 5 | user: Little one 1985 | date: 2018-05-06 | time: 17:06:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Very useful info
+--------------------------------------------------------------------
+
+I really enjoy this app compared to when I was pregnant 7 years ago when I would have to look at the internet and search all over for info each week of pregnancy. This app has good info for each week and it has been so fun to be able to see what size my baby is each week and that you can choose the theme of what you want them to compare the size of your child to. This app is also very helpful because it reminds you to take prenatal vitamins and there is a place to put in all of the info/stats for each appointment do you can see your progression. I love this app!
+
+
+review id: 106
+
+matches and contexts:
+
+match = vitam
+context = ow they send you daily info and reminders to take vitamins though.
+
+
+id: 106 | rating: 3 | user: KD2587 | date: 2019-05-25 | time: 15:36:06.000Z
+
+--------------------------------------------------------------------
+                      Title: More informative than most but needs export option
+--------------------------------------------------------------------
+
+I like this app, but until I recently reached out to support I was not aware that you couldn’t export the information you log in the app to print if needed. This is a huge issue for me and is a huge downfall to this app, it is a must have and I hope someone adds this option soon soon. Also, without the export method, there’s no way that I’ve found to “search” the calendar where you’ve logged notes which means I have to go through every day I’ve logged and find what I’m looking for. Again had I known, I would of logged these in another app that does support these functions. I do love how they send you daily info and reminders to take vitamins though.
+
+
+review id: 115
+
+matches and contexts:
+
+match = vitam
+context = nstant questions about whether I took my prenatal vitamin or not, nor do I like some of the other fa
+
+
+id: 115 | rating: 4 | user: Lvo328 | date: 2019-03-16 | time: 15:29:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Good overall
+--------------------------------------------------------------------
+
+I’m mostly enjoying this app, with a couple of exceptions. I don’t really appreciate the constant questions about whether I took my prenatal vitamin or not, nor do I like some of the other fairly invasive questioning.  This may just be annoying to me personally, who knows? I’ve also noticed that since I mentioned that I have experienced anxiety in the past, there is a huge focus on mental heath on my feed- I get including info on that once in awhile, but it’s excessive at times. Finally, occasionally I cannot locate the daily info about my baby’s development- it won’t show up until a day later, which seems like a glitch.
+
+
+review id: 116
+
+matches and contexts:
+
+match = iod
+context = I used Ovia as my period tracker, and the regular app helped me identif
+
+
+id: 116 | rating: 5 | user: Layna Lampkin | date: 2019-05-29 | time: 21:44:07.000Z
+
+--------------------------------------------------------------------
+                      Title: My favorite health tracker for pregnancy
+--------------------------------------------------------------------
+
+I used Ovia as my period tracker, and the regular app helped me identify my fertile window when we were trying to conceive. Now I’m 37 weeks pregnant, and I love using the Ovia pregnancy app. I love tracking my symptoms daily and being able to add little notes everyday, and that my data syncs to my Apple health app. I also love that the app creates graphs of my weight gain and blood pressure over the weeks. I read the weekly updates in addition to the free BabyCenter and What to Expect apps’ updates. The anonymous community is also a major and unique plus of this app! I would recommend this app to all pregnant women!
+
+
+review id: 123
+
+matches and contexts:
+
+match = vitam
+context = ! It enables you to keep track of your nutrition, vitamins, doctors appointments and even has little
+
+
+id: 123 | rating: 5 | user: Mimigirl032 | date: 2019-04-18 | time: 09:05:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Best Pregnancy App out there!
+--------------------------------------------------------------------
+
+This app provides everything you need! It enables you to keep track of your nutrition, vitamins, doctors appointments and even has little reminders. I love how there are quick little articles on everything from where to buy a reasonable crib to how to deal with morning sickness. I also used the weekly nutritional tips based on baby’s development. This is my 3rd baby and I still learned a lot through this app. Great for first time moms and those who are more experienced. There is also a setting for if you’re having multiples as well! All in all 5 stars!
+
+
+review id: 129
+
+matches and contexts:
+
+match = iod
+context = ighly recommend avoiding depo) I didn’t have a period for around 8 months. When my periods did start
+
+
+id: 129 | rating: 5 | user: Kinzey J | date: 2020-12-27 | time: 19:32:19.000Z
+
+--------------------------------------------------------------------
+                      Title: I love all of their apps!
+--------------------------------------------------------------------
+
+After I quit using the depo shot as birth control (highly recommend avoiding depo) I didn’t have a period for around 8 months. When my periods did start they were so irregular and were hard to track. Ovia made it so easy to track them until the regulated back out. Then when I got pregnant the pregnancy tracker was full of details about baby, my body, tips, healthy recipes, etc. The parenting app helped keep track of milestones my baby should be hitting. Overall I highly recommend these apps and have used them for all three of my pregnancies.
+
+
+review id: 142
+
+matches and contexts:
+
+match = iod
+context = d wanted some support and help. I had the Ovia period tracker and loved being able to talk to other 
+
+
+id: 142 | rating: 2 | user: Sabrina31797 | date: 2019-02-27 | time: 13:55:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app, hate the community
+--------------------------------------------------------------------
+
+Not going to lie I deleted this app because I became a first time mom and wanted some support and help. I had the Ovia period tracker and loved being able to talk to other women who were concerned about irregular periods and such. They were kind and understanding. However, once I fell pregnant I switched to the pregnancy version and couldn’t believe how nasty the women are! I would make posts about my concerns and struggles and in return I got bashed for being “stupid” and that I needed to “get over” what I was going though. I hate losing faith in humanity but apps like these make it super easy to happen. Download the app if you want tips on where you are in your pregnancy but stay away from the know-it-all parents.
+
+
+review id: 152
+
+matches and contexts:
+
+match = vitam
+context = this app has been great. It reminds me to take my vitamins, gives daily updates on baby developments
+
+
+id: 152 | rating: 5 | user: T. Pot | date: 2018-11-08 | time: 11:34:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for me AND hubby
+--------------------------------------------------------------------
+
+We are first timers and are so excited and hungry for information and this app has been great. It reminds me to take my vitamins, gives daily updates on baby developments, and by entering my partner’s email he now gets the updates, can read the articles, and has a heads up on how I might be behaving and feeling as the weeks go by. Being able to enter symptoms and emotions each day is helpful. And I love the food and symptom look up so I’m not googling things all day. Very comprehensive and easy to use. Highly recommend.
+
+
+review id: 199
+
+matches and contexts:
+
+match = iod
+context = I used the other Ovia app tracking my period and trying to conceive. I love how easy it is 
+
+
+id: 199 | rating: 4 | user: HappyTeaxh | date: 2020-12-27 | time: 14:53:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Great info, easy to use, highly interactive
+--------------------------------------------------------------------
+
+I used the other Ovia app tracking my period and trying to conceive. I love how easy it is to use Ovia Pregnancy, and the plethora of information contained in the articles. I’m heavily disappointed how centered it is on breast feeding and natural delivery. Not every woman has those as options - me for example. No app out there that I’ve tried reflects on formula, c-sections, or any other anomalies that anatomy can cause during pregnancy. That being said, the drawings and variety of themes make the app so easy to customize and relate to your growing baby.
+
+
+review id: 231
+
+matches and contexts:
+
+match = iod
+context = I was using ovia fertility to track my period as well as my temperature so I could tell when
+
+
+id: 231 | rating: 5 | user: Rosie 0710 | date: 2018-07-22 | time: 04:56:20.000Z
+
+--------------------------------------------------------------------
+                      Title: From Ovia fertility to ovia pregnancy
+--------------------------------------------------------------------
+
+I was using ovia fertility to track my period as well as my temperature so I could tell when I was ovulating and when I wasn’t...I finally logged my daily stat and the app told me to take a pregnancy test which I did I was pregnant. I then transferred to ovia pregnancy and so far it’s been a marvelous app with helping me to keep track of everything...I’m almost at the finishing line just 4 more weeks to go and I’m very pleased with this app. Highly recommendable.
+
+
+review id: 250
+
+matches and contexts:
+
+match = iod
+context = ng it above any other app! I also use the Ovia period tracker when not pregnant and haven’t used any
+
+
+id: 250 | rating: 5 | user: radtechmamma | date: 2018-01-20 | time: 18:05:02.000Z
+
+--------------------------------------------------------------------
+                      Title: I love this app!!!
+--------------------------------------------------------------------
+
+This app is the first one I open on a daily basis! I love that it also emails my husband the daily tidbits...this is his first baby and he has been so excited to be involved and learn about his developing baby boy! There’s so much good information, advice, recipes, data tracking! I absolutely love using it above any other app! I also use the Ovia period tracker when not pregnant and haven’t used any other app but that one as well! Ovia is fabulous! Thank you!
+
+
+review id: 254
+
+matches and contexts:
+
+match = vitam
+context = log how much water I drink everyday, if I took my vitamins, my weight, how I feel, etc) but with thi
+
+
+id: 254 | rating: 4 | user: louise6659 | date: 2018-07-30 | time: 06:06:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Best pregnancy tracking app
+--------------------------------------------------------------------
+
+I tried a few other apps. The only other app that comes close to this one is the app Nuture(only because it lets me log how much water I drink everyday, if I took my vitamins, my weight, how I feel, etc) but with this app You can pick the theme to see how big your baby is and you can Ask questions and other moms will answer then and there, there are places to put in your doctors appointments and there a place for your ultrasound pictures and for belly pictures
+
+
+review id: 260
+
+matches and contexts:
+
+match = vitam
+context = , I hate the daily question if I took my prenatal vitamins . Yes, yes I am. Stop it. Lol. Finally, a
+
+
+id: 260 | rating: 5 | user: Collibeth | date: 2017-12-24 | time: 13:16:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+App is great with telling you what's up with baby and what you might be experiencing. The personalizations are fun. Minor things for downsides: I do wish it would tell me more about the physical changes in my body (uterus size, position, what is moving to make room for baby, etc.) Also, I hate the daily question if I took my prenatal vitamins . Yes, yes I am. Stop it. Lol. Finally, add Reproductive Endocrinologist to the types of doctors we see.
+
+
+review id: 266
+
+matches and contexts:
+
+match = vitam
+context = e option to set a daily reminder to take prenatal vitamins! It could pop up on my smart phone, and o
+
+
+id: 266 | rating: 5 | user: Brittletwig | date: 2021-04-29 | time: 19:13:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Best app I’ve used so far!
+--------------------------------------------------------------------
+
+The one thing I wish it could do was reminders. I would like the option to set a daily reminder to take prenatal vitamins! It could pop up on my smart phone, and once I’ve taken it, I can dismiss it. I’ve been using the fertility tracking app for many years, I used the pregnancy app for my first child, and I’m using it again now. I highly, highly recommend this app to all pregnant mothers!
+
+
+review id: 273
+
+matches and contexts:
+
+match = vitam
+context = hat I have to see the “did you take your prenatal vitamin” pop up every day now!! I was taking my vi
+
+
+id: 273 | rating: 4 | user: MegxMcD | date: 2018-09-27 | time: 11:13:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Good
+--------------------------------------------------------------------
+
+This app could be one of the best. I wish the weekly informative videos would’ve started immediately like another pregnancy app I have. Also, highly annoyed right now about the fact that I have to see the “did you take your prenatal vitamin” pop up every day now!! I was taking my vitamin every day just fine on my own, why are you just now annoying me with this when I’m already halfway through the pregnancy. I keep trying to find a way to disable it!
+
+
+review id: 318
+
+matches and contexts:
+
+match = vitam
+context = te. It is easy to use, provides reminders to take vitamins daily, and provides insightful informatio
+
+
+id: 318 | rating: 5 | user: SK1720 | date: 2019-09-12 | time: 01:09:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to Use!
+--------------------------------------------------------------------
+
+I have tried several pregnancy apps throughout my pregnancy and Ovia is by far my favorite. It is easy to use, provides reminders to take vitamins daily, and provides insightful information daily. Other apps only seem to update the reading materials weekly, which is fine, but I really enjoyed being able to learn more about my baby’s development and my pregnancy every day.
+
+
+review id: 358
+
+matches and contexts:
+
+match = iod
+context = xactly 12 days after the first day of our last period, so why is it when I put in the date I know I 
+
+
+id: 358 | rating: 4 | user: Tem4135 | date: 2020-03-06 | time: 01:14:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Great But...
+--------------------------------------------------------------------
+
+Why does the app think that all women’s bodies work like machines?  We do not ALL ovulate exactly 12 days after the first day of our last period, so why is it when I put in the date I know I ovulated (based on test strips) it changes the first day of my last period? Any time I change one it automatically changes the other. It’s probably the pregnancy hormones talking, but treating women’s bodies like they all work like little identical clocks really irritates me.
+
+
+review id: 368
+
+matches and contexts:
+
+match = vitam
+context = open the app. I like how it reminds me to take my vitamins and the ability to create a baby registry
+
+
+id: 368 | rating: 5 | user: Abelst | date: 2020-12-17 | time: 19:31:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+It is very informative, and is great for tracking our progress. Every morning my husband asks “what’s new with our baby today?” And I open the app. I like how it reminds me to take my vitamins and the ability to create a baby registry automatically is awesome! Since this is my first baby, the idea of creating one from scratch (I have no idea what we will need) was a littler overwhelming.
+
+
+review id: 372
+
+matches and contexts:
+
+match = vitam
+context = app itself is very informative. It has a prenatal vitamin reminder that I desperately need. There’s 
+
+
+id: 372 | rating: 4 | user: mean chickens. | date: 2018-06-07 | time: 12:55:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Ovia
+--------------------------------------------------------------------
+
+The app itself is very informative. It has a prenatal vitamin reminder that I desperately need. There’s a community posting board of you have questions or need to talk to other moms. The only issue I have isn’t really with the app itself, there’s a lot of moms who reply to the post and they are down right hateful sometimes. They talk down to the poster etc. Maybe an improvement would be to have all responses approved before being posted.
+
+
+review id: 385
+
+matches and contexts:
+
+match = iod
+context = stand being "fertile".. Omce i missed my first period ovia suggested tbat i take a pregnancy test an
+
+
+id: 385 | rating: 5 | user: LoKeiSmith | date: 2019-03-15 | time: 21:04:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Spot on information
+--------------------------------------------------------------------
+
+I started usei g the ovia fertility app , i was tracking my cycle and trying to understand being "fertile".. Omce i missed my first period ovia suggested tbat i take a pregnancy test and boom! I waa definitely pregnant and i immediately switched to the pregnancy app to track how far alongi might be and when i went to the dr ovias results were the exact same as my drs findings..love this app alot of support here 24/7 ..
+
+
+review id: 407
+
+matches and contexts:
+
+match = iod
+context = ks. I’ve been using it since I missed my first period (after the Ovia period tracking app noticed I 
+
+
+id: 407 | rating: 5 | user: MJB197905 | date: 2020-01-05 | time: 19:25:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Just right
+--------------------------------------------------------------------
+
+Great app with really good digestible chunks. I’ve been using it since I missed my first period (after the Ovia period tracking app noticed I was late lol). I’m now 30 weeks pregnant.  I’ve used it to track my weights and blood pressures and to follow size of baby. Every week there are nice videos and there are some adverts but they’re very gentle and mostly useful. So glad this is free!
+
+
+review id: 427
+
+matches and contexts:
+
+match = vitam
+context =  reminders to see if I’ve been taking my prenatal vitamins as well as giving me updates on Bean and 
+
+
+id: 427 | rating: 5 | user: Raynababy999 | date: 2020-12-21 | time: 16:25:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy
+--------------------------------------------------------------------
+
+I love this app! Everything about it is just so easy but in a good way. I love the reminders to see if I’ve been taking my prenatal vitamins as well as giving me updates on Bean and being able to track how i’m feeling and symptoms I may be experiencing. This is the first pregnancy I’ve been able to use this app for and so far it’s doing a great job!
+
+
+review id: 433
+
+matches and contexts:
+
+match = iod
+context = describe the size, relative to the gestational period, is confusing, especially for first time moms.
+
+
+id: 433 | rating: 3 | user: Kathryn F. | date: 2018-09-16 | time: 17:03:44.000Z
+
+--------------------------------------------------------------------
+                      Title: No cohesion
+--------------------------------------------------------------------
+
+This app causes a lot of disillusionment. The methods they use to describe the size, relative to the gestational period, is confusing, especially for first time moms. One week she’s a cauliflower: so when I’m in the market I’m looking to gauge my baby’s size, then the next week she’s a pineapple. That’s inconsistent and confusing.
+
+
+review id: 475
+
+matches and contexts:
+
+match = iod
+context = I used ovia before i was pregnant to track my periods and try and get pregnant  it was right on the
+
+
+id: 475 | rating: 5 | user: aug2019baby | date: 2019-02-12 | time: 18:13:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Best app!
+--------------------------------------------------------------------
+
+I used ovia before i was pregnant to track my periods and try and get pregnant  it was right on the mark! I loved it! Then I found out they had a pregnancy one and it’s amazing.  I have two other ones that I use for extra info but this one is my daily one.  It makes sure to remind me to take my prenatal, legs me track dr apts.. ect.  And it is literally all free no scam.
+
+
+review id: 483
+
+matches and contexts:
+
+match = vitam
+context = ointments and it reminds you to track taking your vitamins. Overall an easy app to navigate.
+
+
+id: 483 | rating: 5 | user: csyrce | date: 2021-03-13 | time: 14:37:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Cute Tracker
+--------------------------------------------------------------------
+
+I enjoy being able to set up cute themes such as backgrounds, colors, and different categories to measure babies growth. Been using this for both of my pregnancies. I also really like that you’re able to log appointments and it reminds you to track taking your vitamins. Overall an easy app to navigate.
+
+
+review id: 488
+
+matches and contexts:
+
+match = vitam
+context =  reminded me soooo many times to take my prenatal vitamins!! If you’re pregnant it’s really the only
+
+
+id: 488 | rating: 5 | user: jerhan88 | date: 2019-09-06 | time: 01:00:41.000Z
+
+--------------------------------------------------------------------
+                      Title: The BEST one out there!!!
+--------------------------------------------------------------------
+
+When I first found out I was pregnant I downloaded every free pregnancy tracker app, I am now 38 weeks and it is the only one I use. I absolutely love all of the setting and it has reminded me soooo many times to take my prenatal vitamins!! If you’re pregnant it’s really the only app you need. It’s super easy to use and has such cool little rid bits daily!!
+
+
+review id: 501
+
+matches and contexts:
+
+match = iod
+context = nfined to make its own adjustments. It made my period a week later, due date a week earlier, etc and
+
+
+id: 501 | rating: 1 | user: Woo loop | date: 2017-11-04 | time: 15:37:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Unable to use due to complicated features
+--------------------------------------------------------------------
+
+I ovulated late in my cycle which caused me to be 2 weeks off on my due date. My ultrasound dating confirmed the actual pregnancy age. I tried to update this on the app to reflect my doctor determined due date and date of conception but the app confined to make its own adjustments. It made my period a week later, due date a week earlier, etc and so on. Very frustrating especially when I know when my period started that month but the ovulation was just off. I will be finding a new app that is not so restrictive on dates.
+
+
+review id: 504
+
+matches and contexts:
+
+match = vitam
+context = our baby is developing. The reminders on prenatal vitamins,eating healthy and staying active are gre
+
+
+id: 504 | rating: 5 | user: CommGalPhD | date: 2018-08-21 | time: 14:06:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Fun and helpful app!
+--------------------------------------------------------------------
+
+My sister recommended Ovia and I am so glad I downloaded it! I appreciate the well written, informative and timely articles. Love the updates on how our baby is developing. The reminders on prenatal vitamins,eating healthy and staying active are great. Love the tracking features too. I am involved in app design professionally and think Ovia’s UX is fantastic! Keep it up! :)
+
+
+review id: 528
+
+matches and contexts:
+
+match = iod
+context = loaded it and have barely used it.  I liked my period app better (Flo).  Also there is really no dis
+
+
+id: 528 | rating: 3 | user: Janrob237332 | date: 2021-04-19 | time: 15:34:35.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s OK
+--------------------------------------------------------------------
+
+The tracking and calendar is not that simple to fill out and there is a lot of information I am not tracking that bogs it down.  Also the categories / references for how big the baby is are kind of random and strange.  I honestly downloaded it and have barely used it.  I liked my period app better (Flo).  Also there is really no discussion / community area.  It is just polls which are not very helpful.  I would look elsewhere
+
+
+review id: 533
+
+matches and contexts:
+
+match = vitam
+context = le one! I like how it sets reminders to take your vitamins and how it allows you to keep track of yo
+
+
+id: 533 | rating: 4 | user: Qtmom2B | date: 2021-01-22 | time: 20:50:53.000Z
+
+--------------------------------------------------------------------
+                      Title: I Love This App- First Time Mom
+--------------------------------------------------------------------
+
+I love how it provides you with detail information on your baby; and also networks with other resources to provide you with more information in other fields. Everyday I send updates to the hubby about our little one! I like how it sets reminders to take your vitamins and how it allows you to keep track of your symptoms.. I’m enjoying it so far...
+
+
+review id: 566
+
+matches and contexts:
+
+match = vitam
+context = al things such as mood/feelings, symptoms, taking vitamins and weight.
+
+
+id: 566 | rating: 5 | user: Syruuuuup | date: 2019-03-17 | time: 03:14:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Love It
+--------------------------------------------------------------------
+
+As soon as I found out i was pregnant, I downloaded several apps. This one I really liked. I love the fact that they give you daily updates and have informational videos. They also interact with the user by tracking several things such as mood/feelings, symptoms, taking vitamins and weight.
+
+
+review id: 589
+
+matches and contexts:
+
+match = iod
+context = s super easy to use! It even helps me track my periods & symptoms, so when I go to the doctor office
+
+
+id: 589 | rating: 5 | user: ariahand | date: 2021-03-19 | time: 08:26:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Best pregnancy app!
+--------------------------------------------------------------------
+
+The best pregnancy app ever!! I was successful with two babies after using the app!! And it’s super easy to use! It even helps me track my periods & symptoms, so when I go to the doctor office & they ask me when my first day of last period was, I can easily notify them without having to remember!
+
+
+review id: 605
+
+matches and contexts:
+
+match = vitam
+context =  the daily questions to ask if I took my prenatal vitamin which become annoying if you are a heavy u
+
+
+id: 605 | rating: 5 | user: Omgitzme87 | date: 2019-12-12 | time: 16:44:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+Love this app. I used Ovia for trying to conceive and it was awesome, and then after getting pregnant I switched to Ovia Pregnancy. I love everything except for the daily questions to ask if I took my prenatal vitamin which become annoying if you are a heavy user like me. There should be a way to shut those off.
+
+
+review id: 609
+
+matches and contexts:
+
+match = iod
+context = regnancy & I use the Fertility app to track my period. However, since they add the “In the Womb” fea
+
+
+id: 609 | rating: 3 | user: beckly_freckly | date: 2019-07-28 | time: 16:31:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Not a 5 star app anymore
+--------------------------------------------------------------------
+
+I love Ovia. I’ve used it for every pregnancy & I use the Fertility app to track my period. However, since they add the “In the Womb” feature the app is slow, laggy, and rendered unusable if you attempt to view your week in the womb. I’ll give more stars I’ve the bugs are fixed and the app improves, but at this point I’m already looking for a different app to track the rest of my pregnancy.
+
+
+review id: 618
+
+matches and contexts:
+
+match = iod
+context = I used the ovia period tracker which made me want to use the pregnanc
+
+
+id: 618 | rating: 3 | user: baby_tracker1 | date: 2021-08-11 | time: 09:27:32.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s good
+--------------------------------------------------------------------
+
+I used the ovia period tracker which made me want to use the pregnancy tracker. I like how detailed the tracking is! It’s a great app except in the baby development section, about 2/3 of the time they use the pronouns she/her and the other 1/3 they use he/him. It’s just very inconsistent and I feel like they could use gender neutral pronouns until a gender is plugged into the app. This is definitely an area that needs improvement.
+
+
+review id: 621
+
+matches and contexts:
+
+match = iod
+context = This app has been super helpful to track my periods, fertility and health that goes along with it
+
+
+id: 621 | rating: 5 | user: Jane_garrison | date: 2021-03-28 | time: 19:14:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Convenient and detailed
+--------------------------------------------------------------------
+
+This app has been super helpful to track my periods, fertility and health that goes along with it! My husband and I conceived our first baby with the help of the fertility info on this app. I used their pregnancy app for my entire pregnancy. It’s simple yet the information you document is detailed.
+
+
+review id: 642
+
+matches and contexts:
+
+match = iod
+context = e on track with logging symptoms, medications, periods, etc. Now I’ve started the Ovia pregnancy app
+
+
+id: 642 | rating: 5 | user: 43KayEm | date: 2017-10-09 | time: 03:02:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Keeps me on track
+--------------------------------------------------------------------
+
+I used the Ovia to track my cycle since it had been 4years since my last one. It helped keep me on track with logging symptoms, medications, periods, etc. Now I’ve started the Ovia pregnancy app and the information transferred over for me! It’s very handy and I’d recommend it to everyone.
+
+
+review id: 646
+
+matches and contexts:
+
+match = vitam
+context = rs. I don’t need to answer a question on prenatal vitamins etc. once this gets fixed and taken away 
+
+
+id: 646 | rating: 4 | user: megalcamo | date: 2018-10-29 | time: 11:24:27.000Z
+
+--------------------------------------------------------------------
+                      Title: What’s with daily questions?!?
+--------------------------------------------------------------------
+
+There needs to be a setting for the daily questions that recently started showing up! They are beyond annoying and it’s the only reason I won’t give 5 stars. I don’t need to answer a question on prenatal vitamins etc. once this gets fixed and taken away I will change to 5!
+
+
+review id: 665
+
+matches and contexts:
+
+match = iod
+context = th letting me know when I’m supposed to get my period or when I’m ovulating and this last time it he
+
+
+id: 665 | rating: 5 | user: Pativortiz | date: 2021-01-28 | time: 18:52:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+I’ve been using Ovia for the past few years and it’s always helped me so much with letting me know when I’m supposed to get my period or when I’m ovulating and this last time it helped me get pregnant the first month I was trying. I recommend this app to everyone ☺️
+
+
+review id: 671
+
+matches and contexts:
+
+match = iod
+context =  like, conception date, due date, date of last period to get on the app. All features and reminders 
+
+
+id: 671 | rating: 5 | user: DiorsDoll | date: 2018-11-13 | time: 12:45:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Best pregnancy app out there
+--------------------------------------------------------------------
+
+When I found out I was pregnant, I only knew the conception date.  This is the only app that allowed several choices like, conception date, due date, date of last period to get on the app. All features and reminders r great and easy to use.
+
+
+review id: 797
+
+matches and contexts:
+
+match = iod
+context = r along I am! After 2months of keeping up with period I got pregnant now it’s on point with my docto
+
+
+id: 797 | rating: 5 | user: BonnieBobbie | date: 2019-03-08 | time: 15:31:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Works
+--------------------------------------------------------------------
+
+I hate reading reviews where I don’t know if they are true or not but this app helped me conceive and I went to doctor and they agree with the app on how far along I am! After 2months of keeping up with period I got pregnant now it’s on point with my doctor!
+
+
+review id: 824
+
+matches and contexts:
+
+match = vitam
+context = ough, I am tired of seeing the “did you take your vitamin” across the top before I read anything els
+
+
+id: 824 | rating: 3 | user: Not a bridezilla | date: 2019-05-27 | time: 10:58:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app but...
+--------------------------------------------------------------------
+
+I love this app and the information it has at my fingertips. I wish I could customize it more though, I am tired of seeing the “did you take your vitamin” across the top before I read anything else. I wish I could just delete it and the other reminders since I find them more annoying than helpful.
+
+

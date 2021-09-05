@@ -1,0 +1,385 @@
+'Micronutrients' related feature requests in shopwell reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 22
+
+
+review id: 26
+
+matches and contexts:
+
+match = sodium
+context = f you don’t ask it to consider a low sugar or low sodium diet. Not using again.
+
+
+id: 26 | rating: 2 | user: Voidshinko | date: 2021-05-25 | time: 12:39:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Barely Works
+--------------------------------------------------------------------
+
+I got this app to use the scanner for my dairy allergies, and wow did the thing barely work. It gave me false positives on completely safe foods (there is no Parmesan in traditional Ragu, what are you talking about??? And EnjoyLife cookies are explicitly allergen free, that’s the POINT of them.) It goes out of its way to shame you for eating anything but rabbit food even if you don’t ask it to consider a low sugar or low sodium diet. Not using again.
+
+
+review id: 45
+
+matches and contexts:
+
+match = phosp
+context = how kidney diet options such as low potassium and phosphorus.
+
+
+id: 45 | rating: 5 | user: swtg430 | date: 2020-11-04 | time: 21:17:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Would love to see kidney diet options
+--------------------------------------------------------------------
+
+As a renal dietitian, I would love this app to show kidney diet options such as low potassium and phosphorus.
+
+
+review id: 85
+
+matches and contexts:
+
+match = calci
+context = ourself. You pick what you want in food (protein, calcium, low fat, etc.) and what you don't want (s
+
+match = sodium
+context = , etc.) and what you don't want (sugar, sat. fat, sodium, etc), so can find out if that food you're 
+
+
+id: 85 | rating: 5 | user: ColombianCuti3 | date: 2014-01-18 | time: 17:33:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App for food searching!
+--------------------------------------------------------------------
+
+This app lets you search for food and look at the nutrition, ingredients, and benefits it will have or not have for you, based on a personal profile that you create about yourself. You pick what you want in food (protein, calcium, low fat, etc.) and what you don't want (sugar, sat. fat, sodium, etc), so can find out if that food you're looking for is healthy or not, and if it isn't then there are healthier alternatives available for you to look at and learn about. This is a great app for shopping, learning. It helps teach you more about what's in the food you eat. I recommend this app, I use it when I'm curious about buying food, whether it's candy or a type of yogurt.
+
+
+review id: 116
+
+matches and contexts:
+
+match = vitam
+context =  I am real big in staying healthy and getting the vitamins and foods that are essential to a longer,
+
+
+id: 116 | rating: 4 | user: Tabyyyyyyyy | date: 2013-12-14 | time: 23:51:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Perfect
+--------------------------------------------------------------------
+
+This is the coolest app I have. I am real big in staying healthy and getting the vitamins and foods that are essential to a longer, happier lifestyle. I'm always in the grocery store scanning foods. You would not believe how many foods your eating that claim to be "healthy" that are packed with added sugar, high fructose corn syrup, and preservatives. This really helped me understand a few things about calories, fat, food, and ingredients that I never knew before. There is also "missions" so that you can scan food and get money. At fist I was scanning a bunch of missions but lately there haven't been any new ones?
+
+
+review id: 128
+
+matches and contexts:
+
+match = vitam
+context =  type of diet, or want to manage special types of vitamins that you are in taking, I definitely reco
+
+
+id: 128 | rating: 5 | user: jessiebb100 | date: 2016-02-28 | time: 13:56:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Definitely recommend!
+--------------------------------------------------------------------
+
+I have celiac disease and am very sensitive to any amount of gluten. Shop well has made it so that if there is a product which I am not sure is gluten free, I can scan it and it will tell me. Also, for awhile I was on a low FODMAP diet and Shopwell gives you the option to select that so it will avoid certain foods. If you have any allergy, are on any type of diet, or want to manage special types of vitamins that you are in taking, I definitely recommend this app!
+
+
+review id: 147
+
+matches and contexts:
+
+match = iron
+context = ls with 5 g sugar because they have a little more iron. This app also does not take into account cal
+
+
+id: 147 | rating: 1 | user: Laura789123456 | date: 2014-04-30 | time: 15:45:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Read this!
+--------------------------------------------------------------------
+
+This app is a good idea but they need to re-do it. There are many things terribly wrong. For example, if an item has added sugar it is docked points. This is good but they dock it the same amount if it has 20 g added sugar or if it has 1 g added sugar. There are cereals with 15 g sugar that are rated better than similar cereals with 5 g sugar because they have a little more iron. This app also does not take into account calories or portion size. There are veggie burgers with 300 calories and 15 g protein rated higher than veggie burgers with 100 calories and 10 g protein. This doesn't make sense. I have found numerous examples like this. I hope no one is basing what they eat on this app!
+
+
+review id: 172
+
+matches and contexts:
+
+match = SODIUM
+context = ed lots of foods our family usually eats has HIGH SODIUM and TRANS FATS. I recommend this app to any
+
+
+id: 172 | rating: 5 | user: Kenjiume | date: 2012-04-22 | time: 17:14:52.000Z
+
+--------------------------------------------------------------------
+                      Title: This app is great!
+--------------------------------------------------------------------
+
+This app helps my mom and I pick out the right foods at the grocery store. I noticed lots of false advertising and being only 10 years old I find this app very impressive. I noticed lots of foods our family usually eats has HIGH SODIUM and TRANS FATS. I recommend this app to anyone who is trying to eat healthier, controlling weight management or just looking for the right foods. Thank you. 😊
+
+
+review id: 197
+
+matches and contexts:
+
+match = calci
+context = g with my favorite Food list. There are excellent calcium food to use appropriately on each Food. I'
+
+
+id: 197 | rating: 5 | user: Tomáseqsanchez | date: 2014-10-20 | time: 16:35:00.000Z
+
+--------------------------------------------------------------------
+                      Title: ShopWell  - Healthy diet & Grocery Food
+--------------------------------------------------------------------
+
+Tomas Enrique Sanchez Sanchez is glad to use this application to use appropriately the list of my food while , I go shopping with my favorite Food list. There are excellent calcium food to use appropriately on each Food. I'll give 5 stars for this application . I'll recommend my friends to add this application on their iPhones, computer and tablets.
+
+
+review id: 223
+
+matches and contexts:
+
+match = sodium
+context = use it shows what has added sugar and too high of sodium. I've always shopped healthy but now its te
+
+
+id: 223 | rating: 5 | user: Geo Gea | date: 2012-08-04 | time: 13:06:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Excatly what I want
+--------------------------------------------------------------------
+
+I cook for my parents and my mum has high blood pressure. This app is perfect because it shows what has added sugar and too high of sodium. I've always shopped healthy but now its ten times easier becaue I know the app gives me the next option up for a healthier product. And I love the point system, it helps me visualize and compair.
+
+
+review id: 229
+
+matches and contexts:
+
+match = sodium
+context = ve found a lot of new foods to try that have less sodium (hubby has high blood pressure). and had no
+
+
+id: 229 | rating: 5 | user: garza_girl | date: 2016-06-06 | time: 17:51:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Like it a lot.
+--------------------------------------------------------------------
+
+I have been using ShopWell since January and I really like it. I have found a lot of new foods to try that have less sodium (hubby has high blood pressure). and had no idea how much hidden sugar was in regular food. Now I'm obsessed to get my sugar stats down each week. Definitely a good app for grocery shopping.
+
+
+review id: 327
+
+matches and contexts:
+
+match = vitam
+context = od fast. I wish you would add more foods and also vitamins and supplements. I found the app while se
+
+
+id: 327 | rating: 5 | user: Star2925 | date: 2016-06-16 | time: 20:24:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app
+--------------------------------------------------------------------
+
+I love this app, scans food fast. I wish you would add more foods and also vitamins and supplements. I found the app while searching for gluten free apps. It has helped me a lot to make sure I'm not eating gluten. And it gives alternative foods that are healthier options
+
+
+review id: 349
+
+matches and contexts:
+
+match = sodium
+context = etti sauce is a medium match for me only based on sodium and it doesn't say anything about gluten an
+
+
+id: 349 | rating: 1 | user: Wggshdifjheheuafsyufofu | date: 2016-04-15 | time: 00:03:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Get it if you want to turn your phone into a snob that judges you
+--------------------------------------------------------------------
+
+It automatically assumes I care about a tiny amount of added sugar and that I'd literally rather have everything be organic.  I set it to only check for gluten and it is telling me that spaghetti sauce is a medium match for me only based on sodium and it doesn't say anything about gluten and then suggests other stuff that is way worse in other aspects like fat and saturated fat.  Go for it if you're a cuckolded hipster.
+
+
+review id: 363
+
+matches and contexts:
+
+match = iron
+context =  awesome idea and will work great as soon as they iron out the kinks. Such as labeling (vegan) Daiya
+
+
+id: 363 | rating: 4 | user: Pjpojo | date: 2014-10-17 | time: 15:40:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Great idea with some kinks!
+--------------------------------------------------------------------
+
+This app is an awesome idea and will work great as soon as they iron out the kinks. Such as labeling (vegan) Daiya Cheese as having dairy and peanuts because in the ingredient list it says, "made in a dairy and peanut free facility". All in all this is a really helpful app and I will continue to use it and hope they correct these little things.
+
+
+review id: 485
+
+matches and contexts:
+
+match = sodium
+context = food product - great for looking up carb, fat and sodium contents of foods and providing better choi
+
+
+id: 485 | rating: 5 | user: Fruit drawer | date: 2014-02-15 | time: 15:52:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Dietitian
+--------------------------------------------------------------------
+
+Incredible app! User friendly but most importantly provides a wealth of information on the food product - great for looking up carb, fat and sodium contents of foods and providing better choices -Amazing!
+
+
+review id: 704
+
+matches and contexts:
+
+match = sodium
+context = foods just got easier.  I never realized how much sodium is in foods that I thought were good for my
+
+
+id: 704 | rating: 5 | user: JoanneLMac | date: 2012-08-11 | time: 10:18:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Realtor
+--------------------------------------------------------------------
+
+Shopping for healthy foods just got easier.  I never realized how much sodium is in foods that I thought were good for my family.
+
+
+review id: 929
+
+matches and contexts:
+
+match = sodium
+context = trin, dextrose, inositol, malt, maltodextrin, monosodium glutamate (MSG), semolina, sodium erythorba
+
+
+id: 929 | rating: 2 | user: Dustytinker | date: 2018-01-30 | time: 16:05:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Not accurate when it comes to corn
+--------------------------------------------------------------------
+
+I’ve scanned items that clearly show corn on the label and it states no corn - it would be nice it for corn allergy it would also detect these ingredients: These include baking powder, caramel, cellulose, citric acid, dextrin, dextrose, inositol, malt, maltodextrin, monosodium glutamate (MSG), semolina, sodium erythorbate, sorbitol, starch, vanilla extract, xanthan gum and xylitol.
+
+
+review id: 931
+
+matches and contexts:
+
+match = sodium
+context = s to rate everything based only on calories, fat, sodium and sugar.  Does this based on the individu
+
+
+id: 931 | rating: 1 | user: Ex BH boy | date: 2013-01-06 | time: 05:47:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Too basic
+--------------------------------------------------------------------
+
+Seems to rate everything based only on calories, fat, sodium and sugar.  Does this based on the individual item not overall diet, which is pretty useless.  How about things like are the sourced ingredients serious carcinogens like some artificial sweeteners or are the ingredients GMO?
+
+
+review id: 1103
+
+matches and contexts:
+
+match = iron
+context = Can you please add iron to the list of things you shouldn't have? Wou
+
+
+id: 1103 | rating: 4 | user: exit53 | date: 2012-10-28 | time: 23:59:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Iron?
+--------------------------------------------------------------------
+
+Can you please add iron to the list of things you shouldn't have? Would love to limit iron intake. Thanks!
+
+
+review id: 1206
+
+matches and contexts:
+
+match = iron
+context = Only I can search what vagtabuls has most iron I give it 4
+
+
+id: 1206 | rating: 4 | user: Emir 4252 | date: 2012-08-04 | time: 18:43:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it
+--------------------------------------------------------------------
+
+Only I can search what vagtabuls has most iron I give it 4
+
+
+review id: 1250
+
+matches and contexts:
+
+match = Omega
+context = e its filtering ability expanded to foods high in Omega-3
+
+
+id: 1250 | rating: 4 | user: LiMich | date: 2012-07-04 | time: 01:14:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Very pleased
+--------------------------------------------------------------------
+
+Wonderful tool. Would love to see its filtering ability expanded to foods high in Omega-3
+
+
+review id: 1264
+
+matches and contexts:
+
+match = vitam
+context = I was diagnosed with vitamin a poisoning. With that said, I wish this a
+
+
+id: 1264 | rating: 3 | user: Gghghhhnf | date: 2014-08-23 | time: 04:18:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Improvements needed
+--------------------------------------------------------------------
+
+I was diagnosed with vitamin a poisoning. With that said, I wish this app could be used to inform me what foods contain vitamin a.
+
+
+review id: 1719
+
+matches and contexts:
+
+match = Vitam
+context = any of us try to educate ourselves as to the best Vitamins and supplements out there but are walking
+
+
+id: 1719 | rating: 5 | user: Jlag63 | date: 2019-02-22 | time: 03:10:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+Use it all the time 👍🏼. Update 6/30/17, I would love to see this sort of app but on the topic of supplements. Many of us try to educate ourselves as to the best Vitamins and supplements out there but are walking blindly on the topic. Shopwell, please please help us to a clearer path ☺️
+
+

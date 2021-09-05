@@ -1,0 +1,66 @@
+User Review: 15
+User Name: Tarbuck2006
+User Rating: 1
+Date Time : 2019-01-14T12:28:56.000Z
+Title: User Name and Password Issues
+----------------------------------------------------------
+My wife recently changed phones and had to download the app again.  She forgot her password.  Have tried to request reset link from developer 3 times and have not gotten a response.  Why can I not get someone to send me the reset link?  Very frustrating.
+
+Developer Response: 
+----------------------------------------------------------
+Sorry for the inconvenience. Please enter your email at login page and tap the “Forget Password?” button below, then you will receive a password rest email. If you haven’t received the email, please send your email address here service@health2sync.com and we will help solve the issue, thanks.
+
+
+
+User Review: 28
+User Name: MDL1022
+User Rating: 1
+Date Time : 2020-08-15T13:11:38.000Z
+Title: Broke an excellent app!
+----------------------------------------------------------
+This used to be a great app, but they added so much complexity in clicking through screens to just add a reading! The latest version requires multiple screen clicks to just add a reading! Bring back the previous version! It worked great!
+
+Developer Response: 
+----------------------------------------------------------
+Thank you for your feedback and we are deeply sorry for the inconvenience. Could you sure more details about how you add a reading with us? Could be screenshots or screen recording. We would love to hear from you and try to improve. If you can, please share the problem with us via service@health2sync.com.
+
+
+
+User Review: 9
+User Name: Texas OD
+User Rating: 1
+Date Time : 2020-09-06T15:38:33.000Z
+Title: Terms of use agreement
+----------------------------------------------------------
+After downloading this app I plowed through the terms of use agreement. After 15 minutes of reading, I finally came to the hold harmless, indemnification clause.
+
+Developer Response: 
+----------------------------------------------------------
+Thank you for your feedback.  The indemnification clause is commonly found in the Terms of Use of web services and apps.  However, up to now, H2 has never asked any of the Health2Sync app users for indemnification, so please rest assured this clause would only be used in extreme circumstances.  If you have any further concerns, would be happy to further clarify by e-mailing us at service@health2sync.com.
+
+
+
+User Review: 64
+User Name: RussAppID
+User Rating: 1
+Date Time : 2016-05-11T03:06:23.000Z
+Title: Forced to “Sign up"
+----------------------------------------------------------
+Couldn’t get into the app because it tries to force you to give up your email up front,  waste of money for the cable.
+
+
+
+User Review: 29
+User Name: Modern Jess
+User Rating: 1
+Date Time : 2020-02-28T03:29:57.000Z
+Title: Spammy Notifications
+----------------------------------------------------------
+I made the mistake of allowing notifications for this app. Now the app is spamming me with promotional notifications.
+
+Developer Response: 
+----------------------------------------------------------
+Thank you for your feedback. You can turn off the notification on your phone's Settings to adjust your notification preference. We sent diabetic educational contents after your registration, such as typical symptoms and how your blood glucose reacts to food. We will consider your advices and continue to enhance our app and provide better experience to our users.
+
+
+

@@ -1,0 +1,2448 @@
+'Micronutrients' related feature requests in lose_it_by_fitnow reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 140
+
+
+review id: 41
+
+matches and contexts:
+
+match = sodium
+context = nds that have helped me adjust my daily intake of sodium, carbs and fat. It’s fairly easy to create 
+
+
+id: 41 | rating: 5 | user: Efphotog | date: 2018-01-06 | time: 15:18:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Great tool
+--------------------------------------------------------------------
+
+I recently moved over from using MyFitnessPal, to me the UI is just not friendly. On top of that got tired of getting marketing emails, even after asking to be removed from their list on several occasions. Went ahead bit the bullet and moved to the premium subscription, figured it would entice me to stay on track. Lose-it is easy when it comes to inputting data with a pretty good database. The insights section has already helped me to see trends that have helped me adjust my daily intake of sodium, carbs and fat. It’s fairly easy to create your own recipes, hav not tried any of their recipes, but many look interesting. Integration with Apple’s  heart kit is seamless and being to get a quick look on the watch is also a plus. Had an initial issue with the new Snap-it feature, but it turned out to be user issue. Put a ticket in and they responded within a few minutes to address my question. Would recommend this app to anyone that is truly interested in keeping track of their diet, daily food intake and exercise in one easy to use app.
+
+
+review id: 42
+
+matches and contexts:
+
+match = sodium
+context = pecting to see something like if you eat too much sodium it raises your blood pressure, but all it's
+
+
+id: 42 | rating: 2 | user: Jayenooooogain | date: 2018-07-23 | time: 22:16:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Back to Lose It but Premium Needs Work
+--------------------------------------------------------------------
+
+I was with Lose It years ago and loved the app because it tracked my weight and allowed me to log my foods and exercises. I stopped using it cause I just stopped with my diet. Years later, I'm back with Lose It, one of my favorite apps. As a free user, it was annoying to see all these cool options but that you had to be premium, such as see how your nutrition affects you and see foods under 500 calories. You could google suggested foods but as premium, it's convenient to see them organized into under 300, 500 calories and suggested weekly meals to lose weight. The content is packed in a way I can understand it. For $2.99, it's not bad to have all the premium functions. But one thing I'm disappointed about is the nutrition, i was expecting to see something like if you eat too much sodium it raises your blood pressure, but all it's done is show me pie charts of carbs, protein and the 3rd item. It's no different from what you can view as a free user. Also lastly, everybody who's reading who made it this far, your Lose It profile is default so anyone or Facebook friends could see how much you weigh, what you're eating and how much effort you're putting in. I set mine to private and I didn't connect to Facebook.
+
+
+review id: 46
+
+matches and contexts:
+
+match = iod
+context = is app so much. Weight loss is about calories. Period. Counting calories used to be a pain but this 
+
+
+id: 46 | rating: 5 | user: Teller10 | date: 2019-10-19 | time: 18:09:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Weight Loss Made Simple!
+--------------------------------------------------------------------
+
+My whole family is on WW so I jumped on board. However, I quickly discovered that WW does not work for people who are whole food plant based because of their ridiculous zero point food list. Almost all fruits and veggies are on it, but so are beans, which are super high in calories! Beans and legumes are one of the healthiest things we can put in our bodies. Anyway, I started assigning points (1 per 60 calories) to beans and I started losing weight. Then I realized I was PAYING WW and having to do their job for them! I did a bunch of research and found Lose It! and it has been amazing. Two months now and so easy to use! Same bar scanner and food database tools as WW, same ability to add my own recipes (a must for WFPB people), and even does a better job of tracking weight, exercise and patterns! I love this app so much. Weight loss is about calories. Period. Counting calories used to be a pain but this app makes it so easy and even fun while helping you learn how to eat healthy for a lifetime. Two big thumbs up! Why are people paying for WW?!
+
+
+review id: 48
+
+matches and contexts:
+
+match = sodium
+context = easy to log your calories, exercise, cholesterol, sodium, and other important items. As you log and 
+
+
+id: 48 | rating: 5 | user: The Happy Wanderer | date: 2021-06-27 | time: 15:59:07.000Z
+
+--------------------------------------------------------------------
+                      Title: I am very impressed with this app
+--------------------------------------------------------------------
+
+I highly recommend this app. Using look and feel common to many iPhone apps, this program really does make it easy to log your calories, exercise, cholesterol, sodium, and other important items. As you log and watch what you eat, you see the results and why they happen. It reinforces a healthy lifestyle and teaches you the actual truth about bad foods and habits, all at once. I am a very busy lawyer, father of 2 and caregiver to an elder, and I have no time for this. Yet I was able to incorporate logging into my life using this program. I have never successfully done it before. The program crashed a couple of times but no data was lost and it popped right back up. I doubt it was this app that crashed as I have this happen from time to time anyway. If you want to be on a lifetime eating and exercise program rather than a freakish temporary diet, get this app and learn to love your iPhone. I am down 8 pounds in the first couple of weeks and looking forward to using this until I reach my desired weight.
+
+
+review id: 60
+
+matches and contexts:
+
+match = vitam
+context =  or tracking items like keeping track of meds and vitamins, and maybe desserts and alcohol, too (emp
+
+
+id: 60 | rating: 3 | user: InspiredtoLose | date: 2018-04-04 | time: 11:37:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app but would like some additions...
+--------------------------------------------------------------------
+
+I would like the ability to add other goals or tracking items like keeping track of meds and vitamins, and maybe desserts and alcohol, too (empty calories). Also, info for the new person that includes the number of grams and calories in each of protein, carbs and fat. Recommendations for ranges based on gender and goals (lose or maintain) because I expect some people meet their goals but continue to use the app to keep on track. Lastly, examples of healthy foods in lists by each macro, that tell you what a healthy portion of any one food would equal in grams/calories. I have found this info on the internet but it would be nice to have this info in one place.
+
+
+review id: 74
+
+matches and contexts:
+
+match = iod
+context = ined a stupid amount of weight in a very short period of time. One year ago I was avid about eating 
+
+
+id: 74 | rating: 5 | user: Jack'sMommy4158 | date: 2018-08-13 | time: 10:54:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Week one down
+--------------------------------------------------------------------
+
+I stepped on the scale a week ago and could have cried with how much weight I had gained since leaving my profession as a Correctional Officer.  I hit a low point in my life in April 2018 and turned to food as a comfort.  I gained a stupid amount of weight in a very short period of time. One year ago I was avid about eating healthy and working out.  I was very disappointed with myself and how I had let myself go. I got the app August 5,2018.  I’ve only had this app a week and have went from 182 down to 175.6.  I’m using the free version.  It is extremely helpful in tracking calories and the data base of food it has on it is amazing.  I love that I can scan the barcode of what I’m eating and it comes right up! I have been doing this with very very little exercise. Some days I don’t exercise at all and I’m lucky to get 1 mile of walking in every day.  My body does feel drained from the sudden switch to lower calories and carbs, but that is to be expected. I love this app!
+
+
+review id: 128
+
+matches and contexts:
+
+match = sodium
+context = 016. I set personal parameters for daily protein, sodium, cholesterol, fiber, and sugar intake. Lose
+
+
+id: 128 | rating: 5 | user: omtabby | date: 2019-12-10 | time: 16:45:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Lose It! is the Best!!
+--------------------------------------------------------------------
+
+After briefly trying 2 or 3 other apps that were awkward to use, I have embraced Lose It! since my decision to get serious about nutrition, fitness, and optimal health in April of 2016. I set personal parameters for daily protein, sodium, cholesterol, fiber, and sugar intake. Lose It! makes it very easy to regularly track everything including exercise on a daily basis. Also love the encouraging messages and support along the way.
+
+
+review id: 129
+
+matches and contexts:
+
+match = sodium
+context = se weight, track water intake, calories and track sodium.  I can do all of that on Lose It.  My Doct
+
+
+id: 129 | rating: 5 | user: ItsMeJTM | date: 2019-11-28 | time: 14:14:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Diagnosed with Non-Alcholic Fatty Liver Disease
+--------------------------------------------------------------------
+
+I have used this Ap for years now, on and off but never on Premium until this diagnosis.  Being diagnosed with NAFLD was an eye opener.  I needed to lose weight, track water intake, calories and track sodium.  I can do all of that on Lose It.  My Doctor even asked if I had heard of the Ap.  I can go to any restaurant and find the food in the Ap, scan barcodes of what I am cooking.  There is a great area for socializing with other Lose It users.  You can join groups and challenges people really support each other on here. I tried the other well known Ap for tracking and it’s just not as easy to use nor does it have all the foods Lose It does. Thank you Lose It!  I’m down 15 lbs in the three weeks since diagnosis!  It’s a drop in the bucket to my goal of 100 lbs.  The Ap says by my April 28 birthday I will be down 50 lbs!  I’m looking forward to 47!
+
+
+review id: 136
+
+matches and contexts:
+
+match = micro
+context =  and it provides macros (carbs, fat, protein) and micro nutrients as well if you are trying to up yo
+
+match = sodium
+context = re trying to up your intake of potassium or lower sodium.
+
+
+id: 136 | rating: 5 | user: PotsMom | date: 2019-07-13 | time: 14:17:23.000Z
+
+--------------------------------------------------------------------
+                      Title: It gives you Positive feedback
+--------------------------------------------------------------------
+
+I’ve tried this app, NOOM and WW.  This is the only one that a)tells you how many calories you are eating, b) provides challenges and community support if you need it and c) gives you positive feedback on the foods you choose and highlights patterns in your diet.  The food database is also quite large and it provides macros (carbs, fat, protein) and micro nutrients as well if you are trying to up your intake of potassium or lower sodium.
+
+
+review id: 212
+
+matches and contexts:
+
+match = iod
+context = e goals, log your foods, you will lose weight. Period.
+
+
+id: 212 | rating: 5 | user: thisismyflow | date: 2020-05-26 | time: 03:10:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Best App to Lose and Maintain Weight
+--------------------------------------------------------------------
+
+I’ve been using this app for years! Love it.  Every once in awhile, I’ll switch to a new or different app just to make sure I’m not missing anything and I always come back to Lose It! This app is simple and makes it really easy to track your food intake and exercise and track against your weight goals. The more you use it, the easier it becomes to log your foods, as you can pull from previous meals and foods once you’ve logged them. I use the paid version so I can plan for my meals ahead of time and ensure I am staying within calorie limits. I have lost lots of weight with this app and also use it to maintain my weight. If you use this app diligently and stick to the goals, log your foods, you will lose weight. Period.
+
+
+review id: 257
+
+matches and contexts:
+
+match = iron
+context = le but over the years I’ve found I’m quite low on iron. I wanted to start tracking how much iron I c
+
+
+id: 257 | rating: 1 | user: TyrantWeedle | date: 2019-08-28 | time: 22:21:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Missing one thing
+--------------------------------------------------------------------
+
+I used this app continuously for 4 years and I loved it. The interface is friendly, adding food and editing foods is simple but over the years I’ve found I’m quite low on iron. I wanted to start tracking how much iron I consumed a day so I could donate blood but I noticed the app doesn’t have this feature. I thought maybe I couldn’t find it and asked support where it was. They told me tracking Iron wasn’t on the app but would be considered in the future.
+
+
+review id: 272
+
+matches and contexts:
+
+match = micro
+context = y of us watching our health. Also, an update with micronutrients shown in the daily totals would be 
+
+match = Vitam
+context = onderful, especially the major ones like Calcium, Vitamin D and other key vitamins.
+
+match = Calci
+context = ould be wonderful, especially the major ones like Calcium, Vitamin D and other key vitamins.
+
+
+id: 272 | rating: 4 | user: Websapien | date: 2018-06-22 | time: 06:13:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Fat vs Saturated Fat and Micronutrients Would Make it 5 Star
+--------------------------------------------------------------------
+
+This is a great app! It is the best I’ve found so far. It is easy to use and has many useful features. Their database of foods is very comprehensive and includes organic as well as conventional brands. The ability to read bar codes is simply awesome!  I would have given it 5 stars except for the fact that the daily totals (goals) do not distinguish between Fat and Saturated Fat. This would be an easy change to the app, as the data for each is reported when foods are logged, but it is not included in goals or the summary of the daily report.  This is very important to many of us watching our health. Also, an update with micronutrients shown in the daily totals would be wonderful, especially the major ones like Calcium, Vitamin D and other key vitamins.
+
+
+review id: 285
+
+matches and contexts:
+
+match = sodium
+context = I screamed per food I don’t see the words anymore sodium cholesterol carbohydrates sugars and fats. 
+
+
+id: 285 | rating: 4 | user: No Roley Poley | date: 2019-03-22 | time: 11:14:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it, but need assistance!!
+--------------------------------------------------------------------
+
+I’m very happy with this app. I’ve had to look up how to do things by asking Siri and it was taken directly to where I need to go to get the information. But most recently I had an issue and feel like I went the right direction to get the answer but no one got back to me. This one upsets me that something I look at every day. Am I screamed per food I don’t see the words anymore sodium cholesterol carbohydrates sugars and fats. . . I’d like to see those but I can’t seem to fix that. They used to be there and they are there on my husbands.  At least I would like someone to get back to me. Considering I put in a comment or order in for help I would think someone would be back to me. That’s my only complaint, otherwise I love this app and I love everything about it!
+
+
+review id: 377
+
+matches and contexts:
+
+match = sodium
+context = s under control and watch my cholesterol, fat and sodium intake. Lose It gave me an easy, powerful —
+
+
+id: 377 | rating: 5 | user: Writer41 | date: 2020-06-02 | time: 23:30:37.000Z
+
+--------------------------------------------------------------------
+                      Title: I’ve lost 70 pounds thanks to this app
+--------------------------------------------------------------------
+
+18 months ago I had a heart attack at 48. I knew I had to lose weight, get my pre-diabetes under control and watch my cholesterol, fat and sodium intake. Lose It gave me an easy, powerful — and even fun — tool to track my food. Within 6 months, I lost 70 pounds. My A1C went from 7.5 to 4.5, and my blood pressure is normal. My biggest concern afterwards was keeping the weight off, but again Lose It gave me the tools to create a daily balanced diet that helped me maintain for the last year - including helping me track how much exercise I needed. I’ve strongly recommended the app to many friends who also struggle with their weight and health issues.
+
+
+review id: 397
+
+matches and contexts:
+
+match = Iron
+context =  to be able to track my calcium intake as well as Iron. Many of the other trackers have this option 
+
+match = calci
+context = rs and I would really like to be able to track my calcium intake as well as Iron. Many of the other 
+
+
+id: 397 | rating: 4 | user: Heisyourlife | date: 2019-01-11 | time: 18:03:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Please add more nutrients/minerals
+--------------------------------------------------------------------
+
+I really like this app—it’s easy to use and I like the desktop version as well. I have tried a few different trackers and decided to come back to LoseIt as it has been the easiest to use. Unfortunately I just now notice where Premium is lacking. I am in my menopausal years and I would really like to be able to track my calcium intake as well as Iron. Many of the other trackers have this option and it’s kind of surprising LoseIt does not include the option under “Create New Goal”.  Please consider adding more nutritional information.  I would like to stay with LoseIt but will likely change back to another tracker if I can’t track some of the vital nutrients/minerals that I need. Thank you!
+
+
+review id: 454
+
+matches and contexts:
+
+match = sodium
+context =  It gives me immediate feedback on calories, fat, sodium, sugar, protein, etc. to help me make bette
+
+
+id: 454 | rating: 5 | user: Old guy62 | date: 2019-03-25 | time: 12:07:08.000Z
+
+--------------------------------------------------------------------
+                      Title: I like this app to help my wellness
+--------------------------------------------------------------------
+
+I have been using Lose It! for a few years, and find that logging is good.  It gives me immediate feedback on calories, fat, sodium, sugar, protein, etc. to help me make better food choices and learn how to adjust my choices.
+
+
+review id: 455
+
+matches and contexts:
+
+match = vitam
+context = wish It did have is the ability to track specific vitamins and minerals in your diet, such as magnes
+
+match = magnes
+context = cific vitamins and minerals in your diet, such as magnesium or vitamin B 12. Well worth the 20 bucks
+
+
+id: 455 | rating: 5 | user: Ckeidan | date: 2021-07-28 | time: 11:39:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Quick and informative
+--------------------------------------------------------------------
+
+I have been using this app for about a month now. This is great not only for counting calories, but more importantly for really looking at your overall nutrition as a whole. Once you get used to it it is really quick to log in your food. If you like looking at data and charts you will love this! There are also a lot of helpful tips for good health. The app is organized very well. The search engine for food nutrition is excellent. The only thing I wish It did have is the ability to track specific vitamins and minerals in your diet, such as magnesium or vitamin B 12. Well worth the 20 bucks a year!
+
+
+review id: 520
+
+matches and contexts:
+
+match = Sodium
+context = ts on the label: Fat, Saturated Fat, Cholesterol, Sodium, Carbs, Fiber, Sugar, and Protein. LoseIt o
+
+
+id: 520 | rating: 3 | user: larryred | date: 2017-11-29 | time: 04:30:47.000Z
+
+--------------------------------------------------------------------
+                      Title: No Sat Fat goal-setting, even for premium members
+--------------------------------------------------------------------
+
+Look at any food item in your cupboard. Flip it around to see the 8 macronutrients on the label: Fat, Saturated Fat, Cholesterol, Sodium, Carbs, Fiber, Sugar, and Protein. LoseIt only lets you set the premium "Goals" feature for 7 out of 8 of these. The missing one? Saturated Fat.
+
+
+review id: 545
+
+matches and contexts:
+
+match = sodium
+context = in advance and also set goals for cholesterol and sodium. I upgraded to paid version and now depend 
+
+
+id: 545 | rating: 5 | user: TechnoMom2 | date: 2021-05-31 | time: 01:24:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Lose it helps you stick with it
+--------------------------------------------------------------------
+
+I started with the free version and found it easy to track daily calories. I used it for several years and lost weight several times. When I tried to ‘cut back’ without tracking, surprise, I wasn’t successful. Later, I wanted to be able to plan meals a day in advance and also set goals for cholesterol and sodium. I upgraded to paid version and now depend on it. I’ve lost 20 lbs in 5 months and still looking to lose another 10. There’s no magic - eat less, exercise more. Lose it helps keep track as easily as possible.
+
+
+review id: 572
+
+matches and contexts:
+
+match = micro
+context = acks is in the food area for supplements with the micro-nutrients/vitamins. The sustainabody app wou
+
+match = vitam
+context = ood area for supplements with the micro-nutrients/vitamins. The sustainabody app would be a good app
+
+
+id: 572 | rating: 4 | user: CarbzRmia | date: 2017-12-19 | time: 17:08:49.000Z
+
+--------------------------------------------------------------------
+                      Title: 3 years
+--------------------------------------------------------------------
+
+Your design is so much easier to use than MyFitnessPal. I’ve been with LoseIt for 3 years now however I’m in school studying nutrition now and had to download other apps to compare. I have realized that the LoseIt app needs a few updates. Especially when it comes to athletes and bodybuilders looking to calculate macros rather than just users seeking to track food. The part where the app lacks is in the food area for supplements with the micro-nutrients/vitamins. The sustainabody app would be a good app to take note of for future updates. I’ll continue to stay with LoseIt but I hope to see some updates when it comes to supplements and micros.
+
+
+review id: 672
+
+matches and contexts:
+
+match = iod
+context = eight, but it’s been so much more in the short period of time I’ve used it. Actually keeping count o
+
+
+id: 672 | rating: 5 | user: Samnc86 | date: 2018-08-14 | time: 15:18:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Surprisingly Helpful
+--------------------------------------------------------------------
+
+I thought I’d try this it to kind of monitor my weight, but it’s been so much more in the short period of time I’ve used it. Actually keeping count of my calories has been eye-opening, and the scan feature is so helpful and I am able to see exactly what I’m putting into my body. I have been reading the labels on almost everything I’ve bought now and I am blown away at the amount of junk I thought was healthy but actually isn’t!  Highly recommend you try this app—but don’t solely rely on it of course.
+
+
+review id: 680
+
+matches and contexts:
+
+match = sodium
+context =  limits on saturated fat, sugar,  cholesterol and sodium and also exceed limit on fiber. Then I star
+
+
+id: 680 | rating: 5 | user: Hdanxxxx | date: 2018-07-30 | time: 14:41:11.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s Great
+--------------------------------------------------------------------
+
+I’ve been using the app for a week now and so far so good. Before starting this my last of many diets to lose weight, I researched to find out just exactly what constitutes healthy eating, ie, what should I eat, what should I never eat and how much to eat. I set goals, rate of weight loss, calories, ratio of calories to protein to fat, never to exceed limits on saturated fat, sugar,  cholesterol and sodium and also exceed limit on fiber. Then I started looking for an app that would monitor my goals. After two failed attempts, I found this app that totally meets all my requirements.
+
+
+review id: 690
+
+matches and contexts:
+
+match = sodium
+context = nd protein. I would really like being able to see sodium and others as well. (Including on the watch
+
+
+id: 690 | rating: 4 | user: AmpUp44 | date: 2017-10-04 | time: 18:29:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Trying to track
+--------------------------------------------------------------------
+
+I am in the process of comparing MyFitnessPal and Lose-It to see which would work best for me.  After a few days it is still a toss-up.  I prefer Lose-It’s simplicity and good integration with Apple Watch but I miss the more complete summarizing of nutrients that MyFitnessPal provides.  I like having the simple view in MFP showing how I’m doing in nutrients vs my goals. I can dig for the information in Lose-It (premium) but the simple reports focus on calories, fat and protein. I would really like being able to see sodium and others as well. (Including on the watch). That would make it a no-brainer 5*
+
+
+review id: 704
+
+matches and contexts:
+
+match = Sodium
+context = lories, the premium- so much more. Protein, Fats, Sodium, Sugar, macros, carbs. And you can personal
+
+
+id: 704 | rating: 5 | user: TheLFactor | date: 2020-09-06 | time: 20:18:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Get the Premium
+--------------------------------------------------------------------
+
+This is my second time using Loseit. The first time I used the free version, and lost 35 pounds. This time I chose the premium, the cost has been so worth it. The free one tracks calories, the premium- so much more. Protein, Fats, Sodium, Sugar, macros, carbs. And you can personalize it.
+
+
+review id: 711
+
+matches and contexts:
+
+match = iod
+context = me. The button to see my weight over different periods of time is difficult to get to. I can never f
+
+
+id: 711 | rating: 3 | user: Amber JHL | date: 2018-07-08 | time: 17:43:37.000Z
+
+--------------------------------------------------------------------
+                      Title: More complicated than it should be
+--------------------------------------------------------------------
+
+This works great for tracking calories and logging food. My biggest gripe is with the weight log. There are too many steps to go through to see how much weight I've lost over time. The button to see my weight over different periods of time is difficult to get to. I can never find the button to edit my goal weight. And the app tracks weight loss from the highest weight and didn't take into account the "yo-yo effect" that many dieters experience. So it tells my I lost x amount of weight but this is inaccurate, because my weight ballooned over the holidays. I hope the weight tracking gets streamlined.
+
+
+review id: 728
+
+matches and contexts:
+
+match = sodium
+context = I recently had heart failure and was put on a sodium and fluid-restricted diet. I’ve tried track
+
+
+id: 728 | rating: 5 | user: Magicfingets | date: 2019-10-18 | time: 13:19:35.000Z
+
+--------------------------------------------------------------------
+                      Title: What a useful app!
+--------------------------------------------------------------------
+
+I recently had heart failure and was put on a sodium and fluid-restricted diet. I’ve tried tracking my food in the past and hated having to look up everything. My sister’s endocrinologist had recommended using the Lose It! app, so we tried it and I quickly upgraded to lifetime! It’s encyclopaedic in scope. It’s made me very successful at tracking all nutritional values and fluid and weight and sleep and exercise! I’ve recommended it to all my friends! It’s always available on my cellphone. I love it! And my cardiologists (two) are proud of my progress!
+
+
+review id: 751
+
+matches and contexts:
+
+match = iod
+context = I used Lose It! twice or three times over a period of years and each time lost the weight that I 
+
+
+id: 751 | rating: 5 | user: Frank G Dunn | date: 2018-12-14 | time: 13:15:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Best Discipline
+--------------------------------------------------------------------
+
+I used Lose It! twice or three times over a period of years and each time lost the weight that I had aimed to. Then, as happens with every diet, I stopped, and promptly though gradually began gaining the weight back. Over two years ago, I decided that I would not stop ever. I would set a goal, reach it, and maintain it. As a result, I not only reached my goal but exceeded it. In sum, I lost 30 pounds when I only knew that I was 10 overweight. I would never stop now. I maintain a steady weight and will keep it there as long as there is this app.
+
+
+review id: 787
+
+matches and contexts:
+
+match = sodium
+context =  - it’s up to you what you want to track - sugar? sodium? It’s all there.   Highly recommend!!
+
+
+id: 787 | rating: 5 | user: PSfit | date: 2020-05-17 | time: 13:45:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Must have food and macro tracker plus plus much more!!
+--------------------------------------------------------------------
+
+Love how the app auto calculates your macros throughout the day as you enter your daily meals/foods.   Balancing percentages of macros (fats, carbs, protein) throughout your day keeps you on track and is important for health. - too many fats?  too many carbs?  not enough protein?   See it all at a glance, make corrections throughout your day. Oops! Too many carbs - let’s boost the protein. Besides tracking your macros there is so much more - it’s up to you what you want to track - sugar? sodium? It’s all there.   Highly recommend!!
+
+
+review id: 846
+
+matches and contexts:
+
+match = sodium
+context = o.  It also has Has a tab to show cholesterol and sodium, fiber.  I’ve upgraded to premium.  I have 
+
+
+id: 846 | rating: 5 | user: audramsc | date: 2019-08-23 | time: 11:12:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to Navigate
+--------------------------------------------------------------------
+
+This is easy just for the “log your food”aspect of the app, log your exercise, water intake, etc.  it’s a fun app because it also has that macronutrient tab that shows on a graph ur fat to protein to carb ratio.  It also has Has a tab to show cholesterol and sodium, fiber.  I’ve upgraded to premium.  I have linked the iwatch and so it gives u mire calories when it registers or if u log ur exercise.  Personally can’t eat the extra unless I wanted to do a fast food,  but point is for lifestyle change, not diet:)
+
+
+review id: 862
+
+matches and contexts:
+
+match = sodium
+context = be paying premium. Now I can’t even tell how much sodium or carbs or any of my intakes are anymore b
+
+
+id: 862 | rating: 2 | user: SaphicMyst | date: 2019-05-31 | time: 22:52:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Could be better
+--------------------------------------------------------------------
+
+I used Lose It for a while, and I lost a pretty good amount of weight however, as of now, I think the quality of it worsened. Part of it is because now you have to PAY to see your macronutrients when before, you could look at them without buying premium. Just saying, that for me was something essential that I used. I don’t have the money to be paying premium. Now I can’t even tell how much sodium or carbs or any of my intakes are anymore because they decided to make it a part of premium. Sorry. Lose It used to be good for basic necessities until it decided that to unlock essential stuff like macronutrients needs to be apart of premium👎
+
+
+review id: 910
+
+matches and contexts:
+
+match = micro
+context = and my reason for my not giving it five stars) is micronutrient tracking.... I invest a lot of time 
+
+match = vitam
+context =  would be very nice to see the aggregate total of vitamins and minerals that I am getting in my diet
+
+
+id: 910 | rating: 5 | user: Monkey3719 | date: 2017-09-21 | time: 15:49:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app, phenomenal potential
+--------------------------------------------------------------------
+
+I have been using this app for over a year now, and I absolutely love it. It's really easy to track calories, macronutrients (which is the key to my diet regimen), exercise, and understand my eating trends. The one feature that I wish it had (and my reason for my not giving it five stars) is micronutrient tracking.... I invest a lot of time every day logging every single food item I eat, it would be very nice to see the aggregate total of vitamins and minerals that I am getting in my diet.
+
+
+review id: 917
+
+matches and contexts:
+
+match = sodium
+context =  calorie count.  You can also see your macros and sodium and track your weight.  I have it linked to
+
+
+id: 917 | rating: 5 | user: Gudetama Chee | date: 2019-01-22 | time: 14:25:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Love It
+--------------------------------------------------------------------
+
+I love this app.  It is so easy to look up any food or just scan a barcode to track your calories.  I did the premium version so I could input the next day’s calories and also enter my own recipes to get calorie count.  You can also see your macros and sodium and track your weight.  I have it linked to my fit bit for even more accurate info on my calorie burn from exercise.
+
+
+review id: 927
+
+matches and contexts:
+
+match = micro
+context = ata. If you REALLY want to monitor your macro and micro nutrients, it has it all. The database of fo
+
+
+id: 927 | rating: 5 | user: Shamoton07 | date: 2020-01-29 | time: 13:41:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Holding Me Accountable
+--------------------------------------------------------------------
+
+This app is great for just general tracking of food, water and exercise data. If you REALLY want to monitor your macro and micro nutrients, it has it all. The database of food statistics makes logging your food consumption SO easy!
+
+
+review id: 958
+
+matches and contexts:
+
+match = calci
+context =  only ask would be that phosphorus, potassium and calcium be added to determine consumption and tren
+
+match = phosp
+context = essure, glucose, BMI).  My only ask would be that phosphorus, potassium and calcium be added to dete
+
+
+id: 958 | rating: 5 | user: jptgreece | date: 2020-03-05 | time: 14:10:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Absolutely Wonderful & Helpful App
+--------------------------------------------------------------------
+
+Wonderful app; have the Premium version and well worth it.  I appreciate the guidance provided us and the educational articles, tips and nutrition pop-ups that assist with weight management   I appreciate the ability to trend weight, nutrition factors and other diagnostics (eg, blood pressure, glucose, BMI).  My only ask would be that phosphorus, potassium and calcium be added to determine consumption and trends. These electrolytes are important measures of nutritional health for many acute and chronic conditions like kidney disease.  Thank you!
+
+
+review id: 1015
+
+matches and contexts:
+
+match = vitam
+context =  also tracks basic nutrients like calcium, fiber, vitamins, etc.
+
+match = calci
+context = atabases and but also tracks basic nutrients like calcium, fiber, vitamins, etc.
+
+
+id: 1015 | rating: 3 | user: Down/HillGirl | date: 2021-08-14 | time: 17:55:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for weight loss/missing nutrition info
+--------------------------------------------------------------------
+
+I’ve used this app for about 2 years. Tracking what I eat has been indispensable for making well-informed eating decisions. If all you need to do is lose weight, then this is a great app. The interface is intuitive and well designed. Having access to food databases makes entering food easy. HOWEVER I found I needed to track some basic nutrients and the app doesn’t have that function. I switched to another highly rated app which accesses the same databases and but also tracks basic nutrients like calcium, fiber, vitamins, etc.
+
+
+review id: 1018
+
+matches and contexts:
+
+match = sodium
+context = dings from an external device and compare it with sodium intake as recorded and calculated by Lose I
+
+
+id: 1018 | rating: 5 | user: jwcooper65 | date: 2019-12-31 | time: 13:29:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Lose It
+--------------------------------------------------------------------
+
+App is a comprehensive tool for monitoring your health metrics particularly when used in conjunction with a Fitbit watch. Improved capture of food nutrient values from barcodes.  With data from Fitbit record sleep patterns as well as exercise amounts. If concerned with blood pressure use app to record readings from an external device and compare it with sodium intake as recorded and calculated by Lose It app.  Would definitely recommend this app for both weight loss and overall health improvement.
+
+
+review id: 1053
+
+matches and contexts:
+
+match = sodium
+context = otein and carbs. It also came in handy to keep my sodium and sugar levels as low as possible, and dr
+
+
+id: 1053 | rating: 5 | user: Garvensman | date: 2018-05-13 | time: 21:09:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Perfect companion app
+--------------------------------------------------------------------
+
+I've been on a Keto diet as of late, and decided to utilize this app to help track calories, as well as keep my proper ratio of fats/protein and carbs. It also came in handy to keep my sodium and sugar levels as low as possible, and drop certain foods off my diet plan. This app has helped speed up my process, and within a month and a half, I dropped 15lbs.   It has really helped me maintain peak weight loss, and I imagine it would be a big benefit to any diet plan, or its own diet plan.
+
+
+review id: 1064
+
+matches and contexts:
+
+match = sodium
+context = t information that allows me to track things like sodium consumption over days with weekly summary i
+
+
+id: 1064 | rating: 5 | user: Wofmanbob | date: 2019-05-06 | time: 10:55:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Great
+--------------------------------------------------------------------
+
+I have had this app for a long time. It has gone thru many revisions over the years and has evolved into a wonderful weight control/healthy diet tool. I have health issues related to diet and this app is the most important tool I have. It gives me valuable printout information that allows me to track things like sodium consumption over days with weekly summary included. I have the upgraded version which I
+
+
+review id: 1066
+
+matches and contexts:
+
+match = vitam
+context = so expanding on habits would be nice, like taking vitamins or maybe even a place to make your own ha
+
+
+id: 1066 | rating: 5 | user: Kellyho104 | date: 2020-02-02 | time: 02:14:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app, better than MyFitness Pal
+--------------------------------------------------------------------
+
+This app has helped me a lot! I just paid for the yearly subscription. Been using it for years on the free version. I do have some suggestions if the developers read these reviews. I would recommend adding a section where you can write notes each day. And also expanding on habits would be nice, like taking vitamins or maybe even a place to make your own habits would be nice. Other than that, great work boys
+
+
+review id: 1136
+
+matches and contexts:
+
+match = sodium
+context =  gives me goals, guidelines, and helps me balance sodium, sugar, protein, carbs and more. I feel mor
+
+
+id: 1136 | rating: 5 | user: Sherry in CT | date: 2019-04-27 | time: 14:09:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Losing weight and enjoying it
+--------------------------------------------------------------------
+
+With the help of Lose It, I’ve lost almost 100 pounds. Before Lose It, I tried to count my calories and watch my portion sizes but it didn’t work for me. I discovered my portion sizes were still too large. Lose It gives me goals, guidelines, and helps me balance sodium, sugar, protein, carbs and more. I feel more accountability logging daily and it’s given me long lasting results. I’m still on my journey and Lose It is by my side.
+
+
+review id: 1281
+
+matches and contexts:
+
+match = sodium
+context = will lose weight. This app does all the calories, sodium , carbs and other calculations needed to he
+
+
+id: 1281 | rating: 5 | user: Fashun Genae | date: 2019-01-07 | time: 16:45:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Try Lose It - You’ll Love It !
+--------------------------------------------------------------------
+
+This app is awesome. This is the first time that I know that I will lose weight. This app does all the calories, sodium , carbs and other calculations needed to help you achieve your weight loss goals. The app also motivates you by awarding you with special badges for your accomplishments. So you’re excited to see the next goal you will reach and the awesome badge you are awarded. I definitely recommend Lose It!
+
+
+review id: 1283
+
+matches and contexts:
+
+match = sodium
+context =  and other nutrients such as fat, protein, carbs, sodium, fiber, etc.. but I just have one question.
+
+
+id: 1283 | rating: 5 | user: astrofizzycyst | date: 2019-02-12 | time: 03:37:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Question
+--------------------------------------------------------------------
+
+So I love the app, it has a surprising amount of food items on there from stores so it makes it really accurate to track calories and other nutrients such as fat, protein, carbs, sodium, fiber, etc.. but I just have one question. What is the purpose of excluding the calories burned in a workout from the total?? It seems to be the default setting but I don’t know if it actually SHOULD be added or not. Plz help!!
+
+
+review id: 1314
+
+matches and contexts:
+
+match = iod
+context = d daily to get to your desired weight over the period of time you choose while making recommendation
+
+
+id: 1314 | rating: 5 | user: Wolf Daddy 195 | date: 2019-02-08 | time: 16:56:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Great weight loss app!
+--------------------------------------------------------------------
+
+Lose It is an easy to use way of counting calories and journaling your food intake to help lose weight. This app computes how many calories you need daily to get to your desired weight over the period of time you choose while making recommendations on how to use your calories per meal, making adjustments for exercise. It also adjusts your plan as you lose weight. Excellent app!!!
+
+
+review id: 1363
+
+matches and contexts:
+
+match = sodium
+context = pressure. It helps me to track that as well as my sodium intake and my macros. Overall this app has 
+
+
+id: 1363 | rating: 5 | user: Bricowski | date: 2018-02-04 | time: 14:38:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent Wellness App
+--------------------------------------------------------------------
+
+This app does more than help you count calories. It's a comprehensive wellness app. It's helped me to understand my eating habits and why I was gaining weight. It's helped me to turn that around and I'm actually losing weight for the first time in years. I also have high blood pressure. It helps me to track that as well as my sodium intake and my macros. Overall this app has been very helpful with my wellness program.
+
+
+review id: 1376
+
+matches and contexts:
+
+match = sodium
+context = nutrition goals. Myfitnesspal will tell you daily sodium and cholesterol, etc goals and this app jus
+
+
+id: 1376 | rating: 2 | user: Jenna Carew | date: 2020-04-14 | time: 16:38:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Not the best
+--------------------------------------------------------------------
+
+First of all, I got an email one day with a receipt for $40 for a subscription to premium features that I don’t even know about. I’ve only used the app to track my food, I have no clue what I’d get charged for. I also don’t like how it doesn’t assist you in setting nutrition goals. Myfitnesspal will tell you daily sodium and cholesterol, etc goals and this app just has you set the goal yourself. I think there should be recommended goals to help someone go off of. I’m not a nutritionist, I have no idea what number I should try to stay under for each category.
+
+
+review id: 1394
+
+matches and contexts:
+
+match = sodium
+context =  several discrepancies in macro nutrients such as sodium, calories, etc. I’m finding these discrepan
+
+
+id: 1394 | rating: 3 | user: 09012005JohnAndLani | date: 2018-04-20 | time: 21:56:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Restaurant Nutrition not always correct
+--------------------------------------------------------------------
+
+While I find this handy to use, I have found several discrepancies in macro nutrients such as sodium, calories, etc. I’m finding these discrepancies mostly when it comes to restaurant food. I can look up the information or get the nutritional values directly from the restaurant itself and what I find in the app is completely different. I have the paid version, and I think that Lose It! is just an average app, but probably still better than some of its competitors.
+
+
+review id: 1406
+
+matches and contexts:
+
+match = sodium
+context = nt breakdown for all logged foods, including fat, sodium, fiber etc. I appreciated knowing which ite
+
+
+id: 1406 | rating: 3 | user: BuffaloGal8 | date: 2020-02-25 | time: 20:09:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Took away features
+--------------------------------------------------------------------
+
+I've had this app for a couple years and it is indeed very good. But somewhat recently they took away some free features and made them premium. Specifically you used to be able to see the full nutrient breakdown for all logged foods, including fat, sodium, fiber etc. I appreciated knowing which items I ate had the most sodium as I have borderline high blood pressure. Now I'll have to pay to see that. I don't think it's right to take features away that users were used to having.
+
+
+review id: 1431
+
+matches and contexts:
+
+match = iod
+context = tells you the calories you can have and a time period to safely reach your goal. It works and happy 
+
+
+id: 1431 | rating: 5 | user: jimmel? | date: 2018-11-22 | time: 14:51:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Success with Lose It
+--------------------------------------------------------------------
+
+I began my weight loss at 270 without the app. After several months my weight dropped to 260. My wife was told about the app. (lose It). We started together 10 weeks ago. I am happy to report that I am weighing 236. The key is documentation and exercise. The app tells you the calories you can have and a time period to safely reach your goal. It works and happy with results.
+
+
+review id: 1434
+
+matches and contexts:
+
+match = iod
+context = et. And it worked. I lost 10 lbs over a 6 week period. Pretty crazy. Going for more.
+
+
+id: 1434 | rating: 5 | user: mills2005 | date: 2019-04-04 | time: 10:18:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Really Works
+--------------------------------------------------------------------
+
+My wife has been a premium user for years. I mentioned that I would like to loose 10 lbs. she suggested trying counting calories and using this app. Definitely has changed my diet. And it worked. I lost 10 lbs over a 6 week period. Pretty crazy. Going for more.
+
+
+review id: 1510
+
+matches and contexts:
+
+match = sodium
+context = is. I need to track my calories & macros but also sodium intake. This makes it easy. Can log BP and 
+
+
+id: 1510 | rating: 5 | user: katymama | date: 2021-04-27 | time: 17:53:23.000Z
+
+--------------------------------------------------------------------
+                      Title: They thought of everything
+--------------------------------------------------------------------
+
+Buy the premium. It’s worth it. I’ve tried many other apps incl WW and none have been as good as this. I need to track my calories & macros but also sodium intake. This makes it easy. Can log BP and many other things as well. I love how few “keystrokes” I need to perform to log something. That makes a difference to me at least. Thoughtful design.
+
+
+review id: 1626
+
+matches and contexts:
+
+match = Phosp
+context = wn recipes, but can’t keep track of Potassium and Phosphorus. Your Premium update says it allows you
+
+
+id: 1626 | rating: 5 | user: Kaysingsbari | date: 2019-04-22 | time: 14:31:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Need to Track Potassium and Phosphorus
+--------------------------------------------------------------------
+
+Been using this app for years. It’s great for tracking nutritional information to a point. But my husband is on a Kidney diet. I scan labels and customize my own recipes, but can’t keep track of Potassium and Phosphorus. Your Premium update says it allows you to customize, but there’s nowhere to keep track of this info even if it’s on the labels.
+
+
+review id: 1646
+
+matches and contexts:
+
+match = Iron
+context = te, the app stopped saving input on weight goal.  Ironic that an app called Lose-It won’t allow you 
+
+
+id: 1646 | rating: 4 | user: MIZZOU RULES | date: 2020-11-12 | time: 02:35:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Update Bug
+--------------------------------------------------------------------
+
+After the recent update, the app stopped saving input on weight goal.  Ironic that an app called Lose-It won’t allow you to save your weight.
+
+
+review id: 1663
+
+matches and contexts:
+
+match = sodium
+context =  app to track my husbands blood pressure, weight, sodium, as he is in congestive heart failure. I re
+
+
+id: 1663 | rating: 5 | user: RottieMom6 | date: 2018-05-09 | time: 05:02:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Please PUT IT BACK
+--------------------------------------------------------------------
+
+I count on this app to track my husbands blood pressure, weight, sodium, as he is in congestive heart failure. I rely on the blood pressure tracking to help regulate his many meds. Issue is when I record a pressure it takes the input and changes both numbers. So NOT accurate.
+
+
+review id: 1665
+
+matches and contexts:
+
+match = iod
+context = d having ads for a free version of the app and periodically asking if I want to sign up for premium,
+
+
+id: 1665 | rating: 3 | user: *MacMom* | date: 2018-06-15 | time: 20:04:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Useful but nag posts are annoying
+--------------------------------------------------------------------
+
+This app is very useful but I find the constant nag posts advertising the premium version annoying enough that I may be ditching this app soon. I understand having ads for a free version of the app and periodically asking if I want to sign up for premium, but it’s annoying to be asked multiple times a day. Every time I open the app, in fact. I also wish you’d quit the “eating X keeps you on track” line. It’s stupid, not true, and unhelpful. Thanks.
+
+
+review id: 1680
+
+matches and contexts:
+
+match = vitam
+context = cidentally ended my day after only entering in my vitamins. Despite having only eaten 40 calories fo
+
+
+id: 1680 | rating: 3 | user: Wherehaveallthegoosnamesgone? | date: 2018-07-06 | time: 10:28:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Under Caloric Needs but Lose It! Still applauds you...
+--------------------------------------------------------------------
+
+This morning I accidentally ended my day after only entering in my vitamins. Despite having only eaten 40 calories for the day, Lose It! applauded my progress and told me when I would reach my goal if I kept up the good work and continued to eat like this. THIS IS NOT OK. Yes, there is a disclaimer if you choose to lose too much on your goals page, but this pop up message is in direct conflict with that once seen disclaimer. Please fix this.
+
+
+review id: 1683
+
+matches and contexts:
+
+match = iron
+context = h better than before as I work in a restaurant environment it’s crucial to be able to move well -MHM
+
+
+id: 1683 | rating: 5 | user: Ms Donna Thin Mint | date: 2020-03-06 | time: 12:41:26.000Z
+
+--------------------------------------------------------------------
+                      Title: I am a loser
+--------------------------------------------------------------------
+
+I lost a total of 27 pounds today is my one year anniversary! It works if you are honest with yourself! Track every morsel that goes into your mouth you will be amazed. The app is user friendly as well. I will be 55 this year and never felt better. I can move so much better than before as I work in a restaurant environment it’s crucial to be able to move well -MHM
+
+
+review id: 1707
+
+matches and contexts:
+
+match = sodium
+context =  Little did I know that it would show me how much sodium I was actually eating. I am a vegetarian an
+
+
+id: 1707 | rating: 5 | user: Travi6000 | date: 2020-02-16 | time: 05:52:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Saved me
+--------------------------------------------------------------------
+
+I downloaded this app so I could manage my calorie intake. Little did I know that it would show me how much sodium I was actually eating. I am a vegetarian and I love the “meat alternative “ foods but I wasn’t smart enough to see how much salt was actually in the highly possessed food. So this app might have saved my life, and in return I am gonna right a good review. It’s the least I can do!
+
+
+review id: 1744
+
+matches and contexts:
+
+match = iron
+context = ess Pal, Loose it doesn’t show you nutrition like iron, and calcium, or saturated fat. I really like
+
+match = Magnes
+context = n My Fitness Pal and would like to have even seen Magnesium included. Maybe in the future? I may go 
+
+match = calci
+context = oose it doesn’t show you nutrition like iron, and calcium, or saturated fat. I really liked this fea
+
+
+id: 1744 | rating: 5 | user: PhoebeKate87 | date: 2020-02-02 | time: 08:20:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Why not more nutrition info?
+--------------------------------------------------------------------
+
+It’s a great app, my only major complaint is that unlike My Fitness Pal, Loose it doesn’t show you nutrition like iron, and calcium, or saturated fat. I really liked this feature in My Fitness Pal and would like to have even seen Magnesium included. Maybe in the future? I may go back to My Fitness Pal after my subscription. I do love this app though.
+
+
+review id: 1765
+
+matches and contexts:
+
+match = iod
+context =  calorie budget goal over time to get over the periods when you plateau. Good luck!
+
+
+id: 1765 | rating: 5 | user: Kevin Milden | date: 2020-01-12 | time: 18:27:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Lost 42lbs
+--------------------------------------------------------------------
+
+Lose It combined with intermittent fasting and exercise helped me lose 42 lbs in just over six months. Just do your best to enter all of your meals, water, and exercise. Careful not to intake more calories than you burn, and you’ll lose all the weight you want. Slowly manually lower your calorie budget goal over time to get over the periods when you plateau. Good luck!
+
+
+review id: 1773
+
+matches and contexts:
+
+match = micro
+context = r to track all the same things LoseIt tracks PLUS micro and macro nutrients. If LoseIt could also ha
+
+
+id: 1773 | rating: 5 | user: VeganAthlete | date: 2018-06-03 | time: 16:16:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Everything but the nutrients
+--------------------------------------------------------------------
+
+I use Chronometer to track all the same things LoseIt tracks PLUS micro and macro nutrients. If LoseIt could also have a nutrient tracking feature, it would be even better. What LoseIt has that Chronometer doesn’t have is the achievement badges, as well as the social aspects, such as the ability to form competitive goal focused teams.
+
+
+review id: 1779
+
+matches and contexts:
+
+match = Micro
+context = ...Micro-nutrients and calories, etc. I never thought
+
+
+id: 1779 | rating: 5 | user: Dolores rose | date: 2019-05-27 | time: 23:53:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app tracks fat, carbs,proteins ...
+--------------------------------------------------------------------
+
+...Micro-nutrients and calories, etc. I never thought I would keep track of my food but scanning in products makes it easy. Glad I bought it because it took 3 weeks of gaining back my 2 pound loss when I realized its not the calories it’s the fat. Time to start over. Oh the down side haven’t mastered entering  my recipes. Enjoy.
+
+
+review id: 1902
+
+matches and contexts:
+
+match = vitam
+context = It would be extremely helpful to be able to track vitamins and minerals, for example calcium. Right 
+
+match = calci
+context =  able to track vitamins and minerals, for example calcium. Right now I would need to use a different
+
+
+id: 1902 | rating: 4 | user: aok789 | date: 2020-07-31 | time: 15:01:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this App, Needs One More Thing
+--------------------------------------------------------------------
+
+I really really love this app, and would give it ten stars, only holding off because the addition of one more feature would absolutely push it to the top. It would be extremely helpful to be able to track vitamins and minerals, for example calcium. Right now I would need to use a different app and record everything twice. Not fun.
+
+
+review id: 1964
+
+matches and contexts:
+
+match = iod
+context = in the free version of the app and checking in periodically on my phone every day became an effortle
+
+
+id: 1964 | rating: 5 | user: dc3005 | date: 2018-03-12 | time: 09:50:16.000Z
+
+--------------------------------------------------------------------
+                      Title: A weight loss essential!
+--------------------------------------------------------------------
+
+This app has been an integral part of my weight loss journey. Tracking my calorie consumption was virtually mindless thanks to the food database included in the free version of the app and checking in periodically on my phone every day became an effortless part of my routine. I lost 30 pounds using this app and look forward to losing 25 more using LoseIt!
+
+
+review id: 1965
+
+matches and contexts:
+
+match = sodium
+context = ising more, cut out sweets, saturated fats, lower sodium intake, which required eating at home more 
+
+
+id: 1965 | rating: 5 | user: Punto90 | date: 2018-07-31 | time: 17:19:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent weight reduction program
+--------------------------------------------------------------------
+
+Been using this app since June 2013 - have lost 34 pounds, but most importantly have kept it off. To keep it off it’s important to adopt a change in lifestyle- exercising more, cut out sweets, saturated fats, lower sodium intake, which required eating at home more often. This program has helped in keeping me on track.
+
+
+review id: 1991
+
+matches and contexts:
+
+match = vitam
+context = tion with apple health to track all nutrients and vitamins as other apps do.  It tracks the main nut
+
+
+id: 1991 | rating: 2 | user: Daviddaveamaya | date: 2018-10-19 | time: 00:46:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Could be better
+--------------------------------------------------------------------
+
+I sort of regret going premium.  This app does not support integration with apple health to track all nutrients and vitamins as other apps do.  It tracks the main nutrition like fat carbs and protein.  Hoping they can update the app to integrate all nutritional values including vitamins.  If I’m taking time to log my food I want a full breakdown of my intake.  Until they are able to integrate this feature then it will not be worth the money. If they never update and add this feature I guess I just wasted my money.
+
+
+review id: 2020
+
+matches and contexts:
+
+match = micro
+context = endly to navigate. Trying to deal with macros and micros won’t be to hard. Good if you want to start
+
+
+id: 2020 | rating: 5 | user: Thegamebeast | date: 2020-06-24 | time: 13:39:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for beginners
+--------------------------------------------------------------------
+
+Hey guys! I literally have never written a review before but here we go. I enjoy this app very much. The best part about this app is it’s Free and has every feature you want. It’s super easy and friendly to navigate. Trying to deal with macros and micros won’t be to hard. Good if you want to start building a habit. I enjoyed this more then MyFitnessPal
+
+
+review id: 2049
+
+matches and contexts:
+
+match = vitam
+context = calories and breakdowns of carbs and proteins and vitamins are different and there needs an easy opt
+
+
+id: 2049 | rating: 4 | user: Truckerbob3007 | date: 2018-07-26 | time: 11:07:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app but food register needs updating
+--------------------------------------------------------------------
+
+This app has been really useful to help me track exercises, water intake and especially food, BUT there are so many foods that have changed formulations ( especially prepared and canned things) so the calories and breakdowns of carbs and proteins and vitamins are different and there needs an easy option to update them for accuracy but there is not. Thanks
+
+
+review id: 2051
+
+matches and contexts:
+
+match = micro
+context =  putting dark tea for my entry, and can you add a microwaved dinner icon 😅 I’ve been using this sinc
+
+
+id: 2051 | rating: 5 | user: fat weenis | date: 2021-08-06 | time: 16:01:06.000Z
+
+--------------------------------------------------------------------
+                      Title: I like
+--------------------------------------------------------------------
+
+Can you make an icon for green tea because I drink it every day. It’s weird putting dark tea for my entry, and can you add a microwaved dinner icon 😅 I’ve been using this since the beginning of the year and I’ve lost 0 pounds. This app is very good with tracking calories and nutrients. I found out that it’s not the app, it’s my eating habits. I’ve learned that
+
+
+review id: 2057
+
+matches and contexts:
+
+match = micro
+context = ar, protein, exercise, other  types of nutrition, micronutrients... I   really like the trend data t
+
+
+id: 2057 | rating: 4 | user: Gijddihc | date: 2020-07-30 | time: 13:26:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Upped My Rating
+--------------------------------------------------------------------
+
+PLUSES: It is much more than a calorie counter: has options for goal setting and tracking of fats, carbs, sugar, protein, exercise, other  types of nutrition, micronutrients... I   really like the trend data that identifies possible trends in successful weight loss, for me I loss weight when incorporating a vegetarian burger. Some insights not too helpful but does help me to think about why I might have lost more weight.  Actually I think I’m going to go to 4 stars now that I think about it.
+
+
+review id: 2063
+
+matches and contexts:
+
+match = sodium
+context = One of the few apps I found w sodium tracking. Food library is huge and vast. Ev
+
+
+id: 2063 | rating: 5 | user: RWG 007 | date: 2019-11-22 | time: 14:52:01.000Z
+
+--------------------------------------------------------------------
+                      Title: One of the few apps w sodium tracking
+--------------------------------------------------------------------
+
+One of the few apps I found w sodium tracking. Food library is huge and vast. Even has King Taco menu items, small chain in Los Angels. Scanning is fast and saves time. Scan library covers almost all things I have tried, even a few food gifts from friends traveling abroad.
+
+
+review id: 2117
+
+matches and contexts:
+
+match = vitam
+context = k. Wish it were more customizable in the mineral, vitamins, and other components of one,s health. Wo
+
+
+id: 2117 | rating: 5 | user: docfrugal | date: 2018-08-22 | time: 15:06:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app
+--------------------------------------------------------------------
+
+This makes it easier to keep track of what you eat and how much you exercise. It also keeps track of major components of your diet - carbs, fats, proteins. How much water you drink. Wish it were more customizable in the mineral, vitamins, and other components of one,s health. Worth paying the premium subscription though.
+
+
+review id: 2132
+
+matches and contexts:
+
+match = MICRO
+context = pp, good stuff, really enjoy it. BUT YOU CANT SEE MICRONUTRIENTS, I know it’s not an easy thing to a
+
+
+id: 2132 | rating: 4 | user: xray dog | date: 2020-11-29 | time: 22:10:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs more
+--------------------------------------------------------------------
+
+It’s a cool app, good stuff, really enjoy it. BUT YOU CANT SEE MICRONUTRIENTS, I know it’s not an easy thing to add, but seems odd to not have it. Not even an option to make write your own micronutrients in, I think it’s a major thing to be missing, but I would give 5 stars if it had that. Interface it good. I think autotime stamps would be nice, and micronutrient tracking. That’s all this needs to be great.
+
+
+review id: 2253
+
+matches and contexts:
+
+match = iod
+context = ou shouldn’t stay on a Ketogenic diet for long periods of time so I’ll get better use out of it as a
+
+
+id: 2253 | rating: 4 | user: Leeleeinjax | date: 2018-03-21 | time: 13:35:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Wish there was a Keto option
+--------------------------------------------------------------------
+
+I’m currently doing a Keto diet and I wish the daily meal plans and calorie counter would be on point with that. It looks like I’m going way over my calorie budget. Plus side it counts carbs if you go premium and you shouldn’t stay on a Ketogenic diet for long periods of time so I’ll get better use out of it as a maintenance tool once I reach my weight loss goal.
+
+
+review id: 2265
+
+matches and contexts:
+
+match = micro
+context = the weight again. The ease of use and tracking of micronutrients has allowed me to eat healthier. I 
+
+
+id: 2265 | rating: 5 | user: tamjos | date: 2020-06-30 | time: 13:30:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use
+--------------------------------------------------------------------
+
+This app helped me lose 100 pounds!! I quit using it and Gained 10 back. I am back at it and have lost the weight again. The ease of use and tracking of micronutrients has allowed me to eat healthier. I love the pop ups at weight loss goals.i especially loved having lost the equivalent of a Dalmatian.
+
+
+review id: 2321
+
+matches and contexts:
+
+match = sodium
+context =  Nice summaries of food values helps in  tracking sodium, fat intake, etc.
+
+
+id: 2321 | rating: 5 | user: pnweb | date: 2019-04-17 | time: 11:22:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy way to track food and exercise
+--------------------------------------------------------------------
+
+Well designed app that makes it easy to track weight, food and exercise.  With many foods and types of exercise in the database one can quickly enter the information.  Nice summaries of food values helps in  tracking sodium, fat intake, etc.
+
+
+review id: 2332
+
+matches and contexts:
+
+match = iron
+context =  After two years you expect kinks like this to be ironed out. Otherwise it’s a good app. The weight 
+
+
+id: 2332 | rating: 2 | user: umutisik | date: 2018-11-29 | time: 16:47:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Apple watch app constantly out of sync and laggy
+--------------------------------------------------------------------
+
+I’ve had this app for over two years and the apple watch app and complication are very slow and unreliable. I enter the calories on the watch and sometimes it makes it to the app, sometimes it doesn’t. Sometimes the app gets it but the watch app doesn’t show it. After two years you expect kinks like this to be ironed out. Otherwise it’s a good app. The weight entry could be located somewhere easier.
+
+
+review id: 2354
+
+matches and contexts:
+
+match = sodium
+context = Whatever your dietary goals (lose weight, track sodium, track exercise, or...) this app helps you 
+
+
+id: 2354 | rating: 5 | user: C.A.dy | date: 2017-10-28 | time: 11:41:28.000Z
+
+--------------------------------------------------------------------
+                      Title: It works!
+--------------------------------------------------------------------
+
+Whatever your dietary goals (lose weight, track sodium, track exercise, or...) this app helps you do it in a positive encouraging way. Nothing else has worked this well for me.  Strongly encourage everyone struggling to give it a try!  Works with my Apple watch to keep me informed on all aspects of my day.
+
+
+review id: 2381
+
+matches and contexts:
+
+match = sodium
+context =  completely.  I make adjustments to use less oil, sodium, not use ingredients I don’t like or just m
+
+
+id: 2381 | rating: 3 | user: DB in WV 1 | date: 2019-01-28 | time: 14:25:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Recipes
+--------------------------------------------------------------------
+
+The app is great for tracking calories. The biggest drawback is not being able to edit a recipe.  I add items to a recipe as I cook.  Many times, I adjust my ingredients to suit my taste.  I hardly ever follow a recipe completely.  I make adjustments to use less oil, sodium, not use ingredients I don’t like or just make up my own recipe.  So not being able to change an amount of an ingredient or add new ones, is very frustrating.
+
+
+review id: 2467
+
+matches and contexts:
+
+match = sodium
+context =  the Lose It! app every single day. I am on a low sodium diet and am so grateful that you make it ea
+
+
+id: 2467 | rating: 5 | user: Sue7702 | date: 2019-11-25 | time: 22:30:51.000Z
+
+--------------------------------------------------------------------
+                      Title: An invaluable tool that is easy to use!
+--------------------------------------------------------------------
+
+I use the Lose It! app every single day. I am on a low sodium diet and am so grateful that you make it easy for me to keep track of exactly what I am eating.
+
+
+review id: 2505
+
+matches and contexts:
+
+match = iod
+context = a day. I also have been fasting for 16-18 hour periods every other day. I am on day 9 and I lost 2 m
+
+
+id: 2505 | rating: 5 | user: Wink1029 | date: 2020-02-16 | time: 16:38:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Real weight loss
+--------------------------------------------------------------------
+
+This app holds you accountable for what you eat. The scan option is great!! I suggest measuring your food with measuring spoons and or cups for accuracy. I lost 10 lbs in a week doing 1600 calories or less a day. I also have been fasting for 16-18 hour periods every other day. I am on day 9 and I lost 2 more lbs.
+
+
+review id: 2511
+
+matches and contexts:
+
+match = sodium
+context = at grocery shopping. Balancing diet to monitoring sodium, sugar, carb so on. He has lost over 15 lb 
+
+
+id: 2511 | rating: 5 | user: Chizyee | date: 2019-05-07 | time: 12:44:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Health benefits
+--------------------------------------------------------------------
+
+Start using this app to control sugar for my love, sure gives me better conscience when we are at grocery shopping. Balancing diet to monitoring sodium, sugar, carb so on. He has lost over 15 lb just 5 weeks and off from blood pressure meds completely. Now we are focusing sugar and carb.
+
+
+review id: 2591
+
+matches and contexts:
+
+match = sodium
+context =  but was cheaper than weight watchers.  Can track sodium and sugar levels with premium which has bee
+
+
+id: 2591 | rating: 5 | user: Smitchik | date: 2017-10-03 | time: 00:47:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Lose it App
+--------------------------------------------------------------------
+
+It has definitely helped with weight loss.  Need to upgrade to premium to access everything, but was cheaper than weight watchers.  Can track sodium and sugar levels with premium which has been a nice feature for me.
+
+
+review id: 2687
+
+matches and contexts:
+
+match = vitam
+context = It would be great if we could chose what vitamins and minerals we have on the screen. Some 
+
+match = Magnes
+context = assium while others are wanting to keep an eye on Magnesium. In my case, I'm not eating dairy so I'm
+
+match = Calci
+context =  eating dairy so I'm wanting to keep an eye on my Calcium intake. This would be a great addition to 
+
+
+id: 2687 | rating: 4 | user: Lisaps320 | date: 2018-03-26 | time: 14:10:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Vitamins and minerals
+--------------------------------------------------------------------
+
+It would be great if we could chose what vitamins and minerals we have on the screen. Some may be wanting to keep an eye on Potassium while others are wanting to keep an eye on Magnesium. In my case, I'm not eating dairy so I'm wanting to keep an eye on my Calcium intake. This would be a great addition to the app. This is a great app and it's very useful. Keep up the good work!
+
+
+review id: 2690
+
+matches and contexts:
+
+match = iod
+context = en able to maintain my weight during this time period -  a real bonus for me.  This app keeps me acc
+
+
+id: 2690 | rating: 5 | user: Clydecat | date: 2021-07-30 | time: 16:10:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Lose It
+--------------------------------------------------------------------
+
+This app is user friendly.  One can usually find the foods and portions easily.  I’m currently a 721 days in a row user.  I’ve been able to maintain my weight during this time period -  a real bonus for me.  This app keeps me accountable and helps control my binging.
+
+
+review id: 2712
+
+matches and contexts:
+
+match = Vitam
+context = rated, polyunsaturated, Monounsaturated & Trans), Vitamins & Electrolytes. I know MFP did most of wh
+
+
+id: 2712 | rating: 2 | user: InkyMyCat | date: 2018-10-18 | time: 21:19:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs More Nutritional Information.
+--------------------------------------------------------------------
+
+I love the look and feel of this app.  I decided to try the premium version but to my dismay its missing several things like: Potassium, Fiber (Soluble & Insoluble), Fats ( saturated, polyunsaturated, Monounsaturated & Trans), Vitamins & Electrolytes. I know MFP did most of what I'm requesting.
+
+
+review id: 2723
+
+matches and contexts:
+
+match = vitam
+context = he lack of nutritional information like fiber and vitamins. Also, it doesn’t appear that you can vie
+
+
+id: 2723 | rating: 5 | user: Kwrap | date: 2018-01-30 | time: 05:50:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs more nutrition
+--------------------------------------------------------------------
+
+I like this app but I was surprised at the lack of nutritional information like fiber and vitamins. Also, it doesn’t appear that you can view or make changes to previous days. I’m paying monthly for this? I might just return to my fitness pal.
+
+
+review id: 2736
+
+matches and contexts:
+
+match = iod
+context = ried the trial and cancelled within the refund period).
+
+
+id: 2736 | rating: 1 | user: Songbee123 | date: 2020-12-28 | time: 01:59:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Horrible Fraudulent Charges
+--------------------------------------------------------------------
+
+I usually don’t write reviews, but this is the third year that they’ve auto-charged me their premium amount. I’ve called them, emailed them, and contacted Apple to have them reverse this charge EVERY YEAR for three years. (I tried the trial and cancelled within the refund period).
+
+
+review id: 2810
+
+matches and contexts:
+
+match = sodium
+context = the app crash upon opening it. Also the app shows sodium levels when entering but won't total it lik
+
+
+id: 2810 | rating: 4 | user: Queen Phoebe | date: 2018-06-23 | time: 20:36:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Good App BUT
+--------------------------------------------------------------------
+
+I've been using it and enjoying it BUT the latest update is making the app crash upon opening it. Also the app shows sodium levels when entering but won't total it like calories. Shame on you for not offering it in the free app. Everything shouldn't be about money and more money!
+
+
+review id: 2889
+
+matches and contexts:
+
+match = vitam
+context = this is my favorite so far.  Really wish it had a vitamin tracking feature as well, but everything e
+
+
+id: 2889 | rating: 5 | user: Rebecca2832 | date: 2018-06-16 | time: 13:26:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app!
+--------------------------------------------------------------------
+
+I’ve tried many food tracking apps, and this is my favorite so far.  Really wish it had a vitamin tracking feature as well, but everything else is great!  Would definitely recommend.
+
+
+review id: 2971
+
+matches and contexts:
+
+match = micro
+context = ople for years and they allow you to select which micronutrients to track. While the food tracker on
+
+match = Sodium
+context =  Potassium. It is so important to be able to keep Sodium and Potassium in balance.
+
+
+id: 2971 | rating: 4 | user: Groups gone | date: 2021-07-22 | time: 14:58:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Nice App - Please add Potassium
+--------------------------------------------------------------------
+
+I have used Spark People for years and they allow you to select which micronutrients to track. While the food tracker on this app is superior, I really need to be able to track certain micronutrients, and especially Potassium. It is so important to be able to keep Sodium and Potassium in balance.
+
+
+review id: 2977
+
+matches and contexts:
+
+match = iod
+context = until they excepted my payment after the trial period. Then there were technical issues and I have f
+
+
+id: 2977 | rating: 1 | user: LGinDC | date: 2020-11-08 | time: 15:47:15.000Z
+
+--------------------------------------------------------------------
+                      Title: App doesn’t work properly
+--------------------------------------------------------------------
+
+The app worked fine until they excepted my payment after the trial period. Then there were technical issues and I have for two days been unable to log my weight (a critical feature of the app!).
+
+
+review id: 3038
+
+matches and contexts:
+
+match = micro
+context =  because it allows you to track EVERYTHING! Food, micronutrients, water intake, you name it. I love 
+
+
+id: 3038 | rating: 5 | user: Mochasoul3 | date: 2021-07-01 | time: 09:45:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Lose It! is the best!
+--------------------------------------------------------------------
+
+Lose It! is the best application if you are trying to lose weight. I recommend upgrading to the pay option because it allows you to track EVERYTHING! Food, micronutrients, water intake, you name it. I love it 😊
+
+
+review id: 3059
+
+matches and contexts:
+
+match = iod
+context = , you won’t get it. Most apps give you a trial period. I should have known this was a ripoff when I 
+
+
+id: 3059 | rating: 1 | user: Old scalpy | date: 2019-11-03 | time: 18:28:01.000Z
+
+--------------------------------------------------------------------
+                      Title: DO NOT WASTE YOUR MONEY ON PREMIUM
+--------------------------------------------------------------------
+
+Useful little app, however I fell for the “pair with your Fitbit” Premium access only to discover it offers nothing more than your Fitbit app already does. Plus it doesn’t sync properly or have consistent data as your Fitbit. Different goals, calorie allotment, etc. Also don’t bother requesting a refund, you won’t get it. Most apps give you a trial period. I should have known this was a ripoff when I saw they didn’t offer a trial. Oh well, enjoy my $40 you snakes!
+
+
+review id: 3063
+
+matches and contexts:
+
+match = iod
+context =  my carb intake.  I have lost 34 pounds over a period of 4 months and my blood sugar level has gone 
+
+
+id: 3063 | rating: 5 | user: Jerry2648 | date: 2019-10-30 | time: 17:20:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Best Thing for Weight Loss
+--------------------------------------------------------------------
+
+This is the best app I have found to monitor my weight loss and to watch my carb intake.  I have lost 34 pounds over a period of 4 months and my blood sugar level has gone from 165 to 130 as of today.  I am no long on 1,000mg of Metformin/day.
+
+
+review id: 3201
+
+matches and contexts:
+
+match = iron
+context = to see and copy each other’s meals. Also, showing iron as a nutrient to track would be good. These a
+
+
+id: 3201 | rating: 4 | user: Halbear | date: 2018-02-25 | time: 14:16:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Missing just a couple of key features
+--------------------------------------------------------------------
+
+LoseIt is integral To my fitness regimen and it’s not too strong a statement to say I couldn’t maintain my weight without it. Would love an option for friends to see and copy each other’s meals. Also, showing iron as a nutrient to track would be good. These are quibbles.
+
+
+review id: 3234
+
+matches and contexts:
+
+match = sodium
+context =  burn for my workout what not to eat and how much sodium/carbs are in my foods. No more baggy hoodie
+
+
+id: 3234 | rating: 5 | user: kittylovet silly | date: 2019-11-19 | time: 22:19:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Great but...
+--------------------------------------------------------------------
+
+I like it it helps me know how many calories to burn for my workout what not to eat and how much sodium/carbs are in my foods. No more baggy hoodies for me either I’ve lost 20 pounds AND I have a flat tummy!  but I don’t like having all the in app purchases and stuff so yah that’s it
+
+
+review id: 3276
+
+matches and contexts:
+
+match = sodium
+context = ed me take off over 60lbs, get my cholesterol and sodium down, lower my blood pressure, and now 2 ye
+
+
+id: 3276 | rating: 5 | user: Mwillie34 | date: 2021-06-13 | time: 10:00:53.000Z
+
+--------------------------------------------------------------------
+                      Title: I was diagnosed with Heart Failure...
+--------------------------------------------------------------------
+
+And I needed to lose weight. This App helped me take off over 60lbs, get my cholesterol and sodium down, lower my blood pressure, and now 2 years later, keep the weight off. I tell everyone Who asks how I did it, about Lose It!
+
+
+review id: 3306
+
+matches and contexts:
+
+match = sodium
+context =  items...has huge did lists...and I have to track sodium so paid the extra for the upgrade. Totally 
+
+
+id: 3306 | rating: 5 | user: BBrad | date: 2019-08-15 | time: 14:42:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Lose it rocks!
+--------------------------------------------------------------------
+
+This app is the best tracking app for everything. Can scan items...has huge did lists...and I have to track sodium so paid the extra for the upgrade. Totally worth it!
+
+
+review id: 3307
+
+matches and contexts:
+
+match = sodium
+context =  can also monitor macronutrients (protein, carbs, sodium, etc). There’s also a great social network 
+
+
+id: 3307 | rating: 5 | user: Lab mom 101 | date: 2019-07-29 | time: 13:02:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app to help you lose weight
+--------------------------------------------------------------------
+
+This is a great tool to help you lose weight. It’s easy to log your food, but you can also monitor macronutrients (protein, carbs, sodium, etc). There’s also a great social network of others losing weight.
+
+
+review id: 3342
+
+matches and contexts:
+
+match = micro
+context = . it was just ok. With new additions- increase in micronutrients tracking and the scanning ability i
+
+
+id: 3342 | rating: 5 | user: lottabiscuit | date: 2020-09-25 | time: 12:03:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Recent improvements
+--------------------------------------------------------------------
+
+I’ve been using this app off and on for 6 yrs. it was just ok. With new additions- increase in micronutrients tracking and the scanning ability it is awesome.  Better than WW. I’ve started keto and very easy to track!!
+
+
+review id: 3462
+
+matches and contexts:
+
+match = micro
+context = ut hard to track food. This app is so easy! Gives micronutrients too! Using it to lose last 10lbs an
+
+
+id: 3462 | rating: 5 | user: ALaFarge | date: 2020-07-29 | time: 15:24:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for tracking food
+--------------------------------------------------------------------
+
+I was on Noom which worked really well - but hard to track food. This app is so easy! Gives micronutrients too! Using it to lose last 10lbs and maintain my loss!  Great blog too with helpful tips!
+
+
+review id: 3466
+
+matches and contexts:
+
+match = sodium
+context = the app tracks your daily sugar,fat,carbohydrates,sodium and more as you enter your daily food intak
+
+
+id: 3466 | rating: 5 | user: Topaz888 | date: 2020-06-27 | time: 15:34:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Love This App
+--------------------------------------------------------------------
+
+I like the way the app tracks your daily sugar,fat,carbohydrates,sodium and more as you enter your daily food intake. I like the reminds it sends me when I forget to enter a meal for the day. I love the words of encouragement and awards they send to help keep me motivated.  😀
+
+
+review id: 3481
+
+matches and contexts:
+
+match = iod
+context = nsural cycle. Women can gain “weight” for that period of time and then all goes away.
+
+
+id: 3481 | rating: 4 | user: Mikeann126 | date: 2019-01-13 | time: 17:54:53.000Z
+
+--------------------------------------------------------------------
+                      Title: I wish I could track my period
+--------------------------------------------------------------------
+
+Get great app. I’ve been using it since the beginning of the year and it’s help tremendously with portion control. The only thing I wish it could track is my mensural cycle. Women can gain “weight” for that period of time and then all goes away.
+
+
+review id: 3521
+
+matches and contexts:
+
+match = vitam
+context = witch to a competitor. Please, please, please add vitamin and mineral tracking! I don't want to lose
+
+match = iron
+context =  app for over ten years. I need now need to track iron levels for health reasons and would really li
+
+
+id: 3521 | rating: 3 | user: Haggistime445 | date: 2021-01-15 | time: 23:29:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs mineral tracking
+--------------------------------------------------------------------
+
+I have been a premium user for a while and have used the app for over ten years. I need now need to track iron levels for health reasons and would really like to not switch to a competitor. Please, please, please add vitamin and mineral tracking! I don't want to lose all my data/progress.
+
+
+review id: 3561
+
+matches and contexts:
+
+match = sodium
+context = using this app. I’ve also become more aware of my sodium intake and how easily sugar creeps into you
+
+
+id: 3561 | rating: 5 | user: ebo1188 | date: 2018-08-15 | time: 03:49:38.000Z
+
+--------------------------------------------------------------------
+                      Title: 2 weeks in and down 6 lbs
+--------------------------------------------------------------------
+
+Ive been losing about 1-2 lbs per week before this tool and have seen An additional pound loss with using this app. I’ve also become more aware of my sodium intake and how easily sugar creeps into your diet.
+
+
+review id: 3562
+
+matches and contexts:
+
+match = sodium
+context = I just started watching my calories, carbs and sodium. This app makes it so easy. Just set your g
+
+
+id: 3562 | rating: 5 | user: 1CoolBarbie | date: 2018-09-02 | time: 09:51:03.000Z
+
+--------------------------------------------------------------------
+                      Title: LOVE THIS APP!
+--------------------------------------------------------------------
+
+I just started watching my calories, carbs and sodium. This app makes it so easy. Just set your goals then choose the items you eat and there you go. Just pick food items. No more searching the web.
+
+
+review id: 3578
+
+matches and contexts:
+
+match = iod
+context = premium soon.  Wanted to put in a healthy test period before spending more $ but it is a good app.
+
+
+id: 3578 | rating: 5 | user: Toxic Agent 5 | date: 2018-06-27 | time: 22:59:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Dig it!
+--------------------------------------------------------------------
+
+On week 5 if using the basic version.  Had no issues & the features are great!  I like it so much I anticipate upgrading to premium soon.  Wanted to put in a healthy test period before spending more $ but it is a good app.
+
+
+review id: 3671
+
+matches and contexts:
+
+match = sodium
+context =  proper balance of fat, carbs, protein, fiber and sodium within a defined calorie range is key.  Aft
+
+
+id: 3671 | rating: 5 | user: rlw... | date: 2019-11-07 | time: 12:23:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Has done the trick for me!
+--------------------------------------------------------------------
+
+Recording your daily consumption and assuring the proper balance of fat, carbs, protein, fiber and sodium within a defined calorie range is key.  After a lifetime of up and down weight, rigorous adherence to this process has resulted in a new me...and, 30 pounds lighter!  Love it!
+
+
+review id: 3749
+
+matches and contexts:
+
+match = micro
+context = o remember to take certain vitamins, get specific micronutrients, use probiotics, or even take our d
+
+match = vitam
+context = Some of us have to remember to take certain vitamins, get specific micronutrients, use probiot
+
+
+id: 3749 | rating: 4 | user: Dug Rusin | date: 2019-06-20 | time: 10:43:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Wish it had micronutrients
+--------------------------------------------------------------------
+
+Some of us have to remember to take certain vitamins, get specific micronutrients, use probiotics, or even take our daily multivitamin. Wish this app had that capability. It’s the only real downside I’m seeing so far, but it’s an important one for me.
+
+
+review id: 3801
+
+matches and contexts:
+
+match = vitam
+context = occurring sugar. It would also be useful to track vitamin content (vitamin A, C, potassium, etc...)!
+
+
+id: 3801 | rating: 3 | user: LaBranJames | date: 2020-07-30 | time: 20:00:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Works but ...
+--------------------------------------------------------------------
+
+The app does what it does, and it’s fine. The UI is very clunky and busy and can be difficult to navigate.  I also wish there was a way to discern between free/added sugar and naturally occurring sugar. It would also be useful to track vitamin content (vitamin A, C, potassium, etc...)! Those would be great and useful new features.
+
+
+review id: 3818
+
+matches and contexts:
+
+match = phosp
+context = njoy use by it daily.  Would also like potassium, phosphates, polyphonals, and other categories to h
+
+
+id: 3818 | rating: 5 | user: jules verne 2 | date: 2019-06-20 | time: 20:07:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Lose it helped me lose 60 pounds on a kidney diet
+--------------------------------------------------------------------
+
+I enjoy use by it daily.  Would also like potassium, phosphates, polyphonals, and other categories to help even more.  It is certainly the best app I could find for weight loss.
+
+
+review id: 3826
+
+matches and contexts:
+
+match = sodium
+context = addition that helps me stay on target with fiber, sodium and others. 👍
+
+
+id: 3826 | rating: 5 | user: Director_X | date: 2019-04-19 | time: 20:57:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Great features, reliable
+--------------------------------------------------------------------
+
+The new macronutrients headers are a great addition that helps me stay on target with fiber, sodium and others. 👍
+
+
+review id: 3842
+
+matches and contexts:
+
+match = iod
+context = d it for this purpose for over 5 years — while periodically using the calories function as well
+
+
+id: 3842 | rating: 5 | user: CLowe355 | date: 2017-12-01 | time: 12:00:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Historical tracking
+--------------------------------------------------------------------
+
+LoseIt is the best application for tracking historical weight. I’ve used it for this purpose for over 5 years — while periodically using the calories function as well
+
+
+review id: 3897
+
+matches and contexts:
+
+match = iod
+context = e are no refunds or credits for partially used periods. All Premium Services and Your rights to use 
+
+
+id: 3897 | rating: 3 | user: MomsterPie | date: 2019-02-19 | time: 16:42:31.000Z
+
+--------------------------------------------------------------------
+                      Title: I like the app but...
+--------------------------------------------------------------------
+
+I wish I would have read the fine print: “Except with respect to Helix DNA Kit returns and refunds as set forth in Section 16.1 below, all fees and charges are nonrefundable and there are no refunds or credits for partially used periods. All Premium Services and Your rights to use them expire at the end of the paid period of Your Premium Services account.”
+
+
+review id: 4061
+
+matches and contexts:
+
+match = sodium
+context = his tracker: it hold me accountable. I also track sodium and fiber and it has helped me to make bett
+
+
+id: 4061 | rating: 5 | user: smokeydish | date: 2021-05-26 | time: 16:05:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Works
+--------------------------------------------------------------------
+
+I’ve kept the weight off by using this tracker: it hold me accountable. I also track sodium and fiber and it has helped me to make better choices there too.
+
+
+review id: 4103
+
+matches and contexts:
+
+match = iod
+context = res.  Most all the other apps give you a trial period or a monthly option.
+
+
+id: 4103 | rating: 3 | user: Jtcisson | date: 2018-07-18 | time: 19:19:14.000Z
+
+--------------------------------------------------------------------
+                      Title: No trial period?
+--------------------------------------------------------------------
+
+I like the app and would like to try the premium if there was a monthly option but you’re out $30 bucks right off the back without even exploring the premium features.  Most all the other apps give you a trial period or a monthly option.
+
+
+review id: 4484
+
+matches and contexts:
+
+match = sodium
+context = e but even more- protein, fiber , cholesterol and sodium intake!!!!
+
+
+id: 4484 | rating: 5 | user: dwilli4174 | date: 2021-05-18 | time: 11:56:09.000Z
+
+--------------------------------------------------------------------
+                      Title: Keeping on track
+--------------------------------------------------------------------
+
+I am starting to lose more weight again ! What is great about the app is I can track my day’s calorie but even more- protein, fiber , cholesterol and sodium intake!!!!
+
+
+review id: 4502
+
+matches and contexts:
+
+match = iod
+context =  been using this app for 17 days. In that time period I have lost 10 pounds, just counting calories 
+
+
+id: 4502 | rating: 5 | user: Studying in Taiwan | date: 2020-03-06 | time: 04:19:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app! I’ve lost 10 pounds.
+--------------------------------------------------------------------
+
+I’ve been using this app for 17 days. In that time period I have lost 10 pounds, just counting calories and exercising! I’m eating what I want, just less! It’s great and sustainable for me.
+
+
+review id: 4535
+
+matches and contexts:
+
+match = sodium
+context = r taking in. For me, it helped me to see how much sodium I was consuming every day. Surprising!!
+
+
+id: 4535 | rating: 5 | user: ummmm........................ | date: 2018-09-26 | time: 17:19:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Very good app
+--------------------------------------------------------------------
+
+Wonderful app! Great for weight loss or muscle building. You can count your macros and really see how much carbs, protein, and fat your taking in. For me, it helped me to see how much sodium I was consuming every day. Surprising!!
+
+
+review id: 4866
+
+matches and contexts:
+
+match = micro
+context = ht, but I wish the free portion included tracking micronutrients as well. But at least I have a more
+
+
+id: 4866 | rating: 4 | user: IthinkitsFungame2play | date: 2018-08-01 | time: 16:10:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app overall
+--------------------------------------------------------------------
+
+This is a wonderful app for keeping track of calories and weight, but I wish the free portion included tracking micronutrients as well. But at least I have a more accurate measure of what I am eating.
+
+
+review id: 5064
+
+matches and contexts:
+
+match = vitam
+context = o track other nutrients such as calcium, iron and vitamins.
+
+match = iron
+context = lude is to track other nutrients such as calcium, iron and vitamins.
+
+match = calci
+context = s can include is to track other nutrients such as calcium, iron and vitamins.
+
+
+id: 5064 | rating: 5 | user: RosHenry | date: 2020-10-19 | time: 20:21:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app, nutrition info can be improved
+--------------------------------------------------------------------
+
+The app works great. The UI is beautiful. One thing I hope future versions can include is to track other nutrients such as calcium, iron and vitamins.
+
+
+review id: 5164
+
+matches and contexts:
+
+match = sodium
+context = e that I can link my Fitbit. I use it to track my sodium intake. Wish I could track my potassium too
+
+
+id: 5164 | rating: 4 | user: APfit | date: 2018-12-10 | time: 10:19:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Good program
+--------------------------------------------------------------------
+
+Enjoy this app. Very easy to use and love that I can link my Fitbit. I use it to track my sodium intake. Wish I could track my potassium too. I would give it another star if I could.
+
+
+review id: 5280
+
+matches and contexts:
+
+match = sodium
+context = work, the meals should also be broken down by low sodium, low carbs, low sugar diets. That would be 
+
+
+id: 5280 | rating: 2 | user: Bigsexy7762 | date: 2018-03-25 | time: 18:45:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Doesn’t let you save recipes
+--------------------------------------------------------------------
+
+Works good except when it comes to saving suggested meal plans, the navigation in this section for premium users needs massive work, the meals should also be broken down by low sodium, low carbs, low sugar diets. That would be very helpful. Hopefully someone fixes this.
+
+
+review id: 5306
+
+matches and contexts:
+
+match = sodium
+context = y your food easily, but your nutrients, exercise, sodium, blood sugar, and blood pressure. Easy to u
+
+
+id: 5306 | rating: 5 | user: Bluitwns | date: 2019-12-09 | time: 16:31:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Great AP
+--------------------------------------------------------------------
+
+An inexpensive AP that does all that WW does and more. You track not only your food easily, but your nutrients, exercise, sodium, blood sugar, and blood pressure. Easy to use and navigated.
+
+
+review id: 5362
+
+matches and contexts:
+
+match = iod
+context = Using this app for a long period of time has really just been a frustrating slo
+
+
+id: 5362 | rating: 1 | user: kikomixtle | date: 2018-03-14 | time: 15:18:08.000Z
+
+--------------------------------------------------------------------
+                      Title: That feature is now premium
+--------------------------------------------------------------------
+
+Using this app for a long period of time has really just been a frustrating slog of watching features gradually disappear into the premium tier. As opposed to rolling out new features to entice folks to upgrade, basic features and functionality have been removed. This app isn’t what it used to be.
+
+
+review id: 5411
+
+matches and contexts:
+
+match = micro
+context = ly love this app just wish it could show you your micronutrients as well.
+
+
+id: 5411 | rating: 5 | user: Sstarzlee | date: 2019-04-10 | time: 04:17:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing!
+--------------------------------------------------------------------
+
+It’s really easy to use and easy on the eyes. I absolutely love this app just wish it could show you your micronutrients as well.
+
+
+review id: 5581
+
+matches and contexts:
+
+match = iod
+context = is no way to cancel the order during the trial period ($0 by now), yesterday I emailed to you asking
+
+
+id: 5581 | rating: 1 | user: J Knee | date: 2019-03-12 | time: 20:42:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Wrong app for me
+--------------------------------------------------------------------
+
+By a mistake yesterday I downloaded your app. Since there is no way to cancel the order during the trial period ($0 by now), yesterday I emailed to you asking for the cancellation because I don’t want to wait until the trial period is gone and then being charged for something I don’t need/use. I’ll appreciate your help. Thank you.
+
+
+review id: 5721
+
+matches and contexts:
+
+match = iod
+context = Have not been using for a long period but finding it a great source to keep me motiv
+
+
+id: 5721 | rating: 5 | user: dhjsjenx | date: 2019-06-10 | time: 13:22:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Making It
+--------------------------------------------------------------------
+
+Have not been using for a long period but finding it a great source to keep me motivated
+
+
+review id: 6067
+
+matches and contexts:
+
+match = sodium
+context =  thing I worry about counting is my calories. Not sodium, not sugar, nothing but my calories. This a
+
+
+id: 6067 | rating: 5 | user: Xer0x0verRid3 | date: 2017-11-19 | time: 22:58:24.000Z
+
+--------------------------------------------------------------------
+                      Title: I’ve lost ten pounds in ten days
+--------------------------------------------------------------------
+
+I’m on a super strict diet and the only thing I worry about counting is my calories. Not sodium, not sugar, nothing but my calories. This app is amazing!!!!!!
+
+
+review id: 6259
+
+matches and contexts:
+
+match = micro
+context = Can you please add micronutrients to the premium version, this is the
+
+
+id: 6259 | rating: 4 | user: RevenueSource412 | date: 2019-04-04 | time: 19:34:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Micronutrients
+--------------------------------------------------------------------
+
+Can you please add micronutrients to the premium version, this is the only thing keeping me from buying the premium version!
+
+
+review id: 6371
+
+matches and contexts:
+
+match = sodium
+context =  six weeks. Love the weekly reports. Spotted hush sodium for the week and it identified salsa as the
+
+
+id: 6371 | rating: 5 | user: missyHay | date: 2019-02-16 | time: 14:14:51.000Z
+
+--------------------------------------------------------------------
+                      Title: It works for me!
+--------------------------------------------------------------------
+
+Great. Connects to my scale and Apple watch. Lost 31 pounds in six weeks. Love the weekly reports. Spotted hush sodium for the week and it identified salsa as the culprit. Changed to pico de gallo. Just an example.
+
+
+review id: 6435
+
+matches and contexts:
+
+match = micro
+context =  itself is great but it says to upgrade to unlock micronutrients, even though my sister and her frie
+
+
+id: 6435 | rating: 2 | user: Prairie Girl 73 | date: 2019-06-22 | time: 17:25:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Upgrade BS
+--------------------------------------------------------------------
+
+The app itself is great but it says to upgrade to unlock micronutrients, even though my sister and her friends didn’t need to pay for it. I’m hoping for feedback to see if this is a bug on one end or the other.
+
+
+review id: 6577
+
+matches and contexts:
+
+match = calci
+context = lates nutritional RDA.  I really need to track my calcium, that is the one thing that my Fitnesspal 
+
+
+id: 6577 | rating: 4 | user: naveenvin | date: 2018-01-16 | time: 14:32:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome app
+--------------------------------------------------------------------
+
+The only thing I would like better is if it calculates nutritional RDA.  I really need to track my calcium, that is the one thing that my Fitnesspal does better
+
+
+review id: 6597
+
+matches and contexts:
+
+match = micro
+context = I wish the program would give daily micro nutrients requirements,  like how much prote
+
+
+id: 6597 | rating: 4 | user: Candle mass | date: 2021-05-19 | time: 15:37:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Need to be specific
+--------------------------------------------------------------------
+
+I wish the program would give daily micro nutrients requirements,  like how much protein,  carbs does one need daily?
+
+
+review id: 6810
+
+matches and contexts:
+
+match = vitam
+context = The only thing I wish it did was track vitamins and minerals in addition to carb/protein/
+
+
+id: 6810 | rating: 4 | user: catmeowdogsquirrel | date: 2020-05-20 | time: 11:34:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use and very helpful
+--------------------------------------------------------------------
+
+The only thing I wish it did was track vitamins and minerals in addition to carb/protein/fat.
+
+
+review id: 6950
+
+matches and contexts:
+
+match = vitam
+context = If you guys added the amount of vitamins and minerals that the foods contain, even
+
+
+id: 6950 | rating: 4 | user: Trying Hard!!! | date: 2021-02-17 | time: 04:50:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome; But...
+--------------------------------------------------------------------
+
+If you guys added the amount of vitamins and minerals that the foods contain, even if it’s just ballpark, you guys would blow everyone out the water.
+
+
+review id: 6955
+
+matches and contexts:
+
+match = sodium
+context = ss cheese (yikes lol). I was getting way too much sodium from using tuna as a regular protein source
+
+
+id: 6955 | rating: 5 | user: Kylejallen | date: 2019-12-28 | time: 19:39:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Way better than other apps
+--------------------------------------------------------------------
+
+This app is amazing even using the free version, and the fee for premium is far less than other apps. It’s basically the cost of going out to dinner once or twice, for an entire year. USE THE PREMIUM. I didn’t think it would be worth the functionality, but bought it anyway to support the app since I’m getting so much use out of it. The premium functions will reveal key information to you. For example, my highest contributor to saturated fat by far was an occasional slice of reduced fat swiss cheese (yikes lol). I was getting way too much sodium from using tuna as a regular protein source. Baby carrots are my best source of fiber, by far better than any whole grain items lol. I thought mini candy canes were no big deal occasionally because of the low calories, but they managed to top the list for simple carbs...and I didn’t even eat very many of them! It’s amazing to see this charted out for you, and allows for simple changes to what you’re eating for big gains to your health. The free version of the app is great as well, extremely easy to use, nice clean uncluttered interface, and easy to chart your calories and macronutrients. Tells you how many calories you have left for the day. Easy to re-enter foods that you eat a lot, since they will pop up at the top of the list in the same quantity as last time (but you can adjust quantity quickly as well). Doesn’t constantly give you annoying pop-ups recommending premium upgrade like some other apps. I definitely recommend using this, it’s really worth the small amount of time it takes to enter the foods you’re eating. You might think you know everything about your diet, but you’ll probably find some new info using this app.
+
+
+review id: 6983
+
+matches and contexts:
+
+match = micro
+context = th it.  Decided to splurge and subscribe to track micronutrients.  Come to find out that they don’t 
+
+match = Calci
+context = utrients.  Come to find out that they don’t track Calcium and sugar is lumped together (naturally oc
+
+
+id: 6983 | rating: 1 | user: 3jsnana | date: 2018-08-08 | time: 11:00:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Disappointed
+--------------------------------------------------------------------
+
+I was using the free version and was happy with it.  Decided to splurge and subscribe to track micronutrients.  Come to find out that they don’t track Calcium and sugar is lumped together (naturally occurring and added).  Plus I don’t see any up side to have the subscription.  98% you get in the free app.
+
+
+review id: 6987
+
+matches and contexts:
+
+match = micro
+context = I love that you can find foods easily and the micronutrients are right there.  Thanks!
+
+
+id: 6987 | rating: 5 | user: Jim Sagona | date: 2018-11-17 | time: 17:08:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy!
+--------------------------------------------------------------------
+
+I love that you can find foods easily and the micronutrients are right there.  Thanks!
+
+
+review id: 6989
+
+matches and contexts:
+
+match = sodium
+context =  me to control my blood pressure by monitoring my sodium intake and my weigh.
+
+
+id: 6989 | rating: 4 | user: gramsandrea | date: 2017-10-04 | time: 11:28:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Review
+--------------------------------------------------------------------
+
+Lose It has been very helpful in controlling my weight. It has helped me to control my blood pressure by monitoring my sodium intake and my weigh.
+
+

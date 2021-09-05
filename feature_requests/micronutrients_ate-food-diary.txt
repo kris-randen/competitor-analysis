@@ -1,0 +1,178 @@
+'Micronutrients' related feature requests in ate-food-diary reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 10
+
+
+review id: 49
+
+matches and contexts:
+
+match = iod
+context = ould trigger trying to extend fasts for longer periods of time). Given that otherwise this app seems
+
+
+id: 49 | rating: 4 | user: Too coolll | date: 2021-02-18 | time: 17:42:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app so far
+--------------------------------------------------------------------
+
+I am currently trying to break out of excessive calorie counting, and this app allows me to continue the habit of tracking my meals without obsessing over numbers. I love the encouragement to be mindful about your emotions and why you are eating as well. The only thing keeping this app from being 5 stars for me is the inability to turn off intermittent fasting information. Intermittent fasting may work for some people, but can rapidly devolve into triggering harmful behaviors for people who are prone to/recovering from disordered eating (Ex. could trigger trying to extend fasts for longer periods of time). Given that otherwise this app seems like a great alternative to traditional meal tracking apps for folks with EDs, I wish that information could be optional.
+
+
+review id: 112
+
+matches and contexts:
+
+match = micro
+context =  so much better. No obsession over every calorie, micro managing or guesstimate when you go out to e
+
+
+id: 112 | rating: 5 | user: Chickeditor | date: 2018-10-18 | time: 18:02:09.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+I have done calorie counting & weight watchers. This by far is so much better. No obsession over every calorie, micro managing or guesstimate when you go out to eat. Even if I over do it on a meal I get right back on it with my next meal. I am also visual person  and seeing what I ate over seeing it as a text is so much more impressionable for me.
+
+
+review id: 120
+
+matches and contexts:
+
+match = iod
+context = t. Not only can I identify snacking or craving periods, it has helped me manage emotional eating thr
+
+
+id: 120 | rating: 5 | user: Elisa.elisa | date: 2018-03-16 | time: 22:21:15.000Z
+
+--------------------------------------------------------------------
+                      Title: LOVE design and concept
+--------------------------------------------------------------------
+
+I am a huge fan of this app’s design and overall approach to managing a healthy diet. Has helped me to observe and reflect on my food choices without judgement. Not only can I identify snacking or craving periods, it has helped me manage emotional eating through awareness. I can go back and look at my forever history and pinpoint trends to address. One note - very frustrated with app crashes but not sure if due to phone or app itself. Overall recommend to download this and check it out!
+
+
+review id: 164
+
+matches and contexts:
+
+match = micro
+context = I can’t stick with calorie and micronutrient tracking - they are too much work, t
+
+
+id: 164 | rating: 5 | user: Smiafed | date: 2019-05-26 | time: 00:44:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Just what I was looking for, but didn’t know it!
+--------------------------------------------------------------------
+
+I can’t stick with calorie and micronutrient tracking - they are too much work, they bum me out and I’m not sure they even help. I absolutely love this app. I love the on-path/off-path concept and having the photos is fun and lets me know well enough if I’m eating right. Plus I can look back for ideas of on-path things I liked when I can’t think of what to eat. Love this!
+
+
+review id: 225
+
+matches and contexts:
+
+match = micro
+context = g good habits around food more than managing your micros. Overall I have found it helpful to keep me
+
+
+id: 225 | rating: 5 | user: Ashc1217 | date: 2021-01-18 | time: 01:58:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Simple but helpful
+--------------------------------------------------------------------
+
+This app is definitely a lot more simple than others that have you log every piece of food you eat. Granted, if your goal is calorie counting, you want to do that. However, this app of helpful in creating good habits around food more than managing your micros. Overall I have found it helpful to keep me on track.
+
+
+review id: 230
+
+matches and contexts:
+
+match = iod
+context = are choosing to eat.  You can look back over a period of time and get a sense if you are on a good p
+
+
+id: 230 | rating: 4 | user: Nswy1 | date: 2017-08-13 | time: 02:30:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Something Different
+--------------------------------------------------------------------
+
+I think this app is helpful in a very different way from other apps aimed at healthy eating. It helps reduce obsessive counting and monitoring using a few clicks. A picture is worth a load of measures. It gets you thinking in more simple terms about the food and portions you are choosing to eat.  You can look back over a period of time and get a sense if you are on a good path or deviating too much.
+
+
+review id: 377
+
+matches and contexts:
+
+match = iod
+context = pics also track frequency of meals and fasting periods. I no longer have to use a separate fasting a
+
+
+id: 377 | rating: 5 | user: anewdays | date: 2021-02-05 | time: 08:33:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Simply the best
+--------------------------------------------------------------------
+
+Easy tracking for the person who wants to be more aware of what and when they eat. Time stamped pics also track frequency of meals and fasting periods. I no longer have to use a separate fasting app. This is very useful!
+
+
+review id: 381
+
+matches and contexts:
+
+match = iron
+context = hy and where I ate to consider my emotions and environmental influences. Super easy to use. I would 
+
+
+id: 381 | rating: 5 | user: Christine433 | date: 2019-03-06 | time: 20:54:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Not just a food tracker!
+--------------------------------------------------------------------
+
+This app is exactly what I needed to not only track my food but to focus on mindful eating. I am able to track why and where I ate to consider my emotions and environmental influences. Super easy to use. I would highly recommend it!
+
+
+review id: 710
+
+matches and contexts:
+
+match = micro
+context =  rather than try to count every calorie and macro/micro nutrient 2. It is easy to visualize your day
+
+
+id: 710 | rating: 5 | user: katherine185628 | date: 2017-07-08 | time: 19:15:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Best food logging app ever
+--------------------------------------------------------------------
+
+I've been logging my food for about 2 years now, and this is the best method I've ever used. For over a year, I logged all my calories and macros with apps like my fitness pal, Fitbit, cronometer, and a few others. I never really enjoyed logging food that way. Eventually I realized that I had gained enough intuition about the nutrients of my food that I no longer needed to track macros to reach my goals, but I still wanted to log to keep me mindful of the way I ate. I tried at least 3 other picture logging apps, a written journal where I described my meals, and a photo journal without an app. This is far better than any other thing I tried for a few reasons: 1. It only takes two taps to log a meal. This allows you to actually enjoy your eating rather than try to count every calorie and macro/micro nutrient 2. It is easy to visualize your day of eating 3. The simple reflection options for the meals are helping me to evaluate my eating in a more holistic way, rather than just looking at nutritional content 4. Great for intermittent fasting 5. The interface is very ascetically pleasing and intuitive. I really love the simplicity of on/off path, however, if you've never logged your food before and your goal is weight/fat loss, I'd suggest tracking calories/macros for at least a few days so that you can have a more educated idea of what's on/off path for you.
+
+
+review id: 746
+
+matches and contexts:
+
+match = micro
+context = ting. Worth the download if you're not looking to micromanage your meals and just want to keep track
+
+
+id: 746 | rating: 5 | user: LC runs | date: 2017-05-05 | time: 06:17:07.000Z
+
+--------------------------------------------------------------------
+                      Title: So easy!
+--------------------------------------------------------------------
+
+Easy to use and so very helpful! Not counting calories, but helps me to be accountable of what I am and am not eating. Worth the download if you're not looking to micromanage your meals and just want to keep track of what "you ate" 😉
+
+

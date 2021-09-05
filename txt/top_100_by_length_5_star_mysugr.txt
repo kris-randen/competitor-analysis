@@ -1,0 +1,1104 @@
+User Review: 4632
+User Name: Vlady829x7
+User Rating: 5
+Date Time : 2014-11-12T03:22:53.000Z
+Title: Wonderful app!  Needs 10 stars
+----------------------------------------------------------
+I love this app. I've been type 2 for over 10 years and have tried a lot if different logs. This one is the best by far. For the past two years I resorted to an excel worksheet out of frustration with other apps. One of my coworkers overseas recommended this one and I'm extremely pleased. I downloaded the free version and immediately upgraded to the pro version. I have a form of diabetes that is hard to control with large swings in my bg levels; as a result I test about 7 times per day. It's easy to enter data into the log and I love scrolling through the pictures to see what I did right or wrong. I also like staging my food pics to see where I've been during the day. I have an extremely hectic job that is fun but makes me likely to quickly forget that I'm diabetic. The mysugr team responded quickly to my emails and I haven't had any issues with the app loading. After about 4 weeks of usage I find I am logging more now than I did in the first week. Since I started using the app I have had a significant reduction in the number of high values (only 2) and low values (none too low) which is awesome considering I started about a week before  the devils holiday , aka Halloween. My family likes to pick up my phone and scroll through the pictures; they are also big fans. We now have more constructive discussions about how my day is going, which is great. My sons want to find an app like this for non-diabetics. Even the little monster is starting to grow on me. The mysugr team has some improvements to do on the nutritional aspects, but overall I agree with the other reviewers, this app is a life saver.
+
+
+
+User Review: 1920
+User Name: gmb-md
+User Rating: 5
+Date Time : 2019-05-22T17:15:51.000Z
+Title: Nice stable app
+----------------------------------------------------------
+Nice stable app for recording sugars and medications and viewing trends. The “slaying the monster” approach is used as a lighthearted incentive (and you can turn off the audio when you tire of it). The free version is definitely useful. The subscription version might be nice if you have a meter that syncs data with mySugr covered by your health plan (mine doesn’t). There are some extra features available in the subscription version (e.g., photos of meals and extra event categories/rationale), which also enable you to “earn” more points to slay the monster.  My largest negative/frustration is the way it defines the minimum number of results for calculating HA1c estimates. My insurance only pays for 3 finger sticks a day (for type II), so even if I have months of data recorded, mySugr will often state it has insufficient data. Most people will visit a doctor during the day, so there will always be a partial day of data (for me that is less than 3 sticks). It does not make sense that it will provide me an estimate of HA1c at 11:59pm, but won’t at 12:01am (2 minutes later), although it has the same amount of data. Based on responses to help tickets, this is currently considered a “feature” rather than a bug. Technically, this would appear to be an easy fix [e.g., using 24 hr periods (rather than “days”) or calculating using the previous full day]. I’m guessing that changing the calculation might require a recertification cost, since it is certified as a medical device, so maybe we will see an improvement in later?
+
+
+
+User Review: 2924
+User Name: Sascha Endlicher
+User Rating: 5
+Date Time : 2014-12-07T10:48:46.000Z
+Title: Amazing app!
+----------------------------------------------------------
+I installed MySugr the day I was diagnosed with diabetes. I started with a blood sugar level of 280 mg/dL in the morning and 350 mg/dL one hour after a meal. After a constant monitoring and logging with this app, walking 5 km per day outside (I use the Health app to keep track for now) and a reorganization of my eating habits, I am down to 89 mg/dL in the morning and 133 mg/dL one hour after a meal, 8 days after the initial diagnosis. I am giving this app a 5 star rating, although I am missing a few features. I hope they will be integrated in the future: I would love to have a more extended integration with the Health app, as there is valuable data in there (i.e. how many steps I walked and when I walked). I would also love to see integrations with third party apps. For example, I use MyPlate to keep track of my food and fluid intake and it syncs carbs, fat, etc with the Health app. It would be great if MySugr would a) sync those nutritional values from the Health app and b) import what I ate from the MyPlate app as a comment into MySugr and c) import my burnt carbs, so that I could show this data to my diabetologist in the report. There is now a lot of data out there and I hope MySugr will make the best out of it. Just seeing what you do and how it affects you can have a very positive impact on your life style. This could be useful and helpful for so many people!
+
+
+
+User Review: 2925
+User Name: Summerin3D
+User Rating: 5
+Date Time : 2015-09-25T15:58:55.000Z
+Title: Life Changer for a new Diabetic
+----------------------------------------------------------
+I was recently diagnosed with T2 diabetes and I wanted to be proactive in my treatment. After doing a lot of homework and trying out really clunky and frankly boring apps, I found mySugr. I cannot say enough about it. It has changed my life. It’s easy to use and fun. My whole family smiles when they hear the Diabetes Monster laughing or squealing. I show their intro video on their website to so many of my family and diabetic friends. Why does diabetes have to be so boring and like an awful curse? This app helps me stay on track and the monster helps me motivated. I would love to see them add a carb dictionary/encyclopedia to the app because as someone who is new to this it’s hard to know or remember how much things count for. That would be tremendously helpful. Also, perhaps some more food category choices under the food boxes and also under the action items at the bottom (lunch, dinner, work, etc). Some of those are a bit random and there are other more obvious ones that could be included. Overall, I love this app and the mySugr Suite. Thank you for having a different outlook on this disease. It’s not a death sentence and therefore we can have fun with it.
+
+
+
+User Review: 2922
+User Name: elissafro
+User Rating: 5
+Date Time : 2014-06-21T23:00:56.000Z
+Title: HIGHLY Recommend THIS APP!
+----------------------------------------------------------
+This app is the best app on my phone. Considering the circumstances it's also the most used app. I haven't found a more well rounded, fully integrated, user friendly app for tracking blood glucose levels than the MySugr app. I have my Mom, Dad, Sister, and two Aunts now using it, and my favorite thing about it is that they are keeping better track of their numbers and living healthier lives because this app makes it easy for them to do so. My fav feature is the timer, but I really would like to see it extended out to 6 hours. I am on a 4 hour testing/insulin schedule and usually set it for 3 hours and then reset it for 1 hour. So I'd really like to see more time on the timer. Also...with the mood icons, I'd like you to add one for nausea and/or vomiting. Nausea/vomiting can have a significant impact on blood glucose levels. Other than that, the app is great. Keep up the good work, and I can't wait to see what you have to make the app bigger and better down the road!
+
+
+
+User Review: 7
+User Name: sunburntbrain
+User Rating: 5
+Date Time : 2019-01-12T23:19:48.000Z
+Title: This is the best diabetes app ever! GET THE BUNDLE!
+----------------------------------------------------------
+I was a diabetic with little control. I had given up. I ran into this app and it all changed.  I started using the app and it was fun. I wanted to use it. I bought the bundle that came with the Accu-Chek Guide Meter and UNLIMITED STRIPS. I started poking my fingers all the time! Wanting that control. My A1C was 9.6. I learned that with more knowledge came more control and an interest in a diabetic diet and lifestyle changes that have helped me noticeably lose weight. I can’t wait to see what my next A1C is. I’m sure it’s going to be a lot better. Oh I forgot. With the bundle comes a Diabetic Educator right in the app. Well worth the 49 dollar investment each month. No appointments needed just message her in the app. If you combine the bundle, a new meter lance and lancets all you can poke strips and an educator you’re making money to save your own life. This was the best medical decision I’ve ever made. Tame your monster! Get MySugr today!
+
+Developer Response: 
+----------------------------------------------------------
+Hi! Thank you so much for the positive review and for sharing about your experience with the mySugr Bundle! We are so glad to hear it has been such a great experience for you. Keep up the great work and we've got your back :)
+
+
+
+User Review: 2923
+User Name: Kona Biker
+User Rating: 5
+Date Time : 2014-09-30T05:50:31.000Z
+Title: By far the Best!!!
+----------------------------------------------------------
+I've tried everything and all have been quite inadequate in their functionality and display. From buggy software to confusing readouts that separate one single time entry into 3 separate lines making unneeded clutter mySugr solves all with grace & fun! It even was the 1st app to make me stop using my own created app with Numbers. A lot of time went into this and I find myself just looking through all the features & info because it's fun doing so with this motivational reward based app emulating the fitness apps with points and reward notifications. No matter how we get we never outgrow the desire to receive a 'Gold Star' like accolade. I find myself subconsciously trying harder and thinking through my choices throughout the day. The only gripe: I wish I could at least reorder my logbook tabs without having to pay the extra $20 since that's the only added feature I want. Great work mates!
+
+
+
+User Review: 2939
+User Name: Pappa Lover 64
+User Rating: 5
+Date Time : 2017-07-12T04:51:21.000Z
+Title: Finally the perfect BS AND BP app!
+----------------------------------------------------------
+My blood pressure wasn't coming down even on meds and we discovered the  reason: I was diabetic. So I needed an app to track both BP and BS concurrently to watch for  correlations. So surprised to find how few apps do both! And before mySugr - none of them did it well! This is the perfect app for diabetics and especially those, like me, who need to track their BP as well. It's easy, all your entries can be made on one screen. And entry options not only include BP and BS but also meds, food, activity notes,etc. And the cute little rewards and cheers are actually fun and motivating- even for a 52 year old. After a month I was sold on this app and upgraded to premium. Well worth it! Very excited to now be able to set reminders and take food pictures to speed up my entries and guarantee I won't forget to take my meds and do my Glucose tests! Wish I could give mySugr MORE than 5 stars!
+
+
+
+User Review: 2938
+User Name: Jolinda64
+User Rating: 5
+Date Time : 2017-05-12T17:20:24.000Z
+Title: Literally a Life Saver
+----------------------------------------------------------
+** UPDATE May 2017- my A1c is now 8.1--*UPDATE April 2016**. Just got my A1C results- I went from an 11.8 down to a 9.1 in 3 months. I owe it to this app******Diagnosed in 2000 with type 2 diabetes.  I didn't take it seriously until I was put on insulin 2 years ago.  Now I am on 3 insulin medicines and have muscle loss and eye issues and my A1c was at 12.6.  I wasn't taking my medicine correctly mainly because I couldn't SEE the affects.  With the MYSUGR app I can set up reminders on a busy day, I can see how much the insulin is working and how certain foods make my sugars rise.  I will be getting my A1c done by the lab and it will be interesting to see if it is close to my estimated A1c on the app.  This has also made me aware of how many carbs I have been taking in.  I pay monthly and it is such a small price for what I'm gaining in health benefits and knowledge!
+
+
+
+User Review: 11
+User Name: kayt.e.k8
+User Rating: 5
+Date Time : 2019-01-28T08:23:56.000Z
+Title: Super easy, very grateful!
+----------------------------------------------------------
+This app is crisply legible w/out the add-ons and is also free from advertisements! Had this app on my droid and have recently switched back to iOS and it performs exactly the same way between both systems. Type 1/ accu check- aviva; use basic edition of app. Love the update options but currently have great insurance and endrocrinoligical care. Bug issues and/or crashing/freezing have never been an issue between both systems. Incredibly grateful to have found this app as any other app I’ve used in the past will allow about ten logs before demanding a monetary upgrade. This app allows everything you need for free and saves unlimited logs since account setup. This tells me that whoever created this app finds that the health and well being of a diabetic means more than monetary success; otherwise they wouldn’t offer SO MUCH FOR FREE! Thank you thank you thank you!
+
+Developer Response: 
+----------------------------------------------------------
+Hi! Wow! Thank you so much for the positive review and all the positive feedback. We are so glad to hear that our app has been so helpful for you and that your experience has been so great so far! We are so happy to be able to offer such a great service for free and we are so glad to hear you appreciate it. Keep up the great work and we've got your back!
+
+
+
+User Review: 8
+User Name: BigV1952
+User Rating: 5
+Date Time : 2019-02-04T12:55:31.000Z
+Title: Helped me drop my A1C from a 11.5 to 5.5 in six mos!
+----------------------------------------------------------
+When I first got diagnosed it was really scary, and overwhelming  time. This app gave me something to concentrate on, it really helped me to log all of my eating and glucose records easily. Six months later now, things have gotten better for me and my need for logging every meal became less and less necessary and less testing too under Dr’s advice. I still enjoy doing a daily log in the morning, I enjoy the apps giggle when I log a 98 it’s a great way to start your day on a healthy step in controlling your sugar . I feel every newly diagnosed person should use this app, the free one was great, but the paid gives you the  photo option which I use to take a picture of my meter Incase I key it in wrong. Essentially this is a very important tool for recording your monitoring of your blood glucose and diet intake to help you lower your A1C.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks so much for the awesome review and feedback!! The free version is awesome! The Pro version offers more logging options and is just $2.99 a month...less than a cup of coffee :)
+
+
+
+User Review: 2930
+User Name: Myself377434632578
+User Rating: 5
+Date Time : 2013-06-30T11:42:07.000Z
+Title: Must-Have
+----------------------------------------------------------
+Just wanted to say how much I have been enjoying your app! Logging has always been the part of my care that I couldn't stand. This app has made it fun and gives me an actual motivation to log my sugars regularly! As I recently made the switch from pumping to injections, the user-friendly design and charting has allowed us to see trends in my sugar and adjust accordingly. Plus, I love the challenges and they help me stay motivation and strive for an even better level of self care. And who wouldn't love the 'scary' diabetes monster- my toddler loves him, and likes to help me input my sugars and see what the monster does! It's been a great tool to introduce him to diabetes and he thinks mommy's medicine time is fun!! Thank you for such a creative, user-friendly, and fun app. Definitely makes my daily care a lot more enjoyable!!
+
+
+
+User Review: 2936
+User Name: TCinWV
+User Rating: 5
+Date Time : 2017-02-20T15:01:12.000Z
+Title: Good app. Kind of fun.
+----------------------------------------------------------
+Let's face it. There's nothing "fun" about diabetes or about stabbing yourself multiple times per day. However this app is "kinda" fun! I'm only using the free version.  It provides enough of what I need.  But if I stick with it then eventually I'll probably upgrade to the paid version.  Another reviewer posted that it's $20 per month.  That is incorrect.  I'm pretty sure it's $2.99/month or a yearly subscription for less than $30. I think it's $27 or $28.  Getting the paid version opens up more challenges, which might motivate me to do more good things like .... exercise.  Upgraded version also offers more export options for the info you're tracking. But for now the export offered with the free version works for me.  It's not real clean but it works. I applaud he developers for trying to make this fun.
+
+
+
+User Review: 21
+User Name: Punmaster.Rose
+User Rating: 5
+Date Time : 2019-08-21T16:46:01.000Z
+Title: A steal!! UPGRADE IMMEDIATELY
+----------------------------------------------------------
+Two words: UNLIMITED STRIPS. The deluxe features are great for notating the day so you can notice patterns and the detailed reports look so nice. Im able to print them or email them to my doctor, and this app gives an estimated A1C once you give it enough data. They send you a Bluetooth enabled glucometer, which has simplified my life. If you have a continuous glucose monitor, mySugr links up with it. My diabetes educator is the first healthcare professional ive met with T1D just like me, she’s extremely accessible. I don’t feel judged for once and my diabetes is in MY control now. And i adore how the app lets me name my “diabetes monster”. Externalizing my condition like that really helps me disconnect from my diabetes and see it as a virtual pet i have to take care of. I CANNOT RECOMMEND THIS ENOUGH
+
+
+
+User Review: 2934
+User Name: Poetthing
+User Rating: 5
+Date Time : 2015-06-28T05:17:27.000Z
+Title: Life changing technology
+----------------------------------------------------------
+I have had type 1 diabetes for 34 years. I have always struggled with record keeping and with controlling my diabetes monster. This tool is so easy to use and is clearly designed by people who GET IT. I have used all the diabetes apps and this one is the only one that has worked well enough to keep using. It's about time that we had this technology and the attitude and mindset behind its design. Since I started using MySugr and consistently and honestly tracking all of the factors involved in managing the monster my HbA1C is lower than it has ever been and I feel better and more positive about my ability to control that number and I am able to be realistic about the data without beating myself up about specific numbers. To all the My Sugr staff, you rock! You are changing the world! Thank you!
+
+
+
+User Review: 2935
+User Name: jbuniverse
+User Rating: 5
+Date Time : 2016-03-11T18:48:39.000Z
+Title: Life Changing App
+----------------------------------------------------------
+This app has been life changing for me and my quest to better control my type 1 diabetes. First off it has a really nice, easy to use interface that's attractive on my iPhone 6 plus and also pleasing to the eye. It's very easy to input and keep track of important data, and the points scale makes it fun and rewarding even for this guy in his 30s to keep tabs on his blood sugars and diet. I have even started counting my own carbs and using them to better control my numbers daily! The feedback from this group has been great and they are very involved in emails and on social media. If you need help or have a question just ask and they get back to you in great time! Thanks for the support and I hope to continue making strides in my health with the use of this great app!
+
+
+
+User Review: 18
+User Name: nbette
+User Rating: 5
+Date Time : 2019-10-31T01:04:58.000Z
+Title: Excellent, but
+----------------------------------------------------------
+This application is excellent. I can use it to track symptoms, meals, and activities throughout the day. I wish I could use it as my main app to have everything consolidated, but I’m disappointed that I can’t link the Fitbit app or the device, the Cronometer app, or MyFitnessPal app. I also wish that it had more options for people with hypoglycemia, such as reactive hypoglycemia or dumping syndrome. It only has different types of diabetes as options. I’m also great value to pay $49 for the premium membership considering the unlimited test strips that will pay for themselves many times over if you need to test multiple times a day. However only Accu-Chek is supported. The cheaper memberships are good too and reasonably priced. In general, this app is fantastic.
+
+
+
+User Review: 2949
+User Name: le-cerk
+User Rating: 5
+Date Time : 2017-03-03T01:39:59.000Z
+Title: You can't improve what isn't tracked
+----------------------------------------------------------
+This is the most simple and thorough logbook I've used, it is integrated with HealthKit, it can be synchronized with CGM data. Sign up for the weekly emails because even if you fall off the boat, you're reminded every Sunday that you're not keeping up with your logs, you're congratulated if you are. It's everything you need in a diabetes app. I tried the paid coaching($20/mo promo), but I am already lucky enough to have some of the world's best cars with my diabetes team. This was redundant for me, but if I had lesser care and lived in an area without research hospitals around, it would be a godsend. The pro version of the app can be unlocked by simply using the app with a challenge, so it's totally worth it to use the app. I cannot recommend this enough.
+
+
+
+User Review: 20
+User Name: DystoniaSucks
+User Rating: 5
+Date Time : 2017-12-02T21:14:25.000Z
+Title: Luvin' it
+----------------------------------------------------------
+Went with the AccuChek Guide meter w/unlimited strips bundle deal for $40 a month. Received my meter today, had been poking around the app prior to receiving it though, and so far, I'm delighted with it - meter connected easily without any issues at all, so bonus. Lots of good features to help recognize patterns and log everything easily - access to well known CDEs is a great bonus for the paid version of the app. Can't beat the deal offered, it's really helpful for those uninsured or under insured with high co-pays or tight restrictions on allotted amount of strips. The app is a great tool to use to aid in management of type 1 or type 2 Diabetes, and could even potentially be useful for those with hypoglycemia to help spot patterns with foods and drops.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks so much for the great review! We're so happy to hear that mySugr is helping :)
+
+
+
+User Review: 22
+User Name: watchursix
+User Rating: 5
+Date Time : 2020-04-09T14:23:12.000Z
+Title: Great way to track BG
+----------------------------------------------------------
+I am absolutely horrible at tracking my blood sugars and keeping up with the numbers so every time I do get asked at the endo I either 1. Have missing blood sugars on the sheet for my 14 day report or 2. Have blood sugars but the times are sporadic so I have to eyeball when breakfast,lunch, and dinner was. With this app I literally have all the times and the exact blood sugars and I can even put in my bolus amounts for my meals, overall great app for being free and even if you do put a buck or two into it you get a whole lot more including graphs and labels for what you where doing when you checked, I would even dare to say it beats some of the sensor trackers in terms of graphing so long as you put your information in everyday, great app overall!
+
+
+
+User Review: 5494
+User Name: MoriahSue
+User Rating: 5
+Date Time : 2014-10-29T14:19:20.000Z
+Title: Priceless
+----------------------------------------------------------
+I recently took in an insulin dependent Type 1 foster kid. She didn't come with instructions! She was removed from last home for medical concerns and her numbers were all over the chart. This app has been priceless in helping me track everything and work on getting her numbers in check. The charts have allowed me to communicate with the school nurse better, and once I can finally get a doctor appointment scheduled we can analyze her trends! I started with the free version, but quickly upgraded to the paid version. This app is easy enough for the both of us to use. We both have it downloaded on our phone and as long as you log in with the user ID you do not need to pay the upgraded amount for each device. Just a one time payment of $19.99.
+
+
+
+User Review: 2941
+User Name: Parents of new diabetic
+User Rating: 5
+Date Time : 2015-03-13T10:34:28.000Z
+Title: Amazing!!
+----------------------------------------------------------
+My 2 year old son was newly diagnosed with type 1 diabetes. We had tried several other apps to log his blood sugars. One app we had a hard time syncing with and emailed for support and still to this day have gotten no response. We immediately looked for another app and stumbled upon this one. We love how eat it is and that we can each add info and the other can see it right away without having to sync it. We have even emailed with suggestions and got a thank you email within an hour! We love that there are reports that you can view and email to your doctor. It's such a simple and easy app too. I know once my son gets old enough he'll be able to enter in his own info once he's in school. Definitely worth the full purchase of the app!!
+
+
+
+User Review: 2948
+User Name: Baby-betic
+User Rating: 5
+Date Time : 2017-01-04T05:00:28.000Z
+Title: The Only Diabetic app you need!!
+----------------------------------------------------------
+I downloaded this app the day I was diagnosed and have kept track of my blood glucose (BG), carbs, exercise, and so much more ever since.  This app provides a team that are here for you if you have any questions. I love how it graphs your BGs and does all the statistics for you.  I have used this to print PDFs for my endocrinologist and dietitian to look at my progress. You can set alarms to remind you to check your BG.  It also has optional daily, weekly, and monthly challenges to motivate you to exercise more and live more healthy.  This company also has other apps that can help educate you in diabetes through videos and fun quizzes.  I highly recommend this app to the newly diagnosed, parents, friends, and loved ones!!
+
+
+
+User Review: 2957
+User Name: R.Miljkovic
+User Rating: 5
+Date Time : 2016-10-03T14:58:07.000Z
+Title: The Wonder BSL Tracker App
+----------------------------------------------------------
+Having IDDM for 35 years, this App is amazing. It's easy, fuss free. The built in features, such as the approx HbA1c, is incredible. It's a motivator for me personally,to keep pushing through the little challenges each day. Now I see those little challenges, not challenges at all. Before using this friendly / encouraging App, those little challenges would cause me to throw the towel in so to speak. I'm honest with my notes and aim to be as accurate as I can be,calculating my carbs / insulin / exercise, and working with my incredible Dr. We are aiming to bring my bsls down to basically a non diabetic bsl and keeping in mind my safety first. My results in a week are incredible. Awesome/ brilliant/ motivator in disguise!!!!
+
+
+
+User Review: 23
+User Name: Dolores S
+User Rating: 5
+Date Time : 2020-08-01T16:34:16.000Z
+Title: Keeps me on track
+----------------------------------------------------------
+Great app that automatically sends my blood sugar readings from my Accu-Guide meter to my iPad and iPhone so that I (and my doctor) can easily review them at a later time without using up my meter’s battery.  Also love the fact that I can track my medications so that I will be able to see if I remembered to take them, especially my insulin since it can’t be tracked by a daily pill box.  Also love that I can keep track of other health items, like my weight, blood pressure, exercise log, just to name a few, all in one app.  Also love being able to share 2 week or 3 month report, showing an approximate A1c score if I’ve recorded enough blood sugar readings.  Wish I would have had this meter and app sooner.
+
+
+
+User Review: 36
+User Name: Michael L Cohen
+User Rating: 5
+Date Time : 2019-06-18T12:50:31.000Z
+Title: MySugr Helps Me Keep T1D in Check
+----------------------------------------------------------
+This app has been a game changer for my diabetes care. I am in my mid-20’s and have been diabetic since age 9. I’ve gone through different meters and pumps for years and currently I’m taking shots of Humalof with Tresiba as my long-acting at night. This app is a perfect way for me to see trends (such as going low in the mornings) so I can discuss them with my endocrinologiat and adjust my routine. I also am trying to limit my carb intake and mySugr helps with that as well. The layout is easy to use and the wealth of data from weekly to monthly to beyond is extremely insightful. Overall mySugr has been a fantastic tool in tracking my trends ans motivating me to to give myself the best possible care.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for the great review!! Keep taming those monsters!
+
+
+
+User Review: 25
+User Name: mfethers
+User Rating: 5
+Date Time : 2019-10-07T13:20:11.000Z
+Title: Would have been 5 stars, if more devices synced
+----------------------------------------------------------
+***updated review** They have added more brands of testing kits.  I also asked them to be able to delete test results en masse, instead of 1 @ a time. They agreed & said they will try to get that done.  For now,  customer service walked me thru deleting the app & old testing info (which did not want to delete) then reloading the app.  They still have not included my One Touch Verio IQ (which is only test kit I could get thru UnitedHealthCare). I like this app, & use it multiple times each day.  Being able to print out my reports is very helpful @ Dr visits. It is silly, but I enjoy the little green monster's sounds and sayings.  Also, I wish more diabetic Rx options were included (like Byetta).
+
+Developer Response: 
+----------------------------------------------------------
+Thank you for the positive review! I will include a link to our page that shows all the devices you can sync. You're suggestion for more Rx options is a great idea and will be passed on as we're always looking to improve :)
+
+
+
+User Review: 2940
+User Name: Altermatt
+User Rating: 5
+Date Time : 2014-06-24T01:56:34.000Z
+Title: MUST HAVE for parents!
+----------------------------------------------------------
+Our son was just diagnosed with Type 1 diabetes, and we found this app about two or three weeks after diagnosis. We tried out a few other apps, but this is by far the best one we've found. We upgraded to the paid version, and any caretaker can input data on any device and it synchs without problem. While I'm at work I can see what his sugars are running and how much insulin he has needed. We use this with the mysugr jr app, and the data transfers between both. The little monster guy is cute, my son named it, and he can tickle it and make it talk. So there are features that parents love, and the kids enjoy. You can even pick a date range to create reports and e-mail or print for doctor visits.
+
+
+
+User Review: 2945
+User Name: Kathy4Paz
+User Rating: 5
+Date Time : 2015-08-05T14:57:48.000Z
+Title: Best app for my diabetes control
+----------------------------------------------------------
+I seldom write reviews but I am so impressed with this app that I feel compelled to. I've tried pretty much all the apps for diabetes and I always come back to this one. It's easy to use and making entries is hassle free. Thus, I tend to consistently record all the pertinent data. Because of the visuals (graphs, etc.) I find that I analyze my control and am able to make adjustments on a more consistent basis. Since starting to use this app, my control has improved considerably and I've dropped a full 3 points on my A1c. The development team is also continually tweaking it and making improvements. The diabetes monster is also a fun (albeit silly) component. I highly recommend this app!
+
+
+
+User Review: 35
+User Name: bgomez0616
+User Rating: 5
+Date Time : 2019-03-31T03:16:49.000Z
+Title: Absolutely the best diabetes tracking app!
+----------------------------------------------------------
+I use this to track my son’s insulin dosing, meals, snacks, and activity. It syncs with the Dexcom and allows me to track patterns, adjusting insulin for various factors. I love that I'm able to search based on keys words I’ve entered (e.g. food or restaurant name) or the type of entry. I use it extensively and as a result his A1C results from his Endo have always typically matched that of the estimated A1C that the app shows you. Since diagnosis his A1C has decreased significantly, and although this is also a result of using the Dexcom and his pump, this app has also played a large part in it. Thank you for making an app that makes this horrible disease a little easier to manage!
+
+Developer Response: 
+----------------------------------------------------------
+Hi! Wow, thank you so much for your positive review and for sharing your story. We are so glad to hear our app has played a role in making this challenging disease a little easier!
+
+
+
+User Review: 2955
+User Name: AllieB94
+User Rating: 5
+Date Time : 2016-09-07T20:24:56.000Z
+Title: Great detailed app that syncs with Apple Health
+----------------------------------------------------------
+I'm not a diabetic but I like to be in tune to my body and how it's feeling. I think that my blood sugar really strongly plays a role in how I feel, so I like to check my sugar both regularly and when I'm feeling some sort of way. This app is great for that because you can add so many details and see how they related to different glucose levels. It's really helped me feel better because I can identify what makes my body feel bad and stop it so I can feel more comfortable and be healthy. I have a strong genetic history of diabetes in my family so it's also nice to monitor myself and know that my body is running normally. I also love that it syncs with Apple Health
+
+
+
+User Review: 2927
+User Name: Ted Ninja
+User Rating: 5
+Date Time : 2016-03-21T05:27:24.000Z
+Title: Worth the yearly sub!
+----------------------------------------------------------
+I've used a few different diabetes apps, some far better than others. Those don't hold half a burned out candle to this one. I've had horrible control over my diabetes through the years, and none of the apps have engaged me enough, or motivated me to keep up with it. I know for some this might not help you keep up with the logs but somehow this app has what I need. The challenges certainly help engage me, and I'm motivated to keep up with it since I put up money for it. But the added features I pay for are worth it as well, I can email my doctor my logs easily and they can get back to me on a regular basis. This has helped me curb my high blood sugar levels.
+
+
+
+User Review: 28
+User Name: sophr452
+User Rating: 5
+Date Time : 2020-01-07T23:34:48.000Z
+Title: No complaints
+----------------------------------------------------------
+Honestly I have no complaints and it’s super easy to use.  Very self explanatory as well but even if it wasn’t I love how they have the support for any questions.  The best thing is that my son, the one we use this app for, can and does put in his own information quite often.  Last and I feel most importantly, when we were newly diagnosed and looking for a simple way to track all of the information the doctors would need, this app was suggested and when we showed it to the doctor he said this was the best one he had seen.  He said it was very comprehensive and loved the report capability which we still continue to take to his doctor at every appointment.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for the great review!! :)
+
+
+
+User Review: 29
+User Name: Laurlament
+User Rating: 5
+Date Time : 2019-09-07T13:59:42.000Z
+Title: Please make more “add on” options
+----------------------------------------------------------
+The only option to get the pro edition is $50/month and includes unlimited strips. For someone that doesn’t have insurance that covers strips this option is fantastic. If you would make it so that the pro option is available without the unlimited strips that would be great!! Please oh please developer gods hear my humble request! Aside from that this app is the best thing that has happened to me since i was told i had to use insulin. Its great to hold yourself responsible for everything you eat, to keep track of your meds and everything else you do during the day. Oh and the little diabetes critter is so adorable and makes having to do this fun.
+
+
+
+User Review: 37
+User Name: JustMachine
+User Rating: 5
+Date Time : 2020-04-25T16:44:07.000Z
+Title: Great motivator
+----------------------------------------------------------
+I’ve tried a few different apps to keep track of my blood glucose levels, and this is by far the easiest to use. Other apps might have more features, such as a built in carb catalogue, but were so tedious and expensive I didn’t use it. This app gives you a number of features free, and if you use it will give you the pro version for free, at least for a while. If you decided to subscribe to the pro version, it is significantly cheaper than the other apps I’ve used. I am hoping that they start including more of the challenges, as I find those to be a fun way to motivate myself to stay on top of my sugars. Overall, great app and very helpful.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for the positive review!! We are so happy to hear the app is working well for you :)
+
+
+
+User Review: 2950
+User Name: Tara Neff
+User Rating: 5
+Date Time : 2014-10-10T14:01:13.000Z
+Title: Can't Live Without It.
+----------------------------------------------------------
+As parents of a tween type 1 diabetic we constantly walk the tightrope between allowing our child to make choices and take responsibility for her care and making sure that she is doing so in the best way possible. This app is well worth the pro price. It is the only way that we have been able to successfully allow our young daughter to track her bg and allows us to monitor everything without feeling like we are hovering. The downloadable logs are incomparable in their ease for taking to the dr. And we were able to get her log without the fight or "forgetfulness" the paper logs used to inspire. This app is our family's "can't live without".
+
+
+
+User Review: 5493
+User Name: Rblueyz
+User Rating: 5
+Date Time : 2014-07-31T18:36:47.000Z
+Title: So helpful!!!!
+----------------------------------------------------------
+I just got diagnosed with gestational diabetes in my third trimester of pregnancy. You can imagine how hard it is to learn all the diabetes stuff while being completely exhausted and 8 months pregnant. This app has really mad it easy for me. The reminders are good so I don't for get and it's so handy to have at every doctor appointment! I even told my nutritionist about it and she loved it too and is going to recommend it to other patients!!!! I also think it's great they have a junior version for kids!!! I paid for the full app and I feel like $19.99 was worth it! Plus the support team is really on top of answering any questions you have.
+
+
+
+User Review: 31
+User Name: Type1Runner
+User Rating: 5
+Date Time : 2018-05-24T23:47:42.000Z
+Title: Clever, Fun, and Super Helpful!
+----------------------------------------------------------
+This app is definitely designed with the type 1 diabetic in mind!  It is awesome. It allows logging of pertinent data, as well as excellent analysis. It gives continuous feedback about how you're doing. There are challenges to help keep you motivated and on track. And designers are open to suggestions. I love this thing. It's the best app I've found for logging diabetes data, especially if you're on a pump.  I've been using this for several months now, and I'm still using it!  It keeps me interested and provides useful data and analysis. I can print out PDFs for my CDE, which helps us fine-tune insulin for life. This app is so helpful!
+
+Developer Response: 
+----------------------------------------------------------
+Thank you so much for the positive review!! We love how much information can be logged and easily shared with your doctor :)
+
+
+
+User Review: 2966
+User Name: Momma T100
+User Rating: 5
+Date Time : 2016-10-20T02:53:31.000Z
+Title: Love the concept
+----------------------------------------------------------
+I love the concept of how this is program is pretty easy to use. Has taken me about 30 days to use this app to learn how to customize the tiles. Love it even more now! The reports that print out are really easy to read and the estimated A1c gives you encouragement to continue to tame the glucose monster. My Dr. Really likes the graphs and print outs as I am able to send to his email just prior to my appointment and he has time to analyze the numbers to make adjustments in the regimen he needs to for tighter control. My only wish is that the app had a place to record meals as well for a full picture. Have to use a separate app for that.
+
+
+
+User Review: 2958
+User Name: Lydierr
+User Rating: 5
+Date Time : 2017-03-05T13:46:47.000Z
+Title: Best diabetic app ever!
+----------------------------------------------------------
+This app is a life changer! It makes it SO simple to track and control your sugars. I've been a type one for 22 years and i have never been good about taking care of myself - this app has helped me make so many positive changes in regards to my diabetes and eating habits! I  can't say enough good things about it.... the challenges are a fun way to get you to do what needs to be done and the point system makes you feel rewarded for tracking your sugars. I would recommend this app to any diabetic out there, after using it for a couple weeks it was a no brainer to pay for the pro version!!!! It's WELL worth the money! I love this app!!!
+
+
+
+User Review: 2962
+User Name: CarolinaDingo
+User Rating: 5
+Date Time : 2015-03-13T21:03:00.000Z
+Title: Great app
+----------------------------------------------------------
+We have been using this app since our daughter was diagnosed with T1D Thanksgiving of 2013. It is an invaluable tool that has made our adventure into the diabetes world bearable. The ability to keep all care takers (my daughter is 3) in sync makes keeping track of her diabetes a breeze. Our endocrinologist is always impressed with the robust reports we provide them because it allows them to spot trends in her BG that may have otherwise gone over looked. This app doesn't just log your diabetes info. It has become a necessary component to controlling our daughters diabetes! Special thanks to the devs for helping make our lives easier!
+
+
+
+User Review: 2965
+User Name: maryb64
+User Rating: 5
+Date Time : 2016-06-07T05:27:19.000Z
+Title: Easy to use and fun!
+----------------------------------------------------------
+I was diagnosed with Type 2 diabetes in late March 2016 and did research into available apps that could help me track my BG. MySugr is the app I finally settled on because it allows me to track not just my BG but it provides a lot of options about my mood, before/after meals, bedtime, etc. this feature is unique to MySugr as far as I can tell! It's also fun because I want to beat the Monster each day and earn those points by tracking BG, taking pictures of my food, and entering other information such as medications and/or insulin. I like this app a lot because it allows me to keep tabs on my disease and have fun while doing so.
+
+
+
+User Review: 2956
+User Name: Katie Spahn
+User Rating: 5
+Date Time : 2016-09-23T09:32:31.000Z
+Title: Great app. Simple but many features
+----------------------------------------------------------
+You can use as much or as little of the app as you want. The main screen is a dashboard that shows a graph of blood sugars that is color coded. You can quickly look at trends. Another nice feature is that you can disable the sound. GPS is a great idea but it needs work- I didn't see a way to add landmarks, and it would be nice to have that ability since some landmarks are preloaded. It would be neat if there were a corresponding desktop app where you could upload directly from the meter over USB. Mysugr might have something that covers this already but I didn't see it in this app- if it's there I missed it. Great app though!
+
+
+
+User Review: 47
+User Name: daniinsc
+User Rating: 5
+Date Time : 2020-08-01T00:29:03.000Z
+Title: I love this app!
+----------------------------------------------------------
+I have been a diabetic for 22 year and I am in my 2nd month with this app. It’s amazingly simple and the value is great. My diabetes specialist is very knowledgeable and non judgmental.   My entire life I have been hard to control which made me feel as if I was failingso I wouldn’t try. After leaving some major stress behind a year ago, my numbers are finally coming down. I have had to relearn what I can eat as I have avoided many foods for decades. I am very appreciative of the guidance. The help as I relearn how my body reacts to different situations and food has been phenomenal.   I highly recommend this service.
+
+
+
+User Review: 45
+User Name: Usagi of Type 1 Diabetes
+User Rating: 5
+Date Time : 2019-10-15T00:51:55.000Z
+Title: Accurate
+----------------------------------------------------------
+I have been through a few (lol) meters, whatever insurance paid for. I’ve had a lot of extreme roller coaster highs and lows due to over a 50 point difference in results (always clean hands of course) After a lot of research, I decided to take charge of one thing I could with T1D. MySugr makes it possible to test as often as I do (7-12) without paying a crazy amount out of pocket. I got 250 strips to start with and through the app they keep track of how many I averaged over a month and send me more BEFORE I run out. It’s awesome, my numbers may not always be unicorns (100) but it’s been so much better than before.
+
+Developer Response: 
+----------------------------------------------------------
+Hi! Thank you so much for the positive review and we are so glad to hear our app has helped provide a more affordable way for you to manage your diabetes.
+
+
+
+User Review: 2968
+User Name: Reyrey2580
+User Rating: 5
+Date Time : 2017-01-31T04:19:49.000Z
+Title: Major Help
+----------------------------------------------------------
+When I started using this app a few weeks ago I wasn't monitoring my bloodsugars and my a1c was 9.6. I'm a teenager that's constantly on the move and always rushing from one place to another, frequently forgetting to monitor my sugars. This app has motivated me to keep checking, because it's so easy and has shown such a visible change in my numbers. It doesn't hurt that you earn points for logging in detail and have a little cartoon mocking you all the time. It makes a not so fun disease a little brighter each day!! My a1c now goes anywhere between 6.9-7.1 the lowest it's ever been!! Thankful for this app.
+
+
+
+User Review: 26
+User Name: cataclismic
+User Rating: 5
+Date Time : 2020-05-02T06:50:17.000Z
+Title: Awesome ... AWESOME... app Log it. Tame the Monster
+----------------------------------------------------------
+I’ve seen many used more than a few but I have to say this one has kept me doing the tedious logging with all of the tame the monster fun. Cheers for making something a daily painful chore into fun. Once again I suggested to start logging my days for the next couple of weeks. I dreaded the paper trail options and felt apps weren’t gonna give enough. Yet to my amazement, I am so grateful to have stumbled upon this app. It has made a HUGE world of difference on my logging.  And my life living DB-MONSTER!! NOW I look forward in being the slayer in my own story and enjoy it most when I have tamed the BEAST.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for the awesome review!! We are so happy to hear that you are loving the fun features of mySugr!
+
+
+
+User Review: 2961
+User Name: None7984651
+User Rating: 5
+Date Time : 2014-05-01T02:58:08.000Z
+Title: Absolutely perfect app!!!
+----------------------------------------------------------
+There are never any bugs first of all-huge plus! I am 26 years old and use this app almost 10x/day because it helps track everything. The reports are awesome and I can look back and find out why I got low or hi at any time. My A1C used to be 10.5 consistently and after my first 3 months with this awesome tracking tool I finally got my diabetes under control and my most recent A1C was 7.6! This app is fun and easy to use and I've recommended it to all my T1 friends :) please keep it up this app has helped me turn my LIFE around!!! I am so thankful I found this after trying out several others. :)
+
+
+
+User Review: 53
+User Name: Fun / Active Dad
+User Rating: 5
+Date Time : 2018-12-02T12:31:26.000Z
+Title: Simple and User Friendly
+----------------------------------------------------------
+This App has proven to be a great tool in a time where the new normal of having a child diagnosed with Juvenile Diabetes can overwhelm any family. It has allowed the entire family to easily track and document the day to day trials and tribulations of “the new normal” assisting in keeping sugar levels consistent throughout the day. It in effect reduces the potential of elevated stress levels and tensions that could occur between the supporting care givers to the child. It’s user friendliness also allows for  younger family members to actively participate and foster independence. We’ll done.
+
+Developer Response: 
+----------------------------------------------------------
+Hi! Wow, thank you so much for sharing and for the positive review. We are so glad you have found our app helpful as you and your family adjust to this "new normal". We've got your back!
+
+
+
+User Review: 2979
+User Name: Bryan v.$$$
+User Rating: 5
+Date Time : 2017-01-24T22:11:32.000Z
+Title: Life changing app!!!
+----------------------------------------------------------
+Being diagnosed with diabetes at the age of five, I was taught at a young age that logging my blood sugar, carbs, and insulin was very important. For a few years since I started high school I have found it difficult to monitor and record my diabetes but since I found this app it has personally changed my life. It has made logging my blood sugar super easy and convenient as well as given me reminder to check and log my blood sugar. Having had an a1c above 12 to now having an a1c below 7.8 I can say this app is a must have in this age. Thankyou mySugr look forward to what the future brings.
+
+
+
+User Review: 2971
+User Name: Brandy Sweet
+User Rating: 5
+Date Time : 2014-01-20T04:10:39.000Z
+Title: makes tracking your diabetes easy and fun
+----------------------------------------------------------
+I tried tracking my blood sugar and carbs just by carrying a notebook with me, but it was an abysmal failure all the time--I'd forget the notebook itself, or forget to use it. MySugr lets me be a success, because the push reminders, fun interface that I want to use, and it lives in my phone which I always have with me. Plus the challenges are fun and motivating, the diabetes monster is cute, it gives you weekly/etc averages, and you can export the information out to play with in your own spreadsheets, or just as an attractive PDF to bring to appointments with your health care team.
+
+
+
+User Review: 2997
+User Name: Inspiredjenn
+User Rating: 5
+Date Time : 2017-01-07T17:27:59.000Z
+Title: Happy sugar slaying
+----------------------------------------------------------
+I found this app after an unexpected diagnosis of type 2 diabetes on a Friday afternoon by a health professional who was not able to give me guidance, just scary numbers. Armed with a glucometer and the internet I was fortunate to find this app! The app helped me get started treating my diabetes with confidence (well at least with records to help me later). It's easy to use. The free version has served as the Best one place to input data. I used it to input my blood sugar levels, number of carbs I am eating, foods, meal descriptions, tracking medications. Which for me helps a ton.
+
+
+
+User Review: 48
+User Name: Brucien
+User Rating: 5
+Date Time : 2020-11-12T20:13:03.000Z
+Title: Tremendous Help
+----------------------------------------------------------
+Recently diagnosed T2 and laughed at the idea of keeping a paper journal. Not that it’s ridiculous, but it’s not for me. Found this on a review of different BS tracking apps and tried it out. Very easy to use, great integration with Health and getting data from different apps (specifically my BP and activity). I quickly decided to go premium as it has a low price point and offers enough convenience that I feel it’s worth it. Keeps me motivated watching day over day, and week over week improvements to my health and numbers. Reminders are great! Give it download and check it out.
+
+
+
+User Review: 41
+User Name: Sweettooth Jeff
+User Rating: 5
+Date Time : 2018-04-09T14:00:56.000Z
+Title: Diabetic care by caring diabetics
+----------------------------------------------------------
+I have used this app of and on for about three years,now. Currently, I have it on my iPad which has more storage than my previous phones. The staff has always been wonderful and helpful as well as interested and encouraging in my journey. Even though they are based half a world away, it’s like having a support team right here at home, at work or whenever I need them. It may take a little time for a response, but it’s still quicker than getting one from my doctor. I’m not saying they are source of replacement, but their advice, so far, is right on que with my physician’s proxy.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Sweettooth Jeff we love hearing positive feedback and are so happy mySugr could help! We're adding monster tamers to our customer support team currently to improve response time even more :)
+
+
+
+User Review: 50
+User Name: Crystal Clark
+User Rating: 5
+Date Time : 2018-05-19T19:06:26.000Z
+Title: Newly Diagnosed Type 2
+----------------------------------------------------------
+This app is engaging and really helps keep your attention to your numbers. I’m trying to get my glucose down to my target range; and completing challenges and gaining points for my attention to detail keeps me motivated to make necessary changes in my day to day choices. Also the little monster companion is adorable and he keeps me on my toes! This app makes a grueling process (weird to say but actually...) a little fun! It also syncs directly with my Accu-chek Guide via Bluetooth so I don’t have to manually enter my values. I would recommend this app to anyone with diabetes!
+
+Developer Response: 
+----------------------------------------------------------
+Thanks Crystal, we loving hearing that mySugr is helping! Keeping track of all that data can be tedious and boring and we're so happy that it's more fun now :) Keep taming that pesky little diabetes monster!
+
+
+
+User Review: 49
+User Name: EarthMotherEmpath
+User Rating: 5
+Date Time : 2020-08-24T05:36:00.000Z
+Title: Easy and Fun to Use
+----------------------------------------------------------
+I do love this app with many different features to help keep track of glucose readings, carb intake and glycemic index readings plus how your feeling, notes and challenges. The note feature come in so handy as I use it to remind me of things to tell my doctor as well as issues that affect my sugar readings. Wish it would connect to my hospital records or to my doctors records so there would be an overall reading to compare with the doctor A1c reading. But overall, best little Diabetic app for me. Wish this type of thing was around when I was diagnosed Type 1 50 years ago.
+
+
+
+User Review: 2975
+User Name: Type 1 Fighter
+User Rating: 5
+Date Time : 2015-10-27T06:22:48.000Z
+Title: So far it's amazing
+----------------------------------------------------------
+I was on FB and saw a post about a new meter that connects to iPhones and upon further research I found this app. Being a Type 1 for 11 years I am always looking for new ways to keep myself in check with this disease. Being a typical teenager and having my phone constantly at my fingertips I think I found my newest solution for now. I have only been using this app for a couple days but it is user friendly, very interactive and it is fun and enjoyable to use which will really make a difference for me. I highly recommend this for any diabetic that is struggling or not.
+
+
+
+User Review: 2980
+User Name: Chickymom1970
+User Rating: 5
+Date Time : 2013-11-13T14:50:15.000Z
+Title: App Gives My Middle School Son Freedom
+----------------------------------------------------------
+My 12 year-old is a newly diagnosed T1D. I am your typically over-protective mom, so sending him back to public school was tough. The sugar app allows me to check in on him while he's at school, and I'm at work. We both have the app on our phones; when he plugs his data in at lunch I can access it immediately. I don't have to worry which means he gets to do more. He had his first sleep-over since being diagnosed last weekend. I was able to see him trending low and texted him to eat some pizza so he wouldn't crash overnight. It's as close to normal as we can get.
+
+
+
+User Review: 69
+User Name: Dixiegurltlw
+User Rating: 5
+Date Time : 2020-12-27T19:40:00.000Z
+Title: Love this app
+----------------------------------------------------------
+I love this app in that it helps me keep track of what I’m eating and what reaction I have afterwards and while I’m not accountable to anyone else,  it makes me more accountable to myself - more mindful of what I’m eating. I love being free to test as many times as I want using the MySugr bundle and not having to worry that I’m gonna run out of test strips and then not test when I think I should. I recommend this app to any of my friends that are diabetic and to anyone on my diabetic team wherever I am living or working (I travel for my work).Thank you MySugr!
+
+
+
+User Review: 54
+User Name: Avesnovuelan
+User Rating: 5
+Date Time : 2019-07-13T02:03:15.000Z
+Title: Great overall health tracker
+----------------------------------------------------------
+Let me start by saying I am not diabetic, but I have some fasting hyperglycemia and high blood pressure, and I have been working on losing weight. I love having one app where I can track meals, blood pressure, weight, exercise, and my blood sugar when I do check it, which is about twice per week just to make sure I am on the right track with my diet. I do wish you could choose “prediabetes” as your diabetes type. Also for future updates it would be neat if you actually earned something by completing challenges or earning points, like custom colors or badges.
+
+Developer Response: 
+----------------------------------------------------------
+Hi! thank you so much for the positive review and the great suggestion! We will definitely keep this in mind as we are constantly working towards improving our app and making it the best it can possibly be :)
+
+
+
+User Review: 2974
+User Name: GirlyMom12
+User Rating: 5
+Date Time : 2015-05-18T17:35:43.000Z
+Title: Great app!
+----------------------------------------------------------
+I was hesitant to start using an app, thinking it would be easier to track data the old fashioned way - via paper and pen. I have become a believer! This app is very user friendly and has made it extremely easy to input daily glucose levels, carbs eaten, insulin dosage as well as other info - and it's all in one convenient place. We have multiple users on our account, allowing all caregivers to view data even if they aren't physically there. I recommend this app for anyone looking to simplify their life with tracking all the details that come with Diabetes.
+
+
+
+User Review: 60
+User Name: Christina and Moanie
+User Rating: 5
+Date Time : 2018-04-25T09:50:44.000Z
+Title: I love this app!
+----------------------------------------------------------
+I switched to mySugr after the app I was using became unworkable. I absolutely love it! I helps me keep me track my blood glucose with lots of tools a bit of humor. The little monster is so funny and helps me keep my perspective when I get a higher reading (fortunately not too often) and it says “It happens”. I went for the pro version to get the exported charts. I have been testing daily for almost 3 years now so I don’t keep that detailed a diary to get 50 points a day. If I had started with this app I could have aced the pro challenge to get it free.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks you so much for the great review! We love hearing that mySugr can help :)
+
+
+
+User Review: 34
+User Name: Allie7286
+User Rating: 5
+Date Time : 2018-12-06T15:16:55.000Z
+Title: Excellent "monster" manager
+----------------------------------------------------------
+The logging system is clear, simple, and fresh - it allows me to see my averages and daily progress in many ways. I download  the app’s charts for my endocrinologist appointments, which stacks and visualizes data clearly for her to see what I’m doing every day that my pump can’t log (exercise, temp basal, etc). I use mySugr for 2-3 week bursts at a time to get my T1D back on track if I’ve been slacking. I have recommended it to several people and the occasional blog/Instagram post. Anyone who's motivated to change their diabetes regimen should try it!
+
+Developer Response: 
+----------------------------------------------------------
+Hi! Wow, thank you so much for this review and this great feedback. We really appreciate you taking the time to let us know what you think. We are constantly working on improving our app and will definitely take these suggestions into consideration as we do so. Thanks again and keep fighting! We've got your back :)
+
+
+
+User Review: 2973
+User Name: Baxter51
+User Rating: 5
+Date Time : 2015-03-29T22:48:21.000Z
+Title: Love mySugar & Little Monster!❤️
+----------------------------------------------------------
+Great app to keep up with your BS, meals & exercise. Has so many features, easy instructions on website, little challenges to try to keep you on your toes and love the little monster you can name yourself! It makes me smile every time I push his tummy! Very easy to use and they send you your report each week!   Have tried others and nothing compares to this one. Sent suggestions and they got back with me immediately to say they are working on many new features to come and great hearing from users out there!   Thanks and keep up the great work guys! 👍
+
+
+
+User Review: 52
+User Name: destinysCreatures
+User Rating: 5
+Date Time : 2018-09-04T23:42:24.000Z
+Title: Super app!
+----------------------------------------------------------
+I was diagnosed with T2D last year, my daughter and I were looking for something to make it easier to keep track of things without having to constantly write it down. We found my sugar and it’s literally changed my life! With this it’s easy to see where I am how my progress is, after four months I had blood work done the A1C was exactly what the app said! I have recommended this app to my doctor who now recommends it to his patients! I can’t say enough good things about it, nor do I have a complaint! Thank you for making this it’s helped me so much!
+
+Developer Response: 
+----------------------------------------------------------
+Thank you so much for this awesome review!! A second thanks for the recommendations :) We love hearing positive stories like yours. It sounds like you have great management and are taking the right steps. Keep up the good work and tame that pesky diabetes monster!!
+
+
+
+User Review: 63
+User Name: jlschantz001
+User Rating: 5
+Date Time : 2018-10-01T11:50:55.000Z
+Title: New to diabetes
+----------------------------------------------------------
+I found out I have type 2 diabetes 4 months ago. I’ve been losing weight and learning how to manage it. This app, along with Myfitnesspal, my Bluetooth connected scale, and OmronWellness BP cuff, are the patient generated data side of my overall healthcare regimen. Having the ability to track my glucose easily and have that data integrated with other vital statistics is really helpful. I don’t use all the features of the app, because they are redundant to the others, but you could conceivably do it all in this app if it interfaced all the devices.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks so much for the awesome review!! One of the things that we love about the app is being able to use as much or as little of the features as works for you. We're so happy to hear that you're enjoying the app and it's helping you manage your diabetes care :)
+
+
+
+User Review: 2984
+User Name: A happy diabetic
+User Rating: 5
+Date Time : 2015-11-12T14:36:01.000Z
+Title: So encouraging
+----------------------------------------------------------
+I used to be very complacent about managing my diabetes, until one day I went to the doctor and my HgA1c was very high. I started using this app and in just a month, it went down 2 points! This app is incredibly encouraging and interactive, it really keeps you motivated to keep logging. For me, just keeping better track of my numbers got me to take care of myself better. I had tried other logbook apps before, but felt that they were lacking in some way. This one is so thorough; it even takes my pump settings into account. I absolutely love mySugr!
+
+
+
+User Review: 2921
+User Name: GlassyLady01
+User Rating: 5
+Date Time : 2014-03-05T00:41:48.000Z
+Title: WOW and Double Wow!
+----------------------------------------------------------
+I've been a diabetic almost 20 years and have been on an insulin pump for almost 10 years. I have to admit that my record-keeping had become rather lax. Some of my blood sugars are transmitted to my pump but since I use multiple meters, many values were not in my pump. I thought I was remembering to manually enter values into my pump, but when I compared  values in the pump to all my meters, I wasn't even getting half of them. I knew I would not keep up with a manual log and had tried a couple of other diabetes trackers but found them cumbersome.
+
+
+
+User Review: 62
+User Name: S u p e r D u d e
+User Rating: 5
+Date Time : 2018-08-18T20:50:25.000Z
+Title: Love this app!!
+----------------------------------------------------------
+As type one diabetic, the daily upkeep of blood sugars and insulin dosing can be extremely stressful and overwhelming, but logging everything with mySugr has changed our lives! It’s easy to track all of our diabetic info and make adjustments when needed based on both live graphs/info and long-term reporting. The app is very user friendly and intuitive, and most of all... drumroll please... you’re not going to believe this... it’s kind of fun! Thank you, mySugr team, for creating something so wonderful. You have really, truly made a difference.
+
+Developer Response: 
+----------------------------------------------------------
+Woohoo!! We love hearing that our users are having fun with the app :) Thanks for the great review!!
+
+
+
+User Review: 2986
+User Name: Criswh
+User Rating: 5
+Date Time : 2016-04-13T04:30:50.000Z
+Title: Awesome and simple
+----------------------------------------------------------
+I've been type 1 diabetic for a few years now, and I have a pretty good idea of how different foods affect my blood sugar. My main objective was to just keep track of the blood sugar itself, I don't really have an interest in tracking the carb amount since it is all pretty much the same. I feel like other apps pretty much force you to track all that extra info as well. This app gives you more freedom by letting you be as detailed as you'd like, not to mention it is great with keeping you motivated to keep your numbers within the healthy range.
+
+
+
+User Review: 2972
+User Name: Nick---Name
+User Rating: 5
+Date Time : 2014-09-07T16:19:01.000Z
+Title: Quick, and has been developed by diabetics!
+----------------------------------------------------------
+Flexible, you can go back and change your entries. Fast, makes good use of device resources, you are there and done. Tech is handled, the details of connecting (or not) are seamless as is syncing across devices. Calls a spade a spade, diabetes is a complicated monster. I have been diabetic for over 30 years and have used all kinds of approaches to gather data. This product brings big-data together for a easy to use highly motivating solution to monitor and track diabetes. In my first month I am really liking this and the support from mySugr.
+
+
+
+User Review: 61
+User Name: AKKayt
+User Rating: 5
+Date Time : 2018-05-25T02:12:40.000Z
+Title: LUV mySugr
+----------------------------------------------------------
+After turning 65, and after nearly 40 years surviving and thriving with type 1 diabetes, I’m encountering increasing balance challenges. I’m loving mySugr and how easy it is to log to my heart’s content! Back in the late 70s when I developed diabetes my Dr. shamed me for being “obsessed” and “anal” for wanting to keep detailed blood sugar, food, and activity logs. We’ve come a long way in 40 years, eh! The only downside I’m finding is that mySugr doesn’t seem to link to / with my Contour Next meter. Would be perfect for me if it did link!
+
+Developer Response: 
+----------------------------------------------------------
+Thanks so much for the positive review! Time flies and we had the chance to integrate a lot of cool stuff.
+
+
+
+User Review: 3018
+User Name: enksmom
+User Rating: 5
+Date Time : 2016-01-19T17:37:56.000Z
+Title: T1D
+----------------------------------------------------------
+I LOVE this app!!!  Now that I purchased the annual Pro, I can take pics easily, which makes it fun!  I especially like the data export option in Pro.  I will be able to print out the sheet for myself, and compare it to the doctors!  I am not tech savvy, but I am hopeful that once I have all the CGM, pump, and Verio iQ equipment, I will be able to figure out how to connect it all!  Great job!  I would definitely recommend this to a friend, and I think that because it is such a great app, your workers needs more than just ONE Diet Coke =)
+
+
+
+User Review: 72
+User Name: valerieee7515
+User Rating: 5
+Date Time : 2018-09-09T20:55:33.000Z
+Title: My saving grace!
+----------------------------------------------------------
+I came across this app when I was struggling to pay for test strips every week. At first I wanted to log just to see how much I was testing so I could buy my supply once a month. Well the mysugr bundle popped up and at first I thought “this can’t be real, it can’t be $40/month for unlimited testing supplies.” So I looked more into it. Well it’s real my fellow diabetics. I recommend mysugr logging system as well as their mysugr bundle. It’s literally lifted the weight off my shoulders. My only fear is they will stop offering the bundle!
+
+Developer Response: 
+----------------------------------------------------------
+We're so happy to hear that the mySugr Bundle is helping!! Thank you for the awesome review, we have no plans of stopping the bundle anytime soon :)
+
+
+
+User Review: 98
+User Name: Wylietx
+User Rating: 5
+Date Time : 2020-02-27T01:42:35.000Z
+Title: MySugr Tracker Reports
+----------------------------------------------------------
+I use the Fitbit App to track my activities, MyNetDiary to log & track my food and carbs in and that is passed to MySugr via Apple Heath. I also track my glucose, blood pressure & weight using MySugr. MySugr Premium allows  me to create reports displaying my carbs, excercise, glucose, insulin, blood pressure, excercise & meals on a single timeline graph to see how they interact together. I have type 2 diabetics & I am working to get off disbetic medication. MySugr allows me to gather information & review it to try to achieve this goal.
+
+
+
+User Review: 3005
+User Name: c0rr1
+User Rating: 5
+Date Time : 2016-02-07T06:39:21.000Z
+Title: I love it!!!
+----------------------------------------------------------
+I have had type 1 diabetes since I was 5 years old and I am now 18. I have ALWAYS struggled with this disease and I have hated it more and more as I have gotten older. This app has been a help to me. I am not on the pump and my doctors say I need to test my blood sugars at least 4 times a day and I have had a lot of fun with this!!! I don't have a support system or anything like that, so having an app on my phone has been the biggest support that I have gotten in years. 😭☺️☺️☺️ I absolutely love it. Thank you for creating this app!!!!
+
+
+
+User Review: 2982
+User Name: SDonis
+User Rating: 5
+Date Time : 2014-07-27T23:14:11.000Z
+Title: Very easy and fun to use!
+----------------------------------------------------------
+I gave up trying to find an easy to use app to track my son's diabetes management and stayed with a paper log. When I happened to see this app last week, I gave it a try and immediately loved it. Within 24 hours, my husband and son were also using the app on their devices. We have now upgraded to pro. I love the reports and analysis for spotting and fixing negative trends. I also really enjoy adding pictures of his meals and seeing those as I scroll through his log. My son enjoys the challenges. Absolutely, highly recommend this app!
+
+
+
+User Review: 2981
+User Name: BarefootPhotographer
+User Rating: 5
+Date Time : 2013-11-22T13:06:11.000Z
+Title: Best app we have found for managing T1
+----------------------------------------------------------
+I am thankful that we live in the time when diabetes management can be assisted by an application. In the four years we have been with this disease, we have tried countless apps to help us track numbers. MySugr  monster is the only app we have come across that gives us *almost* everything we need, in a Super fun user face that makes my child want to use it. Keep up the good work fellas!! (And if you feel like taking it one step further, my comment would be create a feature where adult gets texted when child enters glucose levels.)
+
+
+
+User Review: 2990
+User Name: ERapalee
+User Rating: 5
+Date Time : 2014-02-22T00:57:46.000Z
+Title: Even my Dr. Was impressed!!!
+----------------------------------------------------------
+I love the ease of this app! It is simple and easy to use yet covers everything I need in a log book. I also love that i can print out my reports and give it to my Dr. to review and compare with my pump reports. I just went to my Dr.s and she loved how I could look up every test and tell her exactly what I ate, amount of carbs, and my insulin rate! She took down the info and said she would share this with others!!!! Thanks for a great app! The only way I could imagine this being better would be if it could look up food counts! :)
+
+
+
+User Review: 2998
+User Name: MixBoy
+User Rating: 5
+Date Time : 2017-04-09T16:32:51.000Z
+Title: So helpful!
+----------------------------------------------------------
+Stop reading and download already!!! I am a newly diagnosed type 2 diabetic. I was so overwhelmed and scared when I got the news. This app is fantastic. It's friendly and you get great email and in app support from fellow diabetics. It's super easy to keep a log this way and it sends you a weekly report summarizing everything. That's all with the free version!!! The developers have a good sense of humor which really helps cope with this especially when you first get started. Very user friendly. Get it!!  You won't be disappointed
+
+
+
+User Review: 3006
+User Name: asunnyday17
+User Rating: 5
+Date Time : 2016-04-30T20:34:27.000Z
+Title: Monster Makes Diabetes Easier
+----------------------------------------------------------
+This is the easiest and most enjoyable way to track diabetes' data...yes, that's possible. The program lets user customize what data fields are wanted...blood glucose, food, exercise, carbs, etc. Reports are generated for the user...no tedious paper and pencil, calculators, etc. Screen data fields are in different colors for troublesome or target zones.  Simple to use and to understand....Best of all--the "Monster" giggles or makes other appropriate sounds when data is entered.  Brings a smile to the face...even your own giggle.
+
+
+
+User Review: 3019
+User Name: LuvWordsBest
+User Rating: 5
+Date Time : 2017-01-22T18:38:36.000Z
+Title: Best I Could Find
+----------------------------------------------------------
+As a newly diagnosed Type 2 diabetic, this was the best app I could find for tracking and pinpointing trends to help manage my BS. Pretty easy to use and love that it is compatible Apple Health.  I've used "Lose It" for awhile for food entries so I'm comfortable entering meals on that app with the data syncing. Unfortunately MySugr logs a time of 11:59pm for every entry coming from LoseIt requiring an edit on all entries. I would highly recommend to anyone. Not a fan of requiring a subscription - would rather have a flat fee.
+
+
+
+User Review: 3002
+User Name: Local Consumer
+User Rating: 5
+Date Time : 2014-11-11T00:36:39.000Z
+Title: Lifesaver Literally
+----------------------------------------------------------
+Being a recently diagnosed diabetic, I've struggled finding motivators to keep checking my blood levels. This app not only keeps me motivated and allows me to keep valid numbers of my sugar levels, but allowed me to impress my doctors. With my printed out levels color coded and notes I was referred to as the "dream patient". This app has allowed me to educate my children as well in a fun way to get them to eat better. My daughter (just turned 2) reminds me to check my sugar monster. Thank you for all the work you are doing!
+
+
+
+User Review: 3004
+User Name: Cubaol
+User Rating: 5
+Date Time : 2015-10-24T06:33:57.000Z
+Title: A must for diabetics
+----------------------------------------------------------
+Love this app. Helps me stay accountable for the things that matter most -- taking insulin, meds, common sense eating, etc.  It is not a program that is detailed about food content (carbs, protein, quantities, etc), but there is enough to keep you towing the line in that Dept. If you have basic knowledge about glycemic index and portion control. I love the fact that I can email results to my diabetic nutritionist and Doctor. Also found the customer service to be AAA+ when I had questions early on about how To use the app.
+
+
+
+User Review: 3016
+User Name: Teen bee
+User Rating: 5
+Date Time : 2015-09-22T18:40:35.000Z
+Title: A few upgrades would be nice--but overall, a great app
+----------------------------------------------------------
+PLEASE ADD COFFEE AS AN OPTION FOR FOOD CONSUMED! I know I'm not the only diabetic who has spikes from coffee. I was hoping the app would give me a better sense of coffee effects' timeline and intensity, but I have to relegate "coffee" to notes or chalk it up as a "supplement"/diet soda (but diet soda doesn't spike me...). It would also be great if there were autofill options for recent/typical user foods. Otherwise, it's a fab app--I highly recommend this to any diabetic trying to make logging really easy and trackable.
+
+
+
+User Review: 40
+User Name: Khemfre
+User Rating: 5
+Date Time : 2017-10-26T02:53:10.000Z
+Title: Very User Friendly
+----------------------------------------------------------
+I just recently downloaded this app along with another as I hated the updates my last diabetes log app recently made. This app has won out and stands heads and shoulders above the others. I have wanted to get my 8 year old more involved in tracking his levels and meals and this Diabetes Monster app (as likes to call it) is just perfect. The use of the sounds on the little monsters when you feed the app is his favorite part, but the entry guides for noting readings, meals, insulin units, etc is so easy for him to follow.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks so much for the great review! We love hearing that mySugr is helping kiddos living with diabetes :)
+
+
+
+User Review: 68
+User Name: Sand Drift
+User Rating: 5
+Date Time : 2019-10-05T19:54:51.000Z
+Title: User friendliness of the App
+----------------------------------------------------------
+I just started using this App a few weeks ago and I like it a lot. Is has all the items I want to keep track of regarding my health. The trend line and average A1C tracking is awesome. Just one thing. I also like the other items the App is capable of but I think $49 a month is a bit steep. I could see $20 a month or perhaps an outright $250 per year. The additional information is valuable, just not at $49 a month. Overall though, the App is the best I’ve seen that does what I, and perhaps other diabetics need it to do.
+
+
+
+User Review: 78
+User Name: JoyfulSongbird
+User Rating: 5
+Date Time : 2020-09-21T12:39:14.000Z
+Title: MySugr makes Life Sweeter
+----------------------------------------------------------
+Being a diabetic for 20 years+ has been an overhanging rain cloud in my life. The condition brought much change and pain too. I had given up trying to keep up with the monitoring, recording the medicine does is was a lot. MySugr app made a huge difference by just reducing the time and effort for recording  my stats daily. Also the  app brought information and online support right in my hands.  It is a valuable tool than made each day a lot easier to face with diabetes.  Thanks MySugr for leaving a sweet day in my life!
+
+
+
+User Review: 3040
+User Name: airbear172
+User Rating: 5
+Date Time : 2013-08-05T22:49:16.000Z
+Title: MySugr App
+----------------------------------------------------------
+Incredible App that provides the motivation and the fun to test regularly. T2D for 10 years now and would always eyeball my state.  Rarely tested...maybe 4 times a year.  Came across the app and realized diabetes truly is a monster that needs to be tamed.  That coupled with A1C levels rising to Federal Aviation Authority max levels for me to maintain my pilots license and I was ready! Thanks to the developers of this app for providing a valuable and entertaining tool that is contributing so much to my well being!!'
+
+
+
+User Review: 75
+User Name: Caitorade
+User Rating: 5
+Date Time : 2019-01-11T13:15:29.000Z
+Title: Thank You!
+----------------------------------------------------------
+This app has helped me manage my diabetes for several years now. My doctors have been impressed by it and have come to love it too. I’m looking forward to when endocrinologists start to integrate this technology into their treatment plans. It’s so much more convenient than a traditional paper log and charts everything for you to see trends more easily! There are times that I’m not sure if all our modern technology is a good thing, but this app proves that it can really contribute to a person’s well-being. Cheers!
+
+Developer Response: 
+----------------------------------------------------------
+Hi! Thank you so much for the positive review and all your input! We are so glad to hear you and your doctors have been so happy with our app. We definitely agree that this is a good part of technology! Thanks again for all the kind words :)
+
+
+
+User Review: 56
+User Name: Annoyed1989
+User Rating: 5
+Date Time : 2021-04-27T12:40:28.000Z
+Title: Helped me get my sugars under control
+----------------------------------------------------------
+Can’t recommend this app enough. It has honestly helped me get my blood sugars under control the past month. I’ve had it on my phone for a while but never used it till my a1c went up to 13.7. Hoping to see a decrease in it at my next appt. only thing I wish this app did as well is be able to scan barcodes of food or be able to put exactly what I’m eating into the app so that it’ll count my carbs, protein, and other nutritional data into the app with each meal so that I don’t have to manually enter in the data.
+
+
+
+User Review: 3007
+User Name: Forest_Sprite
+User Rating: 5
+Date Time : 2016-05-27T02:18:06.000Z
+Title: Helpful and fun
+----------------------------------------------------------
+Getting diagnosed with gestational diabetes sucked. All the tracking and poking and rearranging my life around my eating schedule has been hard. This app not only gives me a single location to keep all my tracking notes, it gives me a little smile as my sugar monster giggles and "noms" in response to every entry. It's amazing what that little bit of positive feedback does to brighten my day. And my nutritionist was very happy to have so much information at her fingertips when I handed in my two week report.
+
+
+
+User Review: 3009
+User Name: Greatgatsbyfan
+User Rating: 5
+Date Time : 2017-02-02T00:03:52.000Z
+Title: Easy for tracking!
+----------------------------------------------------------
+I'm borderline diabetic and tracking my sugars in an effort to see what foods/behaviors work best for me. MySugr is an easy way to keep all my info in one place. I also enjoyed the weekly report I received via email. Of note, I was a bit frazzled when I couldn't see my A1C estimate before realizing you have to input 21 readings in a week before the estimation is given. I typically test twice a day, so this may not be a feature I use, but I am satisfied with the ease of use and will continue to use the app.
+
+
+
+User Review: 2931
+User Name: Marshmellow03
+User Rating: 5
+Date Time : 2013-08-06T12:32:12.000Z
+Title: Best app ever!
+----------------------------------------------------------
+I have tried various diabetes related apps, but this is the first one I haven't deleted, and which I really enjoy using! I'm a type 1 diabetic on multiple daily injections and this app is such a great way for me to track trends and have some fun while trying to control this crazy and unpredictable disease. Yes I said fun! The little interactive diabetes monster always makes me laugh or smile, if my blood sugar results aren't up to standards. The challenges provided are also a really fun and helpful tool!
+
+
+
+User Review: 2943
+User Name: zombiecatt
+User Rating: 5
+Date Time : 2015-05-30T20:37:50.000Z
+Title: The updates keep getting better.
+----------------------------------------------------------
+I have always loved the application since I started using it last summer (2014), and every time there's an update, it keeps getting better. This last update was the best because it added more variables that I can keep track of as to why I might have low or high blood sugar, such as allergies! for the past few months I've been saying I feel sick instead of allergies which can be confusing already. I really like the correction insulin feature too so I can distinguish between my food and correction amount.
+
+
+
+User Review: 101
+User Name: GribberFitch2013
+User Rating: 5
+Date Time : 2018-06-13T16:49:14.000Z
+Title: Useful and Informative
+----------------------------------------------------------
+I am not diabetic, but have, all my life, had the condition of reactive hypoglycemia. There is some evidence that this tends to lead to prediabetes, which seems to be what is occurring with me. I am finding the mySugr app to be very helpful in tracking glucose levels, and, hopefully, I can do what I can to prevent it. The mySugr app is well designed and rather amusing, with the Sugar Monster. My point is that the app is useful even for those of us who are trying to avoid developing diabetes, if we can.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks so much for the positive review! It looks like you're being super proactive in tracking and monitoring what you can, and we're so glad mySugr can help. Keep up the great work and continue taming that pesky diabetes monster :)
+
+
+
+User Review: 3061
+User Name: Annie H. K
+User Rating: 5
+Date Time : 2013-10-11T00:10:38.000Z
+Title: Love this app!!!
+----------------------------------------------------------
+I am a teenage girl with T1 diabetes, and I have been struggling to motivate myself to check my blood glucose regularly, which was having a negative impact on my health. I was getting desperate, and so I decided to give this app a try, thinking "hey, what's the harm"? I am so glad I did, because it's proven to be extremely helpful and motivating. It's helped me set goals for myself, and holds me accountable. If you are struggling with diabetes, and need a fun, motivating log book, this app is for you.
+
+
+
+User Review: 2977
+User Name: LuckyLindey
+User Rating: 5
+Date Time : 2016-06-03T20:04:04.000Z
+Title: Very useful tool
+----------------------------------------------------------
+Got this app to help me track what foods were raising my blood sugar, and learned some things you don't get in books that are specific to my sugar levels. (Whole grains spike my blood sugar just like white bread) I could get this from any journal on my blood sugar, even one kept by hand, but here, the information is conveniently kept together, and can be combined with other apps I use to track my health. Plus it's always handy, because my phone is pretty much the only thing I always have with me.
+
+
+
+User Review: 3074
+User Name: Pops.99
+User Rating: 5
+Date Time : 2015-05-26T12:40:46.000Z
+Title: Just What I Needed
+----------------------------------------------------------
+This app is a fun & great way to motivate me to tend to my blood sugars more consistently. Taming my diabetes monster, Fletchy McSugrcuddy, is the slight motivation I need. I can log my readings, enter meal info, take part in daily & weekly challenges tracking the amount of activities done, & there are fantastic tags. Analytics are provided that are exportable I can email straight to my doc & Diabetes Ed nurse, everything is searchable & there's too-notch customer support. Thanks for a GREAT app!
+
+
+
+User Review: 3001
+User Name: :Diana
+User Rating: 5
+Date Time : 2014-07-07T01:07:18.000Z
+Title: MySugr, an app for diabetes that you'll want to use!
+----------------------------------------------------------
+It is really easy to use and fun; I never thought I'd say that about an app for diabetes! It allows you to track not only your blood sugar but also carbs, long and short acting insulin, exercise, emotions and best of all, it shows the trends and averages of your blood sugar levels. This app not only helps you keep your sugar in check, but can also help you understand how different foods affect it. I absolutely love it! By far the best $20 bucks I've spent at the App Store! I highly recommend it!
+
+
+

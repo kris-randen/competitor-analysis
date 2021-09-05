@@ -1,0 +1,96 @@
+'Pregnancy' related feature requests in healthify-me reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 5
+
+
+review id: 93
+
+matches and contexts:
+
+match = milk
+context =  sharbat, bhindi ki subzi, Upma, mango shake with milk, tea with milk and sugar ..... everything wha
+
+
+id: 93 | rating: 5 | user: Aaron.dl | date: 2019-06-04 | time: 04:55:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Very nice App customised on Indian needs
+--------------------------------------------------------------------
+
+I have just started using since June 1st , and tracking my exercises & meals to make sure I am consuming appropriate diet as per targeted weight. Diet tracking is awesome , all Indian foods are there in menu you just need to search like bel ka sharbat, bhindi ki subzi, Upma, mango shake with milk, tea with milk and sugar ..... everything what Indians have in their food.
+
+
+review id: 150
+
+matches and contexts:
+
+match = milk
+context = ou can keep fooling yourselves with healthy oats, milk, healthy fats.. Unless you keep track of your
+
+
+id: 150 | rating: 5 | user: Gurjindersb | date: 2019-02-18 | time: 03:34:18.000Z
+
+--------------------------------------------------------------------
+                      Title: This is it..
+--------------------------------------------------------------------
+
+Tried many ways to reduce... Dint know eating healthy also needs monitoring.... Like you can keep fooling yourselves with healthy oats, milk, healthy fats.. Unless you keep track of your calories... HealthifyMe provides real time check on your count of calories...
+
+
+review id: 417
+
+matches and contexts:
+
+match = breastfeed
+context = his app should include a special calorie plan for breastfeeding because if I want lose weight while 
+
+match = feeding
+context = p should include a special calorie plan for breastfeeding because if I want lose weight while breast
+
+
+id: 417 | rating: 2 | user: Sakina M | date: 2020-08-05 | time: 15:10:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Breastfeeding
+--------------------------------------------------------------------
+
+This app should include a special calorie plan for breastfeeding because if I want lose weight while breastfeeding, I can’t consume only 1250 calories. Also, this app should include a calorie adjustment; supposedly if it shows 1250, I should be able to up the count to 1500 or any calorie count.
+
+
+review id: 849
+
+matches and contexts:
+
+match = preg
+context = Please include a post pregnancy plan as well in your app.
+
+
+id: 849 | rating: 4 | user: shubh85 | date: 2020-05-13 | time: 06:10:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Post pregnancy plan missing
+--------------------------------------------------------------------
+
+Please include a post pregnancy plan as well in your app.
+
+
+review id: 959
+
+matches and contexts:
+
+match = preg
+context = It helped me reduce all my pregnancy weight.
+
+
+id: 959 | rating: 5 | user: Chetana Padegaonkar | date: 2020-09-12 | time: 10:38:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it
+--------------------------------------------------------------------
+
+It helped me reduce all my pregnancy weight.
+
+

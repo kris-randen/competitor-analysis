@@ -1,0 +1,682 @@
+'Pregnancy' related feature requests in lose_it_by_fitnow reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 37
+
+
+review id: 122
+
+matches and contexts:
+
+match = milk
+context = iced a pattern” words are just idiotic - drinking milk helps keep you on track, or eating chicken, o
+
+
+id: 122 | rating: 3 | user: kOhio | date: 2019-01-31 | time: 16:07:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Has pros and cons
+--------------------------------------------------------------------
+
+I like the “you’ll reach your goal this date” feature, it’s a different way to look at how what I’m eat affects reaching my goal.  I don’t like the CONSTANT sale promotion pop ups - I don’t want a premium membership and won’t subscribe.  Some of the encouraging “we’ve noticed a pattern” words are just idiotic - drinking milk helps keep you on track, or eating chicken, or whatever it is.  Better than My Fitness Pal usually at displaying previous foods since Lose It isn’t just looking at a previous lunch or dinner only but at all of my previous entries.  LI has more incorrect entries than MDP though.  There’s an inconsistent entry feature which makes me finally write a review; most of the time I select the meal, find the food, swipe, find the next food for that meal, swipe, etc.  but sometimes I select the meal, find the food, swipe, and LI doesn’t stay on the meal screen but goes back to the main screen.  Enter 5 foods for lunch, go back to the main screen 5 times which is frustrating.
+
+
+review id: 137
+
+matches and contexts:
+
+match = preg
+context = ould add though is a place that I can mark if I’m pregnant or not.  I’ve used this a few times while
+
+
+id: 137 | rating: 5 | user: katemeldr | date: 2019-07-10 | time: 21:24:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app, can’t show pregnancy status
+--------------------------------------------------------------------
+
+I like this app a lot. I graduated college with a nutrition major and I had a lot of assignments that had me track my food as we tried out different diets and this app made tracking all those things as painless as possible. I LOVE that I can input recipes and use servings from the dinner recipe I created. One thing I wish the developers would add though is a place that I can mark if I’m pregnant or not.  I’ve used this a few times while being pregnant and while it can record what I eat just fine it can’t show me if I’m meeting all my daily nutritional requirements because those change during pregnancy. Also the weight and calorie aspects become completely null since every pregnancy experiences weight gain and that’s not due to bad eating as well as calorie requirements change. So great app, I just wish I could tell it if I’m pregnant.
+
+
+review id: 168
+
+matches and contexts:
+
+match = breastfeed
+context = s no way to adjust your program for pregnancy and breastfeeding.
+
+match = preg
+context = ly that there’s no way to adjust your program for pregnancy and breastfeeding.
+
+match = feeding
+context = ay to adjust your program for pregnancy and breastfeeding.
+
+
+id: 168 | rating: 4 | user: fanniebum | date: 2021-05-12 | time: 14:10:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app, looking for a pregnancy feature
+--------------------------------------------------------------------
+
+I’ve been using this app for several years off and on, and I think it’s intuitive and easy to use. It is easy to accurately search for food and adjust your portions; the calorie and nutrition facts are clear and easy to read. This is my preferred app even with its limitations, namely that there’s no way to adjust your program for pregnancy and breastfeeding.
+
+
+review id: 205
+
+matches and contexts:
+
+match = baby
+context = hased the year subscription. I just had my second baby Jan 31, 2020 and I was up to 238 pounds. Befo
+
+
+id: 205 | rating: 5 | user: JessaHope | date: 2020-04-29 | time: 12:55:02.000Z
+
+--------------------------------------------------------------------
+                      Title: L-O-V-E!
+--------------------------------------------------------------------
+
+So yesterday, my 7 day trial ended but I absolutely purchased the year subscription. I just had my second baby Jan 31, 2020 and I was up to 238 pounds. Before my first kid, I was approximately 150 pounds. So after multiple times of trying to track what I ate, I just couldn’t keep up with the whole pen and paper way of things and I’ve tried other apps but I was not happy with them for multiple reasons.
+
+
+review id: 233
+
+matches and contexts:
+
+match = feeding
+context = ppointed with from the beginning is the community feeding data into the system. It’s a great concept
+
+
+id: 233 | rating: 4 | user: Brent ND | date: 2018-03-21 | time: 02:27:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Room for Improvement
+--------------------------------------------------------------------
+
+I am a huge fan of this app and have been using it and/or the website on and off for about five years. The one thing I’ve disappointed with from the beginning is the community feeding data into the system. It’s a great concept and is one reason the app is so useful, but there is so much useless noise. For one thing, why not eliminate any food that just shows calories but no macros? Surely if something is 300 calories per serving, it should have some carbs or protein. I’ve encountered dozens of entries that just show calories. Secondly, give the community a chance to flag or remove items we know to be incorrect. There are so many entries that are just plain wrong that it can be frustrating trying to find one match that actually has the correct info. I end up entering my own quite frequently.
+
+
+review id: 245
+
+matches and contexts:
+
+match = baby
+context = nds already. I need to lose an extra 20 pounds of baby weight I couldn’t lose on my own and I’m havi
+
+match = preg
+context = following month in October 2019 I found out I was pregnant. I used for several weeks than stopped us
+
+
+id: 245 | rating: 5 | user: Bella Raee | date: 2020-10-20 | time: 14:30:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Highly recommend!!!
+--------------------------------------------------------------------
+
+I used this app a year ago to shed off some weight and I use the free version. I started using this app in January of 2019 and by September I lost 60 pounds! Amazing within a few months I lost that weight. I was so impressed with this app I recommend to anyone who’s wanting to lose weight. Well I’m back on this app because the following month in October 2019 I found out I was pregnant. I used for several weeks than stopped using it. I had my son in June 2020 and he’s 4 months now; I went back on his app about 3 weeks ago and so happy to say I’ve lost 11 pounds already. I need to lose an extra 20 pounds of baby weight I couldn’t lose on my own and I’m having a hard time losing, but with the help of this app it’s happening! And it’s so EASY to use!!
+
+
+review id: 267
+
+matches and contexts:
+
+match = milk
+context =  to going vegetarian (but allowing eggs, fish snd milk products) the plateau I was on abruptly dropp
+
+
+id: 267 | rating: 5 | user: Happier noe | date: 2021-08-03 | time: 23:21:58.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s working!
+--------------------------------------------------------------------
+
+This app has kept me on track to lose weight, albeit very slowly, without my having to feel hungry and deprived. Mind you, I have had to alter what I consider ”Go To” foods, and find different, more wholesome ways to stave off hunger cravings, but if I stick to plan, it works. It is pretty eye-opening what calories I could rack up without giving it a thought. No wonder I had so much weight to lose! I am so relieved to get things under control, as I know all that extra weight makes me feel tired and sluggish, hurts my knees, and makes it hard to find clothes that look good on. I have also found that when I switched to going vegetarian (but allowing eggs, fish snd milk products) the plateau I was on abruptly dropped off. I’m sticking with it!
+
+
+review id: 331
+
+matches and contexts:
+
+match = preg
+context = k correctly. I’ve started a new “plan” after each pregnancy, but now it says my total weight loss is
+
+
+id: 331 | rating: 2 | user: Nicole S41 | date: 2018-07-25 | time: 11:40:14.000Z
+
+--------------------------------------------------------------------
+                      Title: New social updates are no good
+--------------------------------------------------------------------
+
+Ive been using this app since 2010 and have always really enjoyed it. It helped me lose the 45 lbs that I gained three times after my 3 babies. I also persuaded my entire family to join the app so we could all keep each other accountable. But the recent updates to the social view do not work correctly. I’ve started a new “plan” after each pregnancy, but now it says my total weight loss is since 2010 (my join date), which is not the case. Also, I can no longer see how much further to go my family members have on their weight loss plan. And even the “lbs lost” next to their name in the social summary tab is not correct (I think it only shows the most recent weight logins). More work to be done, Lose It. You had a good thing going and tried to get too fancy with updates that aren’t calculating correctly.
+
+
+review id: 372
+
+matches and contexts:
+
+match = baby
+context = everyday. I used this app before and lost all the baby weight. But when I started traveling for work
+
+
+id: 372 | rating: 5 | user: q1232 | date: 2018-01-15 | time: 21:44:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Losing it!
+--------------------------------------------------------------------
+
+I enjoy this app for watching total calories I am taking in and able to understand the nutritional side of what I am consuming everyday. I used this app before and lost all the baby weight. But when I started traveling for work, I added all the weight back on. I started using the app again to focus on three smaller goals of losing weight, exercising and eating better. I have achieved my first goal of losing 20 lbs in 3 months and I am able to run for 2 Miles without stopping. This app allows me to understand what is good for me and what isn’t.  My next goal is losing 10 lbs in 2 months and running 3 miles. I am half way there thanks to this Lose it app!
+
+
+review id: 373
+
+matches and contexts:
+
+match = baby
+context = and now I wish I had started sooner. Having a new baby coupled with the metabolic slowdown of nearin
+
+
+id: 373 | rating: 5 | user: djakob | date: 2018-07-19 | time: 04:39:09.000Z
+
+--------------------------------------------------------------------
+                      Title: So easy and helpful
+--------------------------------------------------------------------
+
+I had this app for over a year before I opened it and now I wish I had started sooner. Having a new baby coupled with the metabolic slowdown of nearing 40 really took its toll on my waistline in the past 12 months. I used to run 20+ miles a week and was still eating that way even when the miles disappeared. I set a goal to lose 15 pounds in two months and in just two weeks I am halfway there. The app integrates Apple Health data, workouts and overall activity from my Apple Watch. It gives me credit when I’ve earned it and provides helpful insights around good and bad habits based on what I eat. I will definitely recommend! Thank you!
+
+
+review id: 600
+
+matches and contexts:
+
+match = preg
+context = rted trying to get in better shape before getting pregnant with my son.  I haven't tracked food cons
+
+
+id: 600 | rating: 5 | user: Elbela | date: 2017-09-27 | time: 17:06:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Been using Lose It since 2009
+--------------------------------------------------------------------
+
+I'm tracking my weight on Lose It! since 2009 when I first started trying to get in better shape before getting pregnant with my son.  I haven't tracked food consistently on it, but I can see the graph showing my weight losses and gains after various pregnancies since then.  The data has stayed intact despite changing phones several times over the years.  I love the newest features of scanning in barcodes to track food and the database of foods is conveniently immense.  I have recommend this app to all my friends trying to lose weight.
+
+
+review id: 905
+
+matches and contexts:
+
+match = baby
+context = ortunately, I have gained it back after having my baby. I am trying to lose weight again and I know 
+
+
+id: 905 | rating: 5 | user: EllaChampion1583 | date: 2018-10-13 | time: 14:59:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Helps me stay focused!
+--------------------------------------------------------------------
+
+This app is so much better than myfitnesspal. it’s a lot simpler to use and pretty straightforward. I have used the Lose It app religiously 3 years ago when I first got into diet and fitness. it helped me adhere to my goals and I love that nearly ALL the foods you could possibly think of are in the system. I have lost 40lbs 3 years ago. Unfortunately, I have gained it back after having my baby. I am trying to lose weight again and I know this app is going to help me with my goals!
+
+
+review id: 993
+
+matches and contexts:
+
+match = preg
+context = pp in 2013. After I gained 60lbs in 2015 with the pregnancy of my daughter I have been able to use i
+
+
+id: 993 | rating: 5 | user: im a loser 😁 | date: 2017-12-18 | time: 12:17:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Used this App since 2013! BEST there is!!
+--------------------------------------------------------------------
+
+I lost 20+ lbs using this App in 2013. After I gained 60lbs in 2015 with the pregnancy of my daughter I have been able to use it again and I now only have 10 more lbs to loose to be back to my pre-pregnancy weight. It’s so easy to keep track of my calories, and log my exercises. I don’t think i would’ve lost the weight without this app. It’s also cheaper than weight watchers, with the basic version of the app being completely FREE! 👍👍👍👍👍
+
+
+review id: 996
+
+matches and contexts:
+
+match = baby
+context = g... And 4 years later, the weight from having my baby!  I will say, it's very effective and easy to
+
+
+id: 996 | rating: 5 | user: MissTendland | date: 2018-05-08 | time: 16:11:18.000Z
+
+--------------------------------------------------------------------
+                      Title: loved for years but update feels messy
+--------------------------------------------------------------------
+
+I've loved this app for 5 years! It helped me successfully lose weight for my wedding... And 4 years later, the weight from having my baby!  I will say, it's very effective and easy to use!  It had typically also been very clean and simple, nice to look at.... Until the newest update.
+
+
+review id: 1079
+
+matches and contexts:
+
+match = baby
+context = ntly working on losing after that third and final baby. 😊. I’ll keep using Lose It even after losing
+
+match = preg
+context = I have had Lose It after 2 pregnancies. When I am disciplined about entering 
+
+
+id: 1079 | rating: 5 | user: Sdelbaggio | date: 2019-08-01 | time: 12:37:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Long Time User
+--------------------------------------------------------------------
+
+I have had Lose It after 2 pregnancies. When I am disciplined about entering my information there is no better tool at helping me with steady weight loss. I feel great & am motivated to keep working. Each time I’ve lost the lbs. I’m currently working on losing after that third and final baby. 😊. I’ll keep using Lose It even after losing though as a way to check in with myself. I love the competition for badges & challenges too. 😉
+
+
+review id: 1080
+
+matches and contexts:
+
+match = baby
+context =  finally take control of my weight after having a baby.
+
+
+id: 1080 | rating: 5 | user: LulaPagel | date: 2017-09-25 | time: 07:16:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Helped me when nothing else did
+--------------------------------------------------------------------
+
+I managed to lose 15 lbs in 4 months by sticking to my daily food log. Putting in homemade recipes is really hard because it doesn't have a way to calculate cup measurements from totaled ingredients, but I guessed high where I could and stuck with it and it worked. The barcode scanning feature is amazing. I'm so grateful I found this app, it's helping me to finally take control of my weight after having a baby.
+
+
+review id: 1272
+
+matches and contexts:
+
+match = postpartum
+context = best weight loss app I've ever used. I'm 8 months postpartum and 47 days ago I weighed 121 pounds. I
+
+match = postp
+context = best weight loss app I've ever used. I'm 8 months postpartum and 47 days ago I weighed 121 pounds. I
+
+
+id: 1272 | rating: 5 | user: izzie dunne | date: 2018-04-07 | time: 13:16:16.000Z
+
+--------------------------------------------------------------------
+                      Title: This changed my life
+--------------------------------------------------------------------
+
+Okay. Hands down, this is the best weight loss app I've ever used. I'm 8 months postpartum and 47 days ago I weighed 121 pounds. I'm 4'11 and 20 years old. So self conscious with my body. Today. After 47 days of tracking what I put in my body. I'm 110.4 pounds and honestly couldn't be happier. I've recommended this app to every single person I know. So much love for this app. HIGHLY RECOMMENDED. If you want to lose weight, maintain weight, or gain weight.
+
+
+review id: 1471
+
+matches and contexts:
+
+match = breastfeed
+context =  is no where near worth the money I spent. I am a breastfeeding mother and I was hoping to get more 
+
+match = feeding
+context =  where near worth the money I spent. I am a breastfeeding mother and I was hoping to get more insigh
+
+
+id: 1471 | rating: 1 | user: Halleylujah522 | date: 2017-10-12 | time: 15:19:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Embody DNA ATTN!!!
+--------------------------------------------------------------------
+
+Love lose it, do NOT pay for embody DNA. I’m very disappointed with the information provided in these results. I feel as though your product was poorly advertised.  It is no where near worth the money I spent. I am a breastfeeding mother and I was hoping to get more insights into my weight loss and food sensitivities with your product. Although you claim this is personal information, it is all too general, obvious, and very loose with terms like “likely” and “may.” Since I’m a healthy person with good habits, there was no benefits in receiving your very limited information. I expected so much more considering my succsss with the lose it app.
+
+
+review id: 1514
+
+matches and contexts:
+
+match = baby
+context = ed me lose weight in the past, but also since the baby! It helps me know portion sizes, make smart c
+
+
+id: 1514 | rating: 5 | user: Photochick27 | date: 2020-06-25 | time: 11:29:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+Everything about this app is just right for me. It has helped me lose weight in the past, but also since the baby! It helps me know portion sizes, make smart choices for snacking, and the fact i can log recipes is so valuable. I use the free version and have still been able to hit my goals. Combine this with an exercise routine and you’ll see results. Promise!
+
+
+review id: 1673
+
+matches and contexts:
+
+match = milk
+context = s are the best they have ever been. Butter, whole milk dairy products and beef and pork are consumed
+
+
+id: 1673 | rating: 5 | user: Farmerkirt | date: 2021-02-19 | time: 18:35:28.000Z
+
+--------------------------------------------------------------------
+                      Title: I Love the App
+--------------------------------------------------------------------
+
+I use it with a fasting app and have lost over 27 pounds. Only complaint is the plant based rhetoric. I started a low carb diet a year ago and my numbers are the best they have ever been. Butter, whole milk dairy products and beef and pork are consumed in good amounts. Traditional food is a lot better for my body than all the processed plant based imitations. Eat well my friends. Life is too short for fake anything.
+
+
+review id: 1876
+
+matches and contexts:
+
+match = baby
+context = I had my 3rd baby 6months ago and have been struggling to lose 
+
+
+id: 1876 | rating: 5 | user: JrdnRN | date: 2019-05-02 | time: 12:31:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Works!
+--------------------------------------------------------------------
+
+I had my 3rd baby 6months ago and have been struggling to lose the 20lbs extra I gained with him. I downloaded this app two weeks ago and have lost 4lbs already. It really does work! Takes a bit of work figuring out the diet changes you need to make to fit the calorie intake but once you do it gets easier.
+
+
+review id: 2005
+
+matches and contexts:
+
+match = breastfeed
+context = rsing my youngest my body did not bounce back and breastfeeding was not my saving grace for my, than
+
+match = preg
+context =  was not my saving grace for my, thankfully, only pregnancy major complaint - weight gain . This app
+
+match = feeding
+context = my youngest my body did not bounce back and breastfeeding was not my saving grace for my, thankfully
+
+match = nursing
+context = After having 3 kids and currently nursing my youngest my body did not bounce back an
+
+match = nurs
+context = After having 3 kids and currently nursing my youngest my body did not bounce back an
+
+
+id: 2005 | rating: 5 | user: MamaAma929 | date: 2018-06-23 | time: 02:06:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app to support for healthy eating after baby
+--------------------------------------------------------------------
+
+After having 3 kids and currently nursing my youngest my body did not bounce back and breastfeeding was not my saving grace for my, thankfully, only pregnancy major complaint - weight gain . This app is amazing ; the accountability is a huge help and a great reminder to leave my older two’s leftovers alone - #garbagedisposalmodeoff
+
+
+review id: 2085
+
+matches and contexts:
+
+match = breastfeed
+context = nloaded this app. I just had a baby and I’ve been breastfeeding. I lost about 30 pounds after the ba
+
+match = baby
+context = I just downloaded this app. I just had a baby and I’ve been breastfeeding. I lost about 30 
+
+match = feeding
+context = d this app. I just had a baby and I’ve been breastfeeding. I lost about 30 pounds after the baby. No
+
+
+id: 2085 | rating: 4 | user: popova007 | date: 2018-06-08 | time: 00:27:03.000Z
+
+--------------------------------------------------------------------
+                      Title: 👍🏼
+--------------------------------------------------------------------
+
+I just downloaded this app. I just had a baby and I’ve been breastfeeding. I lost about 30 pounds after the baby. Now I’ve been maintaining my weight. I’ve been curious to how many calories I take in a day and how many I loose. This app is perfect for that. Also, it has breastfeeding listed under exercising! Which is amazing because I know I’m burning calories every time I feed baby.
+
+
+review id: 2093
+
+matches and contexts:
+
+match = baby
+context = I started using this app after baby #2 and it has truly helped me to stay on trac
+
+
+id: 2093 | rating: 5 | user: Vtrp14680 | date: 2020-03-06 | time: 03:55:24.000Z
+
+--------------------------------------------------------------------
+                      Title: The best weight loss app!
+--------------------------------------------------------------------
+
+I started using this app after baby #2 and it has truly helped me to stay on track with my weight loss and avoid gaining it back. I used the free version for awhile but I recently upgraded to premium and it’s been so helpful with carb tracking! It really is the best weight loss app I’ve used so far!
+
+
+review id: 2177
+
+matches and contexts:
+
+match = nurs
+context = I am a nurse working in a large hospital. My work can be 
+
+
+id: 2177 | rating: 5 | user: After the black band | date: 2021-06-28 | time: 22:55:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use, and fit into your busy schedule.
+--------------------------------------------------------------------
+
+I am a nurse working in a large hospital. My work can be very stressful and fast paced. I am trying to eat better, and drink more water, and lose a few pounds, I find it easy and quick to record my information, and I have enjoyed it very much so far.
+
+
+review id: 2237
+
+matches and contexts:
+
+match = baby
+context = ctive! Thank you . 20 more pounds to go . I had a baby 8 months ago. When I delivered I was 180. Now
+
+
+id: 2237 | rating: 5 | user: blake and ethan | date: 2019-12-15 | time: 14:49:34.000Z
+
+--------------------------------------------------------------------
+                      Title: So far success
+--------------------------------------------------------------------
+
+I have using this app for the past month and 2 weeks and I’ve lost over 10 lbs . I haven’t upgraded yet . Counting calories and seeing them on this app very helps me but it all in perspective! Thank you . 20 more pounds to go . I had a baby 8 months ago. When I delivered I was 180. Now I’m weighing in at 141.2
+
+
+review id: 2896
+
+matches and contexts:
+
+match = milk
+context = ould have done years ago, instead they decided to milk their user for profit and random their data.
+
+
+id: 2896 | rating: 5 | user: customerServiceSucks | date: 2021-07-30 | time: 16:35:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Ignore the rest of the apps
+--------------------------------------------------------------------
+
+This is what MyFitnessPal should have done years ago, instead they decided to milk their user for profit and random their data.
+
+
+review id: 3147
+
+matches and contexts:
+
+match = feeding
+context = e diligent, it helps to visually see what you are feeding your body & realize the fuel your body nee
+
+
+id: 3147 | rating: 5 | user: Jtenwhy | date: 2018-04-23 | time: 14:37:24.000Z
+
+--------------------------------------------------------------------
+                      Title: 👍🏼👍🏼
+--------------------------------------------------------------------
+
+I love this app for tracking my calories. If you are diligent, it helps to visually see what you are feeding your body & realize the fuel your body needs. I like how it tells me the date I will reach my goal based off of my entries at the end of the day.
+
+
+review id: 4064
+
+matches and contexts:
+
+match = breastfeed
+context = Love,love,love this app. I am currently breastfeeding my LO and this one is so easy to use
+
+match = feeding
+context = Love,love,love this app. I am currently breastfeeding my LO and this one is so easy to use and d
+
+
+id: 4064 | rating: 5 | user: mamaKbull | date: 2021-04-27 | time: 18:40:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Nursing Moms!!
+--------------------------------------------------------------------
+
+Love,love,love this app. I am currently breastfeeding my LO and this one is so easy to use and doesn’t make you jump through hoops. My favorite part is that you can track the time you breastfeed and it counts as exercise!!
+
+
+review id: 4361
+
+matches and contexts:
+
+match = baby
+context =  knew this app would help me bounce back to my prebaby weight.
+
+
+id: 4361 | rating: 5 | user: Soua Eidmann | date: 2019-02-20 | time: 21:06:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Weight loss
+--------------------------------------------------------------------
+
+I’ve been using this app on and off for years. Recently I just gave birth to my second child and I knew this app would help me bounce back to my prebaby weight.
+
+
+review id: 4375
+
+matches and contexts:
+
+match = milk
+context =  really suprise. They even have many asian stores milktea place. Good job! Keep continue update. Ver
+
+
+id: 4375 | rating: 5 | user: Lilian nguyen | date: 2018-11-30 | time: 23:52:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome app
+--------------------------------------------------------------------
+
+This app has many foods make me really suprise. They even have many asian stores milktea place. Good job! Keep continue update. Very cute app with icon display in front of the food. Easy, simple access to app👏🏻👍🏼👍🏼👍🏼
+
+
+review id: 4534
+
+matches and contexts:
+
+match = milk
+context = Also the observation that I eat less when I drink milk is insane since I don’t drink milk.
+
+
+id: 4534 | rating: 4 | user: Drewjodway | date: 2018-09-16 | time: 17:23:09.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for counting calories
+--------------------------------------------------------------------
+
+Love this app for keeping track of how many calories I’m consuming in a day. Don’t love the prompts to upgrade several times a day. Also the observation that I eat less when I drink milk is insane since I don’t drink milk.
+
+
+review id: 4628
+
+matches and contexts:
+
+match = milk
+context = ating habits that keeps me on track, when I drink milk. These “patterns” noted in my eating logs are
+
+
+id: 4628 | rating: 2 | user: MizzzLovely | date: 2018-07-27 | time: 16:16:48.000Z
+
+--------------------------------------------------------------------
+                      Title: The app works for tracking ONLY! False statements make it a disappointment.
+--------------------------------------------------------------------
+
+As a VEGAN, it keeps sending me messages telling me it has noticed a pattern in MY eating habits that keeps me on track, when I drink milk. These “patterns” noted in my eating logs are purely false. I am losing because I am monitoring my eating habits. It works as a convenient logging system. Do not assume any of the “patterns” noted are real.
+
+
+review id: 4761
+
+matches and contexts:
+
+match = preg
+context = I was trying to lose some pound after my twins pregnagcy and I find lose it!, it helps me to trac
+
+
+id: 4761 | rating: 5 | user: Sharae76 | date: 2018-12-05 | time: 22:34:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+I was trying to lose some pound after my twins pregnagcy and I find lose it!, it helps me to track everything I eat and I just lost 15 pounds
+
+
+review id: 4853
+
+matches and contexts:
+
+match = baby
+context = the number of calories in foods I eat. I'm taking baby steps that are working. Thank you!
+
+
+id: 4853 | rating: 4 | user: Kahsvsjxnsjzxj | date: 2018-12-31 | time: 07:40:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Super Excited!
+--------------------------------------------------------------------
+
+I share this app with everyone. Because of this app I pay more attention to calorie intake along with the number of calories in foods I eat. I'm taking baby steps that are working. Thank you!
+
+
+review id: 4998
+
+matches and contexts:
+
+match = breastfeed
+context = chs will be willing to add a modification so that breastfeeding mothers can effectively count calori
+
+match = milk
+context = cting our calories as much which could impact our milk production output.
+
+match = feeding
+context = ll be willing to add a modification so that breastfeeding mothers can effectively count calories wit
+
+
+id: 4998 | rating: 4 | user: supermario580 | date: 2019-12-09 | time: 13:51:30.000Z
+
+--------------------------------------------------------------------
+                      Title: ATTENTION: Developers, tech support
+--------------------------------------------------------------------
+
+So far very simple, but I’m hoping that the makers or techs will be willing to add a modification so that breastfeeding mothers can effectively count calories without restricting our calories as much which could impact our milk production output.
+
+
+review id: 6955
+
+matches and contexts:
+
+match = Baby
+context = dium from using tuna as a regular protein source. Baby carrots are my best source of fiber, by far b
+
+
+id: 6955 | rating: 5 | user: Kylejallen | date: 2019-12-28 | time: 19:39:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Way better than other apps
+--------------------------------------------------------------------
+
+This app is amazing even using the free version, and the fee for premium is far less than other apps. It’s basically the cost of going out to dinner once or twice, for an entire year. USE THE PREMIUM. I didn’t think it would be worth the functionality, but bought it anyway to support the app since I’m getting so much use out of it. The premium functions will reveal key information to you. For example, my highest contributor to saturated fat by far was an occasional slice of reduced fat swiss cheese (yikes lol). I was getting way too much sodium from using tuna as a regular protein source. Baby carrots are my best source of fiber, by far better than any whole grain items lol. I thought mini candy canes were no big deal occasionally because of the low calories, but they managed to top the list for simple carbs...and I didn’t even eat very many of them! It’s amazing to see this charted out for you, and allows for simple changes to what you’re eating for big gains to your health. The free version of the app is great as well, extremely easy to use, nice clean uncluttered interface, and easy to chart your calories and macronutrients. Tells you how many calories you have left for the day. Easy to re-enter foods that you eat a lot, since they will pop up at the top of the list in the same quantity as last time (but you can adjust quantity quickly as well). Doesn’t constantly give you annoying pop-ups recommending premium upgrade like some other apps. I definitely recommend using this, it’s really worth the small amount of time it takes to enter the foods you’re eating. You might think you know everything about your diet, but you’ll probably find some new info using this app.
+
+

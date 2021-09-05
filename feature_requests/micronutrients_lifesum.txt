@@ -1,0 +1,1568 @@
+'Micronutrients' related feature requests in lifesum reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 90
+
+
+review id: 15
+
+matches and contexts:
+
+match = omega
+context = , an extremely healthy food with lean protein and omega 3’s it says the meal is “too high in fat,” t
+
+
+id: 15 | rating: 2 | user: CSnotLewis | date: 2020-09-13 | time: 05:07:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Awful navigation, terrible tracker
+--------------------------------------------------------------------
+
+This hets 2 stars instead of 1 because i do actually use it to track, mostly because there’s little better out there. But the rest of the app is total garbage. It is inaccurate and poorly sourced, confusing to navigate if you want to change your plan, and the nutritional meals are extremely confusing. First, it only allows you to choose one dietary choice. For example, i try and eat a low carb diet but i ALSO want to keep that diet by eating clean and whole foods. But i have to choose one or the other. I am a pescatarian, and for some reason I still get recipes that suggest chicken or other meat. Also the “nutritional tracker” is literally never happy—you could have the healthiest meal and it will say you are nutritionally off track because you didn’t hit *exactly* the nutritional intake it demands to the exact gram. If you have baked salmon, an extremely healthy food with lean protein and omega 3’s it says the meal is “too high in fat,” the same as if you had pizza. It doesn’t differentiate between good fats and bad. There’s no pleasing the nutritional tracker. It is annoying to search for recipes, and it seems like just a way for celebrity fitness influencers to make even more money when this could be an actual social app for real users to share recipes, exercises, and fitness data. What a waste.
+
+
+review id: 40
+
+matches and contexts:
+
+match = vitam
+context = ms of protein, carbs, etc; but if you want to see vitamins and minerals you’re out of luck. This is 
+
+
+id: 40 | rating: 4 | user: hmtz333 | date: 2018-05-19 | time: 16:41:49.000Z
+
+--------------------------------------------------------------------
+                      Title: The best tracking app out there
+--------------------------------------------------------------------
+
+I’ve tried loose it and my fitness pal. I went ahead and went premium for this one so I can see grams of protein. Like the other apps, data for food isn’t 100% accurate but it’s good enough. Also like other apps, with premium you can see grams of protein, carbs, etc; but if you want to see vitamins and minerals you’re out of luck. This is the cleanest, most elegant of the tracking apps out there m. I appreciate it.
+
+
+review id: 83
+
+matches and contexts:
+
+match = sodium
+context = egory which you have selected (i.e. water intake, sodium, sugar, etc.). Additionally, the app will s
+
+
+id: 83 | rating: 2 | user: Anthony Hud | date: 2018-12-14 | time: 21:04:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App for Tracking Eating Habits
+--------------------------------------------------------------------
+
+This is a great app for keeping track of your eating habits. I’m using it to evaluate what food I intake, the nutritional content of those foods, and how I can eventually make better choices. HOWEVER, if you are expecting to use Apple’s Health app to sync data from Lifesum (which the app claims to do), then skip it. While Lifesum does record and sync data to Health, its consistency is not reliable at all. Data may sync to the Health app for a couple of days, but for some reason, it will skip other days entirely. But more annoyingly, on days that it decide to sync data, it will sometime not sync every category which you have selected (i.e. water intake, sodium, sugar, etc.). Additionally, the app will sometimes glitch and erase data which you have recorded INSIDE of the app itself. It’s unfortunate because I really enjoy this app and it has contributed greatly to changing some bad aspects of my eating habits. Hopefully these issues are addressed because the app is worth it.
+
+
+review id: 93
+
+matches and contexts:
+
+match = iod
+context =  15 lbs in a healthy way. It gave me a 15 week period and I thought “okay that’s reasonable”, but th
+
+
+id: 93 | rating: 5 | user: KoolaidKoolKid | date: 2019-02-03 | time: 15:25:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Life Changing
+--------------------------------------------------------------------
+
+I usually don’t write reviews, but this is literally the best app I’ve ever bought. I’m 14 and I want to lose 15 lbs in a healthy way. It gave me a 15 week period and I thought “okay that’s reasonable”, but then I started using it and it’s motivated me so much I’ve lost 6.2 lbs, it’s been 2 weeks. I honestly wouldn’t be nearly as motivated to use it if it wasn’t such an enjoyable of an experience. The design is flawless and the little icons are adorable. I love using the barcode scanner, then I don’t have to figure out if I actually ate what I logged. The life rating is really motivational, and ever since I had a day tracker for fruit and a weekly tracker for seafood, I’ve been eating lots more of those.
+
+
+review id: 95
+
+matches and contexts:
+
+match = micro
+context = sum because of the coaching and keeping macro and micronutrients monitored, the actual food logging 
+
+
+id: 95 | rating: 3 | user: DaliCoop | date: 2019-07-14 | time: 16:49:50.000Z
+
+--------------------------------------------------------------------
+                      Title: MyFitnessPal is easier and more accurate
+--------------------------------------------------------------------
+
+(I’m using the premium version) While I love Lifesum because of the coaching and keeping macro and micronutrients monitored, the actual food logging needs a LOT of work. Unlike MyFitnessPal, which is the easiest food logging I’ve ever done, Lifesum is not only difficult in finding the food you’re trying to log (they don’t have the database that MFP has), but the serving sizes and entering the amount you’re eating is more often in grams instead of cups or the MUCH easier options on MyFitnessPal. A lot of the nutrition information is also wrong, meaning that I have toggle with the “amount” of food that I ate in order to get the calorie count correct. I also don’t love the often negative feedback that pops up if you occasionally eat something that’s non-nutritious. Because of this, I’ll likely be canceling my subscription at the end of the 3 months and looking back at MyFitnessPal.
+
+
+review id: 127
+
+matches and contexts:
+
+match = sodium
+context = id was count up calories and basic nutrients like sodium and sugar.
+
+
+id: 127 | rating: 2 | user: Crazygurl106 | date: 2021-03-20 | time: 01:13:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Who’s reviewing this food?
+--------------------------------------------------------------------
+
+Giving this 3 stars because I got a free trial of Premium and it was much better. Then when the trial ran out all it did was count up calories and basic nutrients like sodium and sugar.
+
+
+review id: 138
+
+matches and contexts:
+
+match = vitam
+context = hat it won’t allow me to track other things, like vitamin content- except for potassium. Also a joke
+
+
+id: 138 | rating: 1 | user: Caligrl24 | date: 2021-06-26 | time: 05:17:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Very disappointed
+--------------------------------------------------------------------
+
+I am so beyond sick of fighting with this app. If you care anything about tracking your macros correctly- go with myfitnesspal. I’m frustrated that I upgraded to premium only to hate this app so much, I dread using it. Everything I scan- has the wrong info and often times the barcode is associated with the wrong food item. So I edit each time, carefully putting in the exact info off the food packaging, only to have it tell me calories etc are wrong and not allow me to save it! Why bother?  I also hate that it won’t allow me to track other things, like vitamin content- except for potassium. Also a joke that it won’t allow you to remove food items you create, or most of all, edit them. Which is exactly why you see so many duplicate items created by ppl on here. I know I sometimes change my recipes up, so why not allow me to change it on here?  This app has been around too long to be this dysfunctional.
+
+
+review id: 139
+
+matches and contexts:
+
+match = magnes
+context =  be when tracking more than just macros. Calcium, magnesium, and so many other minerals that should 
+
+match = Calci
+context = for it to be when tracking more than just macros. Calcium, magnesium, and so many other minerals tha
+
+
+id: 139 | rating: 2 | user: Rosaa | date: 2021-03-03 | time: 22:01:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Beautiful app but for targeted users only
+--------------------------------------------------------------------
+
+Hello, I have been a premium (paying) user of this app, but I had to cancel my membership. It’s a  beautiful user interface, which was the initial appeal for me as a user. However, without the ability to access simple data from my food intake, this app is not as useful as I would hope for it to be when tracking more than just macros. Calcium, magnesium, and so many other minerals that should be easily imported on the developer side (I am familiar with development), but somehow, even with a user forum requesting such simple tracking, and for years now, this data is not available to users. The alternative for tracking not just macros but the various minerals we need to survive and thrive is My Fitness Pal, which is free, for my purposes at least. I will happily return as a user when these simple yet essential pieces of data are shared and easily accessible as well.
+
+
+review id: 212
+
+matches and contexts:
+
+match = iod
+context =  this app at first because I had to go on the low iodine diet for testing. I just wanted to track wh
+
+
+id: 212 | rating: 5 | user: chrstydwn1 | date: 2018-06-01 | time: 13:51:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Loving This App
+--------------------------------------------------------------------
+
+Totally enjoying this app. I was 309lbs and couldn’t loose weight. I only started doing this app at first because I had to go on the low iodine diet for testing. I just wanted to track what I was eating. I started loosing weight on the diet and decided since I was finally loosing weight I would continue using the app.  It shows me how many calories my body needs and if I eat something that’s not acceptable I get a sad face. I’m just three weeks in and weight 277.4 pounds. I’ve done several diets in the past! This isn’t a diet, this for me is a teaching tool of how to live a better in more healthier way. FYI, I am just using the free part of the app. 👍🏻
+
+
+review id: 230
+
+matches and contexts:
+
+match = micro
+context = like fiber and potassium, but they offer no other micronutrients like vitamin C, or Iron.
+
+match = vitam
+context = sium, but they offer no other micronutrients like vitamin C, or Iron.
+
+match = Iron
+context =  offer no other micronutrients like vitamin C, or Iron.
+
+
+id: 230 | rating: 3 | user: lori.renza | date: 2018-02-28 | time: 14:00:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Paid for premium but...
+--------------------------------------------------------------------
+
+While the interface is much nicer to look at than previous calorie trackers I’ve used, there are many features that are lacking. For example, I paid to see more nutritional information about what I’m eating, like fiber and potassium, but they offer no other micronutrients like vitamin C, or Iron.
+
+
+review id: 244
+
+matches and contexts:
+
+match = calci
+context = ou could add in certain things like “I need extra calcium” or “I’m allergic to nuts” just simple stu
+
+match = sodium
+context = on. Lots of the foods I choose to eat have higher sodium because I have a sodium deficiency and as s
+
+
+id: 244 | rating: 4 | user: Maymaymay:) | date: 2019-01-23 | time: 18:57:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Almost perfect!
+--------------------------------------------------------------------
+
+I love this app, it makes eating healthy SO much easier and it’s super cheap to have a premium subscription (if you can afford $3 a month!), the only suggestion I have is that it would be super cool if during your evaluation you could add in certain things like “I need extra calcium” or “I’m allergic to nuts” just simple stuff like that. Having foods tailored just a little more specifically to what the individual needs would make this app absolutely perfect in my opinion. Lots of the foods I choose to eat have higher sodium because I have a sodium deficiency and as silly as it is, it makes me sad when the food rating smiley face looks disappointed in me for eating high sodium lol.
+
+
+review id: 252
+
+matches and contexts:
+
+match = vitam
+context = e to see in the future is nutritional values like vitamins and such that you can keep track of from 
+
+
+id: 252 | rating: 5 | user: Penguin5000ft | date: 2019-01-24 | time: 04:00:20.000Z
+
+--------------------------------------------------------------------
+                      Title: More plans
+--------------------------------------------------------------------
+
+Very nice app, but I’d love to see more meal plans that are built for more variety of goals. For example, I have a metabolic rate that’s faster than normal and I struggle to keep weight. This means, when I go over the amount of calories, and the amount of carbs and fats, it’s actually considered good rather than bad; (but going over the amount of protein remains not recommended) It would be nice to see a plan that would have these things in mind. Another feature that would be nice to see in the future is nutritional values like vitamins and such that you can keep track of from the foods you eat.
+
+
+review id: 261
+
+matches and contexts:
+
+match = vitam
+context = ve is wrong or incomplete. It also does not track vitamins and minerals, which are really important,
+
+
+id: 261 | rating: 1 | user: NeuroWorm | date: 2017-10-08 | time: 21:32:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Disappointing and Subpar
+--------------------------------------------------------------------
+
+I really wanted to like this app and even got a trial of the paid version. I liked the idea of the recipes and health scale. Quite frankly, it’s underwhelming and seems like it wants to be more like MyFitnessPal or Fitbit. However, its scanning function hardly works, and a lot of the information it does have is wrong or incomplete. It also does not track vitamins and minerals, which are really important, especially if you’re dieting. You also have limited control over what information you can input for a meal or recipe. I will say that I like the faces next to individual food items, but again, this is only effective if the information attached to the food item is correct. This app has a long way to go before it can be real competition for some of the other diet and nutrition apps out there.
+
+
+review id: 262
+
+matches and contexts:
+
+match = iod
+context = ld work if you opened it again. There are just periods where it doesn’t work at all and you can open
+
+
+id: 262 | rating: 2 | user: Kristingavaza | date: 2018-03-02 | time: 16:42:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Crashes constantly
+--------------------------------------------------------------------
+
+I decided to try Lifesum after several fitness vloggers did sponsored videos about the app. The only draw of it over my fitness pal is the aesthetics. I used it daily for months and it drove me insane that it constantly crashed. I should mention that I currently have an iPhone 8 so it’s not an issue with an old phone. I don’t mean once and then it would work if you opened it again. There are just periods where it doesn’t work at all and you can open it 20 ones in a row and it will just continue to instantly close. It is insanely frustrating. Once you’ve got some of your favorite foods in the history, it’s annoying to switch to another app. So my advice is not to invest in it at all. Go with my fitness pal. Lifesum is cute but gimmicky.
+
+
+review id: 302
+
+matches and contexts:
+
+match = iod
+context = n up for a month or a year, at the end of that period you will be automatically renewed and charged 
+
+
+id: 302 | rating: 1 | user: Regan831 | date: 2019-05-07 | time: 10:44:03.000Z
+
+--------------------------------------------------------------------
+                      Title: WONT LET YOU UNSUBSCRIBE
+--------------------------------------------------------------------
+
+WHAT A NIGHTMARE!!!! I didn’t mean to sign up for a year. And when I followed the app’s link to unsubscribe, the developer only gives you the options to renew various packages. No way to unsubscribe or cancel!!! They also automatically auto renew at the end of user package you subscribe. So if you sign up for a month or a year, at the end of that period you will be automatically renewed and charged again. I tried to cancel through Apple but as this is a 3rd party developer, Apple doesn’t have the ability to do anything. And when I went to the Lifesum website and emailed customer support, I received an automated email about 3 days later informing me to follow the unsubscribe link through the app!!!! So basically the developer has locked you into a subscription with no way of canceling.
+
+
+review id: 378
+
+matches and contexts:
+
+match = micro
+context = st in case. Another feature I would like are more micronutrients to track, not just potassium.
+
+
+id: 378 | rating: 4 | user: Skoobie Du | date: 2020-12-23 | time: 19:43:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Nice app but needs some improvements.
+--------------------------------------------------------------------
+
+I have an iPhone 12 Pro Max and parts of the UI are getting cut off in the corners. Also, the keyboard gets in the way when trying to enter a value for potassium in a custom food. I would also like to be able to edit the name of scanned foods because the names are either incorrect or excessively long; e.g., scanned name: “Breakfast nutriflakes cereal 40% bran flakes”, actual/shorter name: “NutriFlakes Cereal”. Being able to edit the brand would also be nice, just in case. Another feature I would like are more micronutrients to track, not just potassium.
+
+
+review id: 449
+
+matches and contexts:
+
+match = iod
+context = and they track your progress for you over long periods of time. I didn’t pay for the subscription, b
+
+
+id: 449 | rating: 2 | user: thevanvannnnn | date: 2019-10-07 | time: 19:00:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Tracker is great, meal plan feature needs WORK.
+--------------------------------------------------------------------
+
+The app itself is beautiful and easy to save meals you eat often. They have an easy water tracker, and they track your progress for you over long periods of time. I didn’t pay for the subscription, but so far they don’t push too hard for it with pop-up or any of those annoying things like most other apps will do.
+
+
+review id: 460
+
+matches and contexts:
+
+match = sodium
+context =  in fat. Any kind of fat. Second is sugar, fiber, sodium and saturated fat are locked in the free ve
+
+
+id: 460 | rating: 3 | user: Puppy Love xo | date: 2017-12-30 | time: 05:50:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Nice app but...
+--------------------------------------------------------------------
+
+I gave 3 stars because of the obvious amount of work that went into developing this app. It looks like a great app. Two things. More than half of the recipes I was able to view have a startling high percentage of fat—45-56%. It’s just my opinion but there shouldn’t be any recipe, let alone many recipes, on a health app or site that is that high in fat. Any kind of fat. Second is sugar, fiber, sodium and saturated fat are locked in the free version, items that are free in other food trackers. I’m all about paying developers. They deserve it. But I was surprised to see that. Otherwise I like the motivational portions and health tests.
+
+
+review id: 536
+
+matches and contexts:
+
+match = iod
+context = hy the app would not let you have a free trial period before you pay for subscription.  I took a lea
+
+
+id: 536 | rating: 1 | user: Shameless cheater | date: 2019-12-27 | time: 15:34:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Unfriendly app & total waste of money
+--------------------------------------------------------------------
+
+I am not sure how this app got such high rating.   Now I understand why the app would not let you have a free trial period before you pay for subscription.  I took a leap of faith based on the ratings & positive reviews which i am sure now are all fakes.
+
+
+review id: 551
+
+matches and contexts:
+
+match = micro
+context =  one diary entry to the next. I just wish it gave micronutrient information as well as a way to trac
+
+
+id: 551 | rating: 5 | user: DontStandSoCloseToMe | date: 2020-02-03 | time: 21:37:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Really great for monitoring overall health
+--------------------------------------------------------------------
+
+I really like this app for monitoring overall trends in my diet. It’s very helpful for creating a balanced meal and I love that you can add your own recipes and meals. I also really enjoy how they made it easy to copy previous days meals from one diary entry to the next. I just wish it gave micronutrient information as well as a way to track supplements! If they added those features it would be a practically perfect health app haha
+
+
+review id: 614
+
+matches and contexts:
+
+match = micro
+context = ave the most bio available and highest amounts of micronutrients compared to plant products. Protein
+
+
+id: 614 | rating: 1 | user: Jojo'sXGhoul | date: 2020-10-09 | time: 22:50:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Vegan propaganda
+--------------------------------------------------------------------
+
+I eat mostly animal products, because they have the most bio available and highest amounts of micronutrients compared to plant products. Protein too, because I want to be fit and plants are lower in protein by calories and amino score. Though this is basic knowledge, this app doesn’t allow you to specify you eat grass fed only and that all the meat you eat must be conventional low quality meat. Your health score is based off the amount of plants you eat and though I hit all my micronutrients almost everyday, I’m classified as “unhealthy”. Also, the biggest issue is the premium. It’s not monthly, so if you want to cancel, well there goes $40 to $80.
+
+
+review id: 620
+
+matches and contexts:
+
+match = sodium
+context = t a banana has a frowny but a frozen food high in sodium has a smiley face. I find it upsetting and 
+
+
+id: 620 | rating: 3 | user: DustyBaker.78 | date: 2018-01-02 | time: 15:19:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Good Concept But...
+--------------------------------------------------------------------
+
+I like the idea of this app-- tracking food/exercise weather it's to get in shape or stay in shape. However the food ratings seem to be way off. Whenever I add a healthy food it always has a frowny face saying it is high in carbohydrates-- honestly we NEED carbs for energy and I just find it pathetic that a banana has a frowny but a frozen food high in sodium has a smiley face. I find it upsetting and I think it could lead people in the wrong direction! Is there anyway to turn off the smiley+frowny faces because fruit+veggies+legumes+etc. are NOT unhealthy :)
+
+
+review id: 622
+
+matches and contexts:
+
+match = vitam
+context =  it informed me I should try drinking milk to get vitamin d. Huh?
+
+
+id: 622 | rating: 3 | user: Dabeanie | date: 2018-03-26 | time: 12:39:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Ideas
+--------------------------------------------------------------------
+
+I actually really love this app and have been using for a solid month and have seen an improvement in my life. However, I have my preferences set to be lactose intolerant and have a dairy allergy yet this morning it informed me I should try drinking milk to get vitamin d. Huh?
+
+
+review id: 731
+
+matches and contexts:
+
+match = micro
+context =  The only positive is seeing the breakdown of the micronutrients for protein, fat and carbs.
+
+
+id: 731 | rating: 2 | user: Stupidreviewingreqs | date: 2018-05-29 | time: 22:22:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Don’t subscribe
+--------------------------------------------------------------------
+
+Very disappointed that there are all these diet choices to cater the app to but there are so few recipes to chose from. I’m trying to follow a ketogenic diet and am not losing weight. I upgraded hoping there would be more recipe choices to help keep me on track but there’s like maybe 10 recipes for each breakfast, lunch, and dinner and they’re not even appetizing or common foods. Vanilla cod tartare?  Very limited selection.  Atkins has a free app and actually has a decent recipe selection. The only positive is seeing the breakdown of the micronutrients for protein, fat and carbs.
+
+
+review id: 759
+
+matches and contexts:
+
+match = sodium
+context =  regularly grossly inaccurate, representing daily sodium “sums” as being lower than actual sums.
+
+
+id: 759 | rating: 2 | user: Integrity rules | date: 2020-01-09 | time: 05:23:09.000Z
+
+--------------------------------------------------------------------
+                      Title: Disgruntled
+--------------------------------------------------------------------
+
+I spent years as an RN in cardiac & diabetes care. Initially I was impressed with this app, but found it to be regularly grossly inaccurate, representing daily sodium “sums” as being lower than actual sums.
+
+
+review id: 829
+
+matches and contexts:
+
+match = vitam
+context = e extreme, more to keep track of my nutrients and vitamins.
+
+
+id: 829 | rating: 4 | user: nicolelewellyn | date: 2021-01-18 | time: 06:27:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Great way of keeping track
+--------------------------------------------------------------------
+
+This app really keeps me in perspective of what I’m eating in terms of calories, carbs, fat, and protein. I eat less processed food and more fruits and veggies. The only complaint is that my recommended calorie intake is only at about 1700. That’s a bit low even for someone with a small frame like mine. I do not follow the calorie tracker to the extreme, more to keep track of my nutrients and vitamins.
+
+
+review id: 843
+
+matches and contexts:
+
+match = micro
+context = g about each meal and ONE snack) or customize the micronutrients. Why did I pay for this again?! The
+
+
+id: 843 | rating: 1 | user: threeedgedsword | date: 2021-02-09 | time: 19:30:42.000Z
+
+--------------------------------------------------------------------
+                      Title: garbage
+--------------------------------------------------------------------
+
+This app doesn’t deserve a single star. MyFitnessPal’s free version is way better than this garbage. Lifesum doesn’t update your weight when you update it on apple health. There’s no way to customize your food diary meals setting (I like whole day instead of worrying about each meal and ONE snack) or customize the micronutrients. Why did I pay for this again?! The premium for MyFitnessPal allows you to customize so much more, even MyFitnessPal’s free version is more customizable. I want a refund. I used this app for a total of maybe four days. I hate the UI.
+
+
+review id: 899
+
+matches and contexts:
+
+match = phosp
+context = e oxidation, the citric acid cycle, and oxidative phosphorylation. All these processes keep your bod
+
+
+id: 899 | rating: 1 | user: LookAtACellBioTextbook | date: 2019-02-07 | time: 18:15:02.000Z
+
+--------------------------------------------------------------------
+                      Title: This app recommends STARVATION
+--------------------------------------------------------------------
+
+Hi, prospective doctor here. For people attempting to lose weight, this app recommends you undergo “two days of fasting” or the keto diet. Both of these options cut out sugar which is necessary for glycolysis, the metabolic pathway that fuels your body and synthesizes the ATP and Pyruvate that is used for Pyruvate oxidation, the citric acid cycle, and oxidative phosphorylation. All these processes keep your body alive and functioning. Eliminating glucose long term will lead to muscle deterioration and in severe cases, keto acidosis or self-canibalisation. Both are LIFE THREATENING. I suggest seeking a nutritionist who knows the bodily processes and not a trendy app that favors body image above health.
+
+
+review id: 927
+
+matches and contexts:
+
+match = Sodium
+context = ion on food beyond (usually wrong) Carbs/Fat/Cals/Sodium and Potasium. I should have saved my money 
+
+
+id: 927 | rating: 2 | user: Arazonan | date: 2019-08-05 | time: 02:12:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Looks nice but wrong info and mostly useless
+--------------------------------------------------------------------
+
+Food nutrition info is wrong for most foods I  scan. Doesn’t integrate much or at all with apple health. Diet plans are sparse and don’t include popular options. Doesn’t give detailed nutritional information on food beyond (usually wrong) Carbs/Fat/Cals/Sodium and Potasium. I should have saved my money and used a spreadsheet. I could do better myself in Excel in 4-5 hours. I seriously can’t believe they charge $9.99 a month for this.  This is a total rip off.
+
+
+review id: 952
+
+matches and contexts:
+
+match = iod
+context = iption. I thought I cancelled during the trial period just to find out I’ve been charged $50. It too
+
+
+id: 952 | rating: 1 | user: Kwon'd | date: 2018-11-30 | time: 04:57:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Too many pitfalls
+--------------------------------------------------------------------
+
+The app is beautifully designed but horrible when it comes to managing the subscription. I thought I cancelled during the trial period just to find out I’ve been charged $50. It took a Google search for me to figure out how to manage the subscription and there isn’t a cancel button- it’s just on auto renew! BTW I’m calling my lawyer to see if that’s even legal. I should be able to opt out at any time with the guarantee it won’t auto renew. Also, you have to pay to connect the app to your Fitbit- boooooo!
+
+
+review id: 977
+
+matches and contexts:
+
+match = vitam
+context = aying for premium but I wish the app also tracked vitamins and minerals. I am a vegan and I need to 
+
+
+id: 977 | rating: 4 | user: acortez0512 | date: 2019-08-06 | time: 17:07:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Good but could use some new information
+--------------------------------------------------------------------
+
+I love the app and paying for premium but I wish the app also tracked vitamins and minerals. I am a vegan and I need to make sure I am getting all my vitamins as well. Myfitpal tracks vitamins but I picked Lifesum because it takes my workouts right off my Apple Watch. If you guys could add vitamin tracking this app would be amazing.
+
+
+review id: 1004
+
+matches and contexts:
+
+match = vitam
+context = ize and a full list of nutrients showed up (iron, vitamins etc) but this app definitely keeps me on 
+
+match = iron
+context = ttle size and a full list of nutrients showed up (iron, vitamins etc) but this app definitely keeps 
+
+
+id: 1004 | rating: 4 | user: periodic_encounters | date: 2018-10-16 | time: 14:35:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Almost perfect!
+--------------------------------------------------------------------
+
+Great for tracking calories and macros! Wish the water units were customizable for any bottle size and a full list of nutrients showed up (iron, vitamins etc) but this app definitely keeps me on track with my marathon training and general living! Just wish there were some small changes to track even more.
+
+
+review id: 1060
+
+matches and contexts:
+
+match = sodium
+context = eating habits. I wish it would total my carbs and sodium for me. It probably would if I paid for it😒
+
+
+id: 1060 | rating: 4 | user: mrdial22 | date: 2018-10-03 | time: 22:55:37.000Z
+
+--------------------------------------------------------------------
+                      Title: New to the app
+--------------------------------------------------------------------
+
+I suffer from chronic migraines, so that is why I got this app, to help track my eating habits. I wish it would total my carbs and sodium for me. It probably would if I paid for it😒 otherwise easy to use app and my 21 yo son is using it as well to help motivate him as he wants to bulk up and exercise and possibly enlist in the military. He likes the app as well.
+
+
+review id: 1086
+
+matches and contexts:
+
+match = micro
+context =  love the art designs. I just wish we could track micronutrients as well, like vitamins and minerals
+
+match = vitam
+context =  wish we could track micronutrients as well, like vitamins and minerals. I think it’d be really easy
+
+
+id: 1086 | rating: 5 | user: Brostow | date: 2020-09-12 | time: 18:07:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to Use
+--------------------------------------------------------------------
+
+Very straightforward and I love the art designs. I just wish we could track micronutrients as well, like vitamins and minerals. I think it’d be really easy to implement since we can scan the barcode for most of the information anyway.
+
+
+review id: 1312
+
+matches and contexts:
+
+match = iod
+context = ggested that i refund my app before the refund period passed. doesn’t sound like they have any plans
+
+
+id: 1312 | rating: 2 | user: prettysmart95 | date: 2018-07-20 | time: 18:53:24.000Z
+
+--------------------------------------------------------------------
+                      Title: not worth the purchase
+--------------------------------------------------------------------
+
+i really liked this app, until i purchased the premium version. i purchased the premium version because i liked the idea of it tracking my exercise automatically from my watch. but after several months the premium version has not worked consistently at all. i delete and re-download this app at least once a week to get the tracker to start working again. after contacting customer service they suggested that i refund my app before the refund period passed. doesn’t sound like they have any plans to fix this issue. so in short, great app. just don’t waste your money on the premium version.
+
+
+review id: 1341
+
+matches and contexts:
+
+match = vitam
+context = This app would be a lot better if it included vitamins and easier to find food on the search. I’
+
+
+id: 1341 | rating: 3 | user: cswaggs1 | date: 2018-01-01 | time: 16:53:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs improvement but will get job done
+--------------------------------------------------------------------
+
+This app would be a lot better if it included vitamins and easier to find food on the search. I’ve tested this one out but I’m going to back to MyFitnessPal. Cool app, very creative but spent too much time trying to search for food I just ate even from chain restaurants.
+
+
+review id: 1498
+
+matches and contexts:
+
+match = vitam
+context = abits too customized for goals like meditation or vitamins
+
+
+id: 1498 | rating: 5 | user: Dollhouse86 | date: 2019-07-25 | time: 05:13:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Visually very nice
+--------------------------------------------------------------------
+
+Enjoying this app .. easy to enter foods and I like that it tracks water .. would love to be able to track a couple other health habits too customized for goals like meditation or vitamins
+
+
+review id: 1513
+
+matches and contexts:
+
+match = micro
+context = igned, but the lack of Health App integration for micronutrients, macronutrients, etc. is a dealbrea
+
+
+id: 1513 | rating: 3 | user: Somebody who can read. | date: 2021-04-08 | time: 22:53:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Close, but missing integration
+--------------------------------------------------------------------
+
+I so want to use this app and become a member. It is so well designed, but the lack of Health App integration for micronutrients, macronutrients, etc. is a dealbreaker. Hopefully this changes soon in an update. Until then, I’ll have to stick with competitors who write values to the Health App for macro and micro nutrients.
+
+
+review id: 1526
+
+matches and contexts:
+
+match = sodium
+context = ing to my iPhone ‘s nutrition information such as sodium, carbs, fats, and cholesterol
+
+
+id: 1526 | rating: 5 | user: penae65 | date: 2019-08-06 | time: 15:40:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Great
+--------------------------------------------------------------------
+
+I have really enjoyed the premium service and it has helped. Only problem I’ve had is it not connecting to my iPhone ‘s nutrition information such as sodium, carbs, fats, and cholesterol
+
+
+review id: 1578
+
+matches and contexts:
+
+match = vitam
+context = uld be nice if it had more nutritional info, like vitamins and other important stuff.
+
+
+id: 1578 | rating: 4 | user: klockem | date: 2020-04-30 | time: 02:11:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+Loving this app, if there was one thing I could say, it would be the measurement system is a little frustrating. And it would be nice if it had more nutritional info, like vitamins and other important stuff.
+
+
+review id: 1684
+
+matches and contexts:
+
+match = vitam
+context = this app! Could I suggest a place to put in daily vitamins and supplements? Perhaps a daily checklis
+
+
+id: 1684 | rating: 4 | user: Crystalleyezedreams | date: 2019-03-16 | time: 03:10:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Suggestion to add a vitamin section!
+--------------------------------------------------------------------
+
+I love this app! Could I suggest a place to put in daily vitamins and supplements? Perhaps a daily checklist for them? I take gummy vitamins so they do have calories but I did not see anywhere to input them.
+
+
+review id: 1709
+
+matches and contexts:
+
+match = vitam
+context = ate, to my knowledge it still has no way to track vitamins, I think this was money wasted.
+
+
+id: 1709 | rating: 2 | user: tcoyne89 | date: 2019-09-11 | time: 18:35:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Still No Way to track Vitamin Intake
+--------------------------------------------------------------------
+
+Decent app, but considering I paid for it and to date, to my knowledge it still has no way to track vitamins, I think this was money wasted.
+
+
+review id: 1716
+
+matches and contexts:
+
+match = vitam
+context = would give it 4 stars because no tracking for all vitamins.
+
+
+id: 1716 | rating: 4 | user: Ishuaib | date: 2020-10-09 | time: 09:11:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Great but need vitamins tracking
+--------------------------------------------------------------------
+
+I enjoy this great app with premium membership, but i would give it 4 stars because no tracking for all vitamins.
+
+
+review id: 1778
+
+matches and contexts:
+
+match = iod
+context = ven results or at least providing a free trial period, I’m not paying for something I am not certain
+
+
+id: 1778 | rating: 1 | user: kitebarbie | date: 2019-02-25 | time: 14:22:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Have to pay for EVERYTHING
+--------------------------------------------------------------------
+
+Although this app is free to get, you can’t really use it unless you pay for premium or buy one of their plans. Without proven results or at least providing a free trial period, I’m not paying for something I am not certain works well. Too bad bc it is a well laid out app, but useless and proves to be yet another fishing app without a free trial.
+
+
+review id: 1862
+
+matches and contexts:
+
+match = iod
+context = he time passing until you complete the fasting period and descriptions of what is going on in your b
+
+
+id: 1862 | rating: 4 | user: keylagonz | date: 2020-12-30 | time: 11:11:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Fasting tracker
+--------------------------------------------------------------------
+
+Great app but I would like you to add a fasting tracker that counts the time passing until you complete the fasting period and descriptions of what is going on in your body while you fast.
+
+
+review id: 1864
+
+matches and contexts:
+
+match = vitam
+context = Try logging vitamins, say fish oil which has caloric impact. C
+
+
+id: 1864 | rating: 2 | user: har1103 | date: 2020-05-11 | time: 23:05:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Falls well short of what other apps already do
+--------------------------------------------------------------------
+
+Try logging vitamins, say fish oil which has caloric impact. Can't. Hard to give up something that just works like myfitnesspal for sparkly shiny circle graphics. Substance isn't here. Waste of time, and it's $44 to set up macros. On the plus side great app for fools and imbeciles.
+
+
+review id: 1913
+
+matches and contexts:
+
+match = sodium
+context = mportant things such as grams of fiber, sugar and sodium without you paying for Premium. If premium 
+
+
+id: 1913 | rating: 1 | user: Kristinnnnnnnnnnn | date: 2018-07-23 | time: 23:43:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Too expensive.
+--------------------------------------------------------------------
+
+This app is easy to use and has great aesthetics but won’t give you access to important things such as grams of fiber, sugar and sodium without you paying for Premium. If premium were $10 a year I’d pay for it, but $50 is expensive as hell for an app. Insane that there are no good free or reasonably priced macro tracking apps anymore.
+
+
+review id: 1990
+
+matches and contexts:
+
+match = micro
+context = s and this one really helps me track my meals and micronutrients.
+
+
+id: 1990 | rating: 5 | user: terimayer | date: 2020-08-19 | time: 23:09:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+I have tried many apps and this one really helps me track my meals and micronutrients.
+
+
+review id: 1994
+
+matches and contexts:
+
+match = micro
+context = o EVERYTHING on. I could not even get an accurate micro on a cup of coffee without much searching. T
+
+
+id: 1994 | rating: 1 | user: Lunxr3 | date: 2020-12-15 | time: 17:55:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Not easy or accurate to use
+--------------------------------------------------------------------
+
+Unfortunately there are way too many foods listed in this app which are wildly incorrect in the macros. Having used a free app prior to this, it was easier to do EVERYTHING on. I could not even get an accurate micro on a cup of coffee without much searching. This is not an on the fly food diary
+
+
+review id: 2102
+
+matches and contexts:
+
+match = vitam
+context = ase. I wish it tracked nutrients like calcium and vitamins in the same way it tracks carbs/protein/f
+
+match = calci
+context =  Solid database. I wish it tracked nutrients like calcium and vitamins in the same way it tracks car
+
+
+id: 2102 | rating: 4 | user: i_likedirt | date: 2021-05-22 | time: 14:05:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Nice app overall.
+--------------------------------------------------------------------
+
+Easy to use, good design, I like that it has a positive tone. Solid database. I wish it tracked nutrients like calcium and vitamins in the same way it tracks carbs/protein/fat.
+
+
+review id: 2170
+
+matches and contexts:
+
+match = vitam
+context = her food logging apps.. this does not seem to log vitamins or minerals at all.
+
+
+id: 2170 | rating: 2 | user: Greggerzz | date: 2017-10-11 | time: 21:39:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Great interface but foods don’t log vitamins
+--------------------------------------------------------------------
+
+I love the interface of this app! I would love to use this compared to what I’m using now, but it’s just not as precise as some of the other food logging apps.. this does not seem to log vitamins or minerals at all.
+
+
+review id: 2273
+
+matches and contexts:
+
+match = micro
+context = y eating habits, water intake and distribution of micros. I stopped having cravings. Great App!
+
+
+id: 2273 | rating: 5 | user: Izabela9 | date: 2020-06-21 | time: 17:41:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+This App is a life changing experience! It made me aware of my eating habits, water intake and distribution of micros. I stopped having cravings. Great App!
+
+
+review id: 2280
+
+matches and contexts:
+
+match = micro
+context = terface and is really cute. I wish it could track micronutrients though, it would make the app more 
+
+
+id: 2280 | rating: 3 | user: AlexanderRohrig | date: 2018-01-30 | time: 18:09:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Micronutrients & Vitamins
+--------------------------------------------------------------------
+
+This app is has a great interface and is really cute. I wish it could track micronutrients though, it would make the app more useful.
+
+
+review id: 2342
+
+matches and contexts:
+
+match = micro
+context = ht the 3 month subscription, but it doesn’t track micronutrients. It doesn’t really do anything spec
+
+
+id: 2342 | rating: 1 | user: LmmMMMMMlnmkmkkkil | date: 2018-07-16 | time: 11:18:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Useless
+--------------------------------------------------------------------
+
+I bought the 3 month subscription, but it doesn’t track micronutrients. It doesn’t really do anything special that you can’t find elsewhere for free. I asked for my money back after an hour, but they won’t refund.
+
+
+review id: 2554
+
+matches and contexts:
+
+match = iod
+context =  of anything I’d consider buying after my free period is over.
+
+
+id: 2554 | rating: 4 | user: Brookliey C. | date: 2020-04-26 | time: 13:41:26.000Z
+
+--------------------------------------------------------------------
+                      Title: So many great features, but can be difficult to use.
+--------------------------------------------------------------------
+
+I’ve actually enjoyed the many many features that are all bundled into this one app, and I don’t think any app can compare! However, I think there’s still some bugs and things that make it less easy to use. For one, sometimes you can scan the barcode of the food you ate (thinking it’ll be faster and easier), but then the calories that Lifesum logs are actually different from the calories on the package with the same serving size. I’m often having to jerry-rig the serving size to make it match the package because even an extra ten calories can make the app give you a frowny-face for the meal. Secondly, maybe it’s just my account specifically, but my weight is never recorded in permanence in the weight log. Everyday that I log my weight, it starts me right back off where I weighed before I started using the app, saying “wow you lost 5 pounds today!” when really I lost one pound and the other lost pounds were logged on previous days. In my calendar of weight statistics, it’s a stagnant, flat line from my goal weight for about a week and then will drop down as soon as I update it. Tomorrow, though, it’ll pretend I never logged a change yesterday and go right back to my starting weight. Lastly, I wish that the units the servings were marked in was more clear. Often “pieces” will actually mean the one serving size as mentioned on the package of the food, yet pieces makes you want to type in te NUMBER OF PIECES you ate. Like pizza rolls. “One pieces” is actually 6 pieces and 220 calories. In spite of all this, I think the app is beautiful in design and I love how many features are available. I also think that premium might not be worth it... I’m using premium now during a free month trial, and I don’t feel like it gave me a whole lot more. I don’t feel like having this premium month gave me a taste of anything I’d consider buying after my free period is over.
+
+
+review id: 2655
+
+matches and contexts:
+
+match = iod
+context = s horrible.  Unbelieveably bad.  And the trial period is whoops! there is no trial period I just spe
+
+
+id: 2655 | rating: 2 | user: Huitzilopotchl1 | date: 2020-11-25 | time: 19:50:10.000Z
+
+--------------------------------------------------------------------
+                      Title: bought because I could add recipes
+--------------------------------------------------------------------
+
+turns out the recipe and food editor is horrible.  Unbelieveably bad.  And the trial period is whoops! there is no trial period I just spent $50 apparently.
+
+
+review id: 2691
+
+matches and contexts:
+
+match = vitam
+context = ipe, which you have to pay for. Also doesn't show vitamin intake like MFP does. Only shows carbs, fa
+
+
+id: 2691 | rating: 1 | user: vanessa sings badly | date: 2017-09-26 | time: 02:04:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Not worth it if you don't have premium
+--------------------------------------------------------------------
+
+It's exactly like my fitness pal except for the recipe, which you have to pay for. Also doesn't show vitamin intake like MFP does. Only shows carbs, fat, and protein
+
+
+review id: 2744
+
+matches and contexts:
+
+match = SODIUM
+context = LLY SAYS AIR CONTAINS NATURAL SUGAR AND IS LOW IN SODIUM DUDE
+
+
+id: 2744 | rating: 1 | user: yellowtoom | date: 2021-02-10 | time: 13:44:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs review BAD
+--------------------------------------------------------------------
+
+IT LITERALLY SAYS AIR CONTAINS NATURAL SUGAR AND IS LOW IN SODIUM DUDE
+
+
+review id: 2989
+
+matches and contexts:
+
+match = iod
+context = Canceled my subscription before the free trail period ended and they still charged me!!!
+
+
+id: 2989 | rating: 1 | user: Dont do a feee trail | date: 2020-01-15 | time: 19:19:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Don’t fall for the free trail
+--------------------------------------------------------------------
+
+I wanted the 7 day free trial, ended up not likening the app. Canceled my subscription before the free trail period ended and they still charged me!!!
+
+
+review id: 3043
+
+matches and contexts:
+
+match = vitam
+context = Wish is gave more nutritional infor like vitamins and minerals.
+
+
+id: 3043 | rating: 3 | user: QueenDiane28 | date: 2018-08-15 | time: 13:07:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Nutrition
+--------------------------------------------------------------------
+
+Wish is gave more nutritional infor like vitamins and minerals.
+
+
+review id: 3078
+
+matches and contexts:
+
+match = iod
+context = But there’s no free trial period for premium. Most apps give the option of test
+
+
+id: 3078 | rating: 3 | user: CxxSxx7 | date: 2019-10-09 | time: 15:13:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Okay...
+--------------------------------------------------------------------
+
+But there’s no free trial period for premium. Most apps give the option of testing out premium for a week for free which gives the user the option of purchasing a membership if they found the app to be phenomenal. I kept trying to see if there was a free trial period, but all they offered was a 30% off premium and like a dummy, I caved. Now, I’m stuck between continuing the membership for the $30 something I paid for or just dealing with the fact that I wasted $30 something dollars on an app I feel like I got stuck with because a lot of the reviews claim it’s hard to get the refund. Aside from this, the app is okay.
+
+
+review id: 3124
+
+matches and contexts:
+
+match = micro
+context = Good app. Add macro and micro nutrients capture and it will be great
+
+
+id: 3124 | rating: 3 | user: Shongboyo | date: 2019-10-28 | time: 21:41:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Shongboyo
+--------------------------------------------------------------------
+
+Good app. Add macro and micro nutrients capture and it will be great
+
+
+review id: 3165
+
+matches and contexts:
+
+match = vitam
+context = . I would also like to see more nutritional data (vitamins and minerals). I feel like most of their 
+
+
+id: 3165 | rating: 4 | user: CE360 | date: 2017-04-05 | time: 19:41:48.000Z
+
+--------------------------------------------------------------------
+                      Title: I'm enjoying it!
+--------------------------------------------------------------------
+
+This is the first time I've ever tracked my food or paid close attention to how many calories I'm consuming every day. I'm not trying to lose much weight.. just working to get into better shape and improve my overall health. I really like using Lifesum so far. It integrates nicely with the Apple Watch, and my suggested intake changes based on my activity throughout the day. I love that you can add your own recipes and save meals! These features, along with the ability to save favorite foods will eventually save me lots of time logging food going forward. I also find that I save time by planning my meals in advance vs. logging each meal throughout the day. I haven't tried any of their recipes yet, but it looks like they have some good ones! Suggestions for improvement: This might be too complicated, but I'd love to see some integration with Allrecipes / the ability to quickly add favorite recipes from this site. I would also like to see more nutritional data (vitamins and minerals). I feel like most of their plans are a little crazy with the suggested daily protein intake (it's usually very high). All in all, though, the only thing that's really disappointed me is that I recommended this app to my mother and after a few days it wouldn't let her use it anymore unless she upgraded to a premium membership. I was under the impression that you could still use basic features without upgrading.
+
+
+review id: 3212
+
+matches and contexts:
+
+match = sodium
+context = it won't let you scroll all the way down to enter sodium and fiber. Also, the custom minutes on exer
+
+
+id: 3212 | rating: 4 | user: SarahG0529 | date: 2009-07-14 | time: 20:44:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App!
+--------------------------------------------------------------------
+
+This is a great app! Works much better than trying to keep a paper food journal. Love the ablity to take before and after pictures. BIG + is being able to start over and erase profile. I downloaded this a few versions back and used it for a while then kinda got off the bandwagon. Well, I am back on and it's great to be able to have a fresh start with this app. Food library is great. I did notice with this latest version when you add a food it won't let you scroll all the way down to enter sodium and fiber. Also, the custom minutes on exercise is not working quite right. Hopefully these minor bugs will be fixed so they work right again. These developers are doing a great job and I expect them to keep up the good work!
+
+
+review id: 3227
+
+matches and contexts:
+
+match = iron
+context = carb,fat,protein intake maybe something different iron for example or Ect. although it is very helpf
+
+
+id: 3227 | rating: 4 | user: Lizzie XD | date: 2017-07-10 | time: 22:45:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Fit and Fun !!! 💪🏼🔥👏🏼
+--------------------------------------------------------------------
+
+This is a great app if your are looking to gain,maintain,or lose weight it also keeps you on track to get moving when I look over the day It encourages me to do 30 or more exercise daily it helps me keep track of my water intake and let's me know how healthy I'm eating or how healthy a certain product or food I'm eating is they do offer recipes but I don't follow them exact because I personally believe everyone's intake is different but it gives you great ideas I do wish that they could show more then your carb,fat,protein intake maybe something different iron for example or Ect. although it is very helpful and Add possibly your daily fruit intake or less restriction to none paying members ?
+
+
+review id: 3228
+
+matches and contexts:
+
+match = sodium
+context = oes a breakdown of everything including sugar and sodium and it lets me know if my diet is balanced 
+
+
+id: 3228 | rating: 5 | user: Ecstasyspeaking | date: 2017-07-31 | time: 16:28:00.000Z
+
+--------------------------------------------------------------------
+                      Title: My go to
+--------------------------------------------------------------------
+
+I love Lifesum. I have used loseit and other trackers in the past but I really enjoy this one. I feel as though it is more accurate, it does a breakdown of everything including sugar and sodium and it lets me know if my diet is balanced or not. It tells me to eat more fish or if I need to eat more calories. It is all based on the plan you pick and there are many to choose from. It also has a water tracker that you can track either glasses or bottles. usually I will start tracking my food and then quit but with this one I stay tracking, even if I eat bad. It sends me reminders to log my meals but it doesn't hound me with notifications. Like my title states, it's my go to.
+
+
+review id: 3237
+
+matches and contexts:
+
+match = iod
+context = how much weight you should lose over a certain period of time. It also keeps track of what you eat b
+
+
+id: 3237 | rating: 3 | user: Nellybelly61008 | date: 2017-01-13 | time: 15:46:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Crashes
+--------------------------------------------------------------------
+
+I was absolutely loving this app until about a day and a half in and when it started crashing instantly every time I open it. I've been trying for the past day to be able to get it open again but it won't. So it's awesome until it quit working. You put in your height, weight, age, your goal weight and it'll estimate how much weight you should lose over a certain period of time. It also keeps track of what you eat by entering in the name or scan the barcode and just hit The button and it'll calculate all the calories you had for that meal. It'll tell you if you've had too many or too little calories for that day and it will also keep track of how much water you drink by just tapping on a little picture of a glass.
+
+
+review id: 3252
+
+matches and contexts:
+
+match = micro
+context =  view the entire day and sum of all the macro and micro nutrients like myfitnesspal does so I know h
+
+
+id: 3252 | rating: 5 | user: Angelica varriano | date: 2016-02-01 | time: 21:07:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it, but...
+--------------------------------------------------------------------
+
+I enjoy this app much more than myfitnesspal because you have the option to measure your food in grams which works for my lifestyle. However I would like more options and customization when it comes to setting goals and counting macros. Sometimes the diet and percentages don't match the goals Im trying to reach and would like to set my macros in grams per day. Also would like a tab to view the entire day and sum of all the macro and micro nutrients like myfitnesspal does so I know how many macros I have, or don't have left.
+
+
+review id: 3294
+
+matches and contexts:
+
+match = micro
+context = vely, you have to pay to be able to track all the micro-nutrients.
+
+
+id: 3294 | rating: 5 | user: Ragrig | date: 2016-06-11 | time: 17:20:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Useful for Bodybuilding
+--------------------------------------------------------------------
+
+I love this app, because not only does it help you track your macro-nutrient requirements and caloric intake, it gives you ratings of the food you're eating. It reminds me to stay hydrated as well. You can also track your exercises and it will change your macros based on exercise. The only problem is that it doesn't have all the exercises you would do in the gym, but I usually assume all chest workouts under the "push-ups" category. Also negatively, you have to pay to be able to track all the micro-nutrients.
+
+
+review id: 3330
+
+matches and contexts:
+
+match = sodium
+context = s.  Tap water is a bad choice because of too much sodium, salad dressing,  very poor guidance on whi
+
+
+id: 3330 | rating: 5 | user: Londyn lover | date: 2015-09-09 | time: 18:02:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Lifesum
+--------------------------------------------------------------------
+
+So easy to use!!! Motivating!!! Fast, no searching around trying to add foods.  Scanner speeds  thing up.   Love it!  I am losing weight with it.   This is the best I have ever used.    I like it better than weight watchers.   Wish it had more exercises but I manage with what the have.! Do not upgrade.   It is very inaccurate on its grading method of foods. Same item can be entered twice with different values.  Tap water is a bad choice because of too much sodium, salad dressing,  very poor guidance on which to choose.
+
+
+review id: 3390
+
+matches and contexts:
+
+match = vitam
+context = l would be some type of nutrient tracker as well (vitamins, minerals). I am a vegetarian and it's di
+
+
+id: 3390 | rating: 5 | user: Benq384 | date: 2010-01-31 | time: 17:46:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Really cool app
+--------------------------------------------------------------------
+
+This app basically has everything you need in a weight loss app. Includes downloadable nutrition info from other users, calorie goals, water intake, exercise, waist measurement, body fat, and more. What might be useful would be some type of nutrient tracker as well (vitamins, minerals). I am a vegetarian and it's difficult for me to recognize which nutrients i'm lacking. But this is a weight loss tracker after all, so it's not entirely necessary, I guess.
+
+
+review id: 3426
+
+matches and contexts:
+
+match = sodium
+context = t even track basic nutrition information like the sodium of a meal without premium. Myfitnesspal bea
+
+
+id: 3426 | rating: 4 | user: tomatillo22 | date: 2017-01-11 | time: 01:20:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for the most part
+--------------------------------------------------------------------
+
+He app is awesome and the interface I find to be much cleaner and more attractive than myfitnesspal. Premium appears to offer a bunch of neat diet plans and the app will help you see how well your meals are in line with your chosen diet. However, I don't like that you can't even track basic nutrition information like the sodium of a meal without premium. Myfitnesspal beats them on that. All in all though I like the app and will continue to use it.
+
+
+review id: 3489
+
+matches and contexts:
+
+match = iod
+context =  either.  Wish they would allow for free trial period, i would have probably got my money back.
+
+
+id: 3489 | rating: 3 | user: jenjenjesus | date: 2017-09-05 | time: 00:06:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Good but needs some work
+--------------------------------------------------------------------
+
+Good app, however, doesn't have a food database to search from, so you have to manually enter or scan a barcode.  Also crashes a lot.  There is also only a 3 main meal and 1 snack option, so those of us that he 5-6 meals a day have to log it under the same category.  Won't rotate to landscape when using on ipad either.  Wish they would allow for free trial period, i would have probably got my money back.
+
+
+review id: 3693
+
+matches and contexts:
+
+match = iod
+context = ay! Someone please fix this so it updates more periodically throughout the day!
+
+
+id: 3693 | rating: 3 | user: Missyjay11 | date: 2016-07-29 | time: 02:07:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Takes forever to connect my Fitbit
+--------------------------------------------------------------------
+
+It will only update my Fitbit info (calories burned) twice a day. Once in the morning time and once at night. It makes it EXTREMELY difficult to plan meals since I don't know how many calories I have burned until I'm already done eating for the day! Someone please fix this so it updates more periodically throughout the day!
+
+
+review id: 3838
+
+matches and contexts:
+
+match = vitam
+context = tional information in it, like the types of fats, vitamins etc. Would make me feel a lot better abou
+
+
+id: 3838 | rating: 4 | user: carol98puuuuuliiii | date: 2017-03-13 | time: 03:46:30.000Z
+
+--------------------------------------------------------------------
+                      Title: It's great but could be better!
+--------------------------------------------------------------------
+
+The app is really good, but it would be a lot better if you could add some more nutritional information in it, like the types of fats, vitamins etc. Would make me feel a lot better about buying the year subscription.
+
+
+review id: 3898
+
+matches and contexts:
+
+match = sodium
+context = at the subscription does allow me to track sugar, sodium, body fat percentage, etc.
+
+
+id: 3898 | rating: 5 | user: Roxi Roxx | date: 2017-06-29 | time: 19:25:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+I love that it gives me feed back on my food choices. I don't have to subscribe to adjust my macros like other apps. I love that the subscription does allow me to track sugar, sodium, body fat percentage, etc.
+
+
+review id: 3933
+
+matches and contexts:
+
+match = vitam
+context = s. Unable to track the rest id things we eat like vitamins, etc. Also a little too pricey. Will dele
+
+
+id: 3933 | rating: 4 | user: Bbellla | date: 2015-10-14 | time: 19:57:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Very helpfull but too pricey
+--------------------------------------------------------------------
+
+Trying to gain a few pounds and keeping track gives awesome results. Unable to track the rest id things we eat like vitamins, etc. Also a little too pricey. Will delete once free days are up.
+
+
+review id: 3935
+
+matches and contexts:
+
+match = vitam
+context = , cholesterol... I mean putting in  things inside vitamin supplements. There is no category for them
+
+match = sodium
+context = great if they allowed one to input more that just sodium, cholesterol... I mean putting in  things i
+
+
+id: 3935 | rating: 4 | user: Customer1837574 | date: 2016-01-05 | time: 16:46:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Great but could be better
+--------------------------------------------------------------------
+
+I love this app. But it would be great if they allowed one to input more that just sodium, cholesterol... I mean putting in  things inside vitamin supplements. There is no category for them, so although their good for the body the app marks it as D, not too many nutrients.
+
+
+review id: 4066
+
+matches and contexts:
+
+match = iod
+context = Best health app out there period! The choices in diet are perfect and so essent
+
+
+id: 4066 | rating: 5 | user: Rnprac | date: 2016-04-21 | time: 19:49:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing
+--------------------------------------------------------------------
+
+Best health app out there period! The choices in diet are perfect and so essential because not everyone can follow the same diet plan. I have gluten allergies and I tend to eat more fat than carbs . This app rocks my life
+
+
+review id: 4071
+
+matches and contexts:
+
+match = vitam
+context = almost everything I would like to see a place for vitamins and supplements on the tracker though. Th
+
+
+id: 4071 | rating: 4 | user: Ani886 | date: 2015-12-27 | time: 15:02:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+I'm really enjoying the app. I just downloaded it yesterday and I'm loving it. It has almost everything I would like to see a place for vitamins and supplements on the tracker though. That would make it the best!
+
+
+review id: 4196
+
+matches and contexts:
+
+match = vitam
+context = Very useful for length your intakes of each vitamin protein and a lot of things more that you 
+
+
+id: 4196 | rating: 5 | user: Michiprimo | date: 2016-11-04 | time: 05:23:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Great application
+--------------------------------------------------------------------
+
+Very useful for length your intakes of each vitamin protein and a lot of things more that you body needs in the day by day!
+
+
+review id: 4354
+
+matches and contexts:
+
+match = micro
+context = things like daily sodium intake, fiber, and other micros.
+
+match = sodium
+context = ay for a premium account to see things like daily sodium intake, fiber, and other micros.
+
+
+id: 4354 | rating: 3 | user: RHSMoxie | date: 2017-02-09 | time: 17:09:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Pros and Cons
+--------------------------------------------------------------------
+
+Solid app, easy to track calories, workouts, and water.  Aesthetic layout.  Sort of a pain that you have to pay for a premium account to see things like daily sodium intake, fiber, and other micros.
+
+
+review id: 4514
+
+matches and contexts:
+
+match = iod
+context = consistently you will lose weight and get fit. Period.
+
+
+id: 4514 | rating: 5 | user: IllScribe | date: 2017-03-10 | time: 17:38:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+If used consistently you will lose weight and get fit. Period.
+
+
+review id: 4595
+
+matches and contexts:
+
+match = sodium
+context = y, it restricts important health information like sodium and saturated fat intake to the paid subscr
+
+
+id: 4595 | rating: 2 | user: Ldodge24 | date: 2015-12-12 | time: 03:17:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Lack of flexibility
+--------------------------------------------------------------------
+
+This app does not allow the user much flexibility in diet plan. It teaches users that potentially unsafe diets are normal or ever healthier than simply eating a diet of moderation in everything. Additionally, it restricts important health information like sodium and saturated fat intake to the paid subscription.
+
+
+review id: 4621
+
+matches and contexts:
+
+match = vitam
+context = free version is kind of nice but doesn't show you vitamins or sodium and they want you to pay $36 a 
+
+match = sodium
+context =  is kind of nice but doesn't show you vitamins or sodium and they want you to pay $36 a year for the
+
+
+id: 4621 | rating: 2 | user: Janice McManus | date: 2015-10-13 | time: 05:35:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Too Expensive
+--------------------------------------------------------------------
+
+The free version is kind of nice but doesn't show you vitamins or sodium and they want you to pay $36 a year for the full version. Charge one or two bucks and be done with it. I uninstalled.
+
+
+review id: 5112
+
+matches and contexts:
+
+match = vitam
+context = pp, but it doesn't give you the breakdown of your vitamins. Apps like MyFitnessPal tell me how much 
+
+
+id: 5112 | rating: 2 | user: Mommy's_watiting | date: 2016-01-12 | time: 10:33:48.000Z
+
+--------------------------------------------------------------------
+                      Title: It's ok, but not comparable to other apps
+--------------------------------------------------------------------
+
+I do like this app, but it doesn't give you the breakdown of your vitamins. Apps like MyFitnessPal tell me how much Vitamin A I've had, or Vitamin C ETC.
+
+
+review id: 5316
+
+matches and contexts:
+
+match = iod
+context = I seriously wish this app was 2.99 period. You have to pay 8.99 a MONTH. Don't waste you
+
+
+id: 5316 | rating: 1 | user: Ana_Love98 | date: 2015-10-27 | time: 19:29:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome concept but WAY TO EXPENSIVE
+--------------------------------------------------------------------
+
+I seriously wish this app was 2.99 period. You have to pay 8.99 a MONTH. Don't waste your time with the 3 day trial
+
+
+review id: 5372
+
+matches and contexts:
+
+match = sodium
+context = Tracks water. It does not track sodium although screen shots of the upcoming versi
+
+
+id: 5372 | rating: 2 | user: Goody2211 | date: 2009-06-21 | time: 17:16:57.000Z
+
+--------------------------------------------------------------------
+                      Title: User updatable online database a good think, but a fiasco in practice; Cumbersome to add food/recipe
+--------------------------------------------------------------------
+
+Tracks water. It does not track sodium although screen shots of the upcoming version suggest that sodium will be trackable. While you can enter total fat, you cannot break out the saturated fat or trans-fatty acid numbers. It covers the other major nutritional items and gives you the daily totals of each. Foods are in categories and that works most of the time. However, why are muffins under snacks and not under breads? You can edit just about everything, and there's a trash can where you can go and undelete an item you've deleted. I can add an exercise and edit it. I can "edit" a database exercise but the only thing I can change is the name. Can edit everything about custom foods as well as database foods. When I add a new food to the database, I can't enter the nutritional information by serving as it is listed on the food label -- I have to enter it based on 1 of whatever measurement I've chosen. While on the one hand this makes sense, on the other, I now have to have a calculator so I can convert the nutritional information from the food label serving size to 1 of my measurement. That's what computers are for -- I don't want to have to have a calculator on hand when I'm doing my data entry into the app. I could enter a recipe from a cookbook that already has the nutritional values as a custom food. However, if I'm cooking a recipe that does not already have the nutritional values I have to figure it all out manually before I enter it as a custom food in this application. When I add a food to my diary, one of the categories I can select is "Brand Name" but it's empty. When I search for a brand food, for example "General Mills" nothing is found, so I have to do an online search. I saved a cereal from my online search for "Genera Mills"; *now* if I go to "Brand Name" category I see an entry. If I search for "Cheerios" on line, there are tons of entries for "Cheerios" -- all different (two different "1 cup" servings had totally different nutritional information) -- so I either have to sift through them all to find the accurate entry for my serving type or I have to create my own entry, which would then end up as still another "Cheerios" entry in the on line database, adding to the chaos. The on line database needs more brand foods and restaurant foods and once that's done, the on line database needs to be cleaned up. That would solve the problem of everyone making their own entries a la this "Cheerios" example. We cannot use this app right now because some of the nutritional items we need to track are not available. When the next version comes out and if tracking the additional nutrition items, cleanup of the online database, food entry with "per serving" data entry of nutritional values, and recipe entry with generating of nutritional values are added we'll be happy to use this app and will change the score.
+
+
+review id: 5375
+
+matches and contexts:
+
+match = vitam
+context = Nice aplication but no have information of vitaminis
+
+
+id: 5375 | rating: 4 | user: Alia0987 | date: 2012-08-25 | time: 12:40:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Good
+--------------------------------------------------------------------
+
+Nice aplication but no have information of vitaminis
+
+
+review id: 5716
+
+matches and contexts:
+
+match = sodium
+context = s saying the slice of bread I’m eating is high in sodium and is processed, show me breads that would
+
+
+id: 5716 | rating: 4 | user: meggravy | date: 2018-10-07 | time: 13:45:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome, but would like to see a few more things
+--------------------------------------------------------------------
+
+I like this app, I like you can choose which plan you want, I like that it shows macros for the day. I like that it tells what is good and bad in food choices, and that it reminds me to eat fruit and fish. I paid for the premium, to get the most out of the app, but these are some things I would like to see: 1) I can edit my macros to my ideal goals. Right now my goal is kinda in the middle of being healthier/cutting fat and gaining muscle. I’m skinny, a tad muscular but have some fat to lose. My macros I like to aim are 30-50/30-40/20. 2) more choices/variety for the “how much”. It’s pretty difficult to exactly see how much I eat or drink but how I would measure it isn’t on the list so it’s difficult to track on the app. 3) recommendations for food products. If it’s saying the slice of bread I’m eating is high in sodium and is processed, show me breads that would be better choices.
+
+

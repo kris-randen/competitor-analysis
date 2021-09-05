@@ -1,0 +1,496 @@
+'Micronutrients' related feature requests in my-macros reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 28
+
+
+review id: 48
+
+matches and contexts:
+
+match = micro
+context = is app is for tracking macros but I wish that the micro nutrients were also tracked. I also think it
+
+
+id: 48 | rating: 3 | user: DianeL123 | date: 2020-12-25 | time: 12:41:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Ok app
+--------------------------------------------------------------------
+
+I’ve tried all the macro tracking apps and generally like this one. I like that you can go to a meal and pick from a list of your most frequent foods logged for that meal which saves a lot of time. I wish that the brand of the food was listed in the preview. I thought that the “categories” of food would be from the custom foods I added and assigned to a category, but my custom food categories don’t seem to be accessible from anywhere. The foods by type and by brand are the app’s database, a lot of it is restaurant food and I don’t eat most of those things. Also, I realize this app is for tracking macros but I wish that the micro nutrients were also tracked. I also think it would be a great feature if recipes found online could be imported instead of having to do it manually.
+
+
+review id: 53
+
+matches and contexts:
+
+match = micro
+context =  have the desire to accurately track their macros/micros this App is the best. I was so fed up by th
+
+
+id: 53 | rating: 5 | user: Agatka_Valentina | date: 2018-06-02 | time: 17:15:04.000Z
+
+--------------------------------------------------------------------
+                      Title: FAR BETTER Than My Fitness Pal
+--------------------------------------------------------------------
+
+It’s not even close. For those who have the desire to accurately track their macros/micros this App is the best. I was so fed up by the mathematical errors and just flat out missinformation on MFP that I had to look elsewhere and I did not want to back to manual spreadsheets. Look no further! It’s worth the price for full functionality as well.
+
+
+review id: 236
+
+matches and contexts:
+
+match = micro
+context = 're getting serious about counting your macro and micro nutrients, this app is for you. You can crea
+
+
+id: 236 | rating: 3 | user: RaeMillz | date: 2017-09-26 | time: 03:12:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Valid Marco Counting
+--------------------------------------------------------------------
+
+If you're getting serious about counting your macro and micro nutrients, this app is for you. You can create your own foods and/or take barcode pictures. I give 4 stars because the 'search' ability is not helpful. The search engine doesn't find food easily nor do the pre-added brands consistently match to realistic calorie counts. Overall, great app! I've been using My Macros+ for a year!
+
+
+review id: 340
+
+matches and contexts:
+
+match = iod
+context = when analyzing body weight averages over 7-day periods.
+
+
+id: 340 | rating: 4 | user: Pogi Pants | date: 2017-03-31 | time: 04:02:09.000Z
+
+--------------------------------------------------------------------
+                      Title: IIFYM!
+--------------------------------------------------------------------
+
+Great for managing macros if you're only focusing on total calories, fats, carbs, and protein. I would give the app 5 stars if the body weight graph would allow weekly averages instead of bi-weekly averages; reason being is that macros are better adjusted when analyzing body weight averages over 7-day periods.
+
+
+review id: 482
+
+matches and contexts:
+
+match = micro
+context = IT if the developers also let you track Potassium micronutrient intake from food and not just simply
+
+match = Sodium
+context = icronutrient intake from food and not just simply Sodium. Please, please, please add this in the nex
+
+
+id: 482 | rating: 3 | user: GarfieldLogan | date: 2017-11-25 | time: 12:11:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Intuitive app to use
+--------------------------------------------------------------------
+
+This app does a great job of letting you add and customize your food. I would however LOVE IT if the developers also let you track Potassium micronutrient intake from food and not just simply Sodium. Please, please, please add this in the next update 🙏🏽.
+
+
+review id: 630
+
+matches and contexts:
+
+match = sodium
+context = This app is definitely worth buying. Breaks down sodium, cholesterol and every fat. Better than Fit
+
+
+id: 630 | rating: 5 | user: Twitter.com/usatodayaz | date: 2017-03-22 | time: 04:28:41.000Z
+
+--------------------------------------------------------------------
+                      Title: I love this app
+--------------------------------------------------------------------
+
+This app is definitely worth buying. Breaks down sodium, cholesterol and every fat. Better than Fitbit.
+
+
+review id: 666
+
+matches and contexts:
+
+match = iod
+context = s not a user friendly app.  I would not buy it period and actually want my money back period.  The i
+
+
+id: 666 | rating: 1 | user: tcb1125 | date: 2019-05-16 | time: 23:53:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Not what you expect
+--------------------------------------------------------------------
+
+This is not a user friendly app.  I would not buy it period and actually want my money back period.  The items I did want to use required me to purchase another app.  Again, even if it was $2.99 it was bad enough I want my mo eye back!!
+
+
+review id: 1062
+
+matches and contexts:
+
+match = vitam
+context = esterol. I was looking for a nutritional app with vitamins and minerals, etc. A lot of health proble
+
+match = sodium
+context = des calories, carbs, sugar, fiber, fats, protein, sodium, and cholesterol. I was looking for a nutri
+
+
+id: 1062 | rating: 1 | user: Zaondo | date: 2016-03-30 | time: 06:51:43.000Z
+
+--------------------------------------------------------------------
+                      Title: PLEASE READ!!! (Missing important components)
+--------------------------------------------------------------------
+
+Doesn't track anything besides calories, carbs, sugar, fiber, fats, protein, sodium, and cholesterol. I was looking for a nutritional app with vitamins and minerals, etc. A lot of health problems develop because of nutritional deficiencies and the limited nutritional data on this app is disappointing. I intended on tracking a wide variety of nutritional aspects of my diet but am unable to with this app, in its current state. I suggest the developers to add all the nutritional data of all foods to this app. Also, I suggest possibly consulting with nutritionalists and dietitians to add accurate nutritional information on the function/importance/risk associated with various nutritional data such as vitamins, minerals, fats, protein, etc. Also, how excess and deficiencies in personal nutritional aspects may effect health. Nutrition does not just effect physical attributes but it also significantly effects emotional attributes such as depression. This app is currently a tool to track limited data but it has the potential to become an education device that could potential help people manage and understand their own complicated health/nutritional needs. This would help people track and develop their nutritional diet to improve physically AND mentally. With the solid support base this app currently has, I feel like a lot of people could benefit from these changes which is why I hope the developer reads this. Peace.
+
+
+review id: 1118
+
+matches and contexts:
+
+match = micro
+context = start using the app, you can create weight goals, micronutrient goals per day, and more! Love the in
+
+
+id: 1118 | rating: 4 | user: SweetCarolineW | date: 2016-12-28 | time: 21:57:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use, simple health tracker
+--------------------------------------------------------------------
+
+I was introduced to MyMacros+ about one year ago when I started tracking my food for a bodybuilding competition. Once you start using the app, you can create weight goals, micronutrient goals per day, and more! Love the interface design as it is clean and stores food favorites. You can create your own recipes and enter into the app for serving sizes and measurements. Works well when baking yummy treats and I want to know how much each serving yield for proteins, carbs, and fats. Highly recommend for anyone wanting more freedom in healthy eating and an easy-to-use app, accessible via phone and tablet and soon, computer!
+
+
+review id: 1127
+
+matches and contexts:
+
+match = vitam
+context = rition facts are labeled down. Like potassium and vitamins are essential information logs for everyo
+
+
+id: 1127 | rating: 4 | user: CouryFlex | date: 2016-02-21 | time: 07:56:30.000Z
+
+--------------------------------------------------------------------
+                      Title: My Macros+ "Great But Lacks"
+--------------------------------------------------------------------
+
+My Macros+ is a pretty amazing app, would rate 9/10 being the fact that it lacks basic information which I think should be included on the next update. For example macros being counted based on the food labeling and also better barcode scanner with a flash. I also think it's imperative that all nutrition facts are labeled down. Like potassium and vitamins are essential information logs for everyone. Proper food search with macros for various restaurants. A home dash board to view macros is a great idea to implement In an update for this app. I love it can be better great work. 😊❤️👌
+
+
+review id: 1216
+
+matches and contexts:
+
+match = vitam
+context = ition log, to ensure you're taking in the correct vitamins and what not, this app will not help you 
+
+
+id: 1216 | rating: 5 | user: MFloyd6945 | date: 2016-05-09 | time: 11:23:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy macro counting
+--------------------------------------------------------------------
+
+Does an amazing job at counting macros/ helping you reach your goal. Remember, this app is for counting macros, if you're looking for a nutrition log, to ensure you're taking in the correct vitamins and what not, this app will not help you much, because it is a macro counting app. If you don't know what macros are, either look them up or don't bother with this app because it'll just leave you confused.
+
+
+review id: 1220
+
+matches and contexts:
+
+match = Iron
+context =  novice heavy weight and novice overall at the WA Ironman Natural Bodybuilding competition and knew 
+
+
+id: 1220 | rating: 5 | user: ARCoslett | date: 2013-10-14 | time: 02:53:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Brilliant Tool
+--------------------------------------------------------------------
+
+This is exactly what I needed to fine tune my diet. I just won the novice heavy weight and novice overall at the WA Ironman Natural Bodybuilding competition and knew that I'd need to get more serious with regards to my nutrition if I wanted to compete in the open class next year. This is the app I was looking for. There's a small learning curve, however, once get the hang of things you won't regret the purchase.
+
+
+review id: 1231
+
+matches and contexts:
+
+match = micro
+context = awesome if they made it possible to set water and micronutrient goals but other than that if your a 
+
+
+id: 1231 | rating: 5 | user: Jkm7389 | date: 2015-03-23 | time: 13:59:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Changed my life!
+--------------------------------------------------------------------
+
+This app has given me the freedom to satisfy my cravings and still maintain single digit body fat. Foods I denied myself for years are now all on the menu thanks to this app. My only criticism is it would be awesome if they made it possible to set water and micronutrient goals but other than that if your a competitor of just into health this app is by far the best out there!
+
+
+review id: 1346
+
+matches and contexts:
+
+match = sodium
+context = s of the food work. But calories, protein, carbs, sodium, everything is off. It was saying my turkey
+
+
+id: 1346 | rating: 1 | user: gyro123 | date: 2016-07-18 | time: 18:21:09.000Z
+
+--------------------------------------------------------------------
+                      Title: Very immaculate nut. Info
+--------------------------------------------------------------------
+
+Just night the app. And EXTREMELY disappointed so far. Not a single item that the barcode scanner has scanned as accurate information! The name and brands of the food work. But calories, protein, carbs, sodium, everything is off. It was saying my turkey meat had 2 grams less protein, 30 fewer calories, and 1 carb less than actual packaging states. Very upsetting for someone trying to really make lifestyle change and can't even trust the app for accurate numbers. I hope this is fixed very soon.
+
+
+review id: 1366
+
+matches and contexts:
+
+match = micro
+context = gram, and the nutrition principles focus macros & micros (sugar, fiber, sodium) for 3 phases. MyMacr
+
+match = sodium
+context = n principles focus macros & micros (sugar, fiber, sodium) for 3 phases. MyMacros+ allows me to easil
+
+
+id: 1366 | rating: 5 | user: CLK66789 | date: 2015-07-16 | time: 18:55:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+I just kicked off a new training program, and the nutrition principles focus macros & micros (sugar, fiber, sodium) for 3 phases. MyMacros+ allows me to easily plan & log my macros, and monitor my micros as well.
+
+
+review id: 1405
+
+matches and contexts:
+
+match = Micro
+context =  really like the pie chart and summaries as well. Micronutrients aren't big in this app, so if you'r
+
+
+id: 1405 | rating: 4 | user: Reereeses | date: 2016-06-03 | time: 00:42:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Like it!
+--------------------------------------------------------------------
+
+It's good for simply tracking the 3 macros, which is great for what I've been doing for the last 8 months. I really like the pie chart and summaries as well. Micronutrients aren't big in this app, so if you're looking for that as well, you should go back to myfitnesspal. It would be nice if it worked with Fitbit or any activity tracker.
+
+
+review id: 1447
+
+matches and contexts:
+
+match = micro
+context = . I give it four starts because I really need the micronutrients to be tracked too. They're just as 
+
+
+id: 1447 | rating: 4 | user: Tekantskya | date: 2015-11-23 | time: 02:55:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Perffff
+--------------------------------------------------------------------
+
+It's an overall awesome app to track your daily food intake. You can even set different goals for different days. You can track your weight and even have a circle to follow. I give it four starts because I really need the micronutrients to be tracked too. They're just as important!
+
+
+review id: 1465
+
+matches and contexts:
+
+match = micro
+context =  options. For those rating low because of lack of micronutrient tracking, the title is MyMACROS.
+
+
+id: 1465 | rating: 5 | user: Podey26 | date: 2016-03-31 | time: 18:42:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App for tracking macros
+--------------------------------------------------------------------
+
+Love this app for tracking macronutrients, fiber, calories, etc. especially since the new upgrades added more options. For those rating low because of lack of micronutrient tracking, the title is MyMACROS.
+
+
+review id: 1490
+
+matches and contexts:
+
+match = micro
+context = This is a great app as far as tracking macros micros and calories it also has a nice weight trac
+
+
+id: 1490 | rating: 4 | user: Haggadahl | date: 2013-05-01 | time: 03:13:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for lifters
+--------------------------------------------------------------------
+
+This is a great app as far as tracking macros micros and calories it also has a nice weight tracking feature, but the app really needs to develop it's barcode scanning tool more like that of myfitnesspal which is one of the easiest ways to quickly add food
+
+
+review id: 1526
+
+matches and contexts:
+
+match = micro
+context = I read a review saying I could also track micronutrients with this app, which was the reason
+
+
+id: 1526 | rating: 2 | user: BHannahjane | date: 2016-07-11 | time: 15:04:09.000Z
+
+--------------------------------------------------------------------
+                      Title: Difficult Interface
+--------------------------------------------------------------------
+
+I read a review saying I could also track micronutrients with this app, which was the reason I gave it a try after a long and successful run with MyFitnessTracker, but apparently that's not the case. MFT has a much better barcode scanner, more comprehensive list of foods, and more intuitive interface. Bummed this app wasn't the answer for me.
+
+
+review id: 1554
+
+matches and contexts:
+
+match = sodium
+context = ike calories, fat, and protein. I wanted to track sodium and potassium, among other things, which re
+
+
+id: 1554 | rating: 3 | user: My App is Broken | date: 2016-01-24 | time: 19:03:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Lacking in Accuracy
+--------------------------------------------------------------------
+
+Many items only track things like calories, fat, and protein. I wanted to track sodium and potassium, among other things, which renders the app mostly useless to me. Also, the barcode scanner worked well enough, but you can't use it to scan recipe ingredients.
+
+
+review id: 1572
+
+matches and contexts:
+
+match = micro
+context = Would be nice if there was a way to track certain micro like sodium, on a daily basis.  I see it ent
+
+match = sodium
+context = ce if there was a way to track certain micro like sodium, on a daily basis.  I see it entered but ca
+
+
+id: 1572 | rating: 5 | user: Tes697 | date: 2015-05-28 | time: 19:39:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome tracker
+--------------------------------------------------------------------
+
+This makes tracking macros so easy.  Well worth the money.  Would be nice if there was a way to track certain micro like sodium, on a daily basis.  I see it entered but can't seem to get the daily tally .
+
+
+review id: 1687
+
+matches and contexts:
+
+match = micro
+context = en't noticed any need. Thorough app...perfect for micromanagers.....or should I say.....macromanager
+
+
+id: 1687 | rating: 5 | user: Macro man 86 | date: 2016-06-26 | time: 13:48:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Review
+--------------------------------------------------------------------
+
+I hope my five star review gives the developer some upgrades but honestly haven't noticed any need. Thorough app...perfect for micromanagers.....or should I say.....macromanagers :)
+
+
+review id: 1776
+
+matches and contexts:
+
+match = micro
+context = ple app, and I mean VERY SIMPLE. It doesn't track micro nutrients, it measures almost everything in 
+
+
+id: 1776 | rating: 1 | user: Dachinno | date: 2016-05-30 | time: 18:28:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Too simple
+--------------------------------------------------------------------
+
+This is a very simple app, and I mean VERY SIMPLE. It doesn't track micro nutrients, it measures almost everything in servings and tablespoons, user interface is simple and plain, measurement system is set to IP etc. I have no clue how this app is so popular... I just do not get it. It's a mystery to me. I wanted to give it a go only because it's highly rated in the app store.
+
+
+review id: 1992
+
+matches and contexts:
+
+match = micro
+context =  recommend to anyone looking to track their macro/micronutrients!!
+
+
+id: 1992 | rating: 5 | user: Bbob860 | date: 2015-05-15 | time: 23:19:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app!
+--------------------------------------------------------------------
+
+I highly recommend to anyone looking to track their macro/micronutrients!!
+
+
+review id: 2054
+
+matches and contexts:
+
+match = sodium
+context = I love this app but I wish it would show the sodium contents like my fitness pal app.
+
+
+id: 2054 | rating: 5 | user: M-AD19 | date: 2016-06-22 | time: 00:28:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+I love this app but I wish it would show the sodium contents like my fitness pal app.
+
+
+review id: 2216
+
+matches and contexts:
+
+match = vitam
+context = I love this app but please add vitamin percentage and potassium intake.
+
+
+id: 2216 | rating: 5 | user: Sigler_chris | date: 2016-03-09 | time: 15:33:05.000Z
+
+--------------------------------------------------------------------
+                      Title: More things to calculate please!!!
+--------------------------------------------------------------------
+
+I love this app but please add vitamin percentage and potassium intake.
+
+
+review id: 2219
+
+matches and contexts:
+
+match = iod
+context = Best nutrition logger period
+
+
+id: 2219 | rating: 5 | user: Tyl615 | date: 2017-02-02 | time: 18:51:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Better than mfp
+--------------------------------------------------------------------
+
+Best nutrition logger period
+
+

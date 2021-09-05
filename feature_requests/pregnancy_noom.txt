@@ -1,0 +1,2159 @@
+'Pregnancy' related feature requests in noom reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 120
+
+
+review id: 0
+
+matches and contexts:
+
+match = nurs
+context = ot been able to lose on my own. I am a registered nurse and I feel that a slower, steady weight loss
+
+
+id: 0 | rating: 5 | user: KLoBella | date: 2019-10-07 | time: 12:40:23.000Z
+
+--------------------------------------------------------------------
+                      Title: NOOM has changed my life
+--------------------------------------------------------------------
+
+I was skeptical to start a program like NOOM because of the price and because I didn’t know if it would work for me. I have struggled with weight for most of my adult life and it has not been easy for me to lose weight. I am entering week nine in the NOOM program and have lost 12 pounds! While this may not seem like much, it is weight that I have not been able to lose on my own. I am a registered nurse and I feel that a slower, steady weight loss is a healthier way to go. I have seen many others in my life lose and then gain right back. The program has been so helpful in many ways. I like the fact that there’s really nothing that you can’t eat in the program, but more like how much you eat of it. The program breaks down for you the three levels of food and how much you should be eating in each of those categories. It has been more of a lifestyle change and making you aware of what you were actually eating. I really love the program. I think that it is really great to have a coach and a support team to reach out to 24 hours a day, and to also have recipes recommended by the program. I invited a friend to join the program as well and she really enjoyed it but she ended with her trial due to the pricing for her. I have a ways to go to meet my goal, but I am off to a great start thanks to NOOM! So I give this program five stars, but if it were just slightly less expensive, more people could benefit from it.
+
+
+review id: 36
+
+matches and contexts:
+
+match = nurs
+context = a month of healthy weight loss!! I’m a registered nurse and I thought I knew a lot about nutrition a
+
+
+id: 36 | rating: 5 | user: Jennifer_RN | date: 2021-06-03 | time: 01:29:55.000Z
+
+--------------------------------------------------------------------
+                      Title: It WORKS
+--------------------------------------------------------------------
+
+If you are willing to commit and put in the work, this is definitely the best app to help you achieve your goals! I initially had no faith in myself that I would lose any weight at all, but the way they set up their articles to educate you on how to live a healthier lifestyle is encouraging and inspiring and if you are willing to receive all the “tools” they give you to succeed you definitely will!!! I recommend this to everyone who has asked me what I’ve been doing to lose weight! I started the program 3 1/2 months ago and I’m down 30 lbs and pushing closer to 35....10 lbs a month of healthy weight loss!! I’m a registered nurse and I thought I knew a lot about nutrition and what’s good and bad, but I’m not a nutritionist so I found out I was wrong about a lot of things about healthy eating. Starting this journey has honestly been one of the best decisions I’ve ever made!!! I feel so much healthier and more energetic, and I still have more weight I’d like to lose, so I’m gonna continue with this new lifestyle change bc it’s just that....it’s not a diet... it’s a new way of thinking about food and exercise and your body as a whole! LOVE THIS APP MILLION! I will be sad to end my journey and fly solo, but when that day happens I know they have given me so many things to help me continue on my own!!!!! ⭐️⭐️⭐️⭐️⭐️⭐️⭐️
+
+
+review id: 43
+
+matches and contexts:
+
+match = preg
+context = someone ask me once when I was in my 20s if I was pregnant, I nearly died. I’ve tried Nutrisystem an
+
+
+id: 43 | rating: 5 | user: Yellowstonemomma | date: 2019-12-01 | time: 02:00:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Life Changing! Worth every penny!!
+--------------------------------------------------------------------
+
+I started Noom in June of 2019, weighing 165 lbs and wanting to get in shape after recovering from ACL surgery and knew it would be easier if I were thinner. But isn’t that to story of my life. Everything would be easier if I were less heavy. I could move easier, fit in to more clothes and wear what I wanted. Those were things I’ve wanted for years. I’ve been a little overweight since I was about 13 years old. Always about 20/30 lbs more than where I needed to be. I even had someone ask me once when I was in my 20s if I was pregnant, I nearly died. I’ve tried Nutrisystem and Weight Watchers, fad shakes and everything that I could find, but nothing really worked. Until Noom. I learned about my relationship with food. I learned about what I was choosing to eat and why. It changed my entire view about what I can eat and when I should eat it and why I should it. I lost 30 lbs and met my goal in four months. When my subscription automatically renewed, I emailed and asked for a refund, which they provided immediately. I’m now at 135 and maintaining my weight right where I want it to be using the tools I got with Noom. If you are even thinking about wanting to lose weight and change your life, don’t wait! Do it. This is a great program!!
+
+
+review id: 74
+
+matches and contexts:
+
+match = preg
+context =  I was looking for something to jumpstart my post-pregnancy weight loss, but being a health coach my
+
+
+id: 74 | rating: 3 | user: nbsweetie712 | date: 2020-06-08 | time: 13:06:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Depends what you’re looking for
+--------------------------------------------------------------------
+
+My honest review after completely the two week trial (and deciding not to move forward) is, it really depends on what you are looking for. I was looking for something to jumpstart my post-pregnancy weight loss, but being a health coach myself and having successfully lost weight in the past I found myself really bored with the reading. No matter what ‘level’ you’re at, even though you fill out questionnaires in the beginning to determine what your lifestyle is like, you’re starting from square one. So that wasn’t useful for me. Then there are the coaches. I got a message from my coach after about four days, responded back to him within minutes, then never heard back. I reached out to Noom after two more days asking if the coach was a real person or a bot, that’s how ‘automated’ his message to me sounded. And how are you supposed to get anywhere if it takes the coach two days to get back to you every time? They assigned me a new coach but the same thing happened again. So in my two week trial, I never really had an interaction with a coach at all. So that didn’t work for me either. What did work for me was the food analysis, where you log your meals and get an immediate response based on a grading system. I loved that aspect of it, but for the price it’s not worth it to me to keep it just for that.
+
+
+review id: 83
+
+matches and contexts:
+
+match = postpartum
+context = e program so far. My goal was to lose some weight postpartum but I didn’t want to be on a diet, per 
+
+match = postp
+context = e program so far. My goal was to lose some weight postpartum but I didn’t want to be on a diet, per 
+
+
+id: 83 | rating: 4 | user: LauraRoslin47 | date: 2020-06-16 | time: 01:26:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Mostly good. App buggy.
+--------------------------------------------------------------------
+
+I’ve had a pretty positive experience with the program so far. My goal was to lose some weight postpartum but I didn’t want to be on a diet, per se. I’ve lost 7 lbs in 22 days so far just from being more mindful about my eating and making a point of moving more. No big changes or sacrifices. I’ve been pleasantly surprised.
+
+
+review id: 99
+
+matches and contexts:
+
+match = feeding
+context = cause your body won’t get the point unless you’re feeding it the right amount of protein, carbs and 
+
+
+id: 99 | rating: 3 | user: tanzmitpalmer | date: 2019-08-09 | time: 14:02:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Usefulness quickly exhausted
+--------------------------------------------------------------------
+
+I found this program to be very helpful for about six weeks, but after that it seemed repetitive and lacking in the area of tracking growth and progress. The coaching was not at all helpful, and the groups were not as active/supportive as I would have hoped - just a bunch of twee housemoms regurgitating get-healthy cliches. I can imagine most of them identify strongly with the classic stock photo, “Woman Smiling Over Salad”. My biggest issue with this program is the oversimplification of food - it’s either green, yellow or red. There is no way to track macros, which is pretty freaking important to do if you’re trying to lose significant weight, because your body won’t get the point unless you’re feeding it the right amount of protein, carbs and fats for your body weight. Once I started tracking my macros in another app, my metabolism finally kicked into high gear. I’m not mad that I started with noom, because as I said, it WAS useful for a minute, but I wish I had known more about the structure of the program before buying an 8-month subscription, which they refuse to let me donate to someone who may need it more. Also, the harassing texts to sign back in after I have asked multiple times to have alerts turned off, is getting pretty freaking annoying.
+
+
+review id: 129
+
+matches and contexts:
+
+match = milk
+context = ther units” screen. In one page 1 cup of Silk Soy milk can show 100 calories while on the other it w
+
+
+id: 129 | rating: 1 | user: Beginner Cannondale owner | date: 2020-08-19 | time: 22:18:21.000Z
+
+--------------------------------------------------------------------
+                      Title: This criticism for the developers ONLY
+--------------------------------------------------------------------
+
+I’ve had a tremendous, life changing experience with Noom in the last 9 months and lost a 1/4 of my total weight. The concept is brilliant and I can’t recommend it enough. With that being said: I’ve never seen an app with more nuisances when it come to recording data.  So many food color groups are marked wrong and have irrelevant measuring sizes or food are duplicated several times with slightly different name but for the same product. One will have a tbsp and the other won’t. Constantly going back and forth. But the MOST frustrating part is the fact the the “easy units” calories screen does not corresponds to the “other units” screen. In one page 1 cup of Silk Soy milk can show 100 calories while on the other it will show 34 calories. Funny how it’s called “easy units”. My guess is that many people do not reach their goals or give up because they trust the measurements provided by the lack of checks and balances at Noom. This issue is present across MANY food items and has been so for the 9 months I’ve been on.  If a single programmer that cares would actually use Noom themselves the many annoying issues would be obvious after one day. So with everything i said and my love to Noom I’m afraid that a competition that will create a good working app will be a serious threat to the viability of this company.
+
+
+review id: 137
+
+matches and contexts:
+
+match = preg
+context = spent. I am back to the weight I was before I was pregnant and can fit in all my old clothes. When I
+
+
+id: 137 | rating: 5 | user: dewintate | date: 2019-11-28 | time: 14:19:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing program that works!
+--------------------------------------------------------------------
+
+I never thought I would be this weight again. I have lost 16 pounds in three months and continue to use noom. The fact that it focuses on psychology and our erroneous mental concepts regarding not just food but self-concept in general has COMPLETELY shifted how I look at food and weight. Some people may be turned off by the cost, but I’ll tell you, I was glad to pay it. The fact that I paid money gave me more of an initial push to see it through. I was desperate and, though I really couldn’t afford it, I told myself I have to do something and I pressed the OK button before I could talk myself out of it, and it was the best $100 I have ever spent. I am back to the weight I was before I was pregnant and can fit in all my old clothes. When I started I had one pair of pants I could fit in. Now I stop and look when I pass a mirror wondering if I’m dreaming. I stare at the scale and think it must be wrong! I have tried other diets, even one I loved, but noom is the first eating plan that has not made me feel deprived. I have learned so much about myself. I could have never accomplished any of this without noom.
+
+
+review id: 139
+
+matches and contexts:
+
+match = baby
+context = fore(I’m now trying to lose weight after having a baby) I did not learn anything I didn’t already kn
+
+
+id: 139 | rating: 2 | user: taraannie | date: 2021-03-16 | time: 12:52:38.000Z
+
+--------------------------------------------------------------------
+                      Title: High price for info I can google and a robot coach
+--------------------------------------------------------------------
+
+I gave this plan about 6 weeks. I can see how the articles would be helpful for someone new to weight loss but as someone who has lost weight successfully before(I’m now trying to lose weight after having a baby) I did not learn anything I didn’t already know.
+
+
+review id: 157
+
+matches and contexts:
+
+match = baby
+context = ur weight, and your steps. It helps you take your baby steps into the world of fitness. With Noom, I
+
+
+id: 157 | rating: 5 | user: DomTracy27 | date: 2020-05-26 | time: 01:13:39.000Z
+
+--------------------------------------------------------------------
+                      Title: While I don’t use it anymore, it got me on a path of success!
+--------------------------------------------------------------------
+
+I started using Noom in August of 2019, and I didn’t even spend a dime. It gave me a simple easy to understand recap of the foods I ate, and didn’t make me feel bad when I messed up. You can track your food, your weight, and your steps. It helps you take your baby steps into the world of fitness. With Noom, I went from 172lbs to 144lbs over a course of 7 months, and I know that sounds like a long time, but I didn’t exercise right up until February. I lost 20 pounds from August to December. I’m not too big of a guy, I’m only 16 to be honest and I probably shouldn’t have been using this app. But it really did change my life. Eventually after a few months of using this app, I stopped because it became a habit and a lifestyle to be healthy. It taught me that you don’t have to rush things. I do run almost everyday now, but that’s my choice, and you don’t have to exercise and eat well and be overwhelmed in your first few months. I still come back every now and again just to record my progress. Thank you guys so much for making this app!!!!
+
+
+review id: 185
+
+matches and contexts:
+
+match = milk
+context = e cheese, frosted mini wheats, Chobani yogurt and milk! To name a few.) additionally the servings ar
+
+
+id: 185 | rating: 3 | user: roseber1 | date: 2021-01-31 | time: 13:09:04.000Z
+
+--------------------------------------------------------------------
+                      Title: 3 weeks in
+--------------------------------------------------------------------
+
+Perhaps it is a bit premature to review at 3 weeks but when you pay for something you have expectations. I find the light hearted humor fun and engaging. I like the format and I have been weighing in and logging most meals, but there are some major drawbacks. I’ll cover those here: INACCURATE! I would estimate that greater than 50% of the foods I scanned with a UPC come up with the wrong calories per serving (cottage cheese, frosted mini wheats, Chobani yogurt and milk! To name a few.) additionally the servings are not the primary mode of listing, weird!  It once prompted me for 2 slices of something like yogurt? The accuracy here is much worse than My Fitness Pals free service.
+
+
+review id: 307
+
+matches and contexts:
+
+match = baby
+context = rposefully moving slowly because I was nursing my baby and didn’t want to stop producing for him. I 
+
+match = nursing
+context = s. I was purposefully moving slowly because I was nursing my baby and didn’t want to stop producing 
+
+match = nurs
+context = s. I was purposefully moving slowly because I was nursing my baby and didn’t want to stop producing 
+
+
+id: 307 | rating: 5 | user: docmomdo | date: 2020-12-03 | time: 14:30:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Beating the pandemic weight gain
+--------------------------------------------------------------------
+
+I am a second time Noomer. The first time I lost about 25 lbs in 4 months. I was purposefully moving slowly because I was nursing my baby and didn’t want to stop producing for him. I took a break and luckily didn’t gain weight and tried to keep up with the principles.  Now I’m a month into round 2 and another 13 lbs gone! In addition to Noom, I’ve been seeking ways to be at peace and love myself more and it’s all coming together. While many people are stress eating and drinking their way through 2020, I’m happy that I will be starting 2021 healthier and happier despite the stresses we have all been through. If you don’t think it’s possible to lose weight while you’re stressed, I suggest giving it a try. I’m a healthcare worker who has now had 2 family members require life support for COVID and I have a  1 yr old and a 3 yr old which makes life busy. No matter what you are going through, you can do it and a program like Noom can help you get there!
+
+
+review id: 316
+
+matches and contexts:
+
+match = breastfeed
+context = ope! Lost net one pound. This app isn’t built for breastfeeding moms or people who already are fairl
+
+match = postpartum
+context = ing it would be the key to the last few pounds of postpartum weight loss. Nope! Lost net one pound. 
+
+match = postp
+context = ing it would be the key to the last few pounds of postpartum weight loss. Nope! Lost net one pound. 
+
+match = feeding
+context = ost net one pound. This app isn’t built for breastfeeding moms or people who already are fairly food
+
+
+id: 316 | rating: 2 | user: MEC288 | date: 2021-03-29 | time: 17:24:14.000Z
+
+--------------------------------------------------------------------
+                      Title: A program for office dwellers who don’t know anything about food
+--------------------------------------------------------------------
+
+I did Noom faithfully for six weeks, hoping it would be the key to the last few pounds of postpartum weight loss. Nope! Lost net one pound. This app isn’t built for breastfeeding moms or people who already are fairly food-savvy (e.g. eating scrambled eggs and avocado for breakfast, eschewing processed food, never drinking soda, etc.) It’s sneaky and bad at it, which bugs me (“we’re psychology nerds!” “red doesn’t mean bad!” um, yes it does. Stop, wrong way, rewrite this paragraph... it’s keyed into our brains that red means bad.) They have no idea what to do with breastfeeding, no setting for that - even set to the slowest weight loss speed, I needed probably at least 300 more calories than they allowed. Some of their daily lessons were interesting, but most rehashed things I already knew (cucumbers are a better snack than brownies? Restaurant food has lots of extra calories?? Shock and horror.)
+
+
+review id: 348
+
+matches and contexts:
+
+match = preg
+context =  over a year ago and had to stop because I became pregnant. At that time, I found the food logging a
+
+
+id: 348 | rating: 3 | user: MO3Lenscap | date: 2020-07-27 | time: 23:22:14.000Z
+
+--------------------------------------------------------------------
+                      Title: I like the program so far, but the app needs work.
+--------------------------------------------------------------------
+
+I tried NOOM over a year ago and had to stop because I became pregnant. At that time, I found the food logging aspect to be frustrating. I had hoped for an improvement. I was disappointed.
+
+
+review id: 405
+
+matches and contexts:
+
+match = milk
+context =  iced coffee black and plain no syrup no sugar no milk not everybody can cook all the time also more
+
+
+id: 405 | rating: 5 | user: Kgdzbs | date: 2021-08-05 | time: 13:26:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs updating
+--------------------------------------------------------------------
+
+I would love to see more restaurant foods like Starbucks and food customizations like size options and orders that have been changed like say you get a venti iced coffee black and plain no syrup no sugar no milk not everybody can cook all the time also more packaged options and better control of portion sizes more accurate is what I mean really make it very easy to log what is being eaten or even drank coffee needs to be showing up in the analysis of food logs the red yellow green scale….
+
+
+review id: 419
+
+matches and contexts:
+
+match = milk
+context = ere is no explanation for why something (IE whole milk plain yogurt) is RED and a similar item (IE w
+
+
+id: 419 | rating: 2 | user: lily03317 | date: 2021-04-17 | time: 20:02:23.000Z
+
+--------------------------------------------------------------------
+                      Title: May work for some but I’m disappointed
+--------------------------------------------------------------------
+
+I’ll start by saying 1) I did not use the actual 1:1 coach as I loathe the idea of someone pestering me regularly and 2) this may work for SOME people. A lot of the information presented is really helpful. However, like most programs it’s a bit of a “one size fits all” approach to the automated portion. The food logger is really awkward (default serving sizes seem arbitrary), and some “red yellow green” designations make no sense whatsoever and there is no explanation for why something (IE whole milk plain yogurt) is RED and a similar item (IE whole milk sugar sweetened vanilla yogurt) is YELLOW for the same serving size. The calorie counter is difficult to get to and to read. I get this is more of a “healthy relationship with food” system. But, if one of your goals is weight loss, an option to put your red/yellow/green counts front and center (without having to click multiple times) may be something you should be able to do. I do not believe the cost is worth continuing this subscription. If it works for you, amazing! It just wasn’t for me. Best of luck to all!
+
+
+review id: 559
+
+matches and contexts:
+
+match = baby
+context = healthy, but had reached a plateau after having a baby.  This program opened my eyes to where I need
+
+
+id: 559 | rating: 4 | user: J-Runner-Mom-Violinist | date: 2021-08-09 | time: 23:59:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for long term weight loss!
+--------------------------------------------------------------------
+
+I’ve only been using Noom for a month, but I can tell it’s already teaching me how to change my eating habits in order to lose weight.  I’ve always been good at exercising and generally eating healthy, but had reached a plateau after having a baby.  This program opened my eyes to where I needed to adjust my eating habits, and pay closer attention to WHAT I was eating.  I’ve lost weight and can see how it will help me long-term!:).
+
+
+review id: 704
+
+matches and contexts:
+
+match = baby
+context = I got Noom to try to lose the last bit of baby weight. Logging is easy, articles are informa
+
+
+id: 704 | rating: 2 | user: RizzieRizz | date: 2019-07-13 | time: 14:29:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Disappointed
+--------------------------------------------------------------------
+
+I got Noom to try to lose the last bit of baby weight. Logging is easy, articles are informative, but I can do that for free on other apps. What I really wanted was the coaching. What I got was a weekly email that said “just checking in.” I’d ask a question and it would take at least a day to get answered. I get that people only work certain hours but it’s an app, not a gym. Someone should be available to answer questions and messages beyond normal business hours. When I told my coach her “just checking in” message was insufficient, she changed nothing. Stayed on her same lazy schedule. I paid $45/month for an app on my phone that offered no more than a gym membership or free articles on the internet. Sure a personal trainer would have been more than that but at least it would have been actual training and coaching, not this garbage noom is selling. I’d love to get at least some of my money back that was wasted on this nonsense.
+
+
+review id: 755
+
+matches and contexts:
+
+match = baby
+context =  in a month (the last time that happened, I had a baby!). Now I’m down 15 lbs and so excited to cont
+
+
+id: 755 | rating: 4 | user: E11@B | date: 2021-06-24 | time: 14:11:05.000Z
+
+--------------------------------------------------------------------
+                      Title: It works!
+--------------------------------------------------------------------
+
+I was doing so many of the right things: eating well, drinking water, exercising 5 times a week. But I wasn’t losing weight. Noom showed me that the food you eat is a huge part of weight loss, and I needed some important tweaks in that area! Even though the foods I was eating were healthy foods, my portions of certain foods were too large. Once I learned what foods could keep me fuller for longer, and started really paying attention to my body — all of my portions overall went down. I lost 12 lbs in a month (the last time that happened, I had a baby!). Now I’m down 15 lbs and so excited to continue. The lessons on becoming self-aware about why we do what we do are key. I gave it 4 stars only because of the price, but if you are willing to make an investment in yourself, you’ll be thrilled with the results!
+
+
+review id: 897
+
+matches and contexts:
+
+match = baby
+context = roughout the day. For years I have struggled with baby fat, depression, headaches, lack of energy an
+
+
+id: 897 | rating: 5 | user: StacyC.321 | date: 2019-12-04 | time: 18:38:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Successful!
+--------------------------------------------------------------------
+
+I started Noom November 5th 2019 and I have already lost 15lbs! All I’ve ever wanted was guidance in a lifestyle change of healthier eating habits and exercise at a reasonable pace without starving throughout the day. For years I have struggled with baby fat, depression, headaches, lack of energy and eating my emotions! So far, in just under 1 month with Noom, I have lost 15 lbs, no headaches, depression at an upswing, enjoy taking walks with my son, and eat when I am hungry and not when my emotions tell me to! I have gained back control of my life and I couldn’t be happier with the guidance and support I have gotten with Noom! Feels like I’m not even trying! If you are thinking of trying Noom just do it! If you follow their easy (almost effortless) guidance you will succeed! Go for it!
+
+
+review id: 941
+
+matches and contexts:
+
+match = preg
+context = s after downloading the app I found out that I am pregnant. I tried to cancel my subscription that d
+
+
+id: 941 | rating: 1 | user: Caitsjb | date: 2018-06-24 | time: 20:23:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Don’t do it! It’s a scam!
+--------------------------------------------------------------------
+
+I downloaded the app after seeing multiple adds for it. I downloaded it with plans to do the free trial and then get out if I wanted, don’t even remember there being any time to input payment options. Two days after downloading the app I found out that I am pregnant. I tried to cancel my subscription that day- now even I can’t find those messages I sent to my “coach”. I think they have a filter in the messages and hide requests or something. Here I am a month and a half later and I’ve been charged $129 for my account. I did not approve of this!! I have been looking for a number to call or anything to get my account canceled and get a refund but everything is done on the app! There is no way to find my account information so I can’t unsubscribe or see purchase history! I sent an email and tried to message the coach again, these are actually showing on my messages now. I want my money back! It’s a scam people!
+
+
+review id: 965
+
+matches and contexts:
+
+match = breastfeed
+context = questions for a woman (such as whether or not I’m breastfeeding!). I answered that I preferred slow 
+
+match = preg
+context = I preferred slow and steady to get back to my pre-pregnancy weight. I also answered that I exercise 
+
+match = feeding
+context = ons for a woman (such as whether or not I’m breastfeeding!). I answered that I preferred slow and st
+
+match = nursing
+context =  calorie restricting as a 31-year-old, active and nursing mother. It claims that foods are not good 
+
+match = nurs
+context =  calorie restricting as a 31-year-old, active and nursing mother. It claims that foods are not good 
+
+
+id: 965 | rating: 1 | user: ErinColleen | date: 2021-07-09 | time: 21:05:42.000Z
+
+--------------------------------------------------------------------
+                      Title: So many issues with this so-called “program”
+--------------------------------------------------------------------
+
+I answered the long questionnaire, which did not ask incredibly important questions for a woman (such as whether or not I’m breastfeeding!). I answered that I preferred slow and steady to get back to my pre-pregnancy weight. I also answered that I exercise regularly. The “plan” that this set me up on was simply a calorie limit of 1200 calories a day and estimated that I would lose 20 lbs in 2 months!! There is nothing slow and steady about that and there is nothing that is remotely healthy about that excessive calorie restricting as a 31-year-old, active and nursing mother. It claims that foods are not good or bad, but then labels your food green, yellow, or red - how is that really any different? Noom claims that it’s about psychology, but the reality is that it’s built around calorie restriction like any other diet. Save your money. You don’t need this over-priced app to count your calories. There are free apps that do the same thing.
+
+
+review id: 1013
+
+matches and contexts:
+
+match = baby
+context = herwise healthy 32 year old woman with some extra baby weight to lose and I found myself eating like
+
+
+id: 1013 | rating: 1 | user: mommatribe | date: 2019-09-15 | time: 04:19:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Don’t waste your money
+--------------------------------------------------------------------
+
+I’ll start by saying I did lose weight using this app. About 5lbs, pretty fast. However the extreme calorie restriction coupled with bad nutrition advice resulted (I believe) in me getting very sick. I developed shingles while on this diet. I am an otherwise healthy 32 year old woman with some extra baby weight to lose and I found myself eating like an anorexic person on this diet. The “coaching” appears to be nothing but a bot with canned answers. When I tried to freeze my subscription because of my illness I was told no. When I ate normally again (like daily recommended calories well balanced diet normal) I started gaining weight again.
+
+
+review id: 1072
+
+matches and contexts:
+
+match = preg
+context = So I’ve done Noom now 3 times…after each of my pregnancies and it has been a wonderful gentle res
+
+
+id: 1072 | rating: 5 | user: Gabbie.lanier | date: 2021-08-14 | time: 15:35:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Noom has helped change my relationship with food
+--------------------------------------------------------------------
+
+So I’ve done Noom now 3 times…after each of my pregnancies and it has been a wonderful gentle reset for me to make the needed changes in my eating and exercise habits, but also so much more. There is this hidden part of having a healthy and balanced relationship with food, my body, and myself in general that Noom also helps me to address. What I like is that Noom also build skills in all of these areas in a sustainable way. I feel empowered to make healthy choice while also knowing it’s ok to make mistakes and it’s absolutely necessary for me to create new ways of coping with stressful and difficult thoughts/feelings. So happy I found Noom ☺️
+
+
+review id: 1082
+
+matches and contexts:
+
+match = milk
+context =  changed. Years ago we usually drank coffee, tea, milk. OJ and water. Today we have added half and h
+
+
+id: 1082 | rating: 1 | user: Marjie my enrolled njckname | date: 2020-08-14 | time: 03:06:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Beginning NOOM
+--------------------------------------------------------------------
+
+I am an informed caregiver. Through the years, snacks, meals, drinks, desserts, exercise, schedules and shopping habits have all changed. Years ago we usually drank coffee, tea, milk. OJ and water. Today we have added half and half. Flavors, syrups and whip cream to coffee. In addition, we drink two or three soft drinks, nectars and several juices. Potato, rice or similar products not once a day; possibly 3 times a day and then the snacks in that category. Portions of meat and frequency has increased and now we add all kinds of sauces and cheeses, all sorts of breads, dipping a and toppings. We haven’t even mentioned fruits, vegetables or desserts. As I lied in my bed, I was horrified in admitting our gluttony. It is no wonder  we r so obese and full of diseases. I do not know how to begin to change our mindset. Perhaps an investment in exchange for every sacrifice!
+
+
+review id: 1110
+
+matches and contexts:
+
+match = Nurs
+context = I’m a 26 year registered Nurse. I’ve written an adult and children ‘s book 
+
+
+id: 1110 | rating: 5 | user: Marcy54 | date: 2018-09-27 | time: 10:24:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Psyche yourself into health😉
+--------------------------------------------------------------------
+
+I’m a 26 year registered Nurse. I’ve written an adult and children ‘s book about weight control and have tried just about every diet out there. I’ve also tried detoxing 3 times. I was a vegan for 2 years and gained 50 pounds😬 I can say that thus app, hands down, has been the absolute most comprehensive program I’ve ever tried👍🏽
+
+
+review id: 1170
+
+matches and contexts:
+
+match = preg
+context = ot of weight before and gained it back when I got pregnant. I was feeling hopeless and out of contro
+
+
+id: 1170 | rating: 5 | user: JennaBeans19 | date: 2020-05-11 | time: 11:33:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing!
+--------------------------------------------------------------------
+
+I had lost a lot of weight before and gained it back when I got pregnant. I was feeling hopeless and out of control with my eating.  I decided to take a chance and try this program since I was quarantined and the gym was closed.  I’m 5 weeks in and 9 lbs down!  I feel in control again and back on track. I think just having someone to keep me accountable has made all the difference. Some of the lessons I already knew so it was helpful to remind me and I have learned a lot of new tips and tricks. It is changing the way I think about my life and eating.  I would recommend it to anyone struggling. You only have to log on 10 min a day so it’s very doable!
+
+
+review id: 1298
+
+matches and contexts:
+
+match = postpartum
+context =  group element is equally large and unwieldy. I’m postpartum and nursing and have told the coach tha
+
+match = postp
+context =  group element is equally large and unwieldy. I’m postpartum and nursing and have told the coach tha
+
+match = nursing
+context = is equally large and unwieldy. I’m postpartum and nursing and have told the coach that numerous time
+
+match = nurs
+context = is equally large and unwieldy. I’m postpartum and nursing and have told the coach that numerous time
+
+
+id: 1298 | rating: 2 | user: missblue | date: 2019-09-16 | time: 19:41:11.000Z
+
+--------------------------------------------------------------------
+                      Title: NOT worth it
+--------------------------------------------------------------------
+
+I had expected this app to be better. The coaches are basically just someone who pushes a button with a pre-written script. The “tailored” curriculum is not tailored at all. The group element is equally large and unwieldy. I’m postpartum and nursing and have told the coach that numerous times. I need something more tailored, and this app is basically no better than just logging my calories myself and watching a few TED talks. But what really annoys me is that the UX of the app stinks. Why can’t I easily move logged foods to a different meal? Why don’t they add foods I scan? Why can’t I add recipes myself? The food logging part of the app lags FAR behind others, particularly MyFitnessPal — which is free. I tried to cancel my membership on week 2, and they offered my a cut rate membership. I am a sucker and stayed on, wish I had just cancelled then and there.
+
+
+review id: 1333
+
+matches and contexts:
+
+match = baby
+context = nto my life. As a mom of a 3 year old and newborn baby, I was able to start viewing the content, int
+
+
+id: 1333 | rating: 5 | user: smtb23 | date: 2020-01-29 | time: 18:36:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Highly recommend Noom
+--------------------------------------------------------------------
+
+Easy to integrate into my life. As a mom of a 3 year old and newborn baby, I was able to start viewing the content, interact with my coach, participate in the group with my coach, and start tracking my food and weight. I felt in charge of my health plan and goals so I could customize it according to my needs. I started off my building healthier habits and then eased into the weight loss aspect. The messages are witty and intelligent. Even as a health oriented person, I’ve learned a lot and most importantly had the support to practice what I know and be accountable to my intentions. Give it a try and I’ll be you can find you’ll want to stick with it!
+
+
+review id: 1354
+
+matches and contexts:
+
+match = baby
+context = kind. I had to stop Noom because I am expecting a baby 🥳 and they do not have a program for that (ye
+
+
+id: 1354 | rating: 5 | user: Natesgirlie | date: 2020-12-21 | time: 02:25:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing and totally worth it
+--------------------------------------------------------------------
+
+They use psychology and science to teach you how to eat better! I lost 30 pounds within 6 months and made friends throughout the way in my group. Customer support is very helpful and kind. I had to stop Noom because I am expecting a baby 🥳 and they do not have a program for that (yet! I hope they do someday where it involves eating healthy for momma and baby and guiding meditations etc.) anywho! I will be back! I love how My coaches were very helpful and sincere! I love how it worked and how easy it was to log food! Definitely worth the money because you lose the weight without buying shakes or special prepackaged food.
+
+
+review id: 1388
+
+matches and contexts:
+
+match = breastfeed
+context =  per day. I was super low energy and hangry. As a breastfeeding 32 year old, this is barely even at 
+
+match = feeding
+context = ay. I was super low energy and hangry. As a breastfeeding 32 year old, this is barely even at my BMR
+
+
+id: 1388 | rating: 3 | user: Madgiebee | date: 2019-09-01 | time: 11:05:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Meh
+--------------------------------------------------------------------
+
+I was eager to try due to the psychological approach and they talk about being a multidisciplinary team, however, with only 10 lbs to lose, it set my calories at 1200 per day. I was super low energy and hangry. As a breastfeeding 32 year old, this is barely even at my BMR. To add to it, exercise only gives you 50% of calories burned back. I found the fatigue/hanger led me to feel really miserable. They talk about wanting to be sustainable but this isn’t sustainable and the calorie goal is not customizable. Lost 3 lbs in the first week which is way too fast, second week I upped my calories by going over every day and lost just 1 which is better but I felt guilty every day bc I was “over”. Canceled at the end of week 2. Not for me. Maybe would work for someone less active?
+
+
+review id: 1431
+
+matches and contexts:
+
+match = baby
+context = ren’t all on the exact same day. I’m now having a baby so had to stop using the app, but have alread
+
+
+id: 1431 | rating: 5 | user: arwellsmurray | date: 2019-05-21 | time: 08:49:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Loved this app!
+--------------------------------------------------------------------
+
+I’m going to give this app 5 stars because I did actually really love working through this program. While I was working through it I lost 10lbs, genuinely enjoyed reading the tips and articles, and found tracking my food to be one of the most important things that kept me on track. I loved having a personal coach, though I found the group sessions to be a bit much and sometimes slightly confusing as we weren’t all on the exact same day. I’m now having a baby so had to stop using the app, but have already decided as soon as I’m able I’m going to work the program again.
+
+
+review id: 1447
+
+matches and contexts:
+
+match = milk
+context = day I need to scroll for coffee and a few tbsp of milk. Every day. We use Sunbasket and none of thos
+
+
+id: 1447 | rating: 3 | user: Ashara Dayne | date: 2019-10-22 | time: 01:38:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app
+--------------------------------------------------------------------
+
+It’s a great application and it dives into the psychological aspect of weight loss. It also tracks steps and calorie count. The food and calorie count portion needs a lot more work. The library of recipes and foods available is very limited, you can't swipe in between days: you have to go out of the meals, switch days, go back in just to see what leftovers you’re eating. It doesn’t remember or suggest past items very well. Every day I need to scroll for coffee and a few tbsp of milk. Every day. We use Sunbasket and none of those recipes are listed. That aspect is disappointing compared with the capabilities of Lose It. Also, tracking exercise is limited in Noom. Noom has a focus on building good habits and sharing progress etc with a community.
+
+
+review id: 1461
+
+matches and contexts:
+
+match = Baby
+context =  learning how to enjoy it without it killing me.  Baby Steps!!
+
+
+id: 1461 | rating: 5 | user: Gise-girl | date: 2019-02-05 | time: 19:18:30.000Z
+
+--------------------------------------------------------------------
+                      Title: So totally Worth it
+--------------------------------------------------------------------
+
+I’ve struggled with food all my life.  I’ve tried all the weight management programs you can think of, weight watchers; Jenny craig; Atkins; Etc.  The problem with all these is they do help you loose weight but once you get there what happens is you maintain for a bit but your old habits come back and so does the weight.  Noon is all about learning new habits, learning a new relationship with food.  If you learn how deal with food with new habits it’s different.  Noon teaches you new Life long habits to help you hopefully for many healthy years to come.  I love food but I’m learning how to enjoy it without it killing me.  Baby Steps!!
+
+
+review id: 1683
+
+matches and contexts:
+
+match = preg
+context = ed me like a bad habit when I told my coach I was pregnant. Instead of it being a positive thing and
+
+
+id: 1683 | rating: 3 | user: KpJollyroger | date: 2020-04-23 | time: 04:45:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Get pregnant, get ghosted!
+--------------------------------------------------------------------
+
+Noom was amazing and I got great results and loved the program. I lost a lot of weight and really enjoyed it. Unfortunately the entire experience was soured when they dropped me like a bad habit when I told my coach I was pregnant. Instead of it being a positive thing and coming up with a transition plan, they locked my account, deleted all my info from THE PAST YEAR, and locked the chat function so I couldn’t even say thank you or goodbye to my coach / group. To have such a support group ripped away from me so violently caused me to rebound and I’m worse off than where I started. Loved the results.... hate the company and their approach. I get that pregnancy is a “liability” but come on.... be better. Be human.
+
+
+review id: 1688
+
+matches and contexts:
+
+match = nurs
+context = y and exercise and it had to be sustainable. As a nurse I knew my vision my kidneys and my circulati
+
+
+id: 1688 | rating: 5 | user: Nerfzilla645 | date: 2021-04-15 | time: 16:19:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent
+--------------------------------------------------------------------
+
+I joined Noom after being diagnosed with Type 2 Diabetes. I had to completely change my life. I had to learn to eat healthily and exercise and it had to be sustainable. As a nurse I knew my vision my kidneys and my circulation were at stake. Noom helped enormously and in addition helped me be a more conscious consumer. It is not a dieting app and is not focused on weight loss per se but in the psychology of eating and one’s relationship to food. It has helped me change my life completely and I suspect that when I next see the doctor I will find the changes have helped improve my blood glucose results.
+
+
+review id: 1705
+
+matches and contexts:
+
+match = preg
+context = am (except the weird bot coaches). But then I got pregnant and instead of letting me decide whether 
+
+
+id: 1705 | rating: 1 | user: 84APK512 | date: 2020-02-05 | time: 22:41:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Wanted to like it
+--------------------------------------------------------------------
+
+I tried Noom a year ago and was initially really pleased with the program (except the weird bot coaches). But then I got pregnant and instead of letting me decide whether or not to stay (and continue/establish healthy eating, NOT diet), they unilaterally booted me, even though the program never asks about being pregnant. Customer service was terrible, but they eventually offered me a discount to try again.
+
+
+review id: 1870
+
+matches and contexts:
+
+match = nurs
+context = bs, and when I went for my new hire physical, the nurse said she lost 40 pounds with Noom, and has k
+
+
+id: 1870 | rating: 5 | user: NurseHil | date: 2021-06-22 | time: 10:45:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Noomin’ every day.
+--------------------------------------------------------------------
+
+One week and I’ve lost 4 pounds and have gotten much more honest about my eating. I’m changing jobs, and when I went for my new hire physical, the nurse said she lost 40 pounds with Noom, and has kept it off for a year.
+
+
+review id: 1892
+
+matches and contexts:
+
+match = feeding
+context = pening with other people. It’s awesome. It’s like feeding your soul. It has made it easy to remember
+
+
+id: 1892 | rating: 5 | user: presentnotperfect | date: 2019-01-24 | time: 11:55:47.000Z
+
+--------------------------------------------------------------------
+                      Title: What a great approach
+--------------------------------------------------------------------
+
+Noom is like your new best friend. You can go to them anytime of day and any day of the week. Just pick up your iPad, tablet, computer or whatever device your using and take a few minutes to read or check in to see what’s happening with other people. It’s awesome. It’s like feeding your soul. It has made it easy to remember that my goals are just as important as whatever else I have to do that day. In fact it makes the other things easier to accomplish.  For me it’s a perfect combination of education, suggestions and support. Thanks Noom
+
+
+review id: 1898
+
+matches and contexts:
+
+match = preg
+context = n understatement. After gaining 30 pounds with my pregnancy, and keeping the weight for 4 years, I w
+
+
+id: 1898 | rating: 5 | user: MagicManders | date: 2021-04-22 | time: 22:54:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Noom works!
+--------------------------------------------------------------------
+
+I have struggled with eating, weight and body issues my entire life. Calling my relationship with food and my body unhealthy is an understatement. After gaining 30 pounds with my pregnancy, and keeping the weight for 4 years, I was feeling sluggish sad and in a bad mental space. I decided to try Noom in early March 2021. This program works. My relationship with food has changed dramatically. I work out daily. I feel motivated and happy. I’ve lost 16 pounds so far and I haven’t felt hungry or deprived. I make mindful choices and move more. That’s it. I highly recommend Noom.
+
+
+review id: 1919
+
+matches and contexts:
+
+match = baby
+context = have to take these mini lessons and you are given baby steps. Those are all tried and true ways to c
+
+
+id: 1919 | rating: 2 | user: Rhavaniel | date: 2020-04-04 | time: 22:48:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Expensive nothing special
+--------------------------------------------------------------------
+
+Seriously it’s $160 for 5 months. The “coaches you get pretty much give you canned answers for everything. And you don’t get all the coaches until the second week when your trial ends. This app does not include calories burned into its calculation of how many you should consume. There are free apps that do that for you and the food logging. The “special” thing about this app OSs uses psychology on you. The fact you have to take these mini lessons and you are given baby steps. Those are all tried and true ways to create habits. The info given is nothing special. For instance in the beginning they mention caloric density. Just google that. Bam done. You don’t need a 500$ a year so to tell you this.
+
+
+review id: 1969
+
+matches and contexts:
+
+match = baby
+context = ged my relationship with food.   It is a process, baby steps every day.  I lost 20 lbs and have kept
+
+
+id: 1969 | rating: 5 | user: linda jo Finn | date: 2021-05-14 | time: 13:40:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Life changer
+--------------------------------------------------------------------
+
+If you want to truly understand your relationship with food, Noom is the direction to take.   I have been on several weight loss journeys in my life time , with the yo yo loss and gain.  Throw in menopause and a girl is doomed.  Hours at the gym, running and still you can’t out run the weight gain.   I wa seating the exact same things, bumped up the treadmill to 3 miles, felt like I was in pretty good shape. But the pounds crept up.  Noom changed my relationship with food.   It is a process, baby steps every day.  I lost 20 lbs and have kept it off for a year.  It is a life changer.
+
+
+review id: 1990
+
+matches and contexts:
+
+match = Baby
+context = y progress isn’t consistent between phones   Im a Baby Boomer not a kid and some language is just no
+
+
+id: 1990 | rating: 3 | user: SleeplessNDenver | date: 2018-10-06 | time: 15:05:51.000Z
+
+--------------------------------------------------------------------
+                      Title: A but antiquated and too Millennial-focused at the same time
+--------------------------------------------------------------------
+
+Generally, I like the app and the psychology behind the method. But I have 2 iPhones and use them at different times of the day  what I log on one doesn’t sync to the other so my progress isn’t consistent between phones   Im a Baby Boomer not a kid and some language is just not written for my generation. Like yeah
+
+
+review id: 2021
+
+matches and contexts:
+
+match = baby
+context = s, explains and teaches you how to take the right baby steps forward to do that so that if actually 
+
+
+id: 2021 | rating: 5 | user: acap1217 | date: 2020-03-05 | time: 18:21:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Implementing Moderation
+--------------------------------------------------------------------
+
+If you’re ready for the change you’ve been trying to find and really ready to do the work and show up for yourself the Noom is for you. People talk about making lifestyle changes to obtain goals they have for weight loss: NOOM actually shows, explains and teaches you how to take the right baby steps forward to do that so that if actually becomes sustainable. I KNEW that moderation was the key and I understood conceptually what I needed to do, NOOM has provided the guidance and resources I was missing to help me actually implement that concept.
+
+
+review id: 2104
+
+matches and contexts:
+
+match = baby
+context = tand how you gain and lose weight. Broken down in baby steps you learn and apply the short daily les
+
+
+id: 2104 | rating: 5 | user: NoomHappy | date: 2020-08-07 | time: 09:44:53.000Z
+
+--------------------------------------------------------------------
+                      Title: NOOM is Awesome
+--------------------------------------------------------------------
+
+Unlike ANY weight loss program I’ve ever tried. This is like a psychology/science based educational program to help you understand how you gain and lose weight. Broken down in baby steps you learn and apply the short daily lessons immediately. And it works! Fun, factual and filled with humor - NOOM guides you on a journey to learn how to be healthy. So many recipes and they are easy and delicious! Oh, and you are assigned a coach who checks in with you everyday - nothing but positivity and support - lots of it!  I love this program and highly recommend it!
+
+
+review id: 2148
+
+matches and contexts:
+
+match = baby
+context = NOOM is helping me lose the baby weight faster than ever before and really sup
+
+
+id: 2148 | rating: 5 | user: didappointedmom | date: 2020-01-18 | time: 13:34:15.000Z
+
+--------------------------------------------------------------------
+                      Title: NOOM is the real deal
+--------------------------------------------------------------------
+
+NOOM is helping me lose the baby weight faster than ever before and really supporting my goals through the ups and downs of parenting littles. The program condenses super important psyche tricks into just a few minutes a day spent in the App, helping me focus on myself and make the right choices for my weight loss. I couldn’t be more grateful for this program. I am learning life-long lessons and being given tools none of the other weight loss programs can offer (i know because I’ve tried them!!). I am a NOOM need for life.
+
+
+review id: 2350
+
+matches and contexts:
+
+match = preg
+context = ll... but it has been difficult to lose some post pregnancy pounds for a couple of years and was rec
+
+
+id: 2350 | rating: 5 | user: Shelly Chk | date: 2020-06-11 | time: 12:08:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Weight loss success!!!
+--------------------------------------------------------------------
+
+I am a healthy eater overall... but it has been difficult to lose some post pregnancy pounds for a couple of years and was recently diagnosed with IBS.
+
+
+review id: 2387
+
+matches and contexts:
+
+match = baby
+context = I started using Noom to help me lose some baby weight about 6 weeks ago! So far, I am 16 pou
+
+
+id: 2387 | rating: 5 | user: slp2b2021 | date: 2020-09-03 | time: 13:17:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Noom is a game changer!
+--------------------------------------------------------------------
+
+I started using Noom to help me lose some baby weight about 6 weeks ago! So far, I am 16 pounds down! That’s incredible. I never thought I would be able to lose the weight, but here I am, KILLING IT, because of Noom. I love the daily lessons, I have learned so much about myself and my eating habits. 10/10 recommend!
+
+
+review id: 2407
+
+matches and contexts:
+
+match = lactat
+context = “group” feature. No ways to adjust goals based on lactation or medications that are known to cause w
+
+
+id: 2407 | rating: 1 | user: TheCheekyBunny | date: 2019-09-11 | time: 21:58:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Waste of time
+--------------------------------------------------------------------
+
+I was optimistic about Noom after a friend said it helped her lose 10 lbs in 2 weeks, but it was a huge disappointment. For one, the “Goal Specialists” are useless. I suspect they’re just bots. I heard from mine once, days into the program, and never heard back despite my repeated messages/questions to him. There is no option for creating and saving a meal (so if you make a favorite salad each day you’ll have to manually input all the ingredients each day). I had no access to any “group” feature. No ways to adjust goals based on lactation or medications that are known to cause weight gain. If it were a free app, fine, but they charge $69/month to start, for the most basic package. No thank you. My fitness pal (free) is better.
+
+
+review id: 2415
+
+matches and contexts:
+
+match = breastfeed
+context = e a few complaints. First, I think it should have breastfeeding as an exercise under “do more” since
+
+match = feeding
+context = w complaints. First, I think it should have breastfeeding as an exercise under “do more” since that’
+
+
+id: 2415 | rating: 4 | user: Andria I | date: 2019-04-07 | time: 16:21:24.000Z
+
+--------------------------------------------------------------------
+                      Title: good but would change some things
+--------------------------------------------------------------------
+
+This app is pretty good, but I have a few complaints. First, I think it should have breastfeeding as an exercise under “do more” since that’s definitely a calorie burner and should be a consideration when dieting.
+
+
+review id: 2433
+
+matches and contexts:
+
+match = nursing
+context = o the program. After taking a nutrition class for nursing school and reading other books about nutri
+
+match = nurs
+context = o the program. After taking a nutrition class for nursing school and reading other books about nutri
+
+
+id: 2433 | rating: 2 | user: Blahblab land | date: 2021-01-27 | time: 04:14:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Half gimmick half truth
+--------------------------------------------------------------------
+
+The psychology part of noom is great. It allows you to shape the right mindset to accomplish goals. It’s the major focus on calorie density that turns me off to the program. After taking a nutrition class for nursing school and reading other books about nutrition, I feel like this reverted me back to kindergarten. There’s a lack of evidence and proof with the color coding of foods.
+
+
+review id: 2475
+
+matches and contexts:
+
+match = preg
+context = After my pregnancy I just couldn’t lose those last 20 pound
+
+
+id: 2475 | rating: 5 | user: JaneL. | date: 2021-03-03 | time: 17:11:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing results
+--------------------------------------------------------------------
+
+After my pregnancy I just couldn’t lose those last 20 pounds. Noom helped me to realize my portions had become oversized and in the wrong food groups. I love the psychology behind the food choices and how the app gets the internal struggle. I had not realized before that losing weight was not only a physical challenge, but a mental one. I’ve already lost 7 pounds and feeling great. I’m making healthy choices and feeling empowered! Thank you #NoomNerds for getting this Mom back on track.
+
+
+review id: 2785
+
+matches and contexts:
+
+match = baby
+context = to really engage with the app as I have a newborn baby at home, and the program doesn’t seem to have
+
+match = nursing
+context = am doesn’t seem to have any options geared toward nursing mothers.
+
+match = nurs
+context = am doesn’t seem to have any options geared toward nursing mothers.
+
+
+id: 2785 | rating: 1 | user: Ellen.era | date: 2018-12-10 | time: 16:11:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Unfair billing practices
+--------------------------------------------------------------------
+
+This app seems like it could have helped me to manage my weight better, but I am totally put off by their billing practices. Apparently once a charge is made, the funds are not refundable. I feel like because of the relatively steep price tag, at the very least they should let you know when they’re about to charge you to continue your subscription. I’ve sent an email but I doubt the results will be favorable. That’s unfortunate. I would have liked to perhaps continue to use the app in the future; I just didn’t have the time to really engage with the app as I have a newborn baby at home, and the program doesn’t seem to have any options geared toward nursing mothers.
+
+
+review id: 3107
+
+matches and contexts:
+
+match = baby
+context = I started Noom after having my third baby with the hopes that I could change my bad eat
+
+match = preg
+context = hange my bad eating habits that I developed while pregnant #EatingForTwo
+
+
+id: 3107 | rating: 5 | user: Ekjär | date: 2019-09-11 | time: 15:30:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Unbelievably Effective
+--------------------------------------------------------------------
+
+I started Noom after having my third baby with the hopes that I could change my bad eating habits that I developed while pregnant #EatingForTwo
+
+
+review id: 3339
+
+matches and contexts:
+
+match = baby
+context =  struggled with losing weight, but after having a baby (who is now a year old), it seemed impossible
+
+
+id: 3339 | rating: 4 | user: c@rolone321 | date: 2021-01-11 | time: 14:00:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Lose weight the right way
+--------------------------------------------------------------------
+
+I always struggled with losing weight, but after having a baby (who is now a year old), it seemed impossible. Noom has a very low time commitment, but provides mini lessons and a calorie counting feature to support weight loss. The personal and group coach and message boards have been helpful community members to support my journey. I’ve been on Noom for a month and have lost 10 pounds. I feel better and am more in control of what I eat.
+
+
+review id: 3450
+
+matches and contexts:
+
+match = baby
+context =  for somebody actually suggested eating vegetable baby food to get your vegetables in for the day. N
+
+
+id: 3450 | rating: 5 | user: Agirl1999 | date: 2020-09-12 | time: 12:50:15.000Z
+
+--------------------------------------------------------------------
+                      Title: NOOM
+--------------------------------------------------------------------
+
+Very user-friendly, encouraging, and a source for staying on track physically and emotionally. It is a very educational tool that spares the user group experience weight loss programs where you here all kinds of insane questions and lame suggestions. For example, I was once part of a weight loss program for somebody actually suggested eating vegetable baby food to get your vegetables in for the day. Noom keeps it real and in perspective.
+
+
+review id: 3471
+
+matches and contexts:
+
+match = Baby
+context = day they give you just enough to be successful.   Baby steps.  I remember reading a book  once by a 
+
+
+id: 3471 | rating: 5 | user: timetochangesjk07 | date: 2018-09-16 | time: 12:12:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Day by Day
+--------------------------------------------------------------------
+
+I love this app! I have tried many things, but this is tailored to me.  I don’t want to take a bunch of supplements, or buy s bunch of pre-packaged food and this app is none of that.  Each day they give you just enough to be successful.   Baby steps.  I remember reading a book  once by a well known TV doctor and was so overwhelmed.  I could not adsorb everything I was reading at once.  This app takes it day by day.  Love it.
+
+
+review id: 3485
+
+matches and contexts:
+
+match = baby
+context = free trial. Mind you, I have been trying to loose baby weight for about a year now and I for the lif
+
+
+id: 3485 | rating: 5 | user: Longing to be Lauren | date: 2021-05-27 | time: 10:59:37.000Z
+
+--------------------------------------------------------------------
+                      Title: It actually works!!
+--------------------------------------------------------------------
+
+I always saw the adds fir this and thought it was going to be just like the other weight loss programs. Which Didn’t work for me. I was desperate and decided to do the 7 day free trial. Mind you, I have been trying to loose baby weight for about a year now and I for the life of me couldn’t move any of it! With Noom I lost 7 lbs JUST WITHIN MY 7 DAY FREE TRIAL PERIOD!!! Needless to say, I’m super excited to continue my journey w them.
+
+
+review id: 3516
+
+matches and contexts:
+
+match = baby
+context = I’ve fought my “baby” weight for 10 years (since my last child was
+
+
+id: 3516 | rating: 5 | user: hsisson | date: 2019-03-11 | time: 13:30:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent program
+--------------------------------------------------------------------
+
+I’ve fought my “baby” weight for 10 years (since my last child was born). I have tried MANY eating and exercise plans over those 10 years. Noom puts it all together in one easy to use program. It directly addresses the mental part of weight loss unlike any other program I’ve used. The App is easy to use and navigate. The support coaches and support group are top notch.
+
+
+review id: 3617
+
+matches and contexts:
+
+match = Nurs
+context = ep the weight off. I feel amazing. I am a retired Nurse & this journey was one of my best choices.
+
+
+id: 3617 | rating: 5 | user: mkl653 | date: 2021-04-19 | time: 23:20:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Five Stars
+--------------------------------------------------------------------
+
+I joined Noom seven months ago & met my weight loss goal of forty pounds. I ate regular meals, watched my portions, interacted with my group & learned behavior modification and psychological tips & tricks. I hate to exercise but love to dance. I started dancing thirty minutes five to six days a week. This program has given me the confidence I was lacking & the tools to keep the weight off. I feel amazing. I am a retired Nurse & this journey was one of my best choices.
+
+
+review id: 3651
+
+matches and contexts:
+
+match = preg
+context =  lose weight after 2 kids and am almost to my pre-pregnancy weight at just half way through the prog
+
+
+id: 3651 | rating: 5 | user: Slumber happy | date: 2019-10-13 | time: 20:02:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Fantastic!
+--------------------------------------------------------------------
+
+Had been struggling to lose weight after 2 kids and am almost to my pre-pregnancy weight at just half way through the program. Noom helps you rethink about how you look at and use food on a daily basis while also teaching you more healthy strategies. So happy that I decided to try Noom and am feeling more equipped every day to make this last the rest of my life!
+
+
+review id: 3671
+
+matches and contexts:
+
+match = preg
+context = ly losing the weight I gained 36 years ago during pregnancy! I am healthier and have more energy. I 
+
+
+id: 3671 | rating: 5 | user: socialworkergirl55 | date: 2021-07-11 | time: 13:21:04.000Z
+
+--------------------------------------------------------------------
+                      Title: A Better Me!
+--------------------------------------------------------------------
+
+Noom is a wonderful program and has helped me achieve a weight I haven’t seen in years. I am finally losing the weight I gained 36 years ago during pregnancy! I am healthier and have more energy. I love my coaches and my team is absolutely amazing. I can eat anything in moderation and the lessons are priceless. I’m looking forward to completing the program with a more positive outlook and a new healthier body.
+
+
+review id: 3715
+
+matches and contexts:
+
+match = postp
+context =  a 13-day free trial. And also we’re collectively postponing betterment of myself because of unneces
+
+
+id: 3715 | rating: 3 | user: Deea33441 | date: 2019-02-16 | time: 17:02:07.000Z
+
+--------------------------------------------------------------------
+                      Title: False advertising on free trial
+--------------------------------------------------------------------
+
+Just signed up and this seems promising, but I’m already really frustrated. One day in to my “free” ($1) two week trial and I can’t use the app at all because I’m supposed to just sit back and absorb the first day’s lesson. Seriously? I want to start eating better, so now I get to sit back and continue eating badly for another day because I can’t log any of my meals and start learning. So let’s get real Noom, it’s a 13-day free trial. And also we’re collectively postponing betterment of myself because of unnecessary gatekeeping.
+
+
+review id: 3757
+
+matches and contexts:
+
+match = postpartum
+context = rson and only needed to lose weight because I was postpartum. The app doesn’t input things like weig
+
+match = postp
+context = rson and only needed to lose weight because I was postpartum. The app doesn’t input things like weig
+
+
+id: 3757 | rating: 3 | user: sellmajr | date: 2019-07-18 | time: 20:44:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Not for healthy people
+--------------------------------------------------------------------
+
+I got the app because I’m a counselor and thought that the behavioral modification was an interesting avenue for weight loss. However, I am a generally fit person and only needed to lose weight because I was postpartum. The app doesn’t input things like weight lifting, instead it just counts steps. Also, the caloric intake is too low for someone working to build muscle. Not only that, but high protein foods are considered “red” as in “don’t eat these”. If someone is strong and into building muscle this app is backwards
+
+
+review id: 3787
+
+matches and contexts:
+
+match = baby
+context =  I don’t have a lot of free time between work and babysitting.  The lessons make me chuckle and even
+
+
+id: 3787 | rating: 5 | user: Sherrie62 | date: 2021-01-30 | time: 16:31:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Loving the simplicity of Noom
+--------------------------------------------------------------------
+
+I actually look forward the mini courses daily, even though I don’t have a lot of free time between work and babysitting.  The lessons make me chuckle and even though I thought I knew so much about nutrition I learn something new every day.  Couldn’t get pounds to budge but 5 have come off within a month and I will be able to keep them off!
+
+
+review id: 3833
+
+matches and contexts:
+
+match = baby
+context = try Noom to help me slim back down after I had my baby and had reached a plateau. It helped a little
+
+
+id: 3833 | rating: 3 | user: Chickadee1222 | date: 2021-07-22 | time: 18:22:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Not great but not terrible
+--------------------------------------------------------------------
+
+I decided to try Noom to help me slim back down after I had my baby and had reached a plateau. It helped a little bit over the few months I used it but was ultimately too much to keep up with. It’s not designed well for parents of little ones (especially parents who struggle with depression) and the coaching aspect just never helped me. Trying to figure out now if I can get a partial refund since I deleted it before the end of my subscription
+
+
+review id: 3904
+
+matches and contexts:
+
+match = nurs
+context =  based on my phone movement. As an operating room nurse my phone isn’t always on me when I’m in moti
+
+
+id: 3904 | rating: 5 | user: Terrell66 | date: 2020-10-06 | time: 23:45:56.000Z
+
+--------------------------------------------------------------------
+                      Title: One Suggestion
+--------------------------------------------------------------------
+
+I love the app and after only a couple days I’m feeling better about my goals. However, the activity tracker is based on my phone movement. As an operating room nurse my phone isn’t always on me when I’m in motion. I wish there was a way to link the app to my watch’s activity tracker.
+
+
+review id: 3999
+
+matches and contexts:
+
+match = baby
+context =  been on weight watchers in the past to lose the “baby” weight a few times, but the weight always se
+
+
+id: 3999 | rating: 5 | user: lscy123 | date: 2019-05-28 | time: 14:17:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Fantastic experience!
+--------------------------------------------------------------------
+
+I’ve been on weight watchers in the past to lose the “baby” weight a few times, but the weight always seems to creep back up over the years. I really love this app. It’s a holistic approach and I like reading the articles and taking the quizzes. It makes it fun and engaging. I believe this time around I’ll be able to keep the weight off!
+
+
+review id: 4108
+
+matches and contexts:
+
+match = breastfeed
+context = r me to track how many calories I’m burning while breastfeeding. I can add the calories that I’ve bu
+
+match = baby
+context = I’m using this system to lose the baby weight that I gained while pregnant. There is
+
+match = preg
+context = ystem to lose the baby weight that I gained while pregnant. There is no easy way for me to track how
+
+match = feeding
+context = o track how many calories I’m burning while breastfeeding. I can add the calories that I’ve burned i
+
+
+id: 4108 | rating: 3 | user: jesbbbbbbbbbb | date: 2019-09-30 | time: 22:00:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Not fantastic for new moms
+--------------------------------------------------------------------
+
+I’m using this system to lose the baby weight that I gained while pregnant. There is no easy way for me to track how many calories I’m burning while breastfeeding. I can add the calories that I’ve burned in but then it doesn’t add all those calories back to what I can eat. I need to eat more in order to maintain supply. Example: I’ve burned 500 calories today breastfeeding. It’s only adding 250 calories to what I can eat. It should be adding 500 calories to what I can eat.
+
+
+review id: 4283
+
+matches and contexts:
+
+match = baby
+context = rted with Noom and carrying around an extra 10-15 baby weight for at least 6 years. I joined on a wh
+
+
+id: 4283 | rating: 5 | user: N Lahmani | date: 2021-03-18 | time: 14:01:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Wow!
+--------------------------------------------------------------------
+
+I was completely unmotivated when I started with Noom and carrying around an extra 10-15 baby weight for at least 6 years. I joined on a whim from a FB as and wow, what a game changer! I’m down 10 pounds now and the thinnest I’ve been since college and post babies. I feel healthier, stronger, and excited about my journey. It has become a lifestyle and is totally sustainable.
+
+
+review id: 4477
+
+matches and contexts:
+
+match = nursing
+context = lso doesn’t have an option for caloric intake for nursing mothers. However, cancelling is not simple
+
+match = nurs
+context = lso doesn’t have an option for caloric intake for nursing mothers. However, cancelling is not simple
+
+
+id: 4477 | rating: 2 | user: Homemama1030 | date: 2019-08-11 | time: 02:16:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Hard to cancel!
+--------------------------------------------------------------------
+
+This app is probably useful for some, but it’s a big commitment time-wise and also doesn’t have an option for caloric intake for nursing mothers. However, cancelling is not simple. You have to contact one person who connects you to another person who ignores your request and pushes you to use the app. You pay way too much to use the app to not have your request respected in an efficient manner. For that reason alone I will not come back to this app and also will not recommend.
+
+
+review id: 4559
+
+matches and contexts:
+
+match = baby
+context = and made this healthy journey easy to digest. One baby step at a time...😊
+
+
+id: 4559 | rating: 5 | user: MommyWeight0108 | date: 2019-02-03 | time: 15:50:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Too good to be true??...
+--------------------------------------------------------------------
+
+Not at all, I was skeptical at first. I tried the free trial period and was feeling some success. What I really like most is the timing of the articles (daily tasks and quick reads), the topics were always right on point. The creators of this program really did their research and made this healthy journey easy to digest. One baby step at a time...😊
+
+
+review id: 4612
+
+matches and contexts:
+
+match = baby
+context = hey explain that this is a lifelong journey. With baby steps you can accomplish your goal of weight 
+
+
+id: 4612 | rating: 5 | user: Grandma Gail 123 | date: 2019-10-27 | time: 12:05:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Noom rocks!
+--------------------------------------------------------------------
+
+Starting on day one they explain that this is a lifelong journey. With baby steps you can accomplish your goal of weight loss and weight management. Each day you make small changes that over the course of weeks and months will make big changes.
+
+
+review id: 4671
+
+matches and contexts:
+
+match = preg
+context = e! I’m a new mom who gained over 54 pounds during pregnancy!! I saw the Noom commercials and thought
+
+
+id: 4671 | rating: 5 | user: Hawtttttttie | date: 2020-06-15 | time: 15:07:50.000Z
+
+--------------------------------------------------------------------
+                      Title: 2 months in and 20 pounds down!
+--------------------------------------------------------------------
+
+Hi there! I’m a new mom who gained over 54 pounds during pregnancy!! I saw the Noom commercials and thought why not. Since starting it I’ve learned so much. I thought tracking your food and calories was sad before... Noom makes it fun and interesting! If you try it, and follow along with the readings, you won’t be disappointed.
+
+
+review id: 4925
+
+matches and contexts:
+
+match = baby
+context = ial and kept going! On my way to losing the (2nd) baby weight.
+
+
+id: 4925 | rating: 5 | user: Khinma | date: 2018-11-17 | time: 16:30:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Do it!
+--------------------------------------------------------------------
+
+Written by psychology experts this is the best weight loss experience I’ve done. Meant to make long term changes, the progress is slow but steady and I believe will be sustainable. It anticipates when you will have hiccups, which keeps you going. I’m so glad I signed up for the trial and kept going! On my way to losing the (2nd) baby weight.
+
+
+review id: 4930
+
+matches and contexts:
+
+match = baby
+context = there. Uses psychological science to guide you to baby step your way to healthier habits and the min
+
+
+id: 4930 | rating: 5 | user: Listymama | date: 2021-06-28 | time: 13:48:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Clever, amusing - and it works
+--------------------------------------------------------------------
+
+If you are serious about improving your health, Noom will get you there. Uses psychological science to guide you to baby step your way to healthier habits and the mind and body. Very customizable. And the lessons and tips are just quirky enough to make you smile and feel like you are getting coached by your clever nerdy friend.
+
+
+review id: 4970
+
+matches and contexts:
+
+match = baby
+context = Been trying to lose the baby weight for months and the scale didn’t budge.
+
+match = post baby
+context = ng to feel like my old self and recognize my body post baby again! Thanks so much Noompeople! It rea
+
+
+id: 4970 | rating: 5 | user: pehnyte | date: 2019-06-03 | time: 15:52:13.000Z
+
+--------------------------------------------------------------------
+                      Title: <3
+--------------------------------------------------------------------
+
+Been trying to lose the baby weight for months and the scale didn’t budge. I started noom and almost lost 20 lbs in just a few weeks. I feel full on a very limited calorie budget and am starting to feel like my old self and recognize my body post baby again! Thanks so much Noompeople! It really means the world!
+
+
+review id: 5066
+
+matches and contexts:
+
+match = baby
+context = ng how to shape your lifestyle (and thus body) in baby steps.  I just wished Noom had been around 20
+
+
+id: 5066 | rating: 5 | user: ramoch02 | date: 2019-04-12 | time: 19:37:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use.  Amazingly helpful!
+--------------------------------------------------------------------
+
+Noom has really been amazing!  Because it is so easy to use and because the changes they teach come a little bit everyday, it is very easy to follow.  You are constantly learning how to shape your lifestyle (and thus body) in baby steps.  I just wished Noom had been around 20 years ago!
+
+
+review id: 5636
+
+matches and contexts:
+
+match = nurs
+context = I a retired nurse with a bad back. I’ve tried other diets and 
+
+
+id: 5636 | rating: 5 | user: SusanR's | date: 2018-08-20 | time: 12:15:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Skeptic
+--------------------------------------------------------------------
+
+I a retired nurse with a bad back. I’ve tried other diets and diet apps and while I may have had initial success, I’ve hit a plateau where my weight has been stable for over 2 years. The first week on Noom, I lost 2 pounds and I’m learning more about the psychology of weight loss to make my weight loss “stick”.
+
+
+review id: 5851
+
+matches and contexts:
+
+match = baby
+context = tent isn’t worth the money, unless you like silly baby talk and terms like “noom-a-riffic!”.
+
+
+id: 5851 | rating: 1 | user: Roland2020 | date: 2020-01-29 | time: 17:38:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Sneaky billing process
+--------------------------------------------------------------------
+
+There’s something wrong with the way this company has their billing process set up.  I either missed the billing terms when I signed up for the trial or they were conveniently hidden away in the terms and conditions. You need to message your “coach” (not a real person) to cancel your subscription.  Of course they offer a 65 percent discount to keep you, which is just irritating.  Quite frankly the app content isn’t worth the money, unless you like silly baby talk and terms like “noom-a-riffic!”.
+
+
+review id: 5852
+
+matches and contexts:
+
+match = BABY
+context = eak and I have already lost 7 pounds... ONE MONTH BABYYYYYYYYY!!!! Noom helped me keep track of my f
+
+
+id: 5852 | rating: 5 | user: Solution to Freshman 15 | date: 2020-01-25 | time: 18:27:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Freshman 15, Sorority 40
+--------------------------------------------------------------------
+
+oh boy..... i gained so much weight in college so I got this over winter break and I have already lost 7 pounds... ONE MONTH BABYYYYYYYYY!!!! Noom helped me keep track of my food and held me accountable. I’ve only had it for a little bit but it has already changed my eating habits. 10/10 would recommend
+
+
+review id: 5870
+
+matches and contexts:
+
+match = milk
+context = thing I had entered at that point was coffee with milk....that’s not very green.   Obviously this is
+
+
+id: 5870 | rating: 1 | user: NYGourmet | date: 2019-01-06 | time: 20:16:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Just a Bot
+--------------------------------------------------------------------
+
+I didn’t participate much during the trial. It was over the holidays and I forgot about it until I saw a charge. My bad, not upset at that. Decided to give it a whirl. Followed the prompts. Chatted with the people...but those people are just bots. Confirmed to me when I entered my first meal and Kieran congratulated me on eating a “green food” for breakfast. The only thing I had entered at that point was coffee with milk....that’s not very green.   Obviously this is a bot sending out canned info and I’d love to get my money back but I’m sure that won’t happen.  Buyer beware.
+
+
+review id: 6088
+
+matches and contexts:
+
+match = baby
+context =  never thought I’d lose. The app gives you small, baby-steps ways to change your habits to keep off 
+
+
+id: 6088 | rating: 5 | user: Adventuremann | date: 2020-04-01 | time: 12:19:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy and Effective
+--------------------------------------------------------------------
+
+The app is easy to use, and I am finally losing the weight that I never thought I’d lose. The app gives you small, baby-steps ways to change your habits to keep off the weight in a healthy and long-term way.
+
+
+review id: 6122
+
+matches and contexts:
+
+match = baby
+context =  and forth from logging to searching requires too baby steps. Once I log then I look at the analysis
+
+
+id: 6122 | rating: 3 | user: Katie Lu Designs | date: 2019-04-09 | time: 21:57:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Food
+--------------------------------------------------------------------
+
+I’d like to be able to look up food without going into the logging tab. I’d also like to save favorites. Individual foods showing calories and colors without saving full meals. Going back and forth from logging to searching requires too baby steps. Once I log then I look at the analysis and the only way back to logging is to go back to the main menu...ug
+
+
+review id: 6136
+
+matches and contexts:
+
+match = postpartum
+context = se, and I’ve lost 15 lbs in 6 weeks just 6 months postpartum. I literally recommend NOOM to everyone
+
+match = postp
+context = se, and I’ve lost 15 lbs in 6 weeks just 6 months postpartum. I literally recommend NOOM to everyone
+
+
+id: 6136 | rating: 5 | user: Nolax225 | date: 2019-02-19 | time: 19:16:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome
+--------------------------------------------------------------------
+
+This approach to healthy living has been such an awesome change for me. I’ve made lasting changes to my diet, I’ve learned so much about how to think differently about food and exercise, and I’ve lost 15 lbs in 6 weeks just 6 months postpartum. I literally recommend NOOM to everyone!
+
+
+review id: 6151
+
+matches and contexts:
+
+match = baby
+context = After giving birth to my second baby I gain so much weight, I wanted to give Noom 
+
+match = preg
+context = d to give Noom a try. I am now fitter than before pregnancies… I really recommend Noom everyone who 
+
+
+id: 6151 | rating: 5 | user: Yorick5 | date: 2021-07-27 | time: 18:05:36.000Z
+
+--------------------------------------------------------------------
+                      Title: I am the version of myself I always wanted to be now
+--------------------------------------------------------------------
+
+After giving birth to my second baby I gain so much weight, I wanted to give Noom a try. I am now fitter than before pregnancies… I really recommend Noom everyone who has weight issues. Worth every penny.
+
+
+review id: 6311
+
+matches and contexts:
+
+match = baby
+context = Even though I read while I nurse my baby, it’s hard to keep up. I miss whole days bc I
+
+match = nurs
+context = Even though I read while I nurse my baby, it’s hard to keep up. I miss whole 
+
+
+id: 6311 | rating: 3 | user: Sheddwed | date: 2018-08-24 | time: 17:08:10.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s hard to keep up
+--------------------------------------------------------------------
+
+Even though I read while I nurse my baby, it’s hard to keep up. I miss whole days bc I think that I don’t want to catch up. So I’m missing a lot.
+
+
+review id: 6850
+
+matches and contexts:
+
+match = nurs
+context = I’m a nurse.  I’m pretty knowledgeable about diet BUT….I
+
+
+id: 6850 | rating: 5 | user: mwlevinson | date: 2021-07-31 | time: 14:33:55.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s helping me.
+--------------------------------------------------------------------
+
+I’m a nurse.  I’m pretty knowledgeable about diet BUT….I’ve gained 13 lbs during the last year.  I blame it on my increased stress with COVID.  It was an awful year.  So this app has helped me see how I am eating.  To many carbs.  I’ve enjoyed that it is short & sweet on the teaching part.
+
+
+review id: 6978
+
+matches and contexts:
+
+match = breastfeed
+context =  weren’t applicable. There is also no options for breastfeeding moms. Too difficult to follow. Furth
+
+match = feeding
+context = ’t applicable. There is also no options for breastfeeding moms. Too difficult to follow. Furthermore
+
+
+id: 6978 | rating: 1 | user: Rbr99 | date: 2021-03-29 | time: 03:09:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Not for breastfeeding mamas or people who don’t work outside the home
+--------------------------------------------------------------------
+
+I’m a stay at home mom and found the articles we’re not at all inclusive. They are completely geared toward young individuals that work outside the home. Soooo many things weren’t applicable. There is also no options for breastfeeding moms. Too difficult to follow. Furthermore, the constant barrage of stupid hashtags and “oh we’re so funny and clever” jokes (that are neither clever nor funny) was painful and a HUGE turnoff...
+
+
+review id: 8873
+
+matches and contexts:
+
+match = baby
+context =  paying high fees for weight watchers! Noom is it baby! I love it! Been using it for 1 week now and 
+
+
+id: 8873 | rating: 5 | user: making my fat cry! | date: 2018-05-31 | time: 19:59:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Back on track!
+--------------------------------------------------------------------
+
+Forget about paying high fees for weight watchers! Noom is it baby! I love it! Been using it for 1 week now and I absolutely love it! I highly recommend for everyone!
+
+
+review id: 9371
+
+matches and contexts:
+
+match = milk
+context =  healthier by eating decaying flesh or cow breast milk that’s riddled with disease, infection, cance
+
+
+id: 9371 | rating: 2 | user: samithevegan | date: 2021-04-23 | time: 13:36:35.000Z
+
+--------------------------------------------------------------------
+                      Title: NOT vegan friendly
+--------------------------------------------------------------------
+
+Noom was a decent app, however every single article/lesson mentions meat and dairy. News flash: you’re not going to get healthier by eating decaying flesh or cow breast milk that’s riddled with disease, infection, cancer, and cholesterol. I couldn’t stand reading these articles, taking quizzes and having “steak” be the “right” answer. If Noom made a vegan plan, I would rejoin.
+
+
+review id: 10182
+
+matches and contexts:
+
+match = Baby
+context = ways on my mind. If you believe it can be done !! Baby boomer nooner
+
+
+id: 10182 | rating: 5 | user: babyboomernoomer | date: 2020-03-17 | time: 17:37:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Noom weight loss
+--------------------------------------------------------------------
+
+I love the psychology behind it. Makes all the difference, “I believe “ is always on my mind. If you believe it can be done !! Baby boomer nooner
+
+
+review id: 10349
+
+matches and contexts:
+
+match = breastfeed
+context = t think they’re aware of how to lose weight while breastfeeding an infant.
+
+match = feeding
+context = k they’re aware of how to lose weight while breastfeeding an infant.
+
+
+id: 10349 | rating: 3 | user: 1990emh | date: 2020-08-12 | time: 12:17:55.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s ok
+--------------------------------------------------------------------
+
+I like the calorie bank and some the articles. The goal specialist seems like a scam because they seem to be ai. Also don’t think they’re aware of how to lose weight while breastfeeding an infant.
+
+
+review id: 11180
+
+matches and contexts:
+
+match = Baby
+context = ogram that I've ever "learned" how to be healthy. Baby steps. Progress not perfection.
+
+
+id: 11180 | rating: 5 | user: KTMG83 | date: 2018-07-23 | time: 14:29:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Really Learning
+--------------------------------------------------------------------
+
+Only program that I've ever "learned" how to be healthy. Baby steps. Progress not perfection.
+
+
+review id: 11502
+
+matches and contexts:
+
+match = baby
+context =  WORKED FOR ME.  They make it fun, easy, and give baby steps. I lost 5 pounds In one week with Noom.
+
+
+id: 11502 | rating: 5 | user: quietLOUDquiet | date: 2018-05-21 | time: 01:28:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Wow
+--------------------------------------------------------------------
+
+I’m amazed. NOTHING HAS WORKED FOR ME.  They make it fun, easy, and give baby steps. I lost 5 pounds In one week with Noom. I have been unsuccessful for 9 years!
+
+
+review id: 11650
+
+matches and contexts:
+
+match = feeding
+context = I have been feeding my brain and feeding less to my stomach. L
+
+
+id: 11650 | rating: 5 | user: SweetAnnieMaria | date: 2018-12-18 | time: 13:06:31.000Z
+
+--------------------------------------------------------------------
+                      Title: SweetAnnieMaria
+--------------------------------------------------------------------
+
+I have been feeding my brain and feeding less to my stomach. Learning to count calories, eating smaller portions.
+
+
+review id: 11737
+
+matches and contexts:
+
+match = preg
+context = I got pregnant 2 months after signing up, they get a ful
+
+
+id: 11737 | rating: 1 | user: drey_uh | date: 2021-03-02 | time: 15:57:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Never again
+--------------------------------------------------------------------
+
+I got pregnant 2 months after signing up, they get a full year subscription and refuse to freeze the membership or offer refund. Terrible customer service. No compromise on $ spent. That’s a terrible way to run a business.
+
+
+review id: 11980
+
+matches and contexts:
+
+match = breastfeed
+context = I was told I would lose my pregnancy weight while breastfeeding. It didn’t happen. I actually went f
+
+match = baby
+context = of the time because I got married and we wanted a baby. My weight went from 125 to 137 which wasn’t 
+
+match = preg
+context = ch wasn’t bad at all as I’m 5’6” tall. When I got pregnant I gained exactly 30 pounds during pregnan
+
+match = feeding
+context = told I would lose my pregnancy weight while breastfeeding. It didn’t happen. I actually went from 14
+
+
+id: 11980 | rating: 5 | user: mlmccreery | date: 2021-04-03 | time: 10:27:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Greatest Decision!
+--------------------------------------------------------------------
+
+When I was younger I couldn’t gain weight to save my life. As a result I developed some not so great eating habits. When my metabolism slowed down a little I still had some bad eating habits. I was trying to prepare to be a competitive bodybuilder though so it really didn’t catch up with me until after I decided to stop lifting all of the time because I got married and we wanted a baby. My weight went from 125 to 137 which wasn’t bad at all as I’m 5’6” tall. When I got pregnant I gained exactly 30 pounds during pregnancy, a normal amount of pregnancy weight. I was told I would lose my pregnancy weight while breastfeeding. It didn’t happen. I actually went from 147 post birth to 164. I would get back down to 157 then up to 163 overnight (those bad eating habits from when I was too thin). I considered Noom a couple times in 2020 but didn’t want to spend the money because I was making less money. After I discovered my husband’s sister had already lost several pounds on Noom even while traveling back and forth when her husband was ill I reconsidered Noom. But this time I did more than reconsider. I decided to just dive in! I didn’t realize anything needed to change because I already at a good amount of organic fruits and vegetables. The problem is I was eating in the wrong proportions. I was choosing too little lean protein and too high of fat. I was eating way too much cheese. I started losing weight right away. When my husband heard his sister and I talking about it so frequently and seeing our results he decided to give it a try. Though the scale is 10 pounds less, my waist is 5 inches smaller, and even my arms (big because I used to lift a lot of heavy weights) are smaller my biggest, most noticeable, and most loved result is the increase in energy! My big picture has everything to do with having more energy, being able to be more active with my nearly 3 year old daughter, and not developing diabetes, hypertension and a slew of other health issues older family members have inherited through a combination of genetics and bad habits. Thanks to Noom I am well on my way to having enough energy and good health to be here late into life for my daughter and I couldn’t be happier!
+
+
+review id: 12256
+
+matches and contexts:
+
+match = preg
+context = the app. Despite no activity for months (I became pregnant and was no longer pursuing weight loss) I
+
+
+id: 12256 | rating: 1 | user: Funwithplastics | date: 2019-01-26 | time: 10:45:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Predatory billing practices
+--------------------------------------------------------------------
+
+Automatically signs you up for automatic renewal. I tried to cancel and uninstalled the app. Despite no activity for months (I became pregnant and was no longer pursuing weight loss) I was recharged. No email alerting me to the upcoming charge, no check in from the coach. These are predatory billing practices.
+
+
+review id: 12388
+
+matches and contexts:
+
+match = baby
+context = asible option- I work 50 hrs a week, I have a new baby, and just finished treatments for cancer so I
+
+
+id: 12388 | rating: 5 | user: Angevans1 | date: 2019-04-04 | time: 15:37:56.000Z
+
+--------------------------------------------------------------------
+                      Title: The coaching and daily articles really help!
+--------------------------------------------------------------------
+
+About 8 years ago I was 200lbs and ended up losing 75lbs just by increasing my activity. I was in college walking around campus everywhere, had a decent social life, and I walked about 3 miles a day. It felt super easy. Fast forward several years, I’m at a cushy desk job and back up to 200, sometimes fluctuating between 200 and 210. Increasing my activity just hasn’t been a feasible option- I work 50 hrs a week, I have a new baby, and just finished treatments for cancer so I’m dealing with mental and emotional hang ups in addition to a lack of spare time. But the more time that passes at 200lbs the more I yearn for my old, slender, vibrant self. So I decided to finally make a commitment to losing weight again. Noom helped me realize I don’t have to quit anything I love and I don’t have to spend time I don’t have. I can work within the constraints of my daily life and succeed! So I made the necessary modifications and have already lost 6lbs! I’ve only been at it for a few weeks! I still drink, but I drink spiked seltzer water. I still snack, but I eat pickles or fruit or carrots, I still have salad dressing, but I use yogurt-based dressing, I still eat meat and bacon but I measure appropriate amounts! And I record EVERYTHING that goes into my mouth. Sometimes I record something BEFORE I eat it to give myself a chance to decide if it’s worth the calories. Sometimes if something looks like it’ll eat up too much of my budget, I will just eat half and give the rest away. I feel like I have so much more control than I used to. And my coach helps me stay on track by texting me if she notices I haven’t logged in a while (like when I went on vacation). I don’t use the group support as much, but that’s because I’m more intrinsically motivated (Noom terms ftw!) and don’t need as much support from others. But I definitely need some pats on the back every now and then, and this app provides that. I highly suggest it!
+
+
+review id: 12947
+
+matches and contexts:
+
+match = nursing
+context = me! I don’t have $120 to spend on this!!! I am in nursing school!!!
+
+match = nurs
+context = me! I don’t have $120 to spend on this!!! I am in nursing school!!!
+
+
+id: 12947 | rating: 1 | user: LaurenRhodes | date: 2019-07-12 | time: 19:09:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Ripoff
+--------------------------------------------------------------------
+
+This is a totally ripoff!! Don’t download unless you want to pay $120!!!! Didn’t let me know how much it was going to be after my week trail and now won’t refund me! I don’t have $120 to spend on this!!! I am in nursing school!!!
+
+
+review id: 12970
+
+matches and contexts:
+
+match = milk
+context = okies and gelato in moderation.  I switched to 1% milk in my lattes, I enjoyed a delicious burger 7%
+
+
+id: 12970 | rating: 5 | user: boojgrandma | date: 2020-11-07 | time: 19:28:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Worth every penny!
+--------------------------------------------------------------------
+
+I gained 10 lbs in two months after having minor elective foot surgery.  I have another month before walking restrictions are lifted.  I had to do something and thought I’d check Noom out.  I had never weighed daily or logged food and wasn’t happy about it.  I did it anyway.  The positive reinforcement and focus on nutrition with excellent guidelines keep me focused on my goal.  My goal is not to lose weight.  My goal is to climb a mountain that’s in my backyard.  It’s only a four mile hike but I see that mountain almost everyday and I thought it was impossible.  I’ve lost nine lbs in one month, 40 to go.  I am 65 and have arthritis in my knee that can be problematic so not positive I can climb the last 50 feet to the peak.  But I am confidant I can make it up there if I do a little uphill walking training and take it slow. I have eaten pretty much everything.  I am enjoying delicious food, sandwiches on Dave’s Killer bread, whole wheat pita with meat and veggie shish kabobs, homemade beef barley soup, I’ve had chocolates and cookies and gelato in moderation.  I switched to 1% milk in my lattes, I enjoyed a delicious burger 7% lean on whole wheat bun.  Skipped cheese and mayo and fries.  It’s not just salads, it’s mindful eating with a focus on why we choose food based on habits and environment.  Can’t say enough about how it’s helping me.  And yeah, I’m willing to pay a buck a day to get healthy and feel good about myself!  Less than the cost of one soda or candy bar.
+
+
+review id: 13499
+
+matches and contexts:
+
+match = nurs
+context = llowed to enter you meals for the next day. I’m a nurse, I pack my lunch everyday and eat breakfast 
+
+
+id: 13499 | rating: 3 | user: not working, not worth the $ | date: 2019-10-19 | time: 15:05:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Noom
+--------------------------------------------------------------------
+
+So far I’m halfway through the program I purchased for weight loss, and I have lost 1.5lbs in 8 weeks. The app predicted me to lose all 14lbs I wanted to in 16 weeks which at this point is impossible even though I’ve been pretty compliant with the program...so probably not something I’d recommend to another person based off my results so far. I’m not sure how it expects that to happen when for 2 months I have only gone up and down 1.5lbs (in the past I’ve had a lot more luck with weight watchers). The app it’s self has some glitches as well, tracking your meals can be kind of tedious when they involve lots of ingredients (salad, a wrap, etc.) because you have to enter them individually and it takes a long time but there have been times I’ve entered an entire meal I go out of the app only to go back in later and NONE of it saved so I have to re-enter!! So annoying. Also, the calories of some of the foods loaded into the app are incorrect so you really have to pay attention to labels and double check that is has the right amount of calories listed on the label or else you could be over or under calculating, I noticed this later so for a few weeks I was eating more calories than I thought because the app was saying certain foods were lower calories than the label. I wish there was a capability on the app to enter you next days meals the day before also...it coaches a lot on planning ahead yet you aren’t allowed to enter you meals for the next day. I’m a nurse, I pack my lunch everyday and eat breakfast before I go to work, both which I make the night before so it would have been nice to have tracked them the night before and then would have more time to plan my dinner or for any slip ups I may encounter during the day at work. It is nice that the app has a build in support group through the coaches and group chats...that is a nice feature.
+
+
+review id: 13609
+
+matches and contexts:
+
+match = milk
+context = hem (EX: white rice for brown or quinoa, or whole milk for low fat or fat free milk). Changing for l
+
+
+id: 13609 | rating: 3 | user: sle524 | date: 2019-12-17 | time: 23:39:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs Improvement for Price
+--------------------------------------------------------------------
+
+I joined noom because I wanted a different take on dieting. They do provide a psychological outlook and teach you how to change your eating habits. They do not provide nutrients information in foods or provide recipes that are based on what you eat. There are certain things I would not change because I don’t like them (EX: white rice for brown or quinoa, or whole milk for low fat or fat free milk). Changing for long term was my goal, and changing to foods I don’t like would be temporary. Logging food can be clunky and the wrong calories due to others input or many entries for one product, making a recipe whether from scratch or with some canned goods are difficult because the scanner does not work with it, also if you need to change the recipe you can’t edit it or delete it. The cost was all up front and is figured based on how much weight you want to lose and how fast you want to lose it ( mine was 4 months and cost $129 and then they want to charge an additional fee for workout routine and food menus at a cost of about $59 each). The basic program is about $1 per day which is high, but it is the money up front that was difficult - there is a 14 day free trial with credit card information that I found helpful to learn about the program and so I stayed. Now that I am coming to an end of my time I am trying to find a different app because I don’t want to pay to continue.
+
+
+review id: 13798
+
+matches and contexts:
+
+match = nursing
+context = They don’t adjust your daily caloric budget for nursing mothers and the app prompts you to weigh i
+
+match = nurs
+context = They don’t adjust your daily caloric budget for nursing mothers and the app prompts you to weigh i
+
+
+id: 13798 | rating: 2 | user: mrs.allyv | date: 2019-12-27 | time: 16:45:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Not great for a nursing mother
+--------------------------------------------------------------------
+
+They don’t adjust your daily caloric budget for nursing mothers and the app prompts you to weigh in everyday. Weighing in everyday wasn’t good for me as a nursing mother.
+
+
+review id: 13898
+
+matches and contexts:
+
+match = preg
+context = to gain the doctor recommended 25 pounds and said pregnant women are not allowed 😭
+
+
+id: 13898 | rating: 1 | user: Starryjane | date: 2019-11-13 | time: 02:15:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Can not use while pregnant
+--------------------------------------------------------------------
+
+They canceled my account on day 2, when I set my goal to gain the doctor recommended 25 pounds and said pregnant women are not allowed 😭
+
+
+review id: 14178
+
+matches and contexts:
+
+match = milk
+context = yellow or green (low fat chicken sausage, coconut milk yogurt, plain rice cakes) and they’re in the 
+
+
+id: 14178 | rating: 2 | user: DT1604010514 | date: 2019-07-05 | time: 16:25:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Only 1 good thing about this app
+--------------------------------------------------------------------
+
+I’ve been using this app for 6 weeks. Pros: I like the way they break down your calorie allotment into colored categories so regardless of you calorie budget you know which foods to go easy on and how many calories to dedicate to each category. That’s basically the only pro. Cons: The cost of it varies depending on who you ask. Friends of mine got a much cheaper deal than I did. They tout their coach and group features as well as their nutrition education feature but the group has been useless to me and the coach has a very long response time. I will email her and then an entire day later I get a vague response. The nutritional info they teach you is valuable but you can find the same information for free online. I literally haven’t learned one single thing from these articles. Also, their food logging database is often incorrect. I’ll scan or look up a food to log and the calories they have in their database are frequently incorrect. There’s an option to add new food items but for some reason, after entering the new food item, they don’t put that food item into your daily food journal.  Also, I’m gluten free and all of my gluten free grain items are in the red category which leaves me the option of eating my GF items or going completely grain free and saving those calories for things like olive oil or nuts. It’s not very friendly for GF people. I often scan items thinking they’ll be yellow or green (low fat chicken sausage, coconut milk yogurt, plain rice cakes) and they’re in the red category which makes no sense to me if you look at their definition for what’s in each category.  Also, this is a WEIGHT LOSS app but their articles and coaches try to encourage you to measure your progress in ways besides weight. When I signed up for this, they said I’d lose 15 pounds by the end of July and I’ve followed everything to the letter and have only lost 3-5 pounds in the last 6 weeks. They keep moving my goal weight date out further and further. My Noom coach told me to try cutting out dairy since GF people often need to be dairy free as well. So I cut out dairy and GAINED weight. I eat very healthily, exercise 3-5 times a week and I’m a generally fit and active person but as I’ve gotten older my weight has creeped up a bit until I have had about 10-15 pounds to lose. This app helped me lose a couple of pounds but is a very flawed program that is only probably going to work for 20-somethings with very typical body types and no health issues. I cut out grains, dairy and almost all sugar and have seen very little changes in my weight or body.
+
+
+review id: 14220
+
+matches and contexts:
+
+match = nurs
+context = f you don’t exercise, you will lose weight.  As a nurse, this is a very sustainable program because 
+
+
+id: 14220 | rating: 5 | user: KayshaDanger | date: 2020-12-22 | time: 15:48:46.000Z
+
+--------------------------------------------------------------------
+                      Title: For the life long learner and all us nerds
+--------------------------------------------------------------------
+
+Just when you thought you knew everything about food.... Noom seeks to change your habits from the ground up. The best thing about Noom is that it teaches you there is no such thing as a bad food and there is no food you can’t have.  You can eat anything you want as long as it fits into your calorie budget....you learn budgeting and nutrition!  If you follow the program- read your articles, log your food, even if you don’t exercise, you will lose weight.  As a nurse, this is a very sustainable program because of the habits it helps you build.  Working as am ER nurse I’d developed terrible food habits that I knew would result in weight gain (and disease processes) as I get older.
+
+
+review id: 14397
+
+matches and contexts:
+
+match = preg
+context = n the meantime my Goal Specialist found out I was pregnant. I had been honest that I was pregnant an
+
+
+id: 14397 | rating: 1 | user: ARC2755 | date: 2020-01-17 | time: 14:19:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Customer support poor communication
+--------------------------------------------------------------------
+
+I decided to try Noom for a bit and was willing to pay for a few months to try the full subscription. For reasons I will never understand and which have never been fully explained to me, within a week my Goal Specialist or the system or someone on their end cancelled my subscription. I had to contact customer support 3 times to get anyone to answer me. When they finally did, they apologized for the error and even gave me a link for a 20% discount. I tried to sign back up with the discount and it never worked. I contacted customer support again and no one ever responded so I signed up thru iTunes which was 3x the price!! I contacted customer support again to try to get it straightened out. No one ever got back to me. In the meantime my Goal Specialist found out I was pregnant. I had been honest that I was pregnant and not looking to lose weight, just motivation to eat healthy throughout my pregnancy. He informed me that because Noom is specifically for weight loss (it really isn’t. Their tips and advice are all around healthy eating but their calorie suggestions are very very low hence the weight loss. I was just eating more calories than they recommended each day) they would not allow me to continue and they cancelled me again! I asked if I could just continue but not log my calories or eat above the recommendation and no one ever answered me.
+
+
+review id: 14487
+
+matches and contexts:
+
+match = milk
+context = at relatively healthy food like avocado or almond milk. Don’t even have a skinny latte, a “treat” be
+
+
+id: 14487 | rating: 1 | user: ambersitaaa7 | date: 2021-04-11 | time: 16:40:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Just bad
+--------------------------------------------------------------------
+
+I gave in and decided to try out Noom. Didn’t get past a couple of days on the trial. I’ll give you my experience and let you decide for yourself. I gave my weight goal at the beginning of the questionnaire (before purchasing a trial subscription) which is a substantial number, and I was told by Noom that it could get me to my goal weight by December this year if “I believed it.” December, I thought, would be incredible and insane. This is also after I told Noom that I wanted my weight loss to be gradual and long term, not a quick one. Then, I actually paid and enrolled in the trial, and Noom told me that it could help me get to my goal weight by AUGUST now. If “I believed.” 55 pounds by August, starting in mid April. Do the math. That’s extremely unhealthy, especially for someone like me who has a disordered eating past. THEN when I check my weight progress after I weighed-in, it tells me that my goal weight - which I did not input - is 12 pounds LESS and will get there by late August. Noom will have me lose nearly 70 pounds in just three months without surgery and I’m assuming by just drinking water and starving myself. This goes hand-in-hand about “scale anxiety.” Noom will pretend to be empathetic in its little articles you are required to read, and say that while scales aren’t always the best way to determine weight loss and health, and while weight fluctuates from day to day and even throughout the day (which is all true!), that users still need to weigh in every single day and follow that number for “progress.” This could be bad for people with eating disorders or recovering from eating disorders/disordered eating. While Noom thinks it’s telling you a lot, it’s also not. It tells you to drink more/enough water for you and that the amount to drink is different for everyone, but that drinking the right amount is important. And then tells you to give yourself a water goal. Do you know how much water you should be drinking? I don’t. I thought Noom would be helpful, but they’re not. The same thing with its food guidelines. Noom markets on “still being able to eat a cookie” and not being restrictive. And then will tell you not to eat relatively healthy food like avocado or almond milk. Don’t even have a skinny latte, a “treat” because that’s also not recommended even though the ads say you’re “allowed.”  You can’t have a color scheme like green, yellow and red and say “it doesn’t mean these are necessarily bad foods” even though everyone knows what those colors represent in general. Another thing is that Noom will keep pushing you to purchase add-ons or skip the trial session and go straight to purchasing a 7-month subscription for nearly $200 without you having an opportunity to find out if you actually like the program. It did this 3 times in a row after I said no. Stupid and disappointing. I should know better than to fall for trendy diet fads but I thought Noom would be better. It’s not. Go see an actual licensed nutritionist.
+
+
+review id: 14509
+
+matches and contexts:
+
+match = milk
+context = ng also makes no sense.  Trader Joe’s organic soy milk which is 80 calories a cup is a green food.  
+
+
+id: 14509 | rating: 1 | user: Allyson-C | date: 2021-04-23 | time: 13:49:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Horrible, buggy app with customer service to match
+--------------------------------------------------------------------
+
+I really wanted to like Noom.  I believe in the philosophy they share.  But my experience has been too disappointing.  First, the app is incredibly limiting and frequently buggy.  The software development team must be second or third rate because the designs aren’t responsive, meaning text is frequently cut off with no way to expand or view.  The database of nutritional information is 99% incorrect - every time I compare to an actual nutritional label of my food, the calorie count is always different for the same serving size.  Even within Noom, depending on what screen you add from, 1 cup could be 48 calories or 1 cup could be 110 calories.  It makes no sense.  The color coding also makes no sense.  Trader Joe’s organic soy milk which is 80 calories a cup is a green food.  Kirkland’s organic soy milk which has the exact same ingredients, and the exact same calorie count, is a yellow food.  Why???  The lessons encourage you to add nuts to your diet as a “healthy snack.”  Nuts are also labeled as a red food and you should either avoid or eat as little as possible.  It’s like nobody in this organization talks to each other.   The “coach” you get is either a bot, or incredibly robotic and unresponsive.  Mine waits 3-4 days before responding to me, and clearly has some script or is just cutting and pasting without actually listening.  A single customer service ticket I filed to ask about billing has been passed around 3 different customer service representative, none of whom have answered my question, the latest one directly contradicts what the first one said.  I’ll be canceling because while I wanted to love Noom, my experience would make me rather light my money on fire.
+
+
+review id: 14634
+
+matches and contexts:
+
+match = milk
+context = lthy and satisfying, like a cheese stick or whole milk. When you go over your meager allotment it gi
+
+
+id: 14634 | rating: 1 | user: HamIam10 | date: 2020-02-26 | time: 15:26:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Nicely packaged eating disorder
+--------------------------------------------------------------------
+
+It promotes itself as a “lifestyle change, not a diet.” Guess what, if it has you counting calories and avoiding certain foods, it’s a diet. They say the green-yellow-red categories are not to make red foods “bad” but they still have the effect of making you afraid to eat “red” foods that are perfectly healthy and satisfying, like a cheese stick or whole milk. When you go over your meager allotment it gives you a dramatic red triangle with an exclamation point in the middle to make sure you know you failed, even if you stayed within your day’s “calorie budget” and weren’t hungry because you ate mostly a combo of green and red foods and were light on the yellow. Counting every calorie, daily weighing and ignoring true hunger cues because you’re “out of calories” are food-obsessive behaviors and are not healthy especially for those who have struggled with eating disorders, according to REAL #psychology. Those are exactly the things that cause people to eventually fall out of a diet cycle and back into a binge. The “coaching” is canned. It takes sooo long for them to get back to you with a non-answer. The way the quizzes and supplemental info are given is immature and condescending. I’m switching to Intuitive Eating, which is truly NOT a diet, it’s eating disorder recovery. But I guess thanks Noom for triggering all the bad behaviors I had back when I had bulimia and making it clear to me that I still have an eating disorder, just a different one than I used to, and that it needs treatment rather than another diet. DIETS DON’T WORK and this one is just repackaged Volumetrics in a sleek app. I especially would not recommend it for those with an eating disorder but really can’t recommend it for anyone who wants a psychologically healthy relationship with food.
+
+
+review id: 14764
+
+matches and contexts:
+
+match = preg
+context = ommended it. I had gained some weight through two pregnancies and wanted to knock it down. I was hop
+
+
+id: 14764 | rating: 2 | user: Jdh211 | date: 2020-02-27 | time: 15:18:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Not for everyone, and should not be marketed as a weight loss program.
+--------------------------------------------------------------------
+
+I decided to try noom after a few friends recommended it. I had gained some weight through two pregnancies and wanted to knock it down. I was hoping to find strategies that would make increasing exercise with 10 month old twins and a 4 year old more functional, and wanted some guidance on adjusting my diet, which was already very healthy.
+
+
+review id: 14951
+
+matches and contexts:
+
+match = baby
+context = k down to 102 at one point and now after my third baby I'm using it again and am at 120 hoping to ge
+
+
+id: 14951 | rating: 4 | user: Hailey21r | date: 2016-04-11 | time: 16:47:54.000Z
+
+--------------------------------------------------------------------
+                      Title: I love noom
+--------------------------------------------------------------------
+
+I love noom and I would give it 5 stars but it's missing things it used to have like showing you at the end of the day a color food graph to show your percentage of green food, yellow food, and red food. I liked that because it always motivated me to eat more green food. However you still can track your food colors and your exercise and it gives you health tips along with tracking your weight. I've been using it for years after three babies and I went from 105 to 175 back down to 102 at one point and now after my third baby I'm using it again and am at 120 hoping to get back down to 105 which is not unhealthy since I'm only 5ft. Anyways great app!
+
+
+review id: 15305
+
+matches and contexts:
+
+match = postpartum
+context = rs ago, and I loved it. I lost 50 pounds. Now I'm postpartum and wanted to give it a try and I am so
+
+match = postp
+context = rs ago, and I loved it. I lost 50 pounds. Now I'm postpartum and wanted to give it a try and I am so
+
+
+id: 15305 | rating: 1 | user: Rubypink525 | date: 2016-02-05 | time: 20:18:59.000Z
+
+--------------------------------------------------------------------
+                      Title: I used to love it
+--------------------------------------------------------------------
+
+I got this app a few years ago, and I loved it. I lost 50 pounds. Now I'm postpartum and wanted to give it a try and I am so disappointed. It won't count my steps, and I can't work out/ time/ hear music like back then. This is really bad instead of making it better it is a very low quality now
+
+
+review id: 15351
+
+matches and contexts:
+
+match = milk
+context = o eat, but I don't think that labeling almonds or milk as "ok" or yellow foods is right. This seems 
+
+
+id: 15351 | rating: 3 | user: Tessa88 | date: 2013-05-13 | time: 18:50:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Simplicity at what cost?
+--------------------------------------------------------------------
+
+I like that they're trying to simplify which are the best foods to eat, but I don't think that labeling almonds or milk as "ok" or yellow foods is right. This seems like a very fat phobic app. Nice interface for sure, but troubling food labels.
+
+
+review id: 15569
+
+matches and contexts:
+
+match = nurs
+context = erviewing and psychology of behavior changes as a nurse, and I can see them applying so many of thes
+
+
+id: 15569 | rating: 5 | user: ErinRebecca4 | date: 2017-07-01 | time: 02:40:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Very encouraging and realistic
+--------------------------------------------------------------------
+
+I was hesitant signing up for the trial, because I really felt like I just had no time to make any lifestyle changes right now even though I really wanted to. But right away my coach and team were so supportive. It does a great job coaching you along to make small, meaningful, realistic goals to make true lifestyle changes- not rushing and trying to do too much and crashing and burning. I've lost 12 pounds in the last 11 weeks, and I still have my ups and downs but I feel like my mind set in approaching things is so much healthier. I actually have training in motivational interviewing and psychology of behavior changes as a nurse, and I can see them applying so many of these concepts in the app. The readings are always short enough I can do them while getting ready in the morning. Some weeks I don't do what the app specifically wants me too- but it pushes me to be making intentional, mindful choices. And the support from my group mates is invaluable- it's always so encouraging to have them problem solve with me, and I feel inspired and motivated when trying to encourage them, too. They make me feel like I CAN do this, and also keep me from falling into bad  thought spirals.
+
+
+review id: 15702
+
+matches and contexts:
+
+match = preg
+context = than I had ever been in my entire life even while pregnant. After hitting bottom emotionally I reach
+
+
+id: 15702 | rating: 5 | user: GG of TX | date: 2021-06-19 | time: 12:32:43.000Z
+
+--------------------------------------------------------------------
+                      Title: OMG I did it
+--------------------------------------------------------------------
+
+At 56 years old I found myself heavier than I had ever been in my entire life even while pregnant. After hitting bottom emotionally I reached out to Noom. I signed up and then let it sit for six months with no activity. July 1, 2020 began the journey of changing my life forever. I started Noom seriously and followed logging food faithfully. Logging food before i ate or even ordered my food helped me find what I could eat. Using the food log to buy groceries helped me to stay on track with what was in my home to eat. This was not a fast weight loss program, this is a life-changing program. One year later I have lost 72 pounds and I’m 6 pounds off my goal weight.My body has been transformed, at 57 years old I run 2 miles three times a week and my marriage has been completely changed. I feel amazing in my skin!! Thank you Noom for my life transformation.
+
+
+review id: 15713
+
+matches and contexts:
+
+match = nursing
+context = It’s never too late to learn. I went through nursing I was a nurse and never learn anything on 
+
+match = nurs
+context = It’s never too late to learn. I went through nursing I was a nurse and never learn anything on 
+
+
+id: 15713 | rating: 5 | user: Suuuuusie Q | date: 2021-05-28 | time: 18:08:00.000Z
+
+--------------------------------------------------------------------
+                      Title: College at 60yrs old
+--------------------------------------------------------------------
+
+It’s never too late to learn. I went through nursing I was a nurse and never learn anything on nutrition just a few things. But not what I’ve learned from Noom.I called this my college class. I look at it as if I am taking classes. I take notes as if I’m in college again. Thank you Noom for teaching me nutrition.For teaching me to love myself and take care of myself the way God wants me to. Thank you Noom.  Love, Susie
+
+
+review id: 15768
+
+matches and contexts:
+
+match = milk
+context = oom would mean that I’m sneaking whole burgers or milkshakes (which I’m not). The math just doesn’t 
+
+
+id: 15768 | rating: 2 | user: --MH__rva | date: 2021-03-15 | time: 12:26:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Not working
+--------------------------------------------------------------------
+
+Coming off a Keto diet, I felt confident this approach would lower my ballooning cholesterol level and vastly reduce the number of calories I’d be ingesting. The end result? Losing weight. Well, that’s just not true for me. I am taking in ~1200-1400 calories per day and after a month...nothing. Not an ounce. With keto, I’m sure I was eating 2-3x the calories. So to be “cheating” on Noom would mean that I’m sneaking whole burgers or milkshakes (which I’m not). The math just doesn’t add up in my particular case.
+
+

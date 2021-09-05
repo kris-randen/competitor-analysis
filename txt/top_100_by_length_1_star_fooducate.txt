@@ -1,0 +1,1144 @@
+User Review: 4
+User Name: frustratedUser1900
+User Rating: 1
+Date Time : 2019-02-03T02:38:38.000Z
+Title: Awfully small database
+----------------------------------------------------------
+The concept is great which is why I ended up buying a one year membership but you either have to cook all your meals (which I often do on weekdays) or buy a meal at a very unhealthy store like McDonalds or taco bell or a packaged frozen dinner (which is very unhealthy and they acknowledge it too) for them to figure out your calorie intake. There is no middle ground. I went out to a Mexican place for lunch today as it’s the weekend and shared a plate of nachos with my friend but there’s no way of estimating my calorie consumption unless I know the portion size of each ingredient unless I am willing to go eat at tacobell. Their grocery list is also very small, most of the healthier brands don’t appear on their database. So I would have to either type in my calorie intake manually or buy a mass produced alternative listed in their database, neither of which sounds appealing to me. If you expect me to use the app everyday for a long time, you should make it super easy to add my consumption and estimate my calorie intake. I am just a week in to my membership and I already regret my purchase.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your detailed feedback and suggestions. The health tracker includes a feature that is exactly what you need. It's called "QUICK" and lets you quickly add a calorie estimate to your daily intake. If you need further help, please email support@fooducate.com
+
+
+
+User Review: 837
+User Name: C0J7
+User Rating: 1
+Date Time : 2016-05-30T14:54:26.000Z
+Title: System is off a few beats
+----------------------------------------------------------
+This app is definitely on to something great but the execution needs some work. Categories need their own rating system. You can't rate all sugars a c because they are sugars. I want an f through a rating for sugars where the best sugars in their category are an A and the worst are an F. I don't want all sugars to be a C because they are just sugars. You can't put 100% pure maple syrup at a c and then also put corn syrup at a c. Same goes for baby formula. No formula gets better then a c because "breast milk is the best". That may be true but breast milk is not a formula so the ratings shouldn't be compared to breast milk. They should be compared to the ingredient list vs other ingredients in other formulas. I've only used the app a little bit but I've already found several cases like this. I'm sure there are many more.
+
+
+
+User Review: 829
+User Name: Meeeshmosh
+User Rating: 1
+Date Time : 2017-06-13T19:53:00.000Z
+Title: Could be great with a few fixes
+----------------------------------------------------------
+At first I thought this app was fantastic. A great alternative to weight watchers with an even better explanation of each food's nutrition, and still a points system to count the value of your food instead of just the calories. This was great, EXCEPT it doesn't have food points for every item. In fact because it's based on user input, most unpackaged items that I put on my list didn't have an adequate amount of nutrition facts therefore the app couldn't calculate the point value. It's kind of useless to my diet if I can't count the points of every thing that I eat. I was using fitness pal but I don't want to count calories because it's not as productive as point values. Anyway, I'm deleting the app, but if they update the system and assign point values to everything, then I would totally use it religiously.
+
+
+
+User Review: 37
+User Name: rayasummer
+User Rating: 1
+Date Time : 2021-05-11T16:06:29.000Z
+Title: Pro version is useless
+----------------------------------------------------------
+I decided to do the subscription because the concept sounded great. It lets you customize your health conditions on your profile and shows you a breakdown of the nutrients of the food you have eaten that day, but that’s as good as the pro version gets. Although you can customize your health conditions it does not change the recipes that it shows you to cater to those health conditions which is pointless. All of the recipes they show are entered in by the community and they just show the most recent or most popular they do not let you even customize it yourself to show what kind of recipes you want to see based on your diet. It all honestly looks kind of random and you have to spend forever searching for what you are looking for. Any other health app would be better.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, thanks for your feedback. The premium PRO features include Nutrient tracking (carbs, sugars, sodium, etc.), Health tracking (heart healthy, lower blood pressure, etc.) and dietary preferences (avoid GMOs, Paleo Diet, Vegan, etc). We have just released additional profiles to our app, including kidney disease, diabetes, osteoporosis, PCOS, FODMAP, and an Allergy and Gluten feature which allows the detection and avoidance of major allergens in food products. Unfortunately recipes are not central to the app; they are an add-on added by our robust community.
+
+
+
+User Review: 919
+User Name: pannster
+User Rating: 1
+Date Time : 2017-04-26T03:05:34.000Z
+Title: Hate the notifications
+----------------------------------------------------------
+I use Fooducate to educate myself on healthy food choices and it worked great for this purpose. For some reason the app creators have recently decided it would be a good idea to send the notification "Please log your meals. Even a few is fine." incessantly. I am considering deleting the app because of this. Not only is this notification pointless and intrusive, it is passive aggressive and condescending - two things I never thought I would say about a phone notification! As a physician I do not have the time or inclination to log my meals because someone else thinks it is good for me. Please allow me to use the app in the way I feel it is most useful to my lifestyle. And don't treat your customers like children.
+
+Developer Response: 
+----------------------------------------------------------
+The notification frequency is set by the user, which means you can disable notifications altogether if you wish. You may have changed this setting by mistake. To change it again, Tap on the MENU, then on MY PROFILE to reach this setting.
+
+
+
+User Review: 44
+User Name: sbwilson0111
+User Rating: 1
+Date Time : 2018-10-25T05:12:45.000Z
+Title: Better off reading the label
+----------------------------------------------------------
+I purchased this to help me navigate food allergens and to track my caloric intake. In my experience, the app doesn’t have a wide database of items so you’re left looking at the label anyways and inputting all the nutrition info manually into the app, or you have to rely on data another user has input (didn’t want to risk it with allergens). Great idea, I just wish they had more in their database. That may have made it a 3 star, but then I tried to cancel one of the paid premium parts of the app and I still can’t figure it out. It’s either a very non user friendly app unintentionally, or they’re making it extremely hard to cancel on purpose. For those two reasons, I have to give this the lowest rating.
+
+Developer Response: 
+----------------------------------------------------------
+Hi,
+
+
+
+User Review: 62
+User Name: Kaitqwertyui
+User Rating: 1
+Date Time : 2017-12-28T18:53:08.000Z
+Title: All wrong!
+----------------------------------------------------------
+This app helps you read nutritional facts which the easiest way to read a label. It needs to break down ingredients into what’s good and what’s not. That’s where most of society has the biggest problem! Simply reading nutritional facts will not lead to a healthy life style. This is what Americans have been taught to do and this app is simply fostering the idea that that is how you know if a processed product is good or not. I have looked in the app extensively and it doesn’t recognize any harmful ingredients used by Food producers today. It seems to think if the product is low calorie and low sugar, it’s something you should stick with... WRONG. It kills me that this app is getting a good rating..
+
+
+
+User Review: 1045
+User Name: Xlmichael31
+User Rating: 1
+Date Time : 2014-10-17T14:47:19.000Z
+Title: You don't deserve a ban
+----------------------------------------------------------
+I speak the truth and mostly the truth. Well this app doesn't like honest opinions so it banned me for saying what I thought was true. The whole point of the app is to learn, but clearly they'll ban you if you say something "incorrectly". I didn't offend the person, curse at the person, I just gave my honest opinion about the food they ate. If they don't like my honesty, instead of a fake statement such as "wow how healthy, looks delicious" then they can go and do business with themselves. If you like to be fake and give fake opinions, then download it, otherwise stay very, very far away from it. This app deserves every 1 star rating it can get.
+
+
+
+User Review: 79
+User Name: ChzAnother
+User Rating: 1
+Date Time : 2020-09-19T19:14:00.000Z
+Title: Terrible
+----------------------------------------------------------
+This app is absolutely horrible. I don’t know why were paying 30 some dollars a year to do all the work. They don’t have foods entered into the system that are very popular. So for most foods you have to wait for it to show up in the system. The only foods that show up are the junk food that you’re trying not to eat anyway. Also the inner face really makes you not want to enter your food. To say it’s frustrating would be an understatement. It’s absolutely terrible. I will not be renewing at the end of the year. There’s got to be some app cobbled together by an elementary student for science fair that is better than this.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your feedback. We have hundreds of thousands of unique food products commonly found in supermarkets in our database and are adding hundreds of new ones every day.
+
+
+
+User Review: 781
+User Name: SharonKN
+User Rating: 1
+Date Time : 2012-05-25T11:01:36.000Z
+Title: DO NOT UPDATE THIS APP!
+----------------------------------------------------------
+I loved this app, but not anymore.  Now they require you to register to use it.  Sure, they say it's free, but it's a way to farm information from people that they can then sale to another source.  I value my privacy too much and I'm deleting it as soon as this is finished.  However, if you want to continue to use it, just don't update the app.  The old one will continue to work until they figure out a way to fix that.  I've done this on several apps.  They are still working.  Delete the app from your phone and don't update your computer.  Then reinstall the original version.  So far, It's worked every time.
+
+
+
+User Review: 1004
+User Name: Mommylove84
+User Rating: 1
+Date Time : 2014-11-06T11:29:38.000Z
+Title: Tons of missing food & inaccuracies
+----------------------------------------------------------
+I bought the premium version of this app ($40) to replace myfitnesspal and have something that gives better information about each food. It's such a great concept except a lot of the foods I scan are not in their system so I'm then prompted to add it for them. Then when foods are in the system they are very often wrong nutrition info including stating they are non vegetarian when they really are or saying their are GMOs when there are not. On top of that my scanner only works about half the time. So I paid $40 to use an app that barely works and I am spending time adding foods for them. I'm so disappointed.
+
+
+
+User Review: 1215
+User Name: Ninnafaye
+User Rating: 1
+Date Time : 2014-03-18T05:05:39.000Z
+Title: Food Search -You'll be there all day!
+----------------------------------------------------------
+THIS APP IS A WASTE OF MONEY AND TIME!!! SAVE YOUR MONEY!! USE MY FITNESS PRO!!! While the graphics are pretty and it might be a tad more user friendly with the interface. This horrible app has a horrible search feature. Type in "steak" and every processed food shows up. I emailed with Lisa at Contact Us but she could not answer the simple question...Is the search feature going to be up graded..instead she gave me a list of commands to follow to get to STEAK. No I don't want steakums and every other processed food with the word steak. Save your money and use My Fitness Pro. I am going back there.
+
+
+
+User Review: 1179
+User Name: itmsol-muse
+User Rating: 1
+Date Time : 2014-03-17T02:25:05.000Z
+Title: Very limited database of foods
+----------------------------------------------------------
+While the app has the capability to provide a lot of information, it falls short due to the very limited and frequently inaccurate database.  For example, a boiled egg has anywhere from 0-160 calories. The location feature is great. But the grading system is far more subjective than objective. The articles are simply a facade for advertising which I thought my $9.99 got rid of. The biggest real pet peeve I have is that the predictive spelling is disabled. If the developers can get the database up to par with my fitness pal and get rid of all advertising, I'll gladly give them more stars.
+
+
+
+User Review: 1132
+User Name: jpegjames1
+User Rating: 1
+Date Time : 2013-03-05T13:13:57.000Z
+Title: Why do I need an account now?
+----------------------------------------------------------
+I loved this app and recommended it to a lot of people but in the recent upgrade, I have to create an account. I used to be able to save lists to my phone but I no longer have that option. I do not like creating an account for every app I download...it's just one more password to remember or get stolen. Facebook is an option, but I prefer not to use that either. It worked just fine storing the data locally, please give us that option back. In the mean time, if you don't want to create an account to just use an app, I suggest finding other app as I will be doing.
+
+
+
+User Review: 104
+User Name: lula2347
+User Rating: 1
+Date Time : 2018-07-09T16:07:00.000Z
+Title: Free the gluten free!
+----------------------------------------------------------
+This is a wonderful app but if you’re allergic to anything (which is not and individual’s choice) you are required to purchase an extension. I was diagnosed celiac 10 years ago when gluten free was basically unheard of. It wasn’t until a few years ago I was able to order a pizza that wouldn’t kill me and I didn’t have to make. There is so much to share in the celiac world. It’s unfair to force someone to buy a ticket to get help eating and losing weight with a food allergy. This should be a free feature.   It’s a marketing game that I don’t wish to play.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your feedback. The vast majority of this app's users enjoy the free features and do not upgrade to premium. As much as we would love to make every feature in this app free, Fooducate is a business that needs to keep the lights on. Thank you for understanding.
+
+
+
+User Review: 1812
+User Name: Unrealistic Grading
+User Rating: 1
+Date Time : 2012-10-06T12:10:59.000Z
+Title: Oreos
+----------------------------------------------------------
+I deleted this app after seeing that Oreos had a grade of B. Several Fooducate members posted their excitement that Oreos "were good for you." This doesn't seem like reliable information. I was sad to see how many people said Oreos are a great healthy snack for their children. Feed your kids the occasional cookie, but don't walk around thinking that they are nutritious. In this case, Fooducate is perpetuating the idea that you can eat crap and be healthy. Fruits and vegetables are good snacks for kids, not cookies. Good luck everyone.
+
+
+
+User Review: 94
+User Name: Dha3249
+User Rating: 1
+Date Time : 2018-10-08T13:19:35.000Z
+Title: Not helping me
+----------------------------------------------------------
+I bought the premium of this app because I needed some features on the pro plan for my health.  After using it for almost 5 months I have stopped using it.  The reasons are:  1. Many of the foods that I eat are not on the app.  2. Many foods have the wrong nutritional information.  3.  They have no edit feature on recipes.  When I have contacted customer service I’m told they don’t know when or if these things will be corrected as they have so many users and can’t keep up.  That makes this app poor at best but worthless for my needs.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for the feedback. We will take all your comments into consideration to be able to make the app even better. We have over 300,000 products in our system and are adding daily.  We are working to quickly add all new food items to our database but we do get hundreds over a week.
+
+
+
+User Review: 146
+User Name: Bashi's Granny
+User Rating: 1
+Date Time : 2019-03-24T15:23:42.000Z
+Title: First day but will delete app
+----------------------------------------------------------
+I use and love CarbManager but was really interested in the food grades available here.  Disappointed at how many items I researched that weren’t graded.  Also, for example, I entered Premier Chocolate Protein Powder and had to hunt through the prepared drink (I said POWDER!), protein bars, etc. to find the product I specifically listed.  Need a “how to” section?  From the comments, it’s clear this app isn’t very intuitive.  And I can have 1,600k per day?  Dozens of other reputable sources cap me at 1,240 - that’s a huge difference!
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your feedback and good luck with your diet, regardless of which app works best for you.
+
+
+
+User Review: 1291
+User Name: 1ndica420
+User Rating: 1
+Date Time : 2011-09-22T08:02:47.000Z
+Title: Why does the app say compatible when it's not?
+----------------------------------------------------------
+After reading the description I finally found out why it wasn't working for my phone. The app itself does state that it works with IPhone 3G, but the app store states it does NOT. Kind of a bummer considering I don't want to manually input a 16 digit long number for info... This should be something that they make a littttttttle clearer. Good info overall just a major inconvenience for those of us who can't upgrade to the iPhone 8G or whatever it's at now. Maybe next year people will start dating them too.
+
+
+
+User Review: 1420
+User Name: Dvrman Wunder
+User Rating: 1
+Date Time : 2011-04-19T15:09:34.000Z
+Title: Don't understand
+----------------------------------------------------------
+I have scanned a few items and it always just goes back to the scanning screen after a search. So I guess that means it didn't find the product. Also I have had 3 unread messages for weeks now and when I go to read them it says no unread messages right below where it says 3 unread messages. Huh?  I have reinstalled and still the same thing. Don't know what I am doing wrong.  1 star until I can figure this out. 1 star for me if it is operator error but I don't know what I could possibly be doing.
+
+
+
+User Review: 159
+User Name: CiaoGal
+User Rating: 1
+Date Time : 2020-01-20T16:12:46.000Z
+Title: First time user
+----------------------------------------------------------
+I see now why another reviewer didn’t like the constant request for a review. This is downright annoying.  So I’m giving you one star.  I’d give you zero stars if I could.  I’m having a difficult time figuring out how to use the app and all I’m trying to do right now is log my breakfast.  I’m resisting the urge to just delete the app and find another one.   I want to calculate my net carbs.  I’ve started keto.  I thought this would be the perfect app.  Delete or not delete?  Hmmm?  Pondering!
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, thanks for the feedback. The request for rating is automated and decided upon by an App Store algorithm (not Fooducate) . We will take a look and see if we can resolve this issue. Feel free to reach out to us at support@fooducate.com for assistance logging your food.
+
+
+
+User Review: 1692
+User Name: iphone4+itouch4
+User Rating: 1
+Date Time : 2014-01-08T05:19:04.000Z
+Title: "Log my meals"?!
+----------------------------------------------------------
+I haven't upgraded from the Fooducate app/name because I don't care about losing weight - I care about a quick way to compare options at the grocery store. Yet I still get a notification to "Please log your meals. Even a few is fine." ...EVEN A FEW IS FINE?! Uninstall. You've got to be kidding me. A meal logger is a great option for those doing so to lose weight (or track food's effect on a health problem), but that notification out of the blue is just encouraging disordered eating. F you.
+
+
+
+User Review: 165
+User Name: Bkst4
+User Rating: 1
+Date Time : 2020-09-10T16:31:30.000Z
+Title: Frustrated
+----------------------------------------------------------
+I started this app in hope to loose some weight and for me I need to do something everyday to keep me going. For me with this app it was posting. However The app decided to censor me and stop me from posting.  It said I disobeyed the terms and agreements but I did not! I look over the terms and agreements and I did nothing wrong. Now I can do anything on the app besides log my food or weight. I am so very frustrated about this. If the app could fix this I would greatly appreciate it.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, please reach out to us at support@fooducate.com so we can investigate this further.
+
+
+
+User Review: 175
+User Name: art.sheck
+User Rating: 1
+Date Time : 2018-12-31T04:26:58.000Z
+Title: Can’t Edit My Food Entries
+----------------------------------------------------------
+To be fair, I really like this app’s interface. However, this is enough to make me stop using it: I don’t mind entering foods to ensure the information is correct, BUT if I make a mistake, I can’t go back in and edit My Foods. The app will let me re-enter the foods, but THEN there are duplicate foods in my list, AND I can’t even view the entry to tell them apart and know which one to use. This is a very HUGE nuisance, and it makes using the app not worth the time or trouble.
+
+Developer Response: 
+----------------------------------------------------------
+Hi art.sheck. Thanks for your feedback.  To edit - tap on the Edit button in the health tracker. You can then delete or edit quantities. If you need more assistance, please email support@fooducate.com
+
+
+
+User Review: 149
+User Name: Alrad2019
+User Rating: 1
+Date Time : 2021-04-20T14:06:37.000Z
+Title: App is not free
+----------------------------------------------------------
+I was looking for a free App to help with weight loss goals, healthy food & exercise tracking. I wanted to try out this App to see if I would enjoy it or upgrade after trial. However the information I logged in to the program only shows a list with expected goal. It ask you to tap on the upgrade box which I have not done or intended to do at this time. I was expecting a free trial of what the App can do with a daily follow up of my progress before moving on to the upgrade.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, thank you for your feedback.
+
+
+
+User Review: 1511
+User Name: Sayde Aviviani
+User Rating: 1
+Date Time : 2014-10-21T16:09:24.000Z
+Title: Looks nice..before you download it..
+----------------------------------------------------------
+This app looks awesome in the App Store, but once you download it, you are hounded to constantly pay for features that are commonly free in other apps!  Okay, say that you don't need all of the features that Fooducate has to offer.  Since you're still not paying for their apps subscription, you get to enjoy an advertisement banner at the bottom of your app.  Unless you're willing to pay a few bucks a month for this app, don't waste your time in he first place.
+
+
+
+User Review: 1559
+User Name: bryan1up
+User Rating: 1
+Date Time : 2017-06-22T14:41:07.000Z
+Title: Can't choose a different email client
+----------------------------------------------------------
+With iOS 10, you can delete the default mail app and use a different client. I use Microsoft Outlook as my email client and no longer use the default mail client. When I try to contact customer support through the app or I want to add a new product to the database, I get an error saying I need to install the default email client. Please add the ability to choose your email client in the app settings. I know this is possible since I see other apps doing it.
+
+
+
+User Review: 1894
+User Name: ydnarps
+User Rating: 1
+Date Time : 2014-01-04T23:44:58.000Z
+Title: Very expensive!
+----------------------------------------------------------
+I don't need to lose weight, I don't need to control my cholesterol, and overall I'm in excellent health. I just want to know better than product labels what's in my food and the harmful effects. I uninstalled this app as soon as I found out what a money generator it is for the developers. You could spend up to $175 a year (more if you subscribe monthly) if you wanted to take advantage of every module. I'll do my research on the web thank you very much!
+
+
+
+User Review: 1629
+User Name: Otistheman
+User Rating: 1
+Date Time : 2017-05-11T22:54:12.000Z
+Title: Awful
+----------------------------------------------------------
+This app used to be great but now it's really bad (were they bought by someone else?). Much slower than it was. Several foods and especially supplements were removed. Even when you input your own stuff it is very limited as to what you can add, just the basics. Used to have more options for adding additional vitamins etc. Too bad, the rating system is about the only thing useful in this anymore. And I'm not sure that alone is enough to continue to use.
+
+
+
+User Review: 169
+User Name: indraspective
+User Rating: 1
+Date Time : 2021-06-13T17:00:57.000Z
+Title: No response from support!!!
+----------------------------------------------------------
+I wanted to track magnesium and omega 3’s among other micronutrients and as soon as I downloaded the app and found out that it only tracks a few micronutrients, and not the ones I specifically wanted I contacted support via the app requesting assistance (maybe it was user error) or a refund. I got no response. I’ve scoured the app and it simply doesn’t track very many nutrients. I sent another message a week later and still have gotten no response.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, the nutrients tracked in the app are those required by the FDA. Unfortunately magnesium and omega-3s are not required. We aim to get back to emails within 48 hours, please check your junk mail if you have not heard back.
+
+
+
+User Review: 1851
+User Name: TexasUSofA
+User Rating: 1
+Date Time : 2015-05-15T08:32:21.000Z
+Title: Completely Disgusted ❗️
+----------------------------------------------------------
+I paid for the pro version of the Fooducate app thinking it would be useful and factual information.  I was clearly mistaken!  They have no problem with listing items as non GMO even though they contain GMO's.  What is worse is that even after they have been informed and supplied the information from the companies they still just leave it incorrectly documented.  This is not an app to trust when it comes to you and your families health!  Beware!
+
+
+
+User Review: 1723
+User Name: First time to post review
+User Rating: 1
+Date Time : 2012-05-27T12:48:43.000Z
+Title: Registration shows Tracking
+----------------------------------------------------------
+What is with these programs saying Apple changed their policy so now you have to register with your email, etc.!  So they quietly tracked us before Apple respected "some" of our privacy, and now apps can't freely track like they did in the past?!  Their paid version has not updated to the registration version YET.  Perhaps this company wants to see how offended users of this program are before requiring it in the Plus version.  Let them know!!!
+
+
+
+User Review: 153
+User Name: Jazzypuff
+User Rating: 1
+Date Time : 2018-08-02T13:25:19.000Z
+Title: Inaccurate Scans
+----------------------------------------------------------
+While I think this app has a lot of potential, one thing we noticed that we think is very misleading is that the scans are not right. We have two exactly the same phones. Loaded the app on both. Paid the subscription on one and not the other. Scanned the same item with both phones and got two different scores. On the paid subscription, we got a D as a score. On the unpaid we got a C+. We’re not being picky, but something is not right here.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your feedback.
+
+
+
+User Review: 227
+User Name: sis19890
+User Rating: 1
+Date Time : 2020-12-29T14:32:40.000Z
+Title: The food grading system is absurd
+----------------------------------------------------------
+I’m trying to understand how a product made by Wildbrine which is free of added sugar, has less than 5 ingredients and is non gmo and organic. Consists of only vegetables and low card has a C- scoring? Then tells me that a processed package of frozen cheese covered broccoli filled with god knows what and hydrogenated oils has an A rating? Deleted this app immediately after seeing this major discrepancy. How does 7/11 pizza have a C+??!?
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, our grades are automatically calculated by a scientific algorithm. We take into account the nutrition facts panel, the ingredients listed, and the product category. We would, however, like to investigate this further as there may be an error in this specific product. Please send us an email to support@fooducate.com so we can resolve this ASAP.
+
+
+
+User Review: 1804
+User Name: SoftPink
+User Rating: 1
+Date Time : 2014-07-22T03:31:48.000Z
+Title: So I loved this until
+----------------------------------------------------------
+Things got different. I don't know what happened but not my health tracker when adding food only shows carb intake on the top and when I go to look at my health tracker it won't load. I'm so annoyed because I really loved this app but now since I can't see my day I will use something different. All I want is a simple log, if I could fix it to where I had my calories on the top like before and able to see my log I'll use it again
+
+
+
+User Review: 2049
+User Name: Spediteur
+User Rating: 1
+Date Time : 2012-05-25T00:13:53.000Z
+Title: I deleted it due to new terms of service
+----------------------------------------------------------
+Registration is now required. I didn't accept the absolutely outrageous terms of service so I don't know exactly what personal info was required.  I could not agree to give the seller all rights, title, and interest and waive any other remaining rights to my info. While I can understand the need for a  business to protect itself, this piece of software doesn't seem to warrant the extent that is demanded. Read it for yourself.
+
+
+
+User Review: 156
+User Name: Family Disappointed
+User Rating: 1
+Date Time : 2021-05-16T00:41:59.000Z
+Title: Family share doesn’t work
+----------------------------------------------------------
+Family share does not work with the paid subscription.  Your family can download the app but the paid lifetime subscription doesn’t transfer to your family members.  Such a bummer that we spent $93, the family organizer that purchased the lifetime subscription has access to all the Pro benefits but no one else.  Even when we try to restore purchases it wants me to purchase a new plan.  So sad about the misrepresentation.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, thank you for your feedback. We are sorry for the inconvenience; family sharing is not a feature of the app.
+
+
+
+User Review: 1859
+User Name: modellife
+User Rating: 1
+Date Time : 2017-06-06T14:40:54.000Z
+Title: Very expensive. And not worth it.
+----------------------------------------------------------
+So if you don't like this app they are not able to reimburse you. And when you select the in app purchase they charge for a full year, not month by month. So I just paid 24$ for an app that I am deleting because it's too confusing and too difficult to use. And the recipes are just full of fattening gross food. What kind of food educating are you doing with recipes chalk full of butter and cheese ... soooo disappointed.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, and thanks for your constructive feedback. The payment and reimbursement is done by iTunes, not Fooducate. Regarding the type of subscription, the app clearly offers a choice of monthly or annual subscriptions, there is no room for confusion. Lastly, the recipes are uploaded by users, and are not part of the food education. Please email support@fooducate.com and we will gladly answer any questions about how to use the app. In health!
+
+
+
+User Review: 158
+User Name: cghtgtcgt,chyhy
+User Rating: 1
+Date Time : 2019-08-08T19:14:42.000Z
+Title: Can’t edit or delete recipes
+----------------------------------------------------------
+I have written several times over two or three years about this issue. The only response I get is ‘this feature is not available at this time.’ I don’t understand why users can’t edit or delete recipes they input, but as someone that wants to make adjustments, it doesn’t make sense to continue paying for this app. I also think that some of the searches and interfaces need to be streamlined and made more simple.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, thanks for the feedback. Users can edit recipes. We added this feature recently. Please feel free to reach us at support@fooducate.com for additional help.
+
+
+
+User Review: 198
+User Name: isnrhapsbwozbge
+User Rating: 1
+Date Time : 2021-04-18T01:52:50.000Z
+Title: Nope
+----------------------------------------------------------
+You can’t even start without them making you 1. Write a review and 2. Go premium. I jumps the hoops only to find I couldn’t even put in today’s foods. The app clearly says it has a free option and a premium paid option. There are zero free options and as you’re trying to navigate it, it interrupts you to make you rate them. If I can’t even take 30 seconds to navigate a new app then that app goes into the trash
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, thank you for your feedback.
+
+
+
+User Review: 3780
+User Name: Non-organic
+User Rating: 1
+Date Time : 2012-11-16T18:16:16.000Z
+Title: GM food is safe
+----------------------------------------------------------
+Deleted this app since it is misleading to "warn" about GMOs.  Why don't you warn about all the foods created by chemical mutations and that are not assessed for safety?  Oh--that would be most of the organic stuff.  Foods are only labeled by FDA when there is a health reason to do so.  FDA does not require labeling of food with GM ingredients since they are safe.  Why do you think you are more knowledgeable?
+
+
+
+User Review: 203
+User Name: belinda_chicago
+User Rating: 1
+Date Time : 2018-07-18T06:02:53.000Z
+Title: Buyer Beware!
+----------------------------------------------------------
+I paid more than $30 to try most of the functionality of this app and I am regretting it. The graphics are poor, finding a food to enter is so time consuming, this app has less than half of the options that pop up when you use My Fitness Pal. Maybe less than a quarter. Then, to add insult to injury, I have emailed support three times over seven days and have yet to get a single response. A total rip-off.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Belinda, thanks for your feedback and sorry to hear of your bad experience with the app. We're quite proud of the user interface and ease of use of the our app. Fooducate is the only app that goes beyond calories and carbs, closely examining a food's ingredients as well. Our support team prides itself on replying to emails within 24-48 hours, please make sure to email us at support@fooducate.com
+
+
+
+User Review: 3750
+User Name: Harvard Registered Dietitian
+User Rating: 1
+Date Time : 2015-02-19T01:15:43.000Z
+Title: RD
+----------------------------------------------------------
+Wow. Fooducate has been really disappointing. As a Registered Dietitian with a Masters in Public Health that trained at Harvard, this app makes false statements about many well-studied  products. I think they need to rethink how they do research instead of knocking how others do research.  Glad to know they are funded by the pharma companies. I guess it all comes back to who is funding who Fooducate.
+
+
+
+User Review: 2006
+User Name: juliamc14
+User Rating: 1
+Date Time : 2012-06-30T03:13:12.000Z
+Title: so annoying!
+----------------------------------------------------------
+Just downloaded this today and at first it worked great and I loved it! Then every 15 seconds it starts giving me a message saying that my cellular data network is having an error. I am able to do anything involving Internet except this app. I want to delete it but am waiting for an update that will fix this! Won't let me scan products either due to this issue! Fix it and I will give five stars!!
+
+
+
+User Review: 236
+User Name: dotsonchelsea
+User Rating: 1
+Date Time : 2020-01-17T17:40:51.000Z
+Title: Annoying
+----------------------------------------------------------
+I used the app in the past. I downloaded the app again last night. I thought, “wow! This is great.... why did I stop using this particular calorie counter.” Then today I went to log my meals & I was reminded why I deleted Fooducate previously. I keep getting a network error message. I cannot even use it now. I guess it only work when connected to WiFi??? Such a bummer bc I really liked the app.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, the app works on cellular data as well as wifi. Feel free to reach out to us at support@fooducate.com for troubleshooting.
+
+
+
+User Review: 2096
+User Name: T Fry <3 <3 <3
+User Rating: 1
+Date Time : 2016-05-14T16:30:30.000Z
+Title: Impossible to cancel
+----------------------------------------------------------
+I really liked the features of this app but hated all the adverts at the bottom. I thought if I upgraded to Pro the ads would go away but they are still there!! So ridiculous... Now it's literally impossible to cancel the pro subscription. I have written to the support team with no response. So now I'm stuck paying $5/month till the end of time??? This is absolutely inexcusable if you ask me.
+
+
+
+User Review: 2801
+User Name: Shea3333333
+User Rating: 1
+Date Time : 2012-07-20T00:54:44.000Z
+Title: ***READ THE TERMS OF SERVICE!***
+----------------------------------------------------------
+BEWARE! I got this app and then saw the terms of service. I read halfway through the TOS and proceeded to delete it. I can't even right a review of the actual app itself, because I have several issues with their TOS (e.g. waiving my "moral rights" and the company having the right to put my information out there for anyone to see). Yeah...they can keep this app. I'll just find something else.
+
+
+
+User Review: 9337
+User Name: NagjosepyShwood
+User Rating: 1
+Date Time : 2016-06-07T09:22:59.000Z
+Title: Not worth it
+----------------------------------------------------------
+I don't think the app works very well and it's a pain in the butt to cancel your subscription. If you want to try this app out, don't do it because they do NOT make it easy to cancel. Then you're stuck being charged $2.99 a month for an app you're not using. Even if you delete the app they'll keep charging you. $2.99 isn't a lot of money but residually it adds up and it's a waste.
+
+
+
+User Review: 9049
+User Name: McBigTree
+User Rating: 1
+Date Time : 2011-04-06T17:03:39.000Z
+Title: silly waste of time
+----------------------------------------------------------
+this app might be fun for people that wander trader joes scanning everything but for someone like me living in a rural area it's just a waste of time. it actually rated my smart water under aquafina. I think when it comes to purified tap water it's all pretty much the same and I'll drink water made by coca cola when the ice caps melt and water works rules apply. and then only.
+
+
+
+User Review: 4404
+User Name: lockpro
+User Rating: 1
+Date Time : 2013-04-20T01:39:33.000Z
+Title: Very Suspect
+----------------------------------------------------------
+I think this app is a wolf in Sheep's clothing. I checked 3 products known to contain GMO's which were not disclosed by this app. Further, it advised me to "save money" and not buy certain organic fruits and veggies because the conventional varieties are not sprayed with anything that sticks around on or in the product. Wrong. I'd like to know who is really behind this app.
+
+
+
+User Review: 241
+User Name: IamMissHun
+User Rating: 1
+Date Time : 2017-10-24T19:09:01.000Z
+Title: Not happy
+----------------------------------------------------------
+App signed me off and won't let me log back in. I remember my password but I tried to reset it thinking it would help with the issue. It doesn't recognize my email address... So the last 8 days of data I put in is all gone...and all the time I spent getting to know this app.  Not cool. Well, everything happens for a reason I'm sure I'll find a much better app than this :-)
+
+
+
+User Review: 9342
+User Name: yayramona
+User Rating: 1
+Date Time : 2015-01-22T00:00:34.000Z
+Title: Getting spam emails since "upgrading"
+----------------------------------------------------------
+Really angry. I would give zero stars. Ever since I signed up for the upgraded version for $19.99, I have been receiving one to two spam emails that have to do with either weight loss or hair loss. I want my email REMOVED from the list that Fooducate sold to some spam marketing agency. Every day I unsubscribe and they continue to show up in my email. Remove my email NOW
+
+
+
+User Review: 2567
+User Name: Cristina7171
+User Rating: 1
+Date Time : 2014-09-27T22:24:17.000Z
+Title: Requires a login, receives a delete
+----------------------------------------------------------
+The concept for this app is great and I used the previous version fairly frequently. Now they require you to create an account with a password and email confirmation. Why? Because looking up food nutritional values requires privacy and security? So they can track my searches? They could do that anyway. This is an unnecessary barrier and bad customer service. No thanks.
+
+
+
+User Review: 3732
+User Name: Youmakemezoom
+User Rating: 1
+Date Time : 2011-11-14T01:42:01.000Z
+Title: Misleading
+----------------------------------------------------------
+The app works wonderfully- but the info is misleading. Packaged and processed foods are not good for you! Although of course we all eat them, and therefore the should be included, they should not show up as alternatives for fresh, lower salt, unprocessed foods. I hate to think of the damage this app might do for people who are looking for help to make better choices.
+
+
+
+User Review: 2104
+User Name: lanwarrior
+User Rating: 1
+Date Time : 2015-01-03T04:55:43.000Z
+Title: Why an account is required before I can use the app?
+----------------------------------------------------------
+This should not be a requirement. Many other successful companies, like Yelp, don't even need an account to use their app.  Give us that option! Every app that requires an account will create more security issues in the future: many people stop using the app and if the app is hacked, now their account can be used to hack other accounts. Name, email, password, etc.
+
+
+
+User Review: 2458
+User Name: Maxims-1
+User Rating: 1
+Date Time : 2016-02-12T11:17:50.000Z
+Title: Not helpful if you eat real food
+----------------------------------------------------------
+The nutrition database is not searchable. You can either scan a barcode (almost always processed foods) or browse. Who has time to scroll through thousands of foods to find what you're looking for? I'm glad it's helpful to some, but I don't eat very many packaged foods (with barcodes) nor do I have time to browse when I'm looking for basic nutritional information.
+
+
+
+User Review: 9010
+User Name: Gumbygirl11
+User Rating: 1
+Date Time : 2018-04-17T16:42:16.000Z
+Title: Don’t waste your money
+----------------------------------------------------------
+I spent $19.99 for the gluten free option and all it did was tag things that are gluten free! I already know what’s gluten free! For $20 I can get that info for free and many other apps- a waste of money for stuff my FitBit does already! And gives me WAY more info for free! And when I requested a refund the company said- sorry- not our problem! Not cool!
+
+Developer Response: 
+----------------------------------------------------------
+Thank you for your feedback. Refunds on the app store are issued solely by Apple, not the app publisher (Fooducate).
+
+
+
+User Review: 2894
+User Name: Suzyz123
+User Rating: 1
+Date Time : 2015-09-24T19:50:24.000Z
+Title: Upgrade stinks!
+----------------------------------------------------------
+I recently upgraded my app and now it doesn't work properly! It won't let me choose what meals I am entering and just puts it under "snack". It also won't let me put in my work-out, when I hit "add" nothing happens. Prior to this recent upgrade I would have given it 4 stars. If it doesn't get fixed soon I'll be moving to another app for my weight loss.
+
+
+
+User Review: 193
+User Name: kscuzin
+User Rating: 1
+Date Time : 2018-12-04T00:36:02.000Z
+Title: The highly recommended FREE app is pointless for my use
+----------------------------------------------------------
+I truly haven’t been able to look up anything I wanted to you, because it always takes me to the screen “you need to upgrade”. This was an app that was recommended for me to get, but I see no sense in having it because I CAN usually get the information from other sources with some searching, I just thought it be nice to find most of it in one place.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your feedback. The vast majority of Fooducate's features are totally free. Here’s what you can do for free: use the health tracker, scan hundreds of thousands of foods and get their nutrition grade, learn what's in them, and get recommendations for healthy alternatives. Furthermore, there are thousands of free nutrition articles and an extremely supportive community for advice and motivation. There are several premium features that help us keep the lights on. What isn't free is explicitly mentioned in the app description. Thanks for understanding.
+
+
+
+User Review: 219
+User Name: clorox_Queen
+User Rating: 1
+Date Time : 2020-02-02T03:55:20.000Z
+Title: If it stopped crashing it would be 5 ⭐️
+----------------------------------------------------------
+I have loved this app and the social aspect with the motivation BUT for a month or two it has crashed every time I’ve gone to open it. And I thought it was a bug so I gave it a couple updates to see if it was a weird thing but it’s been two months know and I might delete it if I can’t get this fixed which is a shame because I love it so much 😕
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, you should not be experiencing this issue. Please reach out to us at support@fooducate.com so we can help resolve this.
+
+
+
+User Review: 305
+User Name: TheJohn01
+User Rating: 1
+Date Time : 2018-12-14T19:26:20.000Z
+Title: They stole my money.
+----------------------------------------------------------
+I have tried to get in contact with them. With no success. I tried and purchased the 3 dollar monthly subscription model they offer and was charged 40 plus dollars for the price of a yearly membership. My phone acted up when I was purchasing and I haves an iPhone Xs. So I thought that was very strange, but be careful they may take your money.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your note. If you want us to investigate your issue, kindly email support@fooducate.com and usually get a response within 24 hours. Check your spam email filter to make sure our response doesn't end up there.
+
+
+
+User Review: 4318
+User Name: Anjarielle
+User Rating: 1
+Date Time : 2016-07-15T05:00:15.000Z
+Title: Misleading, needs improvement
+----------------------------------------------------------
+It's a start, but a lot of the guidelines are not necessarily helpful. Many yellow foods are very high in saturated and trans fats and sugars. Labeling them as "yellow" is very misleading. Additionally, there are a few instances of multiple entries and different scores for the exact same items. Needs to have better regulation and consistency.
+
+
+
+User Review: 811
+User Name: @Carl
+User Rating: 1
+Date Time : 2013-12-17T05:00:26.000Z
+Title: Horrible "upgrade": from awful to worse
+----------------------------------------------------------
+Just when we thought it was as bad as it could get, they made it worse. First, they removed GMO info and placed it in a separate app that was $4.99! That was short-lived. Now, that same price only gets you a three-month "subscription." Want info on GMOs and gluten? Oh, you get to buy TWO subscriptions! And it's nowhere near April Fool's Day.
+
+
+
+User Review: 3692
+User Name: Wallb35
+User Rating: 1
+Date Time : 2013-12-31T17:58:30.000Z
+Title: Money hungry
+----------------------------------------------------------
+I loved this app when it first came out ....but now they want to charge for everything that made this app so amazing is unfortunate. You lost a Steady user and hopefully other people will follow suit and discontinue supporting and app that turns around and "upgrades" by making everything useful cost money. Monsanto must be behind this one 😡
+
+
+
+User Review: 3565
+User Name: ML_AppleNick
+User Rating: 1
+Date Time : 2012-06-18T14:49:17.000Z
+Title: Administrivia
+----------------------------------------------------------
+The core app is great. Problem is that Fooducate has an internal app messaging feature, which cannot be turned off. If little red numbers on top of you app icon annoy you -- going to read a message only to get a marketing shpeel (as it really annoys me) -- it'll bug you. Maybe they'll change it. If they did, THAT would be message worthy.
+
+
+
+User Review: 9015
+User Name: Mommy1977
+User Rating: 1
+Date Time : 2018-10-02T16:12:40.000Z
+Title: Very disappointing!!!
+----------------------------------------------------------
+I started using this app but found it very confusing and not helpful. I added the gluten free option for $19.99, which in my opinion is crazy that you have to pay for it.  However when I figured out that it wasn’t helping me I asked for a refund, in which Apple wouldn’t grant. Very disappointing. Do not pay for the add one in the app.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your feedback. The vast majority of the fooducate app is free. Here’s what you can do for free: use the health tracker, scan hundreds of thousands of foods and get their nutrition grade, learn what's in them, and get recommendations for healthy alternative. Furthermore, there are thousands of free nutrition articles and an extremely supportive community for advice and motivation. There are several premium features that help us keep the lights on. Thanks for understanding. Regarding the refund, we are sorry but If you feel that this was not the correct subscription for you, you need to try again and contact Apple via the App Store for a refund as they are the sellers of the app and we are just the publishers.
+
+
+
+User Review: 105
+User Name: raychleo
+User Rating: 1
+Date Time : 2018-09-24T19:05:54.000Z
+Title: Stop
+----------------------------------------------------------
+The whole reason I got this was for a feature (types of food sorting such as non GMO or keto, etc) and it turned out I have to buy premium for it, or otherwise just stick with the free version tell me things I can already deduce from turning a product over, and after every two actions, when I haven’t been using it for HALF AN HOUR.
+
+
+
+User Review: 1157
+User Name: Neveblu
+User Rating: 1
+Date Time : 2014-07-20T11:08:42.000Z
+Title: Need major improvements
+----------------------------------------------------------
+In the beginning I really liked this app, but over time I've found not to trust it as much. Just a couple of things I find VERY annoying are when inside any supper market I'm lucky if I can get to scan one item after that I always get the same Time Out error message ( which I have sent in but have not received any feedback on)
+
+
+
+User Review: 73
+User Name: torirtori72
+User Rating: 1
+Date Time : 2018-05-21T13:58:13.000Z
+Title: Not reliable for what is “healthy”
+----------------------------------------------------------
+I read through a lot of the reviews and saw there are a few who recognize that the creators of this app cannot be depended upon for what is truly healthy. It is surprising to me how many people will believe someone just because they say so. People, do your own research! Learn about what you are putting in your precious body.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your review. This app has been developed with the help of registered dietitians and nutrition PhDs. Every claim is backed by the most up to date science.
+
+
+
+User Review: 1039
+User Name: Ela is Born
+User Rating: 1
+Date Time : 2016-11-28T19:50:31.000Z
+Title: Bare Basic Minimum
+----------------------------------------------------------
+Unless you want to pay one of their monthly fees and I don't, this app is pretty useless. Everything that would make this a useful app, requires the "pro" (fee) version. For example, I can't update my weight, BMI, add exercise activities (outside of the app (Nike+) and other features that would help me to achieve my goals.
+
+
+
+User Review: 3447
+User Name: Not for me now
+User Rating: 1
+Date Time : 2012-05-26T13:29:31.000Z
+Title: Used to adore; now not so much
+----------------------------------------------------------
+To use this you now have to sign up. This app WAS awesome, now you have to sign up, it wants to track where you are, etc. like so many other apps. (I turn off this function--uses too much battery.) prior to sign up it was wonderful. If have to continually sign it will be deleted & I will start using WW app for scanning!
+
+
+
+User Review: 328
+User Name: gdawg1971
+User Rating: 1
+Date Time : 2019-09-06T15:32:25.000Z
+Title: Too Many wrong entries
+----------------------------------------------------------
+I recently re downloaded this because I thought I remembered it being very user friendly BUT none of the calorie counts were right on fresh foods. All the ones I tried to add had 1 or 0 calories. I even scrolled down quite a ways and never found an avocado that had 1 calorie. That would be nice, but it’s delusional.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, this bug has been fixed. We apologize for the inconvenience.
+
+
+
+User Review: 3478
+User Name: L"Twin" F
+User Rating: 1
+Date Time : 2015-01-19T23:14:11.000Z
+Title: "STUCK" & No Where to Go
+----------------------------------------------------------
+My Fooducate screen is stuck on the sign in page for Twitter & Facebook. Exploring I clicked on something & have been stuck every since. I even tried deleting & downloading but still got the same page.  I don't want to create this account to tweet or post to Facebook.  Help! Fix bug before I delete for good.
+
+
+
+User Review: 5808
+User Name: Katelle F
+User Rating: 1
+Date Time : 2011-11-22T20:06:27.000Z
+Title: What are they thinking?
+----------------------------------------------------------
+I gave this the lowest possible rateing and would have gone lower if I could have.  Foods containing high fructose corn syrup and hydrogenated vegetable oil are listed as better choices over organic foods based on sugar content. Really????? Dessert is usually a splurge that is going to be high in sugar.
+
+
+
+User Review: 358
+User Name: Ksb923
+User Rating: 1
+Date Time : 2021-08-25T14:24:04.000Z
+Title: Limited foods for logging
+----------------------------------------------------------
+I can’t figure out how to request a refund. I bought the lifetime package on Saturday and am highly disappointed by the lack of foods available for selection in the database. There is no way for me to request a refund and almost the most typical things I want to log don’t exist. Try fitness pal first.
+
+
+
+User Review: 3770
+User Name: DaniM0512
+User Rating: 1
+Date Time : 2013-04-08T01:46:09.000Z
+Title: Good info, but useless as a tracker
+----------------------------------------------------------
+The info on processed foods is good, but ultimately it's useless as a food tracker. I can't enter in my own foods (for example, if I were to make meatloaf or something from scratch, I wouldn't have the nutrition info available and can't track it). It would have been great if this one change were made.
+
+
+
+User Review: 323
+User Name: nrc1973
+User Rating: 1
+Date Time : 2019-01-20T21:48:53.000Z
+Title: Don’t bother
+----------------------------------------------------------
+Had this for two days, still could not figure out how to pick which meal to log. Searched for a popular chain cheese pizza and it brought up every type of pizza offered ever EXCEPT for plain cheese. Too hard to search, very limited list to pick from, should not have to pick a category of food either.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your feedback. If you need help with the food search, pls email support@fooducate.com
+
+
+
+User Review: 312
+User Name: rcdjbp
+User Rating: 1
+Date Time : 2018-05-07T13:54:04.000Z
+Title: Come on man😢
+----------------------------------------------------------
+This is a minimally useful come on designed to sell you features that may or may not be useful.  My experience has been that apps using this sales model are not worth the few dollars you spend.  I recommend you look elsewhere as there are fully functional apps of this type that are absolutely free.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your review. Fooducate is the only app that rates foods based on their INGREDIENTS, not just their nutrients. This is an absolutely free feature.
+
+
+
+User Review: 327
+User Name: odnoc
+User Rating: 1
+Date Time : 2019-10-04T17:29:04.000Z
+Title: Requires login and can’t reset password
+----------------------------------------------------------
+Totally blocked me from using the app (which I was using again after a long time). I don’t like apps that demand you login or create an account before trying it. What’s worse: I have an account but the app rejected all my attempts to reset my password and also rejects Apple-generated passwords.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, thanks for the feedback. With an account you can personalize Fooducate's ratings and use the app across platforms. Feel free to email us at support@fooducate.com and we will help sort out your account.
+
+
+
+User Review: 2046
+User Name: Prettygirlrock23
+User Rating: 1
+Date Time : 2012-03-12T09:47:07.000Z
+Title: Update iOS 5.1
+----------------------------------------------------------
+Ever since I updated my software to 5.1 this app doesn't work, it refuses to get passes the scanner without displaying the "check connections with cellular or wireless connections then try again or dismiss." it's irritating and trying to report the bug through support came up with a blank page.
+
+
+
+User Review: 3269
+User Name: MissMary03
+User Rating: 1
+Date Time : 2017-03-12T15:19:07.000Z
+Title: Logged me out and can't get back in
+----------------------------------------------------------
+This app logged me out. I cannot get back in. I've tried resetting my password and then logging in but I hit log in and it won't do anything. Just sits on that screen. If I try to create a new account it won't let me because my email is already being using. Was a good app until this happened.
+
+
+
+User Review: 335
+User Name: Macrolor
+User Rating: 1
+Date Time : 2018-09-04T00:38:25.000Z
+Title: Confusing
+----------------------------------------------------------
+This app is difficult and confusing. I have edited my profile multiple times and it keeps changing what I entered. The only foods that work well are if they have a barcode. So if you are making food from scratch it is cumbersome. Appears to be designed for those who eat all processed foods.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your feedback. Most people find the app simple and fun to use. We'll be happy to help you, just email support@fooducate.com. Asides from products with barcodes, we have a large dataset of homemade foods, pantry basics, and restaurant dishes.
+
+
+
+User Review: 3278
+User Name: Fleshwreck
+User Rating: 1
+Date Time : 2015-07-26T20:50:09.000Z
+Title: Don't upgrade to premium
+----------------------------------------------------------
+I upgraded to premium and didn't get what I was expecting so I've been trying to cancel. It automatically renews every month but no one will respond to my emails and there is no option in the app to cancel. I'm going to have to have my bank stop payment on them. No customer service at all.
+
+
+
+User Review: 9053
+User Name: Sthrnbelle26
+User Rating: 1
+Date Time : 2011-02-26T20:44:15.000Z
+Title: Not so hot
+----------------------------------------------------------
+My scanner works but it can't find anything I scan!! Also you can't enter most UPC codes because they are to long! Very frustrating it's a good concept but execution is lacking. This app can't even find cherrios! What good will it do if I can't find any food to know a better alternative...
+
+
+
+User Review: 310
+User Name: Skoppie
+User Rating: 1
+Date Time : 2017-07-12T03:36:42.000Z
+Title: skoppie5
+----------------------------------------------------------
+The concept sounds wonderful, but I can't get into the app after having signed up and making a password.  It keeps giving me the option of signing up but not to log in to use the app.  Frustrating.  Probably user error, but until I can find a sign in or log in place, I'll delete this app.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, and thanks for the feedback. Make sure to LOG IN, not SIGN UP. If you need further assistance, please email support@fooducate.com
+
+
+
+User Review: 4299
+User Name: Mothyberry
+User Rating: 1
+Date Time : 2011-11-13T17:18:25.000Z
+Title: Good idea.. But for iPad...?
+----------------------------------------------------------
+I am reviewing this app for iPad. If you are like most iPad users and you only have wifi, this app is next to useless. You can only scan items if you are on wifi that second. There is no option to scan it first and look it up later (not hard to integrate) and there is no native iPad app.
+
+
+
+User Review: 3331
+User Name: Vonnii2
+User Rating: 1
+Date Time : 2015-06-12T14:48:46.000Z
+Title: It was subscription based!!
+----------------------------------------------------------
+I downloaded then deleted the app in a matter of days. I only now realized they have been charging me a monthly subscription fee for months that I wasn't aware of. It wasn't clear when I bought the feature that it was a subscription. Sheesh the things people will do for money these days
+
+
+
+User Review: 4837
+User Name: Beware app is terrible
+User Rating: 1
+Date Time : 2014-05-28T03:04:10.000Z
+Title: Wasting time
+----------------------------------------------------------
+This app is terrible and simply a food advertising tool. You have to give email and personal data to find out you have to pay for what they claim the app to be. Wasted my time. I was looking for a food carb counter, not a breakdown of what I can read on a bag of pepperidge farm cookies.
+
+
+
+User Review: 3710
+User Name: Ret Dutchman
+User Rating: 1
+Date Time : 2012-11-10T15:20:40.000Z
+Title: Does not work
+----------------------------------------------------------
+Looks like a good app. Can not log in so I don't know it it does what it says it does. Sets up account but, when you enter e-mail address, won't let you select or use your password--just kicks you out of the app completely.  Have to start all over each time without getting in one time.
+
+
+
+User Review: 4237
+User Name: Literary Fan
+User Rating: 1
+Date Time : 2016-03-29T05:56:26.000Z
+Title: Premium is a ripoff!
+----------------------------------------------------------
+Inaccurate and time consuming. The free version of My Fitness Pal is a thousand times better. This is cumbersome, doesn't sync with Fitbit other than via another app, requires you to upgrade to premium to get basic nutritional info, and doesn't provide weekly or monthly info. Useless!
+
+
+
+User Review: 4688
+User Name: Boomshockalacka!
+User Rating: 1
+Date Time : 2014-02-12T22:23:07.000Z
+Title: Hate sign ups!
+----------------------------------------------------------
+Used to love and use the app regularly but now it requires you to sign up!  Why?? Hate the idea so I searched and found the GoodGuide and will use that now and delete Fooducate! I even updated many foods for them but obviously they don't appreciate those of us that refused to sign up.
+
+
+
+User Review: 9002
+User Name: application idiot
+User Rating: 1
+Date Time : 2019-04-30T19:55:03.000Z
+Title: Subscription!  $30.00+ per year!!!!
+----------------------------------------------------------
+I did not realize it would cost annually plus have in app purchases.   Never used it and had to pay an additional year because I didn’t cancel it.  Just make sure you know what you are purchasing.  I remember installing it but do not remember ever agreeing to pay over 30 bucks a year!
+
+Developer Response: 
+----------------------------------------------------------
+The app is free. The vast majority of the app's users never need to and don't upgrade.
+
+
+
+User Review: 6328
+User Name: alexathebee
+User Rating: 1
+Date Time : 2017-03-19T21:05:51.000Z
+Title: Misinformation
+----------------------------------------------------------
+Seemed like a good app, until I saw that they gave extremely unhealthy foods A ratings. Processed meats are loaded with cholesterol and have been proven to cause cancer by the World Health Organization. I don't believe this app isn't funded in someway by big agribusiness or the USDA.
+
+
+
+User Review: 5917
+User Name: ScrewEAGames
+User Rating: 1
+Date Time : 2014-12-09T02:43:23.000Z
+Title: Horrible, condescending and dangerous
+----------------------------------------------------------
+I was blocked permanently from commenting because I posted links to scientific articles debunking some of the app's woo claims. They are chemo-phobic, don't understand GM technology, encourage eating disorders and allow bullying. Can't emphasize enough how messed up the admins are.
+
+
+
+User Review: 366
+User Name: thefr8
+User Rating: 1
+Date Time : 2020-12-25T22:11:56.000Z
+Title: Don’t use your real email address
+----------------------------------------------------------
+Have not had a chance to use the app much yet, BUT, the day after I signed up for it, I started get a lot of spam emails. So, regardless of whether the app is good or not, going to delete it as it is certain that they will be selling any of my data they capture. Thanks Fooducate!
+
+Developer Response: 
+----------------------------------------------------------
+Hi there, thank for your feedback. We feel your pain. We hate spam, of any kind.  In over 10 years on the appstores, we have never, NOT ONCE, shared user information with any third party. We’re very sorry you’ve had such a bad experience with spammers, but this has nothing to do with Fooducate.
+
+
+
+User Review: 7538
+User Name: Ted Petrochko
+User Rating: 1
+Date Time : 2013-04-21T16:44:19.000Z
+Title: I agree with "Very Suspect"
+----------------------------------------------------------
+This app gives high grades for the Kellogg's "healthy" brands Kashi, Morningstar Farms, Worthington, Loma Linda, et al. We KNOW that these products are loaded with GMO ingredients. Meanwhile, Amy's soups are given very low grades for sugar content. Who owns Fooducate...Monsanto?
+
+
+
+User Review: 333
+User Name: Lilu64
+User Rating: 1
+Date Time : 2018-04-22T06:09:33.000Z
+Title: Crashed!
+----------------------------------------------------------
+Spent a half hour typing out a recipe with the directions and all. Then when I hit next after that it crashed. Went back in hoping it was there, but no!! I pay $7.99 per month for this? In other apps, it would’ve saved what I had put in on the recipe so far? Super frustrated!!
+
+Developer Response: 
+----------------------------------------------------------
+So sorry for your bad experience. Would you be so kind as to email us at support@fooducate.com so we can look into the matter and fix the possible bug you uncovered?
+
+
+
+User Review: 9129
+User Name: Morddu
+User Rating: 1
+Date Time : 2014-09-16T19:35:42.000Z
+Title: This is a really stupid app
+----------------------------------------------------------
+I can't tell what the target audience is: if it's for people losing weight, why is everyone buying super sugary foods?it can't be for anything else because all other uses are on a premium subscription. I think this is basically an app for posting photos of your shopping trip.
+
+
+
+User Review: 4715
+User Name: Chris Aker
+User Rating: 1
+Date Time : 2012-05-30T11:10:20.000Z
+Title: Another great app has fallen
+----------------------------------------------------------
+This used to be a great app but the latest update now requires you to create an account or login with Facebook. Plus it takes them forever to add items to the database. Guess I'll save time and go back to the old fashioned way and read labels. Thanks for ruining a great app!
+
+
+
+User Review: 3767
+User Name: TeaK27
+User Rating: 1
+Date Time : 2014-08-05T04:02:17.000Z
+Title: Dislike the new version
+----------------------------------------------------------
+I miss the app before this latest upgrade. I don't want to click on the app just to see my "diet partner" you've assigned to me - especially one who just posts about WATER. Please take that feature away or let us choose our own. Not even sure this app is worth keeping now.
+
+
+

@@ -1,0 +1,229 @@
+'Micronutrients' related feature requests in mysugr reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 13
+
+
+review id: 74
+
+matches and contexts:
+
+match = sodium
+context =  field to track carbohydrates, but not protein or sodium. The meter provided at the higher service l
+
+
+id: 74 | rating: 4 | user: Engmjr | date: 2018-11-13 | time: 14:27:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Everything you need for diabetes management
+--------------------------------------------------------------------
+
+Fantastic app! Only improvement I would suggest is the ability to create and track custom fields. For instance, there's a field to track carbohydrates, but not protein or sodium. The meter provided at the higher service level is accurate and easy to use. The included test strips are a great deal. I love being able to see my meals, glucose trends over time, plus an estimated A1C. All awesome features.
+
+
+review id: 89
+
+matches and contexts:
+
+match = vitam
+context = Blood sugar weight blood pressure my medicines my vitamins even my activities and how I’m feeling at
+
+
+id: 89 | rating: 5 | user: Rusty_Man | date: 2021-05-08 | time: 20:27:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Life So much easier
+--------------------------------------------------------------------
+
+With this all being so new to me getting this on to my routine has made everything so much easier I can’t imagine doing this without it I’m able to keep track of everything Blood sugar weight blood pressure my medicines my vitamins even my activities and how I’m feeling at any point.  I keep going back to prior meals using it again with the numbers already calculated just everything about it. Don’t think about it just download it!
+
+
+review id: 156
+
+matches and contexts:
+
+match = micro
+context =  activities.  I’d also like to be able to use the microphone to make entries especially when I forge
+
+
+id: 156 | rating: 4 | user: BfbsLL | date: 2020-02-06 | time: 01:44:17.000Z
+
+--------------------------------------------------------------------
+                      Title: MySugr
+--------------------------------------------------------------------
+
+I like the app, it’s simple to use and is quick to add an entry.  For enhancements I would like the ability to add a note to the entry I made for items that are out of the norm and connect to my Fitbit where I’m tracking my calories in/out and physical activities.  I’d also like to be able to use the microphone to make entries especially when I forget a few days in a row, that part is time consuming when you have 15 entries to make.
+
+
+review id: 174
+
+matches and contexts:
+
+match = sodium
+context = st items: would be great to track grams of sugar, sodium & fat with meals. ability to get EKG & Bloo
+
+
+id: 174 | rating: 5 | user: Billy D Bear 🐻 | date: 2020-05-22 | time: 23:13:52.000Z
+
+--------------------------------------------------------------------
+                      Title: MySugr great app! Easy to use.
+--------------------------------------------------------------------
+
+Tracks almost everything I need. Works well with Apple health. Only missing things are pulse & blood 02 level. I can’t find a way to add medications to the original list I made. Not show stoppers but would be great if I could. Wish list items: would be great to track grams of sugar, sodium & fat with meals. ability to get EKG & Blood Pressure data directly from Kardia app.
+
+
+review id: 284
+
+matches and contexts:
+
+match = iod
+context = I started using this during a period of time where I was transitioning between doct
+
+
+id: 284 | rating: 5 | user: gillrockwell | date: 2019-01-06 | time: 15:58:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+I started using this during a period of time where I was transitioning between doctors and I started slacking on taking care of myself. I’ve never consistently tested my blood sugar more frequently and have good numbers than when I use this app! I highly recommend for anyone (I’m type 1).
+
+
+review id: 546
+
+matches and contexts:
+
+match = iron
+context = d did I mention paperless! Good for me and the environment. Win-win.
+
+
+id: 546 | rating: 5 | user: Waco Mike | date: 2020-08-09 | time: 14:27:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Outstanding and efficient
+--------------------------------------------------------------------
+
+mySugr allows me to track my necessary data in a concise, intuitive and paperless format. I especially appreciate the easy-to-see trending chart. Oh, and did I mention paperless! Good for me and the environment. Win-win.
+
+
+review id: 634
+
+matches and contexts:
+
+match = iod
+context = ee my trending health improve, I can also send periodic reports to help track my health over time
+
+
+id: 634 | rating: 5 | user: wcnixon | date: 2020-09-08 | time: 13:05:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App
+--------------------------------------------------------------------
+
+Help me stay on track, also grabs my vitals via Bluetooth from my iPhone so that I can see my trending health improve, I can also send periodic reports to help track my health over time
+
+
+review id: 1236
+
+matches and contexts:
+
+match = iod
+context = I have been using for a short period of time and I like being able to keep track of
+
+
+id: 1236 | rating: 4 | user: Indlestat | date: 2020-05-16 | time: 12:27:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Nice Program
+--------------------------------------------------------------------
+
+I have been using for a short period of time and I like being able to keep track of my blood sugar and A1C
+
+
+review id: 1920
+
+matches and contexts:
+
+match = iod
+context = ld appear to be an easy fix [e.g., using 24 hr periods (rather than “days”) or calculating using the
+
+
+id: 1920 | rating: 5 | user: gmb-md | date: 2019-05-22 | time: 17:15:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Nice stable app
+--------------------------------------------------------------------
+
+Nice stable app for recording sugars and medications and viewing trends. The “slaying the monster” approach is used as a lighthearted incentive (and you can turn off the audio when you tire of it). The free version is definitely useful. The subscription version might be nice if you have a meter that syncs data with mySugr covered by your health plan (mine doesn’t). There are some extra features available in the subscription version (e.g., photos of meals and extra event categories/rationale), which also enable you to “earn” more points to slay the monster.  My largest negative/frustration is the way it defines the minimum number of results for calculating HA1c estimates. My insurance only pays for 3 finger sticks a day (for type II), so even if I have months of data recorded, mySugr will often state it has insufficient data. Most people will visit a doctor during the day, so there will always be a partial day of data (for me that is less than 3 sticks). It does not make sense that it will provide me an estimate of HA1c at 11:59pm, but won’t at 12:01am (2 minutes later), although it has the same amount of data. Based on responses to help tickets, this is currently considered a “feature” rather than a bug. Technically, this would appear to be an easy fix [e.g., using 24 hr periods (rather than “days”) or calculating using the previous full day]. I’m guessing that changing the calculation might require a recertification cost, since it is certified as a medical device, so maybe we will see an improvement in later?
+
+
+review id: 3357
+
+matches and contexts:
+
+match = iod
+context = k and makes it fun. I wish I hadn't missed the period to get the full version for free because unfor
+
+
+id: 3357 | rating: 5 | user: Mlr11250823 | date: 2016-09-24 | time: 15:46:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this, unbelievably helpful
+--------------------------------------------------------------------
+
+I love this app. It's takes the monotony of the logbook and makes it fun. I wish I hadn't missed the period to get the full version for free because unfortunately it is very expensive for the pro version. But I love this app and I would recommend it to my T1d friends.
+
+
+review id: 4231
+
+matches and contexts:
+
+match = iron
+context = control regimen and this app has really helped me iron out my treatment plan.
+
+
+id: 4231 | rating: 5 | user: PygmyPoet | date: 2014-04-04 | time: 18:14:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+Best app so far that I've tried. I'm a long term type I with a complicated control regimen and this app has really helped me iron out my treatment plan.
+
+
+review id: 4243
+
+matches and contexts:
+
+match = iod
+context = happy with it. Took a while to find the longer period plots and stats. Good Ux
+
+
+id: 4243 | rating: 4 | user: Ramdas Narayanan | date: 2016-06-02 | time: 01:05:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app for tracking glucose and related
+--------------------------------------------------------------------
+
+Started using this app recently and am happy with it. Took a while to find the longer period plots and stats. Good Ux
+
+
+review id: 4612
+
+matches and contexts:
+
+match = Micro
+context =  or print.. I can seriously probably do this with Microsoft excel sheet, but I'm sorta lazy..
+
+
+id: 4612 | rating: 2 | user: SaintLouis9 | date: 2015-04-30 | time: 17:08:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Not my favorite
+--------------------------------------------------------------------
+
+It's not a bad app, just not what I am looking for. Simply need log, chart, weight info area to add in. Maybe some food interaction, but mostly, simply "LOG" then output to email or print.. I can seriously probably do this with Microsoft excel sheet, but I'm sorta lazy..
+
+

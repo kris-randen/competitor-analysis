@@ -1,0 +1,1061 @@
+'Pregnancy' related feature requests in myplate-calorie-counter reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 57
+
+
+review id: 316
+
+matches and contexts:
+
+match = preg
+context = ng, however, is that there is no option for being pregnant. I feel that this app would be over the t
+
+
+id: 316 | rating: 4 | user: KylaMichelle | date: 2019-03-26 | time: 13:14:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Almost perfect
+--------------------------------------------------------------------
+
+This app is the third app that I have used to count calories and it definitely exceeded my expectations, from the easy to use platform to the cool graphics and the break down of what I eat, even the free version is outstanding. The only thing, however, is that there is no option for being pregnant. I feel that this app would be over the top fantastic if there were an option on how to eat during pregnancy based on my specific body. Overall, wonderful app though.
+
+
+review id: 386
+
+matches and contexts:
+
+match = baby
+context = ng for you. Im still using it now after having my baby. It’s simple and great
+
+match = preg
+context = I started using this when I was pregnant to track what I eat. My doctor had told m
+
+
+id: 386 | rating: 5 | user: frannilla | date: 2021-01-06 | time: 21:15:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app to track food and calories!
+--------------------------------------------------------------------
+
+I started using this when I was pregnant to track what I eat. My doctor had told me to be on a high protein low carb, and this app helped me keep track of everything! If you can’t find the food in the search bar you also can scan the barcode and it adds everything for you. Im still using it now after having my baby. It’s simple and great
+
+
+review id: 463
+
+matches and contexts:
+
+match = baby
+context =  definitely continue to use this after I have the baby.
+
+match = preg
+context = d counts the calories for you. I do wish it had a pregnancy option on it and count just calories ins
+
+
+id: 463 | rating: 4 | user: Carolinejp | date: 2018-05-31 | time: 15:51:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App
+--------------------------------------------------------------------
+
+I love that you can keep detailed list of things you eat. Not just counting a meal. It let's you pick every item on your plate and counts the calories for you. I do wish it had a pregnancy option on it and count just calories instead of weight management. With my problems in having I have to keep track of calories not weight. I will definitely continue to use this after I have the baby.
+
+
+review id: 579
+
+matches and contexts:
+
+match = baby
+context = workout session at 5:30am, running around with my baby, then working 8 hours. Good night 😴
+
+
+id: 579 | rating: 5 | user: Jfresh1433 | date: 2019-08-29 | time: 06:55:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Simple
+--------------------------------------------------------------------
+
+This app is so easy to use! The meal planning/exercise routines are awesome. I’ll definitely be incorporating these in between sessions with my trainer. She suggested counting my macros and I thought it was going to be a hassle, but this was so simple - I did it after a hour workout session at 5:30am, running around with my baby, then working 8 hours. Good night 😴
+
+
+review id: 959
+
+matches and contexts:
+
+match = baby
+context = be options for motherhood -carrying and lifting a baby off the floor is a lot of work! This isn't at
+
+
+id: 959 | rating: 3 | user: mammaworkshard | date: 2019-04-26 | time: 16:50:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Not sure yet
+--------------------------------------------------------------------
+
+Its a bit confusing, can't figure out if the stats are what I've consumed or what I have left to go? I'm guessing left to go. Also, there should totally be options for motherhood -carrying and lifting a baby off the floor is a lot of work! This isn't at all in the list of exercises but reclining on a couch with a baby is????? Who has the time to do that 😂
+
+
+review id: 1070
+
+matches and contexts:
+
+match = baby
+context = I’ve trained for bodybuilding competitions, had a baby, gotten in shape post-baby, and now I’m getti
+
+match = post-baby
+context = uilding competitions, had a baby, gotten in shape post-baby, and now I’m getting in shape mid-pandem
+
+
+id: 1070 | rating: 5 | user: KrisWins | date: 2021-02-02 | time: 02:00:42.000Z
+
+--------------------------------------------------------------------
+                      Title: 8 years going strong!
+--------------------------------------------------------------------
+
+I’ve been using this app since 2012 and I’m so grateful that it’s still going strong!! I’ve trained for bodybuilding competitions, had a baby, gotten in shape post-baby, and now I’m getting in shape mid-pandemic. I really love this app!
+
+
+review id: 1087
+
+matches and contexts:
+
+match = postpartum
+context = I am five months postpartum and thanks to this app, I have lost 55 
+
+match = postp
+context = I am five months postpartum and thanks to this app, I have lost 55 
+
+
+id: 1087 | rating: 5 | user: Alisa Cress | date: 2021-06-25 | time: 00:09:54.000Z
+
+--------------------------------------------------------------------
+                      Title: I lost 55 pounds in 5 months, thanks to MyPlate: Calorie Counter
+--------------------------------------------------------------------
+
+I am five months postpartum and thanks to this app, I have lost 55 pounds in five months. I am not only using it to track my calories but the plan meals ahead, makes my diet a lot easier.
+
+
+review id: 1100
+
+matches and contexts:
+
+match = breastfeed
+context = se! I would love to recommend adding an option of breastfeeding for women. You burn calories breastf
+
+match = feeding
+context = would love to recommend adding an option of breastfeeding for women. You burn calories breastfeeding
+
+
+id: 1100 | rating: 4 | user: BuildConfidence.FeelBeautiful | date: 2017-09-07 | time: 02:59:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+So far I love the app! It's great easy to use! I would love to recommend adding an option of breastfeeding for women. You burn calories breastfeeding. It would be fantastic to be able to add that in to your daily calorie count. I definitely recommend this app to others.
+
+
+review id: 1164
+
+matches and contexts:
+
+match = breastfeed
+context = great if I could add a status like “pregnant” or “breastfeeding”, so the calorie count would adjust 
+
+match = preg
+context = ost: would be great if I could add a status like “pregnant” or “breastfeeding”, so the calorie count
+
+match = feeding
+context = if I could add a status like “pregnant” or “breastfeeding”, so the calorie count would adjust accord
+
+
+id: 1164 | rating: 4 | user: akalea12 | date: 2019-01-15 | time: 15:04:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Great, probably the best of the ones I’ve tried
+--------------------------------------------------------------------
+
+Easy to use, nice design, everything you need - almost: would be great if I could add a status like “pregnant” or “breastfeeding”, so the calorie count would adjust accordingly. Also, I’m missing the morning snack, but no biggie! Love this app.
+
+
+review id: 1294
+
+matches and contexts:
+
+match = baby
+context = welcoming as a community! It’s my ride or die now baby!
+
+
+id: 1294 | rating: 5 | user: emilybdjdnd smsn | date: 2021-05-05 | time: 21:53:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Ride or die
+--------------------------------------------------------------------
+
+This app made it so easy to keep track of my daily intake. My favorite part is the cute little emails they send me! They are very fire fly and welcoming as a community! It’s my ride or die now baby!
+
+
+review id: 1319
+
+matches and contexts:
+
+match = baby
+context = en’t for the LOUD and obnoxious ads that play. My baby is asleep, I’m trying this out and BAM! LOUD 
+
+
+id: 1319 | rating: 2 | user: Hassychick | date: 2019-04-30 | time: 15:54:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Loud and obnoxious ads
+--------------------------------------------------------------------
+
+This might be ok if it weren’t for the LOUD and obnoxious ads that play. My baby is asleep, I’m trying this out and BAM! LOUD music that I can’t figure out where it’s coming from the. I closed this crappy app and it stops. Hey, thanks for waking up the baby and for being just like all the others and shoving crappy advertisements in our faces. Greed. Always greed!
+
+
+review id: 1348
+
+matches and contexts:
+
+match = milk
+context = also on trend with food items such as Silk Almond milk and tofu brands.  Wish it had a place to adde
+
+
+id: 1348 | rating: 5 | user: Be good to yourself today | date: 2019-03-27 | time: 11:19:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Fabulous app for carb counting
+--------------------------------------------------------------------
+
+Best app I found to track carbs.  Focusing on carb counting and this app is the best and user friendly. It’s also on trend with food items such as Silk Almond milk and tofu brands.  Wish it had a place to added a “note to self”.
+
+
+review id: 1417
+
+matches and contexts:
+
+match = breastfeed
+context = , although I wish you would install a feature for breastfeeding mommas so we could accurately track 
+
+match = feeding
+context = ough I wish you would install a feature for breastfeeding mommas so we could accurately track our ca
+
+
+id: 1417 | rating: 3 | user: BonBon2468 | date: 2019-03-29 | time: 10:16:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Could be improved
+--------------------------------------------------------------------
+
+I love how simple and convenient this tracker is, although I wish you would install a feature for breastfeeding mommas so we could accurately track our caloric intake. If this feature were addd I would give 5 stars, hand down!
+
+
+review id: 1512
+
+matches and contexts:
+
+match = feeding
+context = only one wish is that it would account for breast feeding.
+
+
+id: 1512 | rating: 5 | user: ConcreteProdigy | date: 2021-06-16 | time: 04:58:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Great!
+--------------------------------------------------------------------
+
+I love the flow to the app! It’s simple but not stupid. Easy to use and that makes me want to use it. My only one wish is that it would account for breast feeding.
+
+
+review id: 1584
+
+matches and contexts:
+
+match = baby
+context = e used this tool to lose 40lbs twice after my two baby boys were born. I coupled this with the LiveS
+
+
+id: 1584 | rating: 5 | user: Lalahshdhdhdhd | date: 2018-08-10 | time: 23:58:54.000Z
+
+--------------------------------------------------------------------
+                      Title: The best weight loss tool
+--------------------------------------------------------------------
+
+I’ve used this tool to lose 40lbs twice after my two baby boys were born. I coupled this with the LiveStrong workouts. I love how it couples with my apple3 watch.
+
+
+review id: 1611
+
+matches and contexts:
+
+match = preg
+context = I’m using this app during my pregnancy to track my protein and calories. It’s a
+
+
+id: 1611 | rating: 4 | user: Kadtxkitten | date: 2018-05-30 | time: 12:48:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Pregnancy nutrition
+--------------------------------------------------------------------
+
+I’m using this app during my pregnancy to track my protein and calories. It’s also been great to keep up with water consumption. Helps me hit my target for 100 Grams of protein a day and see where I need to add snacks
+
+
+review id: 1767
+
+matches and contexts:
+
+match = milk
+context = out 2100 not 1300 that isn’t sufficient to have a milk supply for my little one.
+
+match = nursing
+context = Hi you really to add a nursing option because what it said for calorie in
+
+match = nurs
+context = Hi you really to add a nursing option because what it said for calorie in
+
+
+id: 1767 | rating: 3 | user: Sneaky J | date: 2019-04-24 | time: 14:45:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Need a nursing option
+--------------------------------------------------------------------
+
+Hi you really to add a nursing option because what it said for calorie intake for me is completely wrong. Nursing moms need additional 500 calories. I should be at a about 2100 not 1300 that isn’t sufficient to have a milk supply for my little one.
+
+
+review id: 2372
+
+matches and contexts:
+
+match = preg
+context = Would give 5 stars if there was an added tool for pregnant woman to help keep nutrition on track whi
+
+
+id: 2372 | rating: 4 | user: EmileeAnn17 | date: 2018-05-31 | time: 16:14:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Pregnancy
+--------------------------------------------------------------------
+
+Would give 5 stars if there was an added tool for pregnant woman to help keep nutrition on track while growing a human
+
+
+review id: 2408
+
+matches and contexts:
+
+match = preg
+context =  many apps, they don’t cater to a missing group.. pregnant woman.
+
+
+id: 2408 | rating: 4 | user: Jenniespinnies | date: 2020-10-10 | time: 11:13:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs a pregnancy profile setting.
+--------------------------------------------------------------------
+
+I love this app, but likes many apps, they don’t cater to a missing group.. pregnant woman.
+
+
+review id: 3126
+
+matches and contexts:
+
+match = baby
+context = baby girls y’all doing great 🤩
+
+
+id: 3126 | rating: 5 | user: zumie alvarez | date: 2020-04-05 | time: 04:53:20.000Z
+
+--------------------------------------------------------------------
+                      Title: keep it up
+--------------------------------------------------------------------
+
+baby girls y’all doing great 🤩
+
+
+review id: 3222
+
+matches and contexts:
+
+match = baby
+context = Honestly, I want to give this baby 4-5 stars! I love how not only can you track 
+
+
+id: 3222 | rating: 3 | user: 2NickPick | date: 2016-01-10 | time: 14:08:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Loved it, but didn't work for me :/
+--------------------------------------------------------------------
+
+Honestly, I want to give this baby 4-5 stars! I love how not only can you track food, exercise, and weight; but also water. The water section is great because it allows you to select your container size before logging giving you a better idea of how much water you consumed. I loved that you could review your macros and you could read the newest research in health. I loved the design and the usability. There was one flaw that was a deal breaker for me. I cook for my family and as such I'm typically making meals that serve 4-6. Therefore, I found it very difficult logging my food, because as far as I can tell, there is no recipe function. It has a custom food input so if you know the info for your recipes individual serving you can create it, but for me that isn't easy. I would have to log in the full recipe into meals, divide the nutritional facts that it shows down to 1 in my calculator. Then I'd delete the meal and save it in my custom foods. So much work. No thanks!! I have seen other apps where you can log the full recipe, say how much it serves and it will divide it down per serving for you. If you cook for a single person or  have no problem doing the  work then I would suggest this app because otherwise it's fantastic. If you are like me and need to be able to log full recipes,  I wouldn't recommend this.
+
+
+review id: 3236
+
+matches and contexts:
+
+match = preg
+context = ave to say I love almost everything about it. I'm pregnant so needed an app that would allow me to s
+
+
+id: 3236 | rating: 4 | user: Deena330 | date: 2017-02-01 | time: 03:09:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Pregnant and love the app, but...
+--------------------------------------------------------------------
+
+After using this app religiously for two weeks, I have to say I love almost everything about it. I'm pregnant so needed an app that would allow me to set a goal of gaining a 1/2 pound a week. Perfect! Interface is super easy, creating new food is easy, and I've found it very helpful in being mindful of what I'm eating. I'd love to sign up for the year plan, and that's where the rub comes in. I'm all about paying for premium content, and am absolutely willing to shell out $45 to get access to it for a year. But please don't "auto renew" me unless I cancel one day before! That feels like such a trick. "Oops you forgot to cancel - that will be another $45 for a year". If the content is valuable and worth it, we will agree to another year/$45. And if not, we won't. But don't try to "hook" us. Final thought - not sure why but the exercises you can select from are super strange! Like they don't have CrossFit (perhaps the most popular fitness routine today) but they bartending.  ?! Next time I bartend I will know how many calories I burned. But no Barre class, crossfit, etc. flying is in there though so if you do a lot of flying you are in luck!
+
+
+review id: 3263
+
+matches and contexts:
+
+match = milk
+context = I make almost all of my own foods: hummus, almond milk, ketchup, etc.) you have to somehow magically
+
+
+id: 3263 | rating: 2 | user: LynnMicheleW | date: 2014-03-01 | time: 19:14:45.000Z
+
+--------------------------------------------------------------------
+                      Title: How is this rated so highly!?
+--------------------------------------------------------------------
+
+I gave this app two stars because it wasn't COMPLETELY useless.  It calculates a calorie intake goal for you based on your personal goal of losing, gaining or maintaining weight.  When you start tracking the scanner used to scan products into the app is convenient, but not necessary since I can read.  And most food products with a barcode have a nutrition label.  Everything else is a waste of time.  For foods that don't have barcodes (I make almost all of my own foods: hummus, almond milk, ketchup, etc.) you have to somehow magically know the calorie content.  Weight watchers has a search function on their app and if I were to type in hummus, for example, it would bring up a bunch of hummus types and brands and I could choose one to add to my point tracker. Even if it isn't exact, id have some options.  Also: there is a search feature on their activity tracker too.  On THIS app?  Good luck- unless you also magically know how many calories your workout session burned.
+
+
+review id: 3265
+
+matches and contexts:
+
+match = breastfeed
+context = pp. 1) there should be an option for pregnant and breastfeeding in profile so it changes your calori
+
+match = preg
+context = r till using this app. I even used it while I was pregnant to make sure I ate enough. I only gained 
+
+match = feeding
+context =  there should be an option for pregnant and breastfeeding in profile so it changes your calorie inta
+
+
+id: 3265 | rating: 4 | user: RugbyRalphy | date: 2016-04-19 | time: 16:32:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Healthy Lifestyle
+--------------------------------------------------------------------
+
+I am a 35 year old mother of a 14 year old and a 5 month old. I have been using this app for about 4+ years. I love it! It makes you more aware of what your actually eating. It helps you to loose weight, maintain and change your eating habits for your health. I lost 25lbs in only a few months 4 years ago using this app. I have always been an athlete but I wasn't the best eater till using this app. I even used it while I was pregnant to make sure I ate enough. I only gained 25lbs and lost it all only a few days later. I only have a few suggestions for the Livestrong App. 1) there should be an option for pregnant and breastfeeding in profile so it changes your calorie intake 2) you should be able to share your plate to someone else's phone (like your husband) 3) there are still some workouts not in the system (ex. The shake weight). Over all I highly recommend the Livestrong App
+
+
+review id: 3414
+
+matches and contexts:
+
+match = baby
+context = ain a 50-lb weight loss and am now trying to lose baby weight. Having it on my phone is awesome... s
+
+
+id: 3414 | rating: 4 | user: lyoung02 | date: 2015-06-06 | time: 02:36:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs a diary feature
+--------------------------------------------------------------------
+
+This app is good for calorie and exercise tracking. It's very basic (which I like) and easy to use. I like that I can scan UPCs for many of the foods I eat. I used the MyPlate website a few years ago to maintain a 50-lb weight loss and am now trying to lose baby weight. Having it on my phone is awesome... so much more convenient. I miss the diary feature that the website had, though. It was a great tool to make note of any events or situations that made healthy eating and exercise more difficult that day. I would love to see a diary feature added on to this app.
+
+
+review id: 3493
+
+matches and contexts:
+
+match = preg
+context = ting a lot of junk food between week 5-8 when the pregnancy hunger attacked!)
+
+
+id: 3493 | rating: 5 | user: Kylie L1 | date: 2016-03-17 | time: 20:57:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app! Help me control my pregnancy weight gain (so far)!
+--------------------------------------------------------------------
+
+I didn't gain any weight during the first trimester. I don't think I can achieve that wo this app (I was out of control and was eating a lot of junk food between week 5-8 when the pregnancy hunger attacked!)
+
+
+review id: 3565
+
+matches and contexts:
+
+match = nurs
+context = I have to say as a nurse I think it's the best app out there!  I love
+
+
+id: 3565 | rating: 5 | user: Mawbell1 | date: 2015-06-08 | time: 11:36:00.000Z
+
+--------------------------------------------------------------------
+                      Title: I've had this app for 7 years
+--------------------------------------------------------------------
+
+I have to say as a nurse I think it's the best app out there!  I love it because you can go back and look at your nutrition like a usda food label and see where you are lacking nutrition and/ or what you need to improve in your diet.   It's an awesome app to say least!  The charts are amazing to look at your progress and since the tracking system on the iPhone the activity tracking is really cool.  Highly highly recommend!
+
+
+review id: 4032
+
+matches and contexts:
+
+match = baby
+context = to eat right and lose weight. I had an unexpected baby at the age of 34 but with some will power and
+
+
+id: 4032 | rating: 5 | user: Hot mama of give and counting | date: 2014-06-22 | time: 12:32:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+Easy to use the updated version has so much more resources to enter your information to help you learn to eat right and lose weight. I had an unexpected baby at the age of 34 but with some will power and help from this app. I got back to my pre-baby weight in less time then when I was much younger.
+
+
+review id: 4353
+
+matches and contexts:
+
+match = preg
+context = Gained 56 pounds during my pregnancy. I have lost 40 pounds and plan on losin
+
+match = feeding
+context = been helping! I really like it. I just put breast feeding down as an exercise, since it burns so man
+
+
+id: 4353 | rating: 5 | user: AMRNewell | date: 2013-09-27 | time: 05:23:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Post baby
+--------------------------------------------------------------------
+
+Gained 56 pounds during my pregnancy. I have lost 40 pounds and plan on losing the rest with the help of this app. I have already been using it for a month or so and it has really been helping! I really like it. I just put breast feeding down as an exercise, since it burns so many calories :)
+
+
+review id: 4374
+
+matches and contexts:
+
+match = baby
+context =  until I got pregnant. Now that I recently had my baby I am using it to get back in shape again. I w
+
+match = preg
+context = ercise, & water for a couple of years until I got pregnant. Now that I recently had my baby I am usi
+
+
+id: 4374 | rating: 5 | user: Realtor Olivia | date: 2016-03-07 | time: 03:44:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Lost over 100lbs!
+--------------------------------------------------------------------
+
+I lost over 100lbs only using Myplate. I used it to track my food, exercise, & water for a couple of years until I got pregnant. Now that I recently had my baby I am using it to get back in shape again. I will never stop using it again.
+
+
+review id: 4400
+
+matches and contexts:
+
+match = nursing
+context = h they would add is to the profile section. I'm a nursing mom and need more calories a day than what
+
+match = nurs
+context = h they would add is to the profile section. I'm a nursing mom and need more calories a day than what
+
+
+id: 4400 | rating: 4 | user: Nolesteach | date: 2012-09-13 | time: 15:20:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+I love this app. There are so many foods in the search that I haven't had to enter anything manually. It is also easy to use. The only thing I wish they would add is to the profile section. I'm a nursing mom and need more calories a day than what my settings suggest. I wish nursing was an option. I know WW points take it. Into account.
+
+
+review id: 4543
+
+matches and contexts:
+
+match = breastfeed
+context = lpful even with a community group for mothers and breastfeeding moms. Can we all hop on the ban wago
+
+match = baby
+context = So many use this app as a way to help lose their baby weight, I just wish that they would factor in
+
+match = feeding
+context = even with a community group for mothers and breastfeeding moms. Can we all hop on the ban wagon alre
+
+match = nursing
+context = hey would factor into my calorie intake that I am nursing and need more to sustain supply. So many m
+
+match = nurs
+context = hey would factor into my calorie intake that I am nursing and need more to sustain supply. So many m
+
+
+id: 4543 | rating: 4 | user: Samiextc | date: 2016-02-27 | time: 14:51:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Great.. But missing something
+--------------------------------------------------------------------
+
+So many use this app as a way to help lose their baby weight, I just wish that they would factor into my calorie intake that I am nursing and need more to sustain supply. So many moms would find it helpful even with a community group for mothers and breastfeeding moms. Can we all hop on the ban wagon already?!
+
+
+review id: 4544
+
+matches and contexts:
+
+match = breastfeed
+context = also would like to see a setting for pregnant and breastfeeding mothers to help us meet our goals as
+
+match = preg
+context = cro goals! I also would like to see a setting for pregnant and breastfeeding mothers to help us meet
+
+match = feeding
+context = ould like to see a setting for pregnant and breastfeeding mothers to help us meet our goals as well.
+
+
+id: 4544 | rating: 4 | user: NicNac1004 | date: 2016-02-29 | time: 16:46:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+I've been using this app for about 3 years and it's ever evolving and so helpful in meeting your macro goals! I also would like to see a setting for pregnant and breastfeeding mothers to help us meet our goals as well...not sure if they can figure out a good measure of additional calories for us but it would be really awesome!
+
+
+review id: 4591
+
+matches and contexts:
+
+match = preg
+context = al is gain 10lbs so that I can get back to my pre-pregnancy weight. Not too many calorie counters ha
+
+
+id: 4591 | rating: 5 | user: Miss_HottButta | date: 2013-02-12 | time: 03:37:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Not sure Yet
+--------------------------------------------------------------------
+
+I just started today and my goal is gain 10lbs so that I can get back to my pre-pregnancy weight. Not too many calorie counters have it set up so easily for weight gainers like myself. I am starting today and will give another review in 4 weeks
+
+
+review id: 4594
+
+matches and contexts:
+
+match = baby
+context = I Just had a baby 2 weeks ago and am really pushing myself to l
+
+
+id: 4594 | rating: 5 | user: Jordan&Jay'DinMommy | date: 2013-05-30 | time: 20:11:18.000Z
+
+--------------------------------------------------------------------
+                      Title: My review
+--------------------------------------------------------------------
+
+I Just had a baby 2 weeks ago and am really pushing myself to lose weight. I've only had this app for a week and so far I like it. I watch everything g I eat now and tell myself no. I would recommend this app to others.
+
+
+review id: 4936
+
+matches and contexts:
+
+match = preg
+context = osing weight, maintaining, gaining safely (during pregnancy) and it's been a great tool in every cas
+
+
+id: 4936 | rating: 5 | user: Rose'sMama | date: 2017-04-18 | time: 14:37:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Great tracker for healthy eating!
+--------------------------------------------------------------------
+
+I love this tracker. It's made it really easy to keep track of calories and macronutrients daily. I've used it for different goals - losing weight, maintaining, gaining safely (during pregnancy) and it's been a great tool in every case.
+
+
+review id: 4973
+
+matches and contexts:
+
+match = breastfeed
+context = I wish this took into account breastfeeding. I exclusively breastfeed and burn l
+
+match = feeding
+context = I wish this took into account breastfeeding. I exclusively breastfeed and burn loads o
+
+
+id: 4973 | rating: 4 | user: Sha one | date: 2016-09-14 | time: 14:22:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Breastfeeding
+--------------------------------------------------------------------
+
+I wish this took into account breastfeeding. I exclusively breastfeed and burn loads of calories, but I'm constantly hungry and need to eat the "right" foods to keep up my supply. It would be nice if this app could take that into account when helping me define my nutrition and weight loss goals.
+
+
+review id: 5033
+
+matches and contexts:
+
+match = preg
+context =  It has helped me to lose 20 lbs.  I am currently pregnant and so now instead of to lose weight it i
+
+
+id: 5033 | rating: 5 | user: Wwjdctr | date: 2015-09-05 | time: 03:04:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+This app has been wonderful!  It has helped me to lose 20 lbs.  I am currently pregnant and so now instead of to lose weight it is great at helping me track nutrition.  I love that workouts have been added to this!
+
+
+review id: 5069
+
+matches and contexts:
+
+match = preg
+context = like the app I used it for sometimes before I was pregnant and during my pregnancy. But now that I'm
+
+match = feeding
+context =  and during my pregnancy. But now that I'm breast feeding it harder to use, trying to lose pregnancy
+
+
+id: 5069 | rating: 4 | user: stacieforever | date: 2017-08-28 | time: 19:25:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it
+--------------------------------------------------------------------
+
+I really like the app I used it for sometimes before I was pregnant and during my pregnancy. But now that I'm breast feeding it harder to use, trying to lose pregnancy fat but still having to take in more calories makes it hard too use.
+
+
+review id: 5203
+
+matches and contexts:
+
+match = breastfeed
+context = super helpful but would be even better if it took breastfeeding mothers into consideration. I just a
+
+match = feeding
+context = helpful but would be even better if it took breastfeeding mothers into consideration. I just added a
+
+
+id: 5203 | rating: 4 | user: MrsSmitty84 | date: 2014-03-24 | time: 05:12:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Great but could be better...
+--------------------------------------------------------------------
+
+I agree with the previous comment- this app is super helpful but would be even better if it took breastfeeding mothers into consideration. I just added an extra 300 calories to the recommended intake and will make adjustments accordingly i guess.
+
+
+review id: 5219
+
+matches and contexts:
+
+match = baby
+context = I wanted to lose weight after having baby and found this app that I can eat what I like
+
+
+id: 5219 | rating: 5 | user: RASHEED DADA | date: 2013-08-27 | time: 15:23:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+I wanted to lose weight after having baby and found this app that I can eat what I like just cutting back by using this app can track everything I love this app thank you
+
+
+review id: 5916
+
+matches and contexts:
+
+match = baby
+context = up to my wedding. Used it & this app after having baby to lose beyond the gained baby weight. Now - 
+
+
+id: 5916 | rating: 3 | user: JessyMacmac | date: 2015-11-26 | time: 03:28:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs is, needs to sun w/Fitbit, needs to catch up
+--------------------------------------------------------------------
+
+I used to like it. I run, weight train, etc. I used their website in college while staying slim up to my wedding. Used it & this app after having baby to lose beyond the gained baby weight. Now - got new iPhone 6s Plus...
+
+
+review id: 6163
+
+matches and contexts:
+
+match = feeding
+context = ed me track my calories and protein to ensure I'm feeding my body to match my workouts. It's a bit t
+
+
+id: 6163 | rating: 5 | user: Professor8822 | date: 2013-07-12 | time: 18:22:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for an active vegan!
+--------------------------------------------------------------------
+
+This app has really helped me track my calories and protein to ensure I'm feeding my body to match my workouts. It's a bit tedious but worth it. The points are good too!!
+
+
+review id: 6210
+
+matches and contexts:
+
+match = baby
+context = ng app out there.  Used it to lose all postpartum baby weight within 6 months.  Now using it to main
+
+match = postpartum
+context = orie tracking app out there.  Used it to lose all postpartum baby weight within 6 months.  Now using
+
+match = postp
+context = orie tracking app out there.  Used it to lose all postpartum baby weight within 6 months.  Now using
+
+
+id: 6210 | rating: 5 | user: Aprilrose2990 | date: 2015-02-03 | time: 23:03:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Live strong
+--------------------------------------------------------------------
+
+Best calorie tracking app out there.  Used it to lose all postpartum baby weight within 6 months.  Now using it to maintain.
+
+
+review id: 6483
+
+matches and contexts:
+
+match = preg
+context = t calories. My fav part is the water tracker. I'm pregnant and need tons of water
+
+
+id: 6483 | rating: 5 | user: Dzxxhffhjgshjuf | date: 2013-06-30 | time: 21:54:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+So simple and quick! Now I can't use the excuse that I don't have time to count calories. My fav part is the water tracker. I'm pregnant and need tons of water
+
+
+review id: 6558
+
+matches and contexts:
+
+match = preg
+context = on track after my third child. I'm back at my pre-pregnancy weight because I am a faithful tracker!
+
+
+id: 6558 | rating: 5 | user: GoDJ91183 | date: 2015-07-08 | time: 17:47:45.000Z
+
+--------------------------------------------------------------------
+                      Title: So Necessary
+--------------------------------------------------------------------
+
+This is my only means of staying on track after my third child. I'm back at my pre-pregnancy weight because I am a faithful tracker!
+
+
+review id: 6849
+
+matches and contexts:
+
+match = baby
+context =  count the extra calories I need so I can feed my baby and how many calories I burn by nursing.
+
+match = nursing
+context = elpful. Down 1 lb in 2 days. I just wish it had a nursing mom option so it would count the extra cal
+
+match = nurs
+context = elpful. Down 1 lb in 2 days. I just wish it had a nursing mom option so it would count the extra cal
+
+
+id: 6849 | rating: 4 | user: Desgr | date: 2013-01-25 | time: 14:00:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Good
+--------------------------------------------------------------------
+
+Very helpful. Down 1 lb in 2 days. I just wish it had a nursing mom option so it would count the extra calories I need so I can feed my baby and how many calories I burn by nursing.
+
+
+review id: 7007
+
+matches and contexts:
+
+match = milk
+context =  base where common foods like apples, bananas and milk could accessed for input into the daily food 
+
+
+id: 7007 | rating: 4 | user: audrylucy | date: 2013-09-22 | time: 15:37:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Helpful
+--------------------------------------------------------------------
+
+I really like this app and the reward system is a definite plus, just wish there was a nutrition guide or data base where common foods like apples, bananas and milk could accessed for input into the daily food diary.
+
+
+review id: 7516
+
+matches and contexts:
+
+match = milk
+context = the shake from Dairy Queen if made with the right milk.
+
+
+id: 7516 | rating: 5 | user: Stimy28 | date: 2017-01-23 | time: 01:19:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Great product
+--------------------------------------------------------------------
+
+I didn't think I would like these shakes but their just as good as the shake from Dairy Queen if made with the right milk.
+
+
+review id: 7532
+
+matches and contexts:
+
+match = baby
+context = xercise, some foods (esp non processed stuff like baby potatoes) don't have accurate calorie info.
+
+
+id: 7532 | rating: 3 | user: Annethor | date: 2015-03-14 | time: 02:01:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app but a bit buggy
+--------------------------------------------------------------------
+
+Bugs out sometimes but in general useful. Sometimes double tracks calories and exercise, some foods (esp non processed stuff like baby potatoes) don't have accurate calorie info.
+
+
+review id: 8306
+
+matches and contexts:
+
+match = baby
+context = band lost twenty pounds and I lost the last of my baby weight. I highly recommend it.
+
+
+id: 8306 | rating: 5 | user: ithunkthere4iam | date: 2013-01-26 | time: 14:03:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome
+--------------------------------------------------------------------
+
+My husband lost twenty pounds and I lost the last of my baby weight. I highly recommend it.
+
+
+review id: 9258
+
+matches and contexts:
+
+match = milk
+context = Still have an entry for coffee with skim milk in "lunch" and have to manually remove it eve
+
+
+id: 9258 | rating: 2 | user: Hw3dyg | date: 2017-01-14 | time: 13:49:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Please remove the erroneous lunch entries
+--------------------------------------------------------------------
+
+Still have an entry for coffee with skim milk in "lunch" and have to manually remove it every day. Would appreciate it if someone would remove this. The "breakfast" entry has been removed--thank you.
+
+
+review id: 10215
+
+matches and contexts:
+
+match = preg
+context = rack nutrition, water intake, and exercise during pregnancy. Very useful tool.
+
+
+id: 10215 | rating: 4 | user: PoweredByATP | date: 2014-04-18 | time: 08:29:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Pretty good
+--------------------------------------------------------------------
+
+Using it to track nutrition, water intake, and exercise during pregnancy. Very useful tool.
+
+
+review id: 10634
+
+matches and contexts:
+
+match = baby
+context = Best app out there to lose the baby weight!
+
+
+id: 10634 | rating: 5 | user: Melwhit78 | date: 2013-08-11 | time: 23:04:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Great!
+--------------------------------------------------------------------
+
+Best app out there to lose the baby weight!
+
+
+review id: 11854
+
+matches and contexts:
+
+match = preg
+context = I wish it would adjust for pregnancy
+
+
+id: 11854 | rating: 3 | user: Jester2872 | date: 2014-09-02 | time: 19:53:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Good but
+--------------------------------------------------------------------
+
+I wish it would adjust for pregnancy
+
+
+review id: 13979
+
+matches and contexts:
+
+match = nurs
+context = k of what I eat. I was so wrong. My daughter is a nurse and nagged me into using MyPlate. MyPlate is
+
+
+id: 13979 | rating: 5 | user: Hammerman46 | date: 2020-03-21 | time: 00:35:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Balanced diet
+--------------------------------------------------------------------
+
+I always thought I was eating a well balanced diet. I scoffed at the people telling me to meet with a dietician or keep track of what I eat. I was so wrong. My daughter is a nurse and nagged me into using MyPlate. MyPlate is so easy and showed I was not eating nearly enough protein and I was eating way too much fat. My cholesterol has gone from 236 on 9/4/19 to 192 on 3/16/20 with no medication. I am currently still focusing on getting my macros. Thanks for the great app.
+
+
+review id: 14310
+
+matches and contexts:
+
+match = preg
+context = day weight and keep moving forward in loosing the pregnancy weight! Lets do this !!!
+
+
+id: 14310 | rating: 4 | user: Avolonlee | date: 2013-12-03 | time: 19:21:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Great so far
+--------------------------------------------------------------------
+
+I have been using this app only a short while, but have fallen in love with it! It has a few flaws ( like the bar code scan) but all in all a great way for me to not gain holiday weight and keep moving forward in loosing the pregnancy weight! Lets do this !!!
+
+

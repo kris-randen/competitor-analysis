@@ -1,0 +1,562 @@
+'Pregnancy' related feature requests in carb-manager-keto reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 31
+
+
+review id: 207
+
+matches and contexts:
+
+match = milk
+context = me (maybe a glitch in the system, or by design to milk another year’s pay out of the customer?). I c
+
+
+id: 207 | rating: 3 | user: Bayoupatron | date: 2021-06-18 | time: 21:08:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Beware
+--------------------------------------------------------------------
+
+I tried to cancel my Premium subscription for the last two days, and the account wouldn’t let me (maybe a glitch in the system, or by design to milk another year’s pay out of the customer?). I contacted the company via email this morning, and this afternoon they charged me for another year. Beware of this company.
+
+
+review id: 215
+
+matches and contexts:
+
+match = preg
+context = This app is amazing for so many reasons. I’m pregnant and needed a change to manage my sugar cr
+
+
+id: 215 | rating: 5 | user: AtxRN | date: 2020-09-02 | time: 14:39:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Keto Novice thriving
+--------------------------------------------------------------------
+
+This app is amazing for so many reasons. I’m pregnant and needed a change to manage my sugar cravings and help balance my blood sugar. This app helps me keep track of my carbs as recommended by my midwife and helps me figure out what I need to change if my body doesn’t respond well. I love all the comments from people who have done Keto and help guide newbies like me with great tips in staying the course as well as ways to make the recipes and stay the course.
+
+
+review id: 250
+
+matches and contexts:
+
+match = preg
+context = hormones; (her husband and her were trying to get pregnant). She had great success with it and when 
+
+
+id: 250 | rating: 5 | user: freas8312 | date: 2018-06-14 | time: 19:15:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Just Starting Keto
+--------------------------------------------------------------------
+
+This App was referred to me by a friend that started Keto to help with weight loss and her hormones; (her husband and her were trying to get pregnant). She had great success with it and when I reached out to her about starting and assisting me with my own research, this App was the first thing she suggested!
+
+
+review id: 412
+
+matches and contexts:
+
+match = postpartum
+context = I just switched to keto to lose my postpartum weight & started using this app the fir
+
+match = postp
+context = I just switched to keto to lose my postpartum weight & started using this app the fir
+
+
+id: 412 | rating: 5 | user: Gaby N.M.R | date: 2020-01-22 | time: 22:47:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Super useful!
+--------------------------------------------------------------------
+
+I just switched to keto to lose my postpartum weight & started using this app the first day of switching- it’s been 5 days and I’m down 9 lbs!! This app is easy to use to set my goal, monitor my macros, and I get to track my weight. I went to Rite Aid and got Ketone test strips for super cheap, and eventually wanna purchase the Premium version just so I can track those levels but it’s definitely worth downloading even if you don’t want to purchase premium. Thank you to the creators of this app!
+
+
+review id: 427
+
+matches and contexts:
+
+match = breastfeed
+context = the moment is that there is no way to account for breastfeeding. The weight watchers program asks wh
+
+match = feeding
+context = ment is that there is no way to account for breastfeeding. The weight watchers program asks whether 
+
+
+id: 427 | rating: 4 | user: cadd19 | date: 2019-06-09 | time: 03:15:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Should include breastfeeding moms
+--------------------------------------------------------------------
+
+I am just setting this up so I can’t speak on the overall user friendliness of the app but it seems easy to use. My only complaint at the moment is that there is no way to account for breastfeeding. The weight watchers program asks whether or not you are breastfeeding during set up and accounts for the extra calories needed in the points balance. It would be nice if this app would do that with the net carbs because a breastfeeding mother cannot diet the same way someone who isn’t breastfeeding can.
+
+
+review id: 628
+
+matches and contexts:
+
+match = baby
+context = ack. It’s so simple, which I need bc I just had a baby and I was looking for the easiest method for 
+
+
+id: 628 | rating: 5 | user: pero fam | date: 2019-08-14 | time: 16:48:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy
+--------------------------------------------------------------------
+
+Let me start by saying I don’t pay for the premium version and I’m using it for tracking macros. I just started tracking my macros and I am loving this app. It has made it sooooo easy for me to track what I’m eating and know where I’m at with food. It’s helped me with accountability and kept me on track. It’s so simple, which I need bc I just had a baby and I was looking for the easiest method for me to do this! Love this app.
+
+
+review id: 634
+
+matches and contexts:
+
+match = nurs
+context =  do love this app. I have taught fitness and am a nurse and I appreciate all the info available here
+
+
+id: 634 | rating: 5 | user: Lauriannaah | date: 2020-09-07 | time: 08:26:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Overall great aid!
+--------------------------------------------------------------------
+
+I really do love this app. I have taught fitness and am a nurse and I appreciate all the info available here. I love the recipes as well. My only complaint is there is no option for me to personalize for my schedule. I work nights and wake at 1600 every day. What I call my lunch is at about 0200 and dinner in the morning when I get home. Would be an AMAZING thing to have an app able to adapt to alternative schedules...
+
+
+review id: 765
+
+matches and contexts:
+
+match = preg
+context =  a week. I wanted to lose weight I gained from my pregnancy so I decided to try the keto diet or if 
+
+
+id: 765 | rating: 5 | user: Disney Fan11 | date: 2018-05-20 | time: 13:58:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Perfect for my needs
+--------------------------------------------------------------------
+
+I have used this app for a week. I wanted to lose weight I gained from my pregnancy so I decided to try the keto diet or if that was too challenging just a low carb diet. Other food apps didn’t break down my macros like this one does. It’s simple to use, which has helped me use it consistently. The app only works if you use it, but if you use it this app is fantastic.
+
+
+review id: 874
+
+matches and contexts:
+
+match = milk
+context = e coffee with cream, MCT Oil, Granola, and almond milk, I have to separately each item from my list 
+
+
+id: 874 | rating: 4 | user: Golfinmom | date: 2018-09-19 | time: 02:39:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App, But!
+--------------------------------------------------------------------
+
+I really like like this app and use it every day, but I wish I could select multiple items at a time from the food list when adding daily food.  Example, If I have coffee with cream, MCT Oil, Granola, and almond milk, I have to separately each item from my list at add to breakfast.  It would save so much time if I could pick all 4 items (which are always on my pick list) and add all to Breakfast at the same time.
+
+
+review id: 1209
+
+matches and contexts:
+
+match = preg
+context = o’s tried to do Keto a thousand times (and gotten pregnant twice then had more weight to lose) this 
+
+
+id: 1209 | rating: 5 | user: leslietree | date: 2019-06-11 | time: 02:34:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Nothing else compares
+--------------------------------------------------------------------
+
+Seriously. As someone who’s tried to do Keto a thousand times (and gotten pregnant twice then had more weight to lose) this app is SO helpful. The only reason I haven’t purchased the yearly subscription is because I’m overdrafted hahaha, I seriously love it so much! Thanks for all the hard work, guys!!
+
+
+review id: 1386
+
+matches and contexts:
+
+match = baby
+context =  my blood spike. So critical for the safety of my baby.
+
+
+id: 1386 | rating: 5 | user: ereina | date: 2020-03-29 | time: 00:57:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for Gestational Diabetes
+--------------------------------------------------------------------
+
+Great app to track carbs. You can even change to track “diabetes carbs”. I tried for a week and then upgraded to Premium so I could track my Glucose Meter readings (Blood Sugar Levels). This will help me identify which foods are making my blood spike. So critical for the safety of my baby.
+
+
+review id: 1690
+
+matches and contexts:
+
+match = milk
+context = hink of all the things you have to enter. Coffee, milk, eggs, butter, cheese, tomatoes. Breakfast wa
+
+
+id: 1690 | rating: 1 | user: eyemay | date: 2017-09-18 | time: 03:25:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Monthly Subscription Fee
+--------------------------------------------------------------------
+
+So tired of these apps that present themselves as free. I just installed it and was using it for 10 minutes. Trying to figure things out. I had added some food for the day but then made some revisions. And with that came the pop up that only 9 meal actions are allowed for free per day. Think of all the things you have to enter. Coffee, milk, eggs, butter, cheese, tomatoes. Breakfast was already six things. Any corrections also count. This essentially is a pay app.
+
+
+review id: 1997
+
+matches and contexts:
+
+match = nurs
+context = l you enough about how amazing this app is. I’m a nurse, and I know the benefits of it but I never t
+
+
+id: 1997 | rating: 5 | user: Yourroberta | date: 2019-04-30 | time: 21:59:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Wow!
+--------------------------------------------------------------------
+
+I’m new to the ketogenic diet and I cannot tell you enough about how amazing this app is. I’m a nurse, and I know the benefits of it but I never thought I could do it. The graphs and all of the information make this so easy to understand.
+
+
+review id: 2340
+
+matches and contexts:
+
+match = gesta
+context = I’m a gestational diabetic and this app allows me to eas
+
+match = gestation
+context = I’m a gestational diabetic and this app allows me to eas
+
+match = gestational
+context = I’m a gestational diabetic and this app allows me to eas
+
+
+id: 2340 | rating: 5 | user: Kittymcclane | date: 2019-04-01 | time: 17:09:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Fantastic and easy
+--------------------------------------------------------------------
+
+I’m a gestational diabetic and this app allows me to easily tract my meals to keep count of my carb intake. Though it’s meant for counting for weighloss I just ignore the messages and follow what my doctor and nutritionist have planned for me.
+
+
+review id: 2774
+
+matches and contexts:
+
+match = feeding
+context = , but it really does help me be aware of what I’m feeding my body and to develop purposeful eating
+
+
+id: 2774 | rating: 5 | user: time flys have fun | date: 2020-06-02 | time: 03:30:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Stay on track
+--------------------------------------------------------------------
+
+I really don’t like having to do all the recording, but it really does help me be aware of what I’m feeding my body and to develop purposeful eating
+
+
+review id: 3321
+
+matches and contexts:
+
+match = nursing
+context = o it does ask gender it does not ask if you are a nursing mom. Your macros def need to be adjusted i
+
+match = nurs
+context = o it does ask gender it does not ask if you are a nursing mom. Your macros def need to be adjusted i
+
+
+id: 3321 | rating: 3 | user: nhangeleyes | date: 2018-06-03 | time: 18:00:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs an update for nursing moms....
+--------------------------------------------------------------------
+
+I am just now starting with this diet....but was disappointed that even tho it does ask gender it does not ask if you are a nursing mom. Your macros def need to be adjusted if your nursing and would be nice to have some idea how...
+
+
+review id: 3703
+
+matches and contexts:
+
+match = baby
+context =  never do reviews. But it’s been a week with this baby and I’m so grateful. Best one I’ve tried. Tha
+
+
+id: 3703 | rating: 5 | user: priscilagj | date: 2018-03-31 | time: 12:35:40.000Z
+
+--------------------------------------------------------------------
+                      Title: The best the best the best
+--------------------------------------------------------------------
+
+I never do reviews. But it’s been a week with this baby and I’m so grateful. Best one I’ve tried. Thank you for making Keto easy!
+
+
+review id: 4609
+
+matches and contexts:
+
+match = breastfeed
+context = I wish there was a breastfeeding option so i could personalize my car
+
+match = feeding
+context = I wish there was a breastfeeding option so i could personalize my carb inta
+
+
+id: 4609 | rating: 4 | user: GingerPibble | date: 2019-05-20 | time: 13:23:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Breastfeeding
+--------------------------------------------------------------------
+
+I wish there was a breastfeeding option so i could personalize my carb intake. I’m trying Keto but I need more carbs than the twenty carbs for strict Keto.
+
+
+review id: 4877
+
+matches and contexts:
+
+match = nursing
+context = ayed so active, but in the past year I’ve been in nursing school and if you’ve been there, you feel 
+
+match = nurs
+context = ayed so active, but in the past year I’ve been in nursing school and if you’ve been there, you feel 
+
+
+id: 4877 | rating: 5 | user: SariAnnelleMartin | date: 2019-07-26 | time: 11:49:00.000Z
+
+--------------------------------------------------------------------
+                      Title: LOVE LOVE LOVE
+--------------------------------------------------------------------
+
+Okay so I recently got engaged and like most people in a happy relationship I put on some happy weight after being together for 3 years. LOL. I knew that I wanted to lose about 20 pounds before our wedding but I  was CLUELESS on where to begin. I’ve never had a problem with my weight because I’ve always stayed so active, but in the past year I’ve been in nursing school and if you’ve been there, you feel my pain. Finding time to exercise, eat right, study, go to class, clinicals, etc. is TOUGH. So I heard all about the keto diet and figured I’d give it a try. Once again keep in mind I’m clueless about the whole process and I’m the type of person that doesn’t trust just ANY article/post I come across. So I did some research and came across the Carb Manager app and YALL..... it was a game changer. If you’re a beginner like me and don’t know what in the world you’re doing, THIS IS THE APP FOR YOU. Granted, to get the best results from it I do recommend paying for the subscription but it’s WELL worth it. This app literally gives you a TON of recipes, let’s you log which one you’re going to eat that day and makes a dang SHOPPING LIST for you! Does it get much better than that y’all? I think not. There is also a place where you can log your exercise and apply it to your daily intake and you can also keep track of how much water you drink. Mind blown. ALSO you can upload recipes you find on Pinterest etc. to make sure they’re legit (big plus for me because like I said I’m a skeptic about most things LOL) it literally breaks it down into a pie chart for you — and if you’re like me and have an occasional sweet tooth, fret not, because guess what? There’s plenty of dessert recipes too! It gives you all kinds of information about the diet and explains everything to a T. So yeah thanks for coming to my TED talk y’all. LOL...... But seriously though download the app. (:
+
+
+review id: 5065
+
+matches and contexts:
+
+match = gesta
+context = I wanted to pay for this app monthly due to my gestational diabetes, I wouldn’t need this app all
+
+match = gestation
+context = I wanted to pay for this app monthly due to my gestational diabetes, I wouldn’t need this app all
+
+match = gestational
+context = I wanted to pay for this app monthly due to my gestational diabetes, I wouldn’t need this app all
+
+
+id: 5065 | rating: 1 | user: Ccccclllaaaarrrrriiiii | date: 2019-12-05 | time: 22:32:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Beware
+--------------------------------------------------------------------
+
+I wanted to pay for this app monthly due to my gestational diabetes, I wouldn’t need this app all year round considering I’m almost due. It somehow charged me the 30 something for the year and they refuse to fix it for me. Annoying!
+
+
+review id: 5431
+
+matches and contexts:
+
+match = nurs
+context = Love and have shared this app with my fellow nurses! Easy to follow!
+
+
+id: 5431 | rating: 5 | user: heartlvn | date: 2019-01-13 | time: 04:34:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Carb Manager Friendly
+--------------------------------------------------------------------
+
+Love and have shared this app with my fellow nurses! Easy to follow!
+
+
+review id: 6138
+
+matches and contexts:
+
+match = baby
+context = ly used this app while on a keto diet to lose the baby weight (and this helped me drop 30 pounds!). 
+
+
+id: 6138 | rating: 5 | user: RhondaRH99 | date: 2019-09-21 | time: 03:20:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for weight loss
+--------------------------------------------------------------------
+
+I initially used this app while on a keto diet to lose the baby weight (and this helped me drop 30 pounds!). I subscribed to the app so I could get the recipes so that it would be easy to enter the macros into the app.
+
+
+review id: 6382
+
+matches and contexts:
+
+match = Milk
+context = y other than white unless it's a deep fried chip. Milk is limited, couldn't find coconut milk or alm
+
+
+id: 6382 | rating: 1 | user: Disappointed 243 | date: 2011-08-31 | time: 23:02:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Useless. Missing lots of natural foods.
+--------------------------------------------------------------------
+
+After reading the reviews for the old version, I was hoping the new version would be better so I bought it. What a waste of money. If you are already on a whole food diet, don't expect to find many food items here. Lots of natural cheeses are missing, there isn't a red potato or other variety other than white unless it's a deep fried chip. Milk is limited, couldn't find coconut milk or almond milk or any other alternates either, but they do have every kind of processed cow and infant formula. You can find almost any processed or fast food on here. In order to find the few raw items, you have to scroll through HUNDREDS of processed food items. There are lots of greens added, however. I would like to see more menus with unprocessed, non-packaged food items separated from the rest. I've just spent a  little more than a hour sorting through it, and only found about a dozen foods to add to my favorites. This is useless as it doesn't have lots of the food I eat. You are better off researching your food items on the internet and tracking the carbs in a notebook.
+
+
+review id: 6394
+
+matches and contexts:
+
+match = milk
+context = n staples are not listed (why not unsweetened soy milk?) But as a decent, easily adaptable, free app
+
+
+id: 6394 | rating: 5 | user: appleinwinter | date: 2015-01-22 | time: 13:57:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Some limitations - but overall really great
+--------------------------------------------------------------------
+
+This is a smart, simple app that's easy to use. It adds partial carbs into your daily total, so you don't end up with lots of uncounted fractions. It doesn't have much a database of branded foods -- just foods themselves -- so you don't have to sift through a list (as on WW or Atkins) that's basically a commercial. You can search using just a few letters. On the down side, carb counts in the app don't always match counts on packaging. There's no way to mark favorites, so you always have to re-find foods. A lot of low-carb vegetarian staples are not listed (why not unsweetened soy milk?) But as a decent, easily adaptable, free app that's not tied to a giant corporation trying to profit off of yo-yo dieters, it gets all the love.
+
+
+review id: 6616
+
+matches and contexts:
+
+match = milk
+context = xample today I Drank 1 cup of unsweetened coconut milk, 1/3 cup almond milk, Greek yogurt and cheese
+
+
+id: 6616 | rating: 5 | user: Ninnysgirl | date: 2017-06-01 | time: 03:43:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Review
+--------------------------------------------------------------------
+
+I really like this app. However it seems the analysis is not too accurate! For example today I Drank 1 cup of unsweetened coconut milk, 1/3 cup almond milk, Greek yogurt and cheese yet my calcium was still low??? That does not make sense! Otherwise I love the app, easy to use, easy to use recipe builder and graphics are great! Thanks for the app!!
+
+
+review id: 6713
+
+matches and contexts:
+
+match = baby
+context =  for a good example.  Also, why are there so many baby foods? Could that be separated out to make it
+
+
+id: 6713 | rating: 2 | user: notlikingApple | date: 2014-09-01 | time: 21:47:02.000Z
+
+--------------------------------------------------------------------
+                      Title: I liked it at first, but ...
+--------------------------------------------------------------------
+
+The foods are not organized well at all.  Can you add hash tags to make seek and find easier? For a paid app, it should also have a scanner to input foods.  Check out Weight Watchers for a good example.  Also, why are there so many baby foods? Could that be separated out to make it easier for parents and non-parents to find what they need?
+
+
+review id: 6734
+
+matches and contexts:
+
+match = baby
+context = y recommend! Wanted to lose the last 15 pounds of baby weight. Lost in no time using this app.
+
+
+id: 6734 | rating: 5 | user: Brent9210 | date: 2016-09-09 | time: 23:25:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+This app is so easy to use and is so helpful and meeting your weight-loss goals! Highly recommend! Wanted to lose the last 15 pounds of baby weight. Lost in no time using this app.
+
+
+review id: 6770
+
+matches and contexts:
+
+match = baby
+context = app to keep track of what I'm eating and lose the baby weight. So far - ten pounds off! It's easy to
+
+
+id: 6770 | rating: 5 | user: cricketluv | date: 2011-05-04 | time: 16:56:06.000Z
+
+--------------------------------------------------------------------
+                      Title: So useful!!!
+--------------------------------------------------------------------
+
+I have a one year old and have been using this app to keep track of what I'm eating and lose the baby weight. So far - ten pounds off! It's easy to use and I love the graphs.
+
+
+review id: 6814
+
+matches and contexts:
+
+match = preg
+context = I am watching my carb level during my pregnancy and this has been a huge help! I love th
+
+
+id: 6814 | rating: 4 | user: LConro | date: 2017-02-05 | time: 15:46:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app!
+--------------------------------------------------------------------
+
+I am watching my carb level during my pregnancy and this has been a huge help! I love that I can set goals and change them at anytime. This is also super helpful as I can export it for my Dr at anytime as well.
+
+
+review id: 6832
+
+matches and contexts:
+
+match = Milk
+context = nd is very imprecise.  Just try looking up Almond Milk, a product in every grocery store.  You will 
+
+
+id: 6832 | rating: 1 | user: DietSearcher | date: 2012-07-19 | time: 03:52:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Don't like the program
+--------------------------------------------------------------------
+
+I don't like the search feature. It is a "key word" search and is very imprecise.  Just try looking up Almond Milk, a product in every grocery store.  You will get page after page of almond chocolate candy bars or other items containing almonds but not almond milk. This is often the case when searching. It it unproductive and silly
+
+
+review id: 7695
+
+matches and contexts:
+
+match = milk
+context =  up was "2 large eggs scrambled without cheese or milk"
+
+
+id: 7695 | rating: 3 | user: Shippyb | date: 2019-05-09 | time: 03:19:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Not easy to use
+--------------------------------------------------------------------
+
+For some reason this wasn't as easy to use as it says it is, to me. I couldn't get past trying to input breakfast. I ate 4 farm fresh eggs of varying sizes, so for two of them I put in 2 xl eggs which worked well. Well then I typed in "2 large eggs" to the search because I wanted to be consistent and true to size,  and all that came up was "2 large eggs scrambled without cheese or milk"
+
+

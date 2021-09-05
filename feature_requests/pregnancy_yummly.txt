@@ -1,0 +1,490 @@
+'Pregnancy' related feature requests in yummly reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 28
+
+
+review id: 85
+
+matches and contexts:
+
+match = baby
+context = st weekend- all while still spending time with my baby. Thanks for all you do, Yummly!
+
+
+id: 85 | rating: 5 | user: Pmv418 | date: 2020-08-31 | time: 17:13:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Revolutionized my meal planning
+--------------------------------------------------------------------
+
+I’ve been using Yummly for about a month now, and it has seriously changed my life. I’m a working mom with two littles and used to feel so overwhelmed my meal planning. Yummly to the rescue! It’s SO easy to plan and schedule meals! Craving Mexican cuisine? Yummly’s got you. Starting a keto diet? No problem! There are tons of recipes. I love that the app alerts you when prep needs to start. This helps keep me on track. And the integration with Instacart? Game changer! I seriously had meals planned and groceries delivered to my house within two hours last weekend- all while still spending time with my baby. Thanks for all you do, Yummly!
+
+
+review id: 137
+
+matches and contexts:
+
+match = milk
+context = I have several severe food allergies (milk, eggs, all nuts and shellfish) that make find
+
+
+id: 137 | rating: 5 | user: Sam Werts | date: 2020-04-20 | time: 19:37:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Accommodating to food allergies
+--------------------------------------------------------------------
+
+I have several severe food allergies (milk, eggs, all nuts and shellfish) that make finding recipes extremely difficult. Yumly allowed me to put in my food allergies to find things I can eat. Before this app I was stuck with vegan cooking apps that had ingredients I had never heard of plus really complicated recipes, yumly has instructions that are easy to follow plus ingredients that you probably already have. I usually never write reviews but if you have food allergies this will change your diet for the better!
+
+
+review id: 194
+
+matches and contexts:
+
+match = preg
+context = g for; my fav all time find: raw cookie dough for pregnancy! I still make it even though my youngest
+
+
+id: 194 | rating: 5 | user: SheaL#1 | date: 2020-01-02 | time: 02:01:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app!
+--------------------------------------------------------------------
+
+What I love: every recipe has a picture!!; app combs the internet for recipes so you have tons of variations of a dish to choose from; you can save your favorite recipes and organize them in folders if you want; you can see reviews from others who’ve made the recipe and often get great tips in those reviews; easy search feature so I can always find what I’m looking for; my fav all time find: raw cookie dough for pregnancy! I still make it even though my youngest is 9!!
+
+
+review id: 1101
+
+matches and contexts:
+
+match = baby
+context = no spinach, but just to be safe no fresh spinach, baby spinach or chopped frozen spinach. What do I 
+
+
+id: 1101 | rating: 1 | user: capa9902 | date: 2021-02-13 | time: 02:22:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Filter usually means I don’t want to see those things
+--------------------------------------------------------------------
+
+I put in the filter no spinach, but just to be safe no fresh spinach, baby spinach or chopped frozen spinach. What do I see spinach stuffed chicken breast, spinach Alfredo and chicken about 10% of the recipes I’m looking at have spinach in one form or another. Do I have to pay to get the filter to work? Does the filter work on the first row only? Well no that isn’t true that’s where the stuffed chicken breast with spinach lives. My luck with this app working for me is approaching 0.
+
+
+review id: 1502
+
+matches and contexts:
+
+match = feeding
+context = ve it ! It really helped me out when I was breast feeding, I had to avoid some foods and it provided
+
+
+id: 1502 | rating: 5 | user: MeganV18 | date: 2019-03-21 | time: 21:18:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent
+--------------------------------------------------------------------
+
+I love it ! It really helped me out when I was breast feeding, I had to avoid some foods and it provided the opportunity to find tons of meals omitting certain ingredients.
+
+
+review id: 1973
+
+matches and contexts:
+
+match = milk
+context = n use up that ingredient, for example, like buttermilk.
+
+
+id: 1973 | rating: 5 | user: Aunt Melmel | date: 2020-03-01 | time: 19:08:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Great recipes
+--------------------------------------------------------------------
+
+Love being able to search for a recipe by ingredients.  Sometimes I have leftover ingredients and can find other recipes so I can use up that ingredient, for example, like buttermilk.
+
+
+review id: 2795
+
+matches and contexts:
+
+match = feeding
+context = Now that myself and wife are only feeding our selves, children grown, it’s hard to f
+
+
+id: 2795 | rating: 4 | user: jim1$23 | date: 2019-10-21 | time: 21:39:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Great place for ideas
+--------------------------------------------------------------------
+
+Now that myself and wife are only feeding our selves, children grown, it’s hard to figure out dinner choices.  This app with its numerous options allows us to check fridge or freezer and come up with great dinners.
+
+
+review id: 4895
+
+matches and contexts:
+
+match = milk
+context =  whole wheat pancakes used kefir for 1 cup almond milk other blueberries and black walnuts.  Fantast
+
+
+id: 4895 | rating: 5 | user: wjk lll | date: 2021-02-16 | time: 15:25:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Great whole wheat pancakes
+--------------------------------------------------------------------
+
+Thought I had a box of zodiac cakes but not  made your whole wheat pancakes used kefir for 1 cup almond milk other blueberries and black walnuts.  Fantastic
+
+
+review id: 5021
+
+matches and contexts:
+
+match = preg
+context = This had made my pregnancy and family dinners so easy to plan! We l
+
+
+id: 5021 | rating: 5 | user: mamafraun | date: 2021-01-06 | time: 22:04:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing time using this app!
+--------------------------------------------------------------------
+
+This had made my pregnancy and family dinners so easy to plan! We love it!
+
+
+review id: 5499
+
+matches and contexts:
+
+match = baby
+context = I love this app! My baby boy has food allergies and it is so easy to f
+
+
+id: 5499 | rating: 5 | user: bwawrzyniak | date: 2018-06-22 | time: 22:32:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing
+--------------------------------------------------------------------
+
+I love this app! My baby boy has food allergies and it is so easy to find recipes the whole family loves.
+
+
+review id: 7262
+
+matches and contexts:
+
+match = Milk
+context = My daughter has a Milk allergy and I didn’t know how to make dairy f
+
+
+id: 7262 | rating: 5 | user: gilliansapia | date: 2019-08-13 | time: 17:45:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Milk allergy
+--------------------------------------------------------------------
+
+My daughter has a Milk allergy and I didn’t know how to make dairy free meals. This app is awesome for dietary restrictions and ideas.
+
+
+review id: 8321
+
+matches and contexts:
+
+match = baby
+context = s an experience frontloaded with recipes etc. and baby thermometer on the back side. Just want a the
+
+
+id: 8321 | rating: 1 | user: don in new jersey | date: 2021-07-05 | time: 19:02:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Stopped working
+--------------------------------------------------------------------
+
+I just want a thermometer that gives me the temperature while I’m cooking. What I got was an experience frontloaded with recipes etc. and baby thermometer on the back side. Just want a thermometer that doesn’t upsell me.
+
+
+review id: 11845
+
+matches and contexts:
+
+match = milk
+context = tose intolerance which includes whey and powdered milks. He is essentially "allergic" to milk protei
+
+
+id: 11845 | rating: 5 | user: Jenn&Frankie | date: 2016-02-26 | time: 14:14:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Love Yummly recipes!! My son requires lactose and whey free recipes
+--------------------------------------------------------------------
+
+Thanks to apps like Yummly, I can quickly find peer reviewed yummy recipes for my son that has severe lactose intolerance which includes whey and powdered milks. He is essentially "allergic" to milk proteins, but can tolerate a few items. If we list milk as an allergy on his medical records he will be totally screwed for any future hospitalizations so we keep it at an intolerance so I could always cook for him at the Ronald mc Donald house and bring him food. The cafeteria isn't great about making diary free foods that are appealing to a 3 year old with eating issues that has Down Syndrome and Severe Down Syndrome.  This app is a lifesaver. Thanks.  You all rock. If anyone reads this and is in a similar boat, but is further along and could help me out. Or is just starting this journey and wants to get info like me, feel free to contact me at alienjenn at yahoo
+
+
+review id: 11937
+
+matches and contexts:
+
+match = milk
+context = tuffing. What's next? A video showing how to pour milk on cereal? I'm really here for the recipes.
+
+
+id: 11937 | rating: 4 | user: djs630 | date: 2016-06-16 | time: 17:55:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Good, but was better
+--------------------------------------------------------------------
+
+My most used recipe app. But the latest changes have ruined it somewhat. Fine to have a few articles & videos, but there are way to many. And they are often meaningless. I don't need a video to show me how to quickly peel an apple or how to cut bread for stuffing. What's next? A video showing how to pour milk on cereal? I'm really here for the recipes.
+
+
+review id: 12365
+
+matches and contexts:
+
+match = baby
+context = hopping list. We seem to be  limited to "alcohol, baby food, bakery,...etc". There are other section
+
+
+id: 12365 | rating: 4 | user: Dell46 | date: 2016-09-23 | time: 02:25:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for recipes and shopping list
+--------------------------------------------------------------------
+
+Really like this app for recipes and shopping list. Wish it were a little more intuitive. In the shopping list part of app I wish I could add categories to shopping list. We seem to be  limited to "alcohol, baby food, bakery,...etc". There are other sections of grocery store that are not represented.
+
+
+review id: 12504
+
+matches and contexts:
+
+match = milk
+context = I've got a food allergy to both milk and eggs and yummly has amazing great recipes
+
+
+id: 12504 | rating: 5 | user: Master4407 | date: 2015-10-13 | time: 03:13:13.000Z
+
+--------------------------------------------------------------------
+                      Title: The best app ever
+--------------------------------------------------------------------
+
+I've got a food allergy to both milk and eggs and yummly has amazing great recipes that don't have either of those ingredients added and also you can change the serving size and it will account for it in how much to put in your recipes.
+
+
+review id: 12506
+
+matches and contexts:
+
+match = feeding
+context = this app. I myself am a vegan and it's constantly feeding me awesome new recipes!! I love that it ha
+
+
+id: 12506 | rating: 5 | user: Jessica♥ | date: 2015-11-22 | time: 22:49:01.000Z
+
+--------------------------------------------------------------------
+                      Title: The best app ever.
+--------------------------------------------------------------------
+
+I recommend this app to every single person I meet. I love to cook with this app. I myself am a vegan and it's constantly feeding me awesome new recipes!! I love that it has a built in grocery list that you can add things to. It's super well organized and very well done. Round of applause.
+
+
+review id: 12556
+
+matches and contexts:
+
+match = feeding
+context =   All this makes using Yummly simply and fun when feeding our crew!
+
+
+id: 12556 | rating: 5 | user: B@erBrick | date: 2017-03-18 | time: 15:54:00.000Z
+
+--------------------------------------------------------------------
+                      Title: The Best
+--------------------------------------------------------------------
+
+Yummly is simply the best good app available.  We have 7 kids and do a lot of home cooking.  Always fresh new ideas, the recipes are accurate in their prep time and a huge selection.  All this makes using Yummly simply and fun when feeding our crew!
+
+
+review id: 12585
+
+matches and contexts:
+
+match = feeding
+context = as! I downloaded this app because I grew tired of feeding my family the same rotation of meals. With
+
+
+id: 12585 | rating: 5 | user: Ms. KayFBaby | date: 2016-03-12 | time: 04:07:48.000Z
+
+--------------------------------------------------------------------
+                      Title: I love it!!!
+--------------------------------------------------------------------
+
+This app is awesome! Whenever I have ingredients at home and don't have a recipe in mind, I punch it in the search bar and get a ton of great ideas! I downloaded this app because I grew tired of feeding my family the same rotation of meals. With Yummly, I get to change it up. 😊
+
+
+review id: 12969
+
+matches and contexts:
+
+match = BABY
+context = r day. ( usually the day after payday) lol CHEFIN BABY!!
+
+
+id: 12969 | rating: 5 | user: Singloudly21 | date: 2015-09-19 | time: 11:32:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App!
+--------------------------------------------------------------------
+
+Dude! So far being a single male with not a lot of diversity in the kitchen beyond quesadillas and nachos this app is helping me seriously cook some good food. It easy and even save the recipes that I like for another day. ( usually the day after payday) lol CHEFIN BABY!!
+
+
+review id: 13161
+
+matches and contexts:
+
+match = feeding
+context = verything about this app is helpful, even down to feeding my family great every time. Awesome food, 
+
+
+id: 13161 | rating: 5 | user: TylervonB | date: 2015-08-29 | time: 17:04:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Peep this!
+--------------------------------------------------------------------
+
+I give this a 5 * for sure. Everything about this app is helpful, even down to feeding my family great every time. Awesome food, and very inspiring dishes, makes me look like a  master chef!
+
+
+review id: 13284
+
+matches and contexts:
+
+match = feeding
+context = Just what i needed... i finally have organization feeding my family.  😬
+
+
+id: 13284 | rating: 5 | user: Roll on! | date: 2017-01-07 | time: 16:45:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Love It!
+--------------------------------------------------------------------
+
+Love the add to my shopping list feature!  This app is the bomb for menu planning and shopping.  Just what i needed... i finally have organization feeding my family.  😬
+
+
+review id: 13461
+
+matches and contexts:
+
+match = feeding
+context =  me like they more interested in selling you than feeding you...
+
+
+id: 13461 | rating: 2 | user: GP396 | date: 2016-12-04 | time: 02:01:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Commercial obesity selector
+--------------------------------------------------------------------
+
+Great app, but unhealthy recipes, filters make it hard to find anything that is not coated with cheese, laced with bacon, or full of butter... Also includes many recipes with processed food brands, has many plugs for buying kitchen products too. Seems to me like they more interested in selling you than feeding you...
+
+
+review id: 14080
+
+matches and contexts:
+
+match = nurs
+context = eat, love the app. I'm pescatarian & a nightshift nurse in a Neurosurgical ICU. Yummly is my go to a
+
+
+id: 14080 | rating: 5 | user: Crys_tal | date: 2016-09-30 | time: 13:14:46.000Z
+
+--------------------------------------------------------------------
+                      Title: PESCATARIAN
+--------------------------------------------------------------------
+
+I LOVE LOVE LOVE Yummly! The new page is great, love the app. I'm pescatarian & a nightshift nurse in a Neurosurgical ICU. Yummly is my go to app for great food recipes & I've got so many of my co-workers hooked on it as well. Don't ever go away! I depend on Yummly!!
+
+
+review id: 14895
+
+matches and contexts:
+
+match = milk
+context = makes life so much easier for me. I'm allergic to milk and it personalizes the recipient I see based
+
+
+id: 14895 | rating: 5 | user: Good lookin cookie 75 | date: 2016-12-10 | time: 19:22:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!!!!
+--------------------------------------------------------------------
+
+It makes life so much easier for me. I'm allergic to milk and it personalizes the recipient I see based on my allergy
+
+
+review id: 14969
+
+matches and contexts:
+
+match = breastfeed
+context = e recipes would extend more internationally. Also breastfeeding diet as a preference attracts mommie
+
+match = feeding
+context = pes would extend more internationally. Also breastfeeding diet as a preference attracts mommies
+
+
+id: 14969 | rating: 5 | user: Pery.lda | date: 2016-04-20 | time: 03:33:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+I love this app, i wish the recipes would extend more internationally. Also breastfeeding diet as a preference attracts mommies
+
+
+review id: 15818
+
+matches and contexts:
+
+match = nursing
+context =  love this app! Use it all the time!!! Next to my nursing app it's my favorite!!!
+
+match = nurs
+context =  love this app! Use it all the time!!! Next to my nursing app it's my favorite!!!
+
+
+id: 15818 | rating: 5 | user: steelmgnoliarn | date: 2017-02-16 | time: 18:45:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Love!
+--------------------------------------------------------------------
+
+Love, love, love this app! Use it all the time!!! Next to my nursing app it's my favorite!!!
+
+
+review id: 17508
+
+matches and contexts:
+
+match = feeding
+context = akes all the measurements into account. Wether ur feeding 6 people or 20. I have recommended this ap
+
+
+id: 17508 | rating: 3 | user: billy 174730262824 | date: 2020-12-03 | time: 03:04:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Inexperienced cook
+--------------------------------------------------------------------
+
+Not growing up in the kitchen I was never raised with knowledge on how to cook. I can watch YouTube and learn that way. But it’s nice to use an app like Yummly where there are thousands of recipes for everything u can think of. Just wanted to make sure I point out it takes all the measurements into account. Wether ur feeding 6 people or 20. I have recommended this app to both family and friends.
+
+

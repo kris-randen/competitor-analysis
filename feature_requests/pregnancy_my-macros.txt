@@ -1,0 +1,266 @@
+'Pregnancy' related feature requests in my-macros reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 15
+
+
+review id: 26
+
+matches and contexts:
+
+match = milk
+context = ly or spend 5-7 minutes finding basic things like milk or rice. I’ve decided to go back to myfitness
+
+
+id: 26 | rating: 2 | user: easy530 | date: 2019-10-15 | time: 16:56:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Food database leaves A LOT to be desired
+--------------------------------------------------------------------
+
+Only reason I’m using this is because it tracks macros with more detail than myfitnesspal, but the food database is very inaccurate and it is very difficult to add food. I essentially have to add everything manually or spend 5-7 minutes finding basic things like milk or rice. I’ve decided to go back to myfitnesspal which is just an easier user experience. I’ve been tracking food off and on for long enough to be able to determine how many grams of the big three macros I’ll need each day. Besides, there are many calculators online that do this for free based on your current body weight and activity level. This app’s hassle isn’t worth the small gain of having more visibility to gram tracking in order to avoid myfitnesspal’s subscription. And on that note, if you’ve been inactive on myfitnesspal and/or deleted it for long enough you can get a new offer for a free one month trial anyway.
+
+
+review id: 159
+
+matches and contexts:
+
+match = milk
+context = known food choices. Like this morning I typed oat milk and nothing popped up. Apps like weight watch
+
+
+id: 159 | rating: 2 | user: Theodore. loves/to read | date: 2021-03-01 | time: 14:48:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Not there yet
+--------------------------------------------------------------------
+
+I was super excited to try this app. Great price for macro tracking. But after I started searching for food I can see why. Almost every item I type in the food search does not populate. It’s not like I’m typing in crazy unknown food choices. Like this morning I typed oat milk and nothing popped up. Apps like weight watchers and my fitness pal almost have everything single item
+
+
+review id: 299
+
+matches and contexts:
+
+match = milk
+context =  found the right food (e.g., Almond Breeze almond milk).
+
+
+id: 299 | rating: 2 | user: Amanda, writer | date: 2020-09-20 | time: 11:03:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Missing a lot of brands
+--------------------------------------------------------------------
+
+As a major Kashi cereal eater, this app was totally useless to me. Also, names of foods with tons of variants get cut off so it’s hard to tell if you’ve found the right food (e.g., Almond Breeze almond milk).
+
+
+review id: 373
+
+matches and contexts:
+
+match = milk
+context =  but you have to purchase another app.    i’m all milked out of cash and having to work way to hard 
+
+
+id: 373 | rating: 1 | user: TommyHendrix | date: 2019-05-17 | time: 00:41:12.000Z
+
+--------------------------------------------------------------------
+                      Title: save your money find another app that constantly want more of my cash
+--------------------------------------------------------------------
+
+after struggling for a few months and building keto recipes till i’m blue in the face i’ve taken it off my phone. they may brag about millions of food items in the data base i’m tried of searching through endless scrolls on my smart phone.  the online browser version should work with the smart phone app without bleeding you for more money.   the exercise app should work but you have to purchase another app.    i’m all milked out of cash and having to work way to hard to track     go to sparkpeople it’s so much easier and found all the keto foods already in there database and all for free!
+
+
+review id: 418
+
+matches and contexts:
+
+match = preg
+context = his app during bodybuilding competition training, pregnancy and post partum.  The changes keep this 
+
+
+id: 418 | rating: 5 | user: CaliBlkBarbie | date: 2019-06-10 | time: 18:18:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Through Life’s Changes
+--------------------------------------------------------------------
+
+I’ve used this app during bodybuilding competition training, pregnancy and post partum.  The changes keep this app current and fresh.
+
+
+review id: 439
+
+matches and contexts:
+
+match = milk
+context =  it will limit measurements of things like almond milk to milliliters. It measures bread in grams in
+
+
+id: 439 | rating: 1 | user: studentwcu | date: 2020-06-21 | time: 18:24:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Horrible app
+--------------------------------------------------------------------
+
+This is the worst. It shouldn’t be hard. Literally nothing comes up on the search easily and it will limit measurements of things like almond milk to milliliters. It measures bread in grams instead of by the slice. When you search something simple like zucchini you have to scroll through a bunch of processed foods to get to regular zucchini. Same with a simple boiled egg. Awful. I’m deleting it.
+
+
+review id: 600
+
+matches and contexts:
+
+match = milk
+context = or a banana or an avocado or even just a glass of milk I have to surf the web for information on tha
+
+
+id: 600 | rating: 1 | user: Deathwish999 | date: 2017-09-29 | time: 17:56:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Unless you like surfing the web for information to put into the app don't get it
+--------------------------------------------------------------------
+
+It's ridiculous that even just for a banana or an avocado or even just a glass of milk I have to surf the web for information on that food then put it into the app to get information waste of money.
+
+
+review id: 772
+
+matches and contexts:
+
+match = milk
+context = find the simplest things like coffee with coconut milk for example. I find this app much harder to u
+
+
+id: 772 | rating: 1 | user: Sunattitude | date: 2017-06-05 | time: 12:46:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Not liking it
+--------------------------------------------------------------------
+
+I was so excited to try this app but I can't find the simplest things like coffee with coconut milk for example. I find this app much harder to use then My Fitness App which is free. I wish this app will improve and be with the money spent.
+
+
+review id: 829
+
+matches and contexts:
+
+match = milk
+context = I’ve tried to scan 7 items. Common items like milk and cold cuts. It keeps giving me a serving s
+
+
+id: 829 | rating: 1 | user: Angg321 | date: 2020-11-03 | time: 16:55:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Awful
+--------------------------------------------------------------------
+
+I’ve tried to scan 7 items. Common items like milk and cold cuts. It keeps giving me a serving size that is 1 calorie. I want my money back! MyFitnessPal free is 100 times better
+
+
+review id: 1065
+
+matches and contexts:
+
+match = milk
+context = ever, if I wanted to pour only 6 ounces of almond milk, this app doesn't allow me to quickly and pra
+
+
+id: 1065 | rating: 5 | user: Paradigm816 | date: 2016-06-16 | time: 13:47:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs Measuring Algorithms
+--------------------------------------------------------------------
+
+Great potential, but this app is in desperate need of food measuring algorithms. I measure my drinks in ounces or cups and my food in grams or ounces, however, if I wanted to pour only 6 ounces of almond milk, this app doesn't allow me to quickly and practically do that. I have to stop and think "how many ounces in a cup?" (This is just an example, I know it's 8) and then I have to divide 8 by 6 and am left with a really weird number to input into the app. There needs to be a quick menu to change from ounces, to cups, to whatever. See MyFitnessPal. Their calculation algorithms are great!
+
+
+review id: 1156
+
+matches and contexts:
+
+match = Feeding
+context =  what time I ate. I don't want to keep adding new Feedings with a time because I don't always hit my
+
+
+id: 1156 | rating: 4 | user: MOPrincess | date: 2015-12-19 | time: 13:43:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it BUT...
+--------------------------------------------------------------------
+
+Love this program but it is missing a feature!!!! It would be lovely to be able to type a comment in each meal! I am hypoglycemic and have to eat at specific times and there is nowhere to record what time I ate. I don't want to keep adding new Feedings with a time because I don't always hit my target BUT it is something that would be very valuable to people like me or people who are carb cycling or doing an intermittent fasting diet. Do that and this would turn into a 5 star review!!! For me, it is the only thing missing!! :)
+
+
+review id: 1241
+
+matches and contexts:
+
+match = milk
+context = ogurt and berries with some flax seeds and almond milk. I purchased this app because I have little t
+
+
+id: 1241 | rating: 1 | user: Alek_Z | date: 2014-10-25 | time: 16:11:02.000Z
+
+--------------------------------------------------------------------
+                      Title: DONT BUY unless you want to enter everything in manually
+--------------------------------------------------------------------
+
+I purchased this with the hope that since it was designed by a fitness professional the nutritional information would be better than that found in other apps. I was therefore greatly disappointed when the app failed to recognize four out of the five items I had for breakfast. I don’t eat anything special; yogurt and berries with some flax seeds and almond milk. I purchased this app because I have little time to enter these items individually. Save your money, just use My Fitness Pal or other similar apps.
+
+
+review id: 1532
+
+matches and contexts:
+
+match = baby
+context = uses this to gain the right kind of weight as the baby grows. I use this for fitness. There's just n
+
+match = preg
+context = ou'll understand once you learn how to use it. My pregnant wife uses this to gain the right kind of 
+
+
+id: 1532 | rating: 5 | user: sardine265 | date: 2015-08-07 | time: 16:01:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Yes
+--------------------------------------------------------------------
+
+Just yes. If you count macros, you'll understand once you learn how to use it. My pregnant wife uses this to gain the right kind of weight as the baby grows. I use this for fitness. There's just no better app on the market for this.
+
+
+review id: 2077
+
+matches and contexts:
+
+match = milk
+context =  is a total nightmare. For example - if I search "milk". The only results are my custom entered ones
+
+
+id: 2077 | rating: 3 | user: MrMagillicutti | date: 2016-10-11 | time: 19:16:59.000Z
+
+--------------------------------------------------------------------
+                      Title: It works
+--------------------------------------------------------------------
+
+The food search is a total nightmare. For example - if I search "milk". The only results are my custom entered ones. No other entries for milk exist in the db? That's rough.
+
+
+review id: 2429
+
+matches and contexts:
+
+match = milk
+context = omething you consume (ex. 1 cup, 1/3 cup, 1TSP of milk rather than just a 1 cup option). If you used
+
+
+id: 2429 | rating: 1 | user: JoeAndyPaul | date: 2018-07-10 | time: 13:54:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs a ton of work
+--------------------------------------------------------------------
+
+Database is empty for the most part. I do like that it is cheaper than MFP. Custom macros and day-to-day goals is a winner for me. You have to pay $49.99 a year on MFP to do that. Fix y’alls database and add more options of how much of something you consume (ex. 1 cup, 1/3 cup, 1TSP of milk rather than just a 1 cup option). If you used 3TSP of milk for a recipe, you’d have to manually compute how many cups 3TSP is. This will save consumers a lot of work, which is the whole point of an app like this. It should be stress free and easy, yet this is the opposite.
+
+

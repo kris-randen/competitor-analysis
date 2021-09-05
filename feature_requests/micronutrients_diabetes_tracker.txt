@@ -1,0 +1,303 @@
+'Micronutrients' related feature requests in diabetes_tracker reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 17
+
+
+review id: 1
+
+matches and contexts:
+
+match = iod
+context = I could show her my blood sugar results over a period of time.
+
+
+id: 1 | rating: 5 | user: Nandav | date: 2019-01-18 | time: 22:39:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for Diabetes tracking
+--------------------------------------------------------------------
+
+This app is similar to MyNetDiary with added features such as tracking blood sugar and other medications.  It also syncs with other devices to track steps and exercise.  I also like the note-taking function.  I am using the Max version that I believe is worth the price.  Besides diabetes, I have other medical conditions and I find this helpful for everything.  Being able to log medications ensures that I don’t forget a dose or double-dose.  My doctor appreciated that I could show her my blood sugar results over a period of time.
+
+
+review id: 5
+
+matches and contexts:
+
+match = vitam
+context = d also where you have come up short ie potassium, vitamins etc. it will give you guidelines and info
+
+match = sodium
+context =  day. What your overages are ie fat, cholesterol, sodium and also where you have come up short ie po
+
+
+id: 5 | rating: 5 | user: tryin to do it right | date: 2018-12-11 | time: 11:36:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent!!!
+--------------------------------------------------------------------
+
+I’m a diabetic and track my blood sugars. I have tried several programs and had to input notes. With MyNetDiary it tracks blood sugars for you.  Charts for a quick reference of where you have been and how your doing. I especially like how you can check the rating of food, the breakdown of nutrients, fat content etc. It will show you the overall nutrients for the day. What your overages are ie fat, cholesterol, sodium and also where you have come up short ie potassium, vitamins etc. it will give you guidelines and information how to lower calories to help you attain your goal if losing or maintaining weight. I lost 50 pounds the last year, with a personal trainer, a nutritionist and MyNetDiary. My A1C went from 6.7 to 6.1. I came off of several medications that I have been on for years. Yes I still struggle with eating correctly but with MyNetDiary it keeps me accountable to myself.
+
+
+review id: 13
+
+matches and contexts:
+
+match = vitam
+context = in the chart area. I enter all food and medicine, vitamins daily, and track all exercise. There is a
+
+
+id: 13 | rating: 5 | user: Vikwest | date: 2017-09-23 | time: 04:59:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Great Tracking App
+--------------------------------------------------------------------
+
+Being diabetic, I keep track of my glucose readings daily. This app does that for me and makes it easy to see how I'm doing in the chart area. I enter all food and medicine, vitamins daily, and track all exercise. There is a chart for all so you can see your progress. It also shows a fat, carb, and protein sliding bar showing how much of each your body gets, and then the overage. It's great to watch my carb count. At the end of the week, you can print a complete report of all the food you eat and exercise. It's easy to enter everything you want to track. I really love this app.
+
+
+review id: 19
+
+matches and contexts:
+
+match = vitam
+context = cose, carbs, net carbs, protein, fat and a ton of vitamins and minerals; not to mention height, weig
+
+
+id: 19 | rating: 5 | user: LizBre | date: 2020-06-29 | time: 00:35:01.000Z
+
+--------------------------------------------------------------------
+                      Title: The best app for managing the keto lifestyle!
+--------------------------------------------------------------------
+
+I tried 5 other top rated apps, this is by far the best one. With this app I can track my blood glucose, carbs, net carbs, protein, fat and a ton of vitamins and minerals; not to mention height, weight, body mass index, personal macro targets, water exercise, steps, meals, recipes, and custom and database listed foods. I especially like how you can use the bar scan feature to scan foods in the supermarket or at home to add to favorites and recipes. This app works great on my phone and my iPad. I rarely ever purchase annual fee based apps, but this one is Easy to use and well worth the annual fee.
+
+
+review id: 45
+
+matches and contexts:
+
+match = vitam
+context = endly, tracking my blood glucose, exercise, food, vitamins and medications.
+
+
+id: 45 | rating: 2 | user: Darlasu70 | date: 2017-11-28 | time: 17:37:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Nice app limited food info
+--------------------------------------------------------------------
+
+I love these features:  iOS friendly, tracking my blood glucose, exercise, food, vitamins and medications.
+
+
+review id: 46
+
+matches and contexts:
+
+match = sodium
+context = ound what I like to eat and still have control on sodium intake. It took me a couple of days to get 
+
+
+id: 46 | rating: 5 | user: santarosa707 | date: 2018-12-12 | time: 02:34:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Review after 8 days of use
+--------------------------------------------------------------------
+
+Great app for tracking diabetic lifestyle change. Like how it’s shows the relationship between exercise and diet. Like the various educational links. Like the ability to plan daily menus around what I like to eat and still have control on sodium intake. It took me a couple of days to get use to the app. Above all, It makes me conscious of the food I eat.
+
+
+review id: 93
+
+matches and contexts:
+
+match = iod
+context = This works! Period!  If you track what you do eat and what you bu
+
+
+id: 93 | rating: 5 | user: Gerrypatty | date: 2018-05-08 | time: 11:11:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Fantastic app
+--------------------------------------------------------------------
+
+This works! Period!  If you track what you do eat and what you burn, you will lose weight and become more healthy ! Easier said than done, but this app is a great tool to help you along your way . Good luck !
+
+
+review id: 157
+
+matches and contexts:
+
+match = micro
+context = ning vitamins adds them to the tally of macro and micronutrients consumed that day. This company is 
+
+match = vitam
+context = My latest Delight is that scanning vitamins adds them to the tally of macro and micro
+
+
+id: 157 | rating: 5 | user: AnneCatholicElizabeth | date: 2019-05-15 | time: 21:34:58.000Z
+
+--------------------------------------------------------------------
+                      Title: So intuitive, so useful
+--------------------------------------------------------------------
+
+My latest Delight is that scanning vitamins adds them to the tally of macro and micronutrients consumed that day. This company is ALWAYS seeking to improve their product
+
+
+review id: 329
+
+matches and contexts:
+
+match = iod
+context = ps me keep track of my levels over an extended period of time. Helps reduce the anxiety of trying to
+
+
+id: 329 | rating: 4 | user: BigDee87 | date: 2017-04-20 | time: 13:15:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Life Saver
+--------------------------------------------------------------------
+
+This app literally saves my life. It helps me keep track of everything. I would never remember the time I ate and when to test if I didn't log everything in this app. It also helps me keep track of my levels over an extended period of time. Helps reduce the anxiety of trying to have everything under control. I can't even remember how much I paid for this app, but I'd pay it again and again if I had to.
+
+
+review id: 345
+
+matches and contexts:
+
+match = vitam
+context =  food, weight, measurements, BG levels, exercise, vitamins, water intake and even a place to add not
+
+
+id: 345 | rating: 5 | user: Cpytraffic | date: 2016-02-03 | time: 16:09:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Great, comprehensive app
+--------------------------------------------------------------------
+
+I had previously used the Weight Watchers app ..  After recently being diagnosed with Type 2 Diabetes.. I started searching for a better comprehensive way to track my overall health ... Diet, food, weight, measurements, BG levels, exercise, vitamins, water intake and even a place to add notes  ...   Much better bang for your buck.   Whether you are a diabetic, pre diabetic .. You customize this according to your own body and goals ... Mr Dr. Loved it when I showed it to her  Or just want a great path to better help ... This app is perfect ! Wish I had seen it sooner 💜
+
+
+review id: 381
+
+matches and contexts:
+
+match = vitam
+context = eals and snacks for the day.  I can plan my meds, vitamins.  I can log all of my glucose readings so
+
+
+id: 381 | rating: 5 | user: AF7GIANT | date: 2015-03-21 | time: 00:06:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!  Covers all areas of diabetes management
+--------------------------------------------------------------------
+
+This app covers everything.  I can plan my meals and snacks for the day.  I can plan my meds, vitamins.  I can log all of my glucose readings so that when I go to the doctor, I just hand him my phone and let him scroll thru.  The only thing that could beat this is a watch that measures glucose.  I've also used Glucosuccess but it's not as thorough and depends on multiple apps whereas this is everything in one.
+
+
+review id: 510
+
+matches and contexts:
+
+match = iod
+context =  use. I'd like to see my Glucose average for a period of time and if it was near the first screen, t
+
+
+id: 510 | rating: 4 | user: Saymayon | date: 2012-11-09 | time: 13:25:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Great
+--------------------------------------------------------------------
+
+I like this app a lot. It is nice and easy to use. I'd like to see my Glucose average for a period of time and if it was near the first screen, that would be convenient. I see the average for the day, but was hoping for maybe an average of my choice (2 week, 1 month, etc.).
+
+
+review id: 561
+
+matches and contexts:
+
+match = vitam
+context = ercises, and even has a place to record notes and vitamins. Love it!!!
+
+
+id: 561 | rating: 5 | user: Throtle junkee | date: 2012-08-07 | time: 08:38:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent!
+--------------------------------------------------------------------
+
+I've tried other apps, but none give me the flexibility to make enrtries on my phone and Mac. Love the export data function. Great for tracking blood sugars, medication, meals, exercises, and even has a place to record notes and vitamins. Love it!!!
+
+
+review id: 642
+
+matches and contexts:
+
+match = sodium
+context = y keep track of not only calories but also carbs, sodium, cholesterol, sugar etc. I've been using it
+
+
+id: 642 | rating: 5 | user: Bearetteone | date: 2013-12-15 | time: 13:33:18.000Z
+
+--------------------------------------------------------------------
+                      Title: My net diary
+--------------------------------------------------------------------
+
+Great. It manages my diet and I can easily keep track of not only calories but also carbs, sodium, cholesterol, sugar etc. I've been using it for about 6 weeks and have lost over 15 lbs!
+
+
+review id: 657
+
+matches and contexts:
+
+match = micro
+context = Very comprehensive as far as macro & micro nutrient tracking. Entry is easy and pretty 
+
+
+id: 657 | rating: 5 | user: KD48 | date: 2016-08-18 | time: 23:57:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Comprehensive
+--------------------------------------------------------------------
+
+Very comprehensive as far as macro & micro nutrient tracking. Entry is easy and pretty quick. I have tried others but this one seems to meet my needs the best.
+
+
+review id: 676
+
+matches and contexts:
+
+match = Calci
+context = sult is inaccurate tracking of key nutrients like Calcium. What good is a great app if the results d
+
+
+id: 676 | rating: 3 | user: StrongGal | date: 2016-04-20 | time: 03:20:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Absolutely depend on it but...
+--------------------------------------------------------------------
+
+Helped me get my carbs and other nutrients under control. Only problem is the Report which displays many nutrients in % of daily target instead of Unit Weights (i.e. grams). Result is inaccurate tracking of key nutrients like Calcium. What good is a great app if the results displayed are inaccurate?
+
+
+review id: 1033
+
+matches and contexts:
+
+match = vitam
+context = everything from BG numbers, exercise, medication, vitamins, and all food eaten.  This is extremely u
+
+
+id: 1033 | rating: 5 | user: johnnyvino | date: 2016-02-13 | time: 18:46:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App for Diabetics
+--------------------------------------------------------------------
+
+I log everything from BG numbers, exercise, medication, vitamins, and all food eaten.  This is extremely useful to me in evaluating any changes necessary to my diet or medication.  Creating your own food categories made it very easy to catalog what I eat regularly and the bar code scanner is awesome.  I also like how I can print out daily or weekly reports or email them to my doctor.
+
+

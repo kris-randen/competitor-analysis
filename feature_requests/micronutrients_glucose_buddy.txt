@@ -1,0 +1,212 @@
+'Micronutrients' related feature requests in glucose_buddy reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 12
+
+
+review id: 80
+
+matches and contexts:
+
+match = iod
+context = ack my blood sugars throughout the day and get periodic reports that help me to check how I’m doing,
+
+
+id: 80 | rating: 5 | user: P Carl | date: 2018-02-23 | time: 13:37:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Great Help
+--------------------------------------------------------------------
+
+The app has been such a great help to me in my daily life with diabetes type II.  Now I have a way to track my blood sugars throughout the day and get periodic reports that help me to check how I’m doing, along with my A1 C score. It’s also helpful to take to the doctors office of the doctor can see it as well.
+
+
+review id: 313
+
+matches and contexts:
+
+match = iod
+context =  this app and do not want to use with my phone period.
+
+
+id: 313 | rating: 3 | user: Dat Boy Malcolm | date: 2018-01-04 | time: 09:44:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app but
+--------------------------------------------------------------------
+
+It needs to disable asking for Bluetooth. I only use this app and do not want to use with my phone period.
+
+
+review id: 491
+
+matches and contexts:
+
+match = iod
+context = rate check on where I am over any given 90 day period.  Therefore, there are never any surprises whe
+
+
+id: 491 | rating: 5 | user: nanabugsy | date: 2010-06-02 | time: 01:27:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Truly Awesome App
+--------------------------------------------------------------------
+
+Updated Review:  Since my last review, which was nearly a year ago, I continue to be a big time fan of this application.  The advent of the A1C calculation has allowed me to keep really accurate check on where I am over any given 90 day period.  Therefore, there are never any surprises when I go into the doctor for my blood work every 6 months and I have found the calculated A1C results to be nearly identical to the lab.  I have been and continue to be an extremely well controlled diabetic of 20 years but this is the best tool I have ever had to assist me in staying healthy.  Thanks GB for such a GREAT application.
+
+
+review id: 499
+
+matches and contexts:
+
+match = iod
+context = imes showing how your BS runs during a certain periods of time, all the time. This app is GREAT beca
+
+
+id: 499 | rating: 5 | user: The Only One Maloo | date: 2013-02-24 | time: 15:01:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Logging levels
+--------------------------------------------------------------------
+
+Controlling BS is challenging. Working with your medical medical is vital for better BS control which require sometimes showing how your BS runs during a certain periods of time, all the time. This app is GREAT because it allows you to put it down immediately, it's put on graphs of your BS and makes a running list of when taken and add notes so when you go to see your physician, it's right in the palm of your hands to help you in in communicating your diabetic needs. Many like myself put forth an effort to keep good records but for some reason, you forget your log book on the day of your appointment, this app will allow you to be better prepared to show your doctor your logs and be ready to get the needed help for making the needed adjustments more accurately.
+
+
+review id: 558
+
+matches and contexts:
+
+match = iod
+context = g a measure of my blood glucose. But this year periodically it would not work, it would always give 
+
+
+id: 558 | rating: 2 | user: SJM0147 | date: 2014-04-28 | time: 12:17:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Very poor, and I'm very sad.
+--------------------------------------------------------------------
+
+I first got this app a year ago and it was the best thing ever. I use this app every day keeping a measure of my blood glucose. But this year periodically it would not work, it would always give me a message saying that it could not connect to the server. At first it was every couple of days and then those days turned into more days in succession. I then sent a email to support but got no answer or response. Now it will not work at all I uninstalled it and reinstalled it still will not connect I added a new one it worked twice that was it so I will not be using this product anymore it's a shame.
+
+
+review id: 752
+
+matches and contexts:
+
+match = iod
+context =  glucose level from 119 to 100.8 over a 90 day period. I had a question for support and they respond
+
+
+id: 752 | rating: 5 | user: MTGMAN1 | date: 2009-08-14 | time: 22:17:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Wonderful application
+--------------------------------------------------------------------
+
+This program is great! Just by tracking my food, activities, etc. I've been able to drop my average glucose level from 119 to 100.8 over a 90 day period. I had a question for support and they responded in a very timely manner.
+
+
+review id: 874
+
+matches and contexts:
+
+match = vitam
+context = any diabetics have CKD Perhaps you could list all vitamins, minerals and other vital information
+
+
+id: 874 | rating: 4 | user: Getnskny | date: 2011-06-26 | time: 02:49:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app
+--------------------------------------------------------------------
+
+I use this app daily. It is a great way to keep track of blood sugar. I send reports via email to doctor. This makes it easy and convenient to stay on top of. One suggestion: because many diabetics have CKD Perhaps you could list all vitamins, minerals and other vital information
+
+
+review id: 976
+
+matches and contexts:
+
+match = iod
+context = gives her a full picture of my levels for long periods of time. Thank you!
+
+
+id: 976 | rating: 5 | user: pickypatty | date: 2012-10-24 | time: 01:52:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App!
+--------------------------------------------------------------------
+
+This is a great App. Helped me track my glucose level to help keep it level. My doctor lives it too. It gives her a full picture of my levels for long periods of time. Thank you!
+
+
+review id: 1592
+
+matches and contexts:
+
+match = Micro
+context = ok at how I'm doing. I used to keep a database in Microsoft Excel but this is much easier.
+
+
+id: 1592 | rating: 5 | user: No condemnation | date: 2012-01-16 | time: 15:38:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Works Fine
+--------------------------------------------------------------------
+
+I like the chart so I get a visual look at how I'm doing. I used to keep a database in Microsoft Excel but this is much easier.
+
+
+review id: 1611
+
+matches and contexts:
+
+match = iron
+context = p track with that paper. I live in a paperless environment of the digital world thank goodness this 
+
+
+id: 1611 | rating: 5 | user: Jenetha Simmons | date: 2014-02-23 | time: 14:10:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Jenetha
+--------------------------------------------------------------------
+
+Great app! I was recently diagnosed and couldn't keep track with that paper. I live in a paperless environment of the digital world thank goodness this simplified it.
+
+
+review id: 2215
+
+matches and contexts:
+
+match = micro
+context =  for diabetes management. It does need to include micrograms (mcg) in the medication log for Byetta 
+
+
+id: 2215 | rating: 5 | user: A searcher | date: 2012-10-04 | time: 19:05:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Glucose Buddy
+--------------------------------------------------------------------
+
+A 4+ app for diabetes management. It does need to include micrograms (mcg) in the medication log for Byetta & Victoza. Then it'll be about perfectu for us diabetics!
+
+
+review id: 2789
+
+matches and contexts:
+
+match = iod
+context =  a new phone, returned to this app. Excellent, period.
+
+
+id: 2789 | rating: 5 | user: Eche ajo | date: 2016-12-27 | time: 14:15:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Excellent
+--------------------------------------------------------------------
+
+With a new phone, returned to this app. Excellent, period.
+
+

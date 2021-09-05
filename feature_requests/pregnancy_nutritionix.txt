@@ -1,0 +1,45 @@
+'Pregnancy' related feature requests in nutritionix reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 2
+
+
+review id: 455
+
+matches and contexts:
+
+match = breastfeed
+context = to help her be sure she eats enough to be able to breastfeed her baby. I started tracking for her to
+
+match = baby
+context = sure she eats enough to be able to breastfeed her baby. I started tracking for her to see how easy i
+
+
+id: 455 | rating: 5 | user: AniramNermah | date: 2017-05-04 | time: 12:20:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for nursing mom
+--------------------------------------------------------------------
+
+I got this for my skinny new mom daughter, to help her be sure she eats enough to be able to breastfeed her baby. I started tracking for her to see how easy it would be for her to use, and it's working out great! Scanning UPC codes is so helpful. The recipe feature is great, too, for foods she eats regularly, and it works either for a single-serving recipe or multiple-serving one and she can then designate how many servings she eats (worked great for a batch of special cookies). It would be nice to select whether one is trying to gain or lose weight, but for her, she just knows that red is good and green is bad.
+
+
+review id: 457
+
+matches and contexts:
+
+match = preg
+context = , not necessarily number of calories, because I'm pregnant.
+
+
+id: 457 | rating: 5 | user: R.I.P. Songza | date: 2017-06-10 | time: 19:13:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Great resource
+--------------------------------------------------------------------
+
+This app is fantastic.  I am using to track quality of calories, not necessarily number of calories, because I'm pregnant.
+
+

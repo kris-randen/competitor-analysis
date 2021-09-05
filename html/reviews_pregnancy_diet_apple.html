@@ -1,0 +1,768 @@
+<html dir="ltr" lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
+  <meta content="pc,mobile" name="applicable-device"/>
+  <script id="perfkit">
+   window.initialPageRequestTime = +new Date();
+  </script>
+  <meta content="%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22contentSecurityPolicyMeta%22%3Atrue%2C%22contentSecurityPolicy%22%3A%7B%22default-src%22%3A%5B%22'none'%22%5D%2C%22img-src%22%3A%5B%22'self'%22%2C%22http%3A%2F%2F*.mzstatic.com%22%2C%22*.mzstatic.com%22%2C%22*.apple.com%22%2C%22*.googleusercontent.com%22%2C%22data%3A%22%5D%2C%22style-src%22%3A%5B%22'self'%22%2C%22'unsafe-inline'%22%2C%22*.apple.com%22%5D%2C%22font-src%22%3A%5B%22'self'%22%2C%22http%3A%2F%2F*.apple.com%22%2C%22https%3A%2F%2F*.apple.com%22%5D%2C%22media-src%22%3A%5B%22'self'%22%2C%22blob%3A%22%2C%22http%3A%2F%2F*%22%2C%22https%3A%2F%2F*%22%5D%2C%22connect-src%22%3A%5B%22'self'%22%2C%22*.apple.com%22%2C%22https%3A%2F%2F*.mzstatic.com%22%2C%22*.mzstatic.com%22%5D%2C%22script-src%22%3A%5B%22'self'%22%2C%22'unsafe-inline'%22%2C%22'unsafe-eval'%22%2C%22*.apple.com%22%2C%22'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ%2F1Py%2Fx6b3%2FaGbtSQ%3D'%22%5D%2C%22frame-src%22%3A%5B%22'self'%22%2C%22*.apple.com%22%2C%22itmss%3A%22%2C%22itms-appss%3A%22%2C%22itms-bookss%3A%22%2C%22itms-itunesus%3A%22%2C%22itms-messagess%3A%22%2C%22itms-podcasts%3A%22%2C%22itms-watchs%3A%22%2C%22macappstores%3A%22%2C%22musics%3A%22%2C%22apple-musics%3A%22%2C%22podcasts%3A%22%2C%22videos%3A%22%5D%7D%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Afalse%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22buildVariant%22%3A%22default%22%2C%22FASTBOOT_V2%22%3Afalse%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222136.4.0%2B02c8582e%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3A%22eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlU4UlRZVjVaRFMifQ.eyJpc3MiOiI3TktaMlZQNDhaIiwiaWF0IjoxNjMwNTA1OTgxLCJleHAiOjE2Mzc3NjM1ODF9.q0QFer9hVXMm2HaZJr_kOPtVR3QmEeB2kVvaav9Ysm9PwHmU0nEqnTFlKRESptWaM-QxCqSIKDonr_Iqd5xvoQ%22%7D%2C%22i18n%22%3A%7B%22defaultLocale%22%3A%22en-gb%22%2C%22useDevLoc%22%3Afalse%2C%22pathToLocales%22%3A%22dist%2Flocales%22%7D%2C%22API%22%3A%7B%22AppHost%22%3A%22https%3A%2F%2Famp-api.apps.apple.com%22%2C%22AppEventHost%22%3A%22https%3A%2F%2Fapi-edge.apps.apple.com%22%2C%22MZStore%22%3A%22https%3A%2F%2Fitunes.apple.com%22%2C%22PodcastHost%22%3A%22https%3A%2F%2Famp-api.podcasts.apple.com%22%2C%22StorePlatform%22%3A%22https%3A%2F%2Fuclient-api.itunes.apple.com%2FWebObjects%2FMZStorePlatform.woa%2Fwa%22%2C%22BookHost%22%3A%22https%3A%2F%2Famp-api.books.apple.com%22%2C%22globalElementsPath%22%3A%22%2Fglobal-elements%22%2C%22videoLocalizationPath%22%3A%22%2Fglobal%2Fac_media_player%2Fscripts%2Fac_media_languages%2F%22%2C%22appleAppsDomain%22%3A%22apps.apple.com%22%2C%22applePodcastsDomain%22%3A%22podcasts.apple.com%22%2C%22appleBooksDomain%22%3A%22books.apple.com%22%2C%22appleMusicDomain%22%3A%22music.apple.com%22%2C%22obcMetadataBaseUrl%22%3A%22%2Fapi%2Fbooks-metadata%22%7D%2C%22fastboot%22%3A%7B%22hostWhitelist%22%3A%5B%7B%7D%5D%7D%2C%22ember-a11y-testing%22%3A%7B%22componentOptions%22%3A%7B%22turnAuditOff%22%3Atrue%2C%22axeOptions%22%3A%7B%22rules%22%3A%7B%22color-contrast%22%3A%7B%22enabled%22%3Afalse%7D%7D%7D%7D%7D%2C%22ember-short-number%22%3A%7B%22locales%22%3A%5B%22ar-dz%22%2C%22ar-bh%22%2C%22ar-eg%22%2C%22ar-iq%22%2C%22ar-jo%22%2C%22ar-kw%22%2C%22ar-lb%22%2C%22ar-ly%22%2C%22ar-ma%22%2C%22ar-om%22%2C%22ar-qa%22%2C%22ar-sa%22%2C%22ar-sd%22%2C%22ar-sy%22%2C%22ar-tn%22%2C%22ar-ae%22%2C%22ar-ye%22%2C%22he-il%22%2C%22iw-il%22%2C%22ca-es%22%2C%22cs-cz%22%2C%22da-dk%22%2C%22de-ch%22%2C%22de-de%22%2C%22el-gr%22%2C%22en-au%22%2C%22en-ca%22%2C%22en-gb%22%2C%22en-us%22%2C%22es-419%22%2C%22es-es%22%2C%22es-mx%22%2C%22es-xl%22%2C%22et-ee%22%2C%22fi-fi%22%2C%22fr-ca%22%2C%22fr-fr%22%2C%22hi-in%22%2C%22hr-hr%22%2C%22hu-hu%22%2C%22id-id%22%2C%22is-is%22%2C%22it-it%22%2C%22iw-il%22%2C%22ja-jp%22%2C%22ko-kr%22%2C%22lt-lt%22%2C%22lv-lv%22%2C%22ms-my%22%2C%22nl-nl%22%2C%22no-no%22%2C%22no-nb%22%2C%22nb-no%22%2C%22pl-pl%22%2C%22pt-br%22%2C%22pt-pt%22%2C%22ro-ro%22%2C%22ru-ru%22%2C%22sk-sk%22%2C%22sv-se%22%2C%22th-th%22%2C%22tr-tr%22%2C%22uk-ua%22%2C%22vi-vi%22%2C%22vi-vn%22%2C%22zh-cn%22%2C%22zh-hans%22%2C%22zh-hant%22%2C%22zh-hk%22%2C%22zh-tw%22%2C%22ar%22%2C%22ca%22%2C%22cs%22%2C%22da%22%2C%22de%22%2C%22el%22%2C%22en%22%2C%22es%22%2C%22fi%22%2C%22fr%22%2C%22he%22%2C%22hi%22%2C%22hr%22%2C%22hu%22%2C%22id%22%2C%22is%22%2C%22it%22%2C%22ja%22%2C%22ko%22%2C%22lt%22%2C%22lv%22%2C%22ms%22%2C%22nb%22%2C%22nl%22%2C%22no%22%2C%22pl%22%2C%22pt%22%2C%22ro%22%2C%22ru%22%2C%22sk%22%2C%22sv%22%2C%22th%22%2C%22tr%22%2C%22uk%22%2C%22vi%22%2C%22zh%22%5D%7D%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22max%22%3A1440%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22METRICS%22%3A%7B%22variant%22%3A%22web%22%2C%22baseFields%22%3A%7B%22appName%22%3A%22web-experience-app%22%2C%22constraintProfiles%22%3A%5B%22AMPWeb%22%5D%7D%2C%22clickstream%22%3A%7B%22enabled%22%3Atrue%2C%22topic%22%3A%5B%22xp_amp_web_exp%22%5D%2C%22autoTrackClicks%22%3Atrue%7D%2C%22performance%22%3A%7B%22enabled%22%3Afalse%7D%7D%2C%22MEDIA_SHELF%22%3A%7B%22GRID_CONFIG%22%3A%7B%22books-brick-row%22%3A%7B%22small%22%3A1%2C%22medium%22%3A2%2C%22large%22%3A3%7D%7D%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22max%22%3A1440%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%7D%2C%22SASSKIT_GENERATOR%22%3A%7B%22VIEWPORT_CONFIG%22%3A%7B%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22max%22%3A1440%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%7D%7D%2C%22features%22%3A%7B%22DEFAULT%22%3Atrue%2C%22TV%22%3Atrue%2C%22PODCASTS%22%3Afalse%2C%22BOOKS%22%3Atrue%2C%22APPS%22%3Atrue%2C%22ARTISTS%22%3Atrue%2C%22DEEPLINK_ROUTE%22%3Atrue%2C%22FEATURE_B%22%3Afalse%2C%22EMBER_DATA%22%3Atrue%2C%22CHARTS%22%3Afalse%7D%2C%22globalElements%22%3A%7B%22WEA_ROOT_ELEMENT_HANDLING%22%3Atrue%7D%2C%22contentSecurityPolicyHeader%22%3A%22Content-Security-Policy-Report-Only%22%2C%22exportApplicationGlobal%22%3Afalse%7D" name="web-experience-app/config/environment"/>
+  <meta content="default-src 'none'; img-src 'self' http://*.mzstatic.com *.mzstatic.com *.apple.com *.googleusercontent.com data:; style-src 'self' 'unsafe-inline' *.apple.com; font-src 'self' http://*.apple.com https://*.apple.com; media-src 'self' blob: http://* https://*; connect-src 'self' *.apple.com https://*.mzstatic.com *.mzstatic.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.apple.com 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ='; frame-src 'self' *.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:; " http-equiv="Content-Security-Policy"/>
+  <!-- EMBER_CLI_FASTBOOT_TITLE -->
+  <link as="style" href="//www.apple.com/wss/fonts?families=SF+Pro,v2|SF+Pro+Icons,v1|SF+Pro+Rounded,v1|New+York+Small,v1|New+York+Medium,v1" name="fonts" onload="undefined" rel="stylesheet"/>
+  <meta content="false" data-global-elements-search-suggestions-enabled="" name="ac-gn-search-suggestions-enabled"/>
+  <link data-global-elements-nav-styles="" href="/global-elements/2134.1.0/en_US/ac-global-nav.b70fd08e974a8ca0682cf1b4915f738d.css" rel="stylesheet" type="text/css"/>
+  <link data-global-elements-footer-styles="" href="/global-elements/2134.1.0/en_US/ac-global-footer.2e2ee6ecc0d221db329d22f51f5f05bc.css" rel="stylesheet" type="text/css"/>
+  <meta content="2136.4.0" name="version"/>
+  <link data-rtl="/assets/web-experience-rtl-app-35785186022ba06b875b4b907bdc550b.css" href="/assets/web-experience-app-d12dc771094a7916bde936e3f1e996ea.css" integrity="" rel="stylesheet"/>
+  <script charset="utf-8" src="/assets/chunk.5.2e029b58f1715c797134.js">
+  </script>
+  <script charset="utf-8" src="/assets/chunk.0.e10d4514f6602f8934fb.js">
+  </script>
+  <script charset="utf-8" src="/assets/chunk.9.cf12ce3415009b7b42f8.js">
+  </script>
+  <script charset="utf-8" src="/assets/chunk.1.5e4eba5a48aa00fef815.js">
+  </script>
+  <script charset="utf-8" src="/assets/chunk.8.4f6a03f031a6071c04a0.js">
+  </script>
+  <meta content="" name="ember-cli-head-start"/>
+  <title>
+   ‎Pregnancy Diet - Ratings and Reviews
+  </title>
+  <link rel="canonical"/>
+  <!-- -->
+  <meta content="" name="ember-cli-head-end"/>
+  <script charset="utf-8" src="/assets/chunk.6.51fd9ad31e8be4fe5548.js">
+  </script>
+ </head>
+ <body class="ember-application has-js no-touch">
+  <aside class="ac-gn-segmentbar" data-strings="{ 'exit': 'Exit', 'view': '{%STOREFRONT%} Store Home', 'segments': { 'smb': 'Business Store Home', 'eduInd': 'Education Store Home', 'other': 'Store Home' } }" dir="ltr" id="ac-gn-segmentbar" lang="en-US">
+  </aside>
+  <input class="ac-gn-menustate" id="ac-gn-menustate" type="checkbox"/>
+  <nav aria-label="Global" class="no-js" data-analytics-region="global nav" data-hires="false" data-search-defaultlinks-api="https://www.apple.com/search-services/suggestions/defaultlinks/" data-search-locale="en_US" data-search-suggestions-api="https://www.apple.com/search-services/suggestions/" data-store-api="https://www.apple.com/[storefront]/shop/bag/status" data-store-locale="us" data-store-root-path="/us" data-www-domain="www.apple.com" dir="ltr" id="ac-globalnav" lang="en-US" role="navigation">
+   <div class="ac-gn-content">
+    <ul class="ac-gn-header">
+     <li class="ac-gn-item ac-gn-menuicon">
+      <label aria-hidden="true" class="ac-gn-menuicon-label" for="ac-gn-menustate">
+       <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+        <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top">
+        </span>
+       </span>
+       <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+        <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom">
+        </span>
+       </span>
+      </label>
+      <a class="ac-gn-menuanchor ac-gn-menuanchor-open" href="#ac-gn-menustate" id="ac-gn-menuanchor-open" role="button">
+       <span class="ac-gn-menuanchor-label">
+        Global Nav Open Menu
+       </span>
+      </a>
+      <a class="ac-gn-menuanchor ac-gn-menuanchor-close" href="#" id="ac-gn-menuanchor-close" role="button">
+       <span class="ac-gn-menuanchor-label">
+        Global Nav Close Menu
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-apple">
+      <a class="ac-gn-link ac-gn-link-apple" data-analytics-title="apple home" href="https://www.apple.com/" id="ac-gn-firstfocus-small">
+       <span class="ac-gn-link-text">
+        Apple
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+      <div class="ac-gn-bag-wrapper">
+       <a aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag" data-analytics-title="bag" data-string-badge="Shopping Bag with item count :" href="https://www.apple.com/us/shop/goto/bag">
+        <span class="ac-gn-link-text">
+         Shopping Bag
+        </span>
+       </a>
+       <span aria-hidden="true" class="ac-gn-bag-badge">
+        <span class="ac-gn-bag-badge-separator">
+        </span>
+        <span class="ac-gn-bag-badge-number">
+        </span>
+        <span class="ac-gn-bag-badge-unit">
+         +
+        </span>
+       </span>
+      </div>
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large">
+      </span>
+     </li>
+    </ul>
+    <div class="ac-gn-search-placeholder-container" role="search">
+     <div class="ac-gn-search ac-gn-search-small">
+      <a aria-label="Search apple.com" class="ac-gn-link" data-analytics-intrapage-link="" data-analytics-title="search" href="https://www.apple.com/us/search" id="ac-gn-link-search-small">
+       <div class="ac-gn-search-placeholder-bar">
+        <div class="ac-gn-search-placeholder-input">
+         <div aria-hidden="true" class="ac-gn-search-placeholder-input-text">
+          <div class="ac-gn-link-search ac-gn-search-placeholder-input-icon">
+          </div>
+          <span class="ac-gn-search-placeholder">
+           Search apple.com
+          </span>
+         </div>
+        </div>
+        <div class="ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close">
+         <span aria-hidden="true" class="ac-gn-searchview-close-cancel">
+          Cancel
+         </span>
+        </div>
+       </div>
+      </a>
+     </div>
+    </div>
+    <ul class="ac-gn-list">
+     <li class="ac-gn-item ac-gn-apple">
+      <a class="ac-gn-link ac-gn-link-apple" data-analytics-title="apple home" href="https://www.apple.com/" id="ac-gn-firstfocus">
+       <span class="ac-gn-link-text">
+        Apple
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-store">
+      <a class="ac-gn-link ac-gn-link-store" data-analytics-title="store" href="https://www.apple.com/us/shop/goto/store">
+       <span class="ac-gn-link-text">
+        Store
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+      <a class="ac-gn-link ac-gn-link-mac" data-analytics-title="mac" href="https://www.apple.com/mac/">
+       <span class="ac-gn-link-text">
+        Mac
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+      <a class="ac-gn-link ac-gn-link-ipad" data-analytics-title="ipad" href="https://www.apple.com/ipad/">
+       <span class="ac-gn-link-text">
+        iPad
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+      <a class="ac-gn-link ac-gn-link-iphone" data-analytics-title="iphone" href="https://www.apple.com/iphone/">
+       <span class="ac-gn-link-text">
+        iPhone
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+      <a class="ac-gn-link ac-gn-link-watch" data-analytics-title="watch" href="https://www.apple.com/watch/">
+       <span class="ac-gn-link-text">
+        Watch
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+      <a class="ac-gn-link ac-gn-link-tv" data-analytics-title="tv" href="https://www.apple.com/tv/">
+       <span class="ac-gn-link-text">
+        TV
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+      <a class="ac-gn-link ac-gn-link-music" data-analytics-title="music" href="https://www.apple.com/music/">
+       <span class="ac-gn-link-text">
+        Music
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+      <a class="ac-gn-link ac-gn-link-support" data-analytics-title="support" href="https://support.apple.com">
+       <span class="ac-gn-link-text">
+        Support
+       </span>
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+      <a aria-label="Search apple.com" class="ac-gn-link ac-gn-link-search" data-analytics-intrapage-link="" data-analytics-title="search" href="https://www.apple.com/us/search" id="ac-gn-link-search">
+      </a>
+     </li>
+     <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+      <div class="ac-gn-bag-wrapper">
+       <a aria-label="Shopping Bag" class="ac-gn-link ac-gn-link-bag" data-analytics-click="bag" data-analytics-title="bag" data-string-badge="Shopping Bag with item count : {%BAGITEMCOUNT%}" href="https://www.apple.com/us/shop/goto/bag">
+        <span class="ac-gn-link-text">
+         Shopping Bag
+        </span>
+       </a>
+       <span aria-hidden="true" class="ac-gn-bag-badge">
+        <span class="ac-gn-bag-badge-separator">
+        </span>
+        <span class="ac-gn-bag-badge-number">
+        </span>
+        <span class="ac-gn-bag-badge-unit">
+         +
+        </span>
+       </span>
+      </div>
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large">
+      </span>
+     </li>
+    </ul>
+    <aside class="ac-gn-searchview" data-analytics-region="search" id="ac-gn-searchview" role="search">
+     <div class="ac-gn-searchview-content">
+      <div class="ac-gn-searchview-bar">
+       <div class="ac-gn-searchview-bar-wrapper">
+        <form action="https://www.apple.com/us/search" class="ac-gn-searchform" id="ac-gn-searchform" method="get">
+         <div class="ac-gn-searchform-wrapper">
+          <input aria-autocomplete="list" aria-expanded="true" aria-label="Search apple.com" aria-owns="quicklinks suggestions" autocapitalize="off" autocomplete="off" autocorrect="off" class="ac-gn-searchform-input" id="ac-gn-searchform-input" placeholder="Search apple.com" role="combobox" spellcheck="false" type="text"/>
+          <input id="ac-gn-searchform-src" name="src" type="hidden" value="itunes_serp"/>
+          <button aria-label="Submit Search" class="ac-gn-searchform-submit" disabled="" id="ac-gn-searchform-submit" type="submit">
+          </button>
+          <button aria-label="Clear Search" class="ac-gn-searchform-reset" disabled="" id="ac-gn-searchform-reset" type="reset">
+           <span class="ac-gn-searchform-reset-background">
+           </span>
+          </button>
+         </div>
+        </form>
+        <button aria-label="Cancel Search" class="ac-gn-searchview-close ac-gn-searchview-close-small" id="ac-gn-searchview-close-small">
+         <span aria-hidden="true" class="ac-gn-searchview-close-cancel">
+          Cancel
+         </span>
+        </button>
+       </div>
+      </div>
+      <aside class="ac-gn-searchresults" data-string-noresults="" data-string-quicklinks="Quick Links" data-string-suggestions="Suggested Searches" id="ac-gn-searchresults">
+      </aside>
+     </div>
+     <button aria-label="Cancel Search" class="ac-gn-searchview-close" id="ac-gn-searchview-close">
+      <span class="ac-gn-searchview-close-wrapper">
+       <span class="ac-gn-searchview-close-left">
+       </span>
+       <span class="ac-gn-searchview-close-right">
+       </span>
+      </span>
+     </button>
+    </aside>
+    <aside class="ac-gn-bagview" data-analytics-region="bag">
+     <div class="ac-gn-bagview-scrim">
+      <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small">
+      </span>
+     </div>
+     <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+     </div>
+    </aside>
+   </div>
+  </nav>
+  <div class="ac-gn-blur">
+  </div>
+  <div class="ac-gn-curtain" id="ac-gn-curtain">
+  </div>
+  <div class="ac-nav-placeholder" id="ac-gn-placeholder">
+  </div>
+  <div id="ember-app">
+   <div class="ember-view">
+    <!-- -->
+    <!-- -->
+    <!-- -->
+    <!-- -->
+    <main class="selfclear is-apps-theme">
+     <!-- -->
+     <!-- -->
+     <input class="localnav-menustate" id="localnav-menustate" type="checkbox"/>
+     <div class="css-sticky localnav-sticking" id="localnav-sticky-placeholder">
+     </div>
+     <nav class="css-sticky we-localnav localnav we-localnav--app-store localnav-sticking" data-sticky="" id="localnav" role="navigation">
+      <div class="localnav-wrapper">
+       <div class="localnav-background we-localnav__background">
+       </div>
+       <div class="localnav-content we-localnav__content">
+        <div class="localnav-title we-localnav__title">
+         <a data-we-link-to-exclude="" href="https://www.apple.com/ios/app-store/">
+          <span class="we-localnav__title__product" data-test-we-localnav-store-title="">
+           App Store
+          </span>
+         </a>
+         <span class="we-localnav__title__qualifier" data-test-we-localnav-preview-title="">
+          Preview
+         </span>
+        </div>
+        <div class="localnav-menu we-localnav__menu we-localnav__menu--apps">
+         <!-- -->
+         <div class="localnav-actions we-localnav__actions">
+          <!-- -->
+          <!-- -->
+         </div>
+        </div>
+       </div>
+      </div>
+     </nav>
+     <span aria-hidden="true" class="we-localnav__shim">
+     </span>
+     <label for="localnav-menustate" id="localnav-curtain">
+     </label>
+     <div class="animation-wrapper is-visible">
+      <section class="l-content-width section">
+       <h1 class="section__headline see-all-header" id="section__headline">
+        <a class="see-all-header__link link" href="https://apps.apple.com/us/app/pregnancy-diet/id1173241741">
+         Pregnancy Diet
+        </a>
+        <span class="see-all-header__title">
+         Ratings and Reviews
+        </span>
+       </h1>
+       <div class="we-customer-ratings lockup">
+        <div class="l-row">
+         <div class="we-customer-ratings__stats l-column small-4 medium-6 large-4">
+          <div class="we-customer-ratings__averages">
+           <span class="we-customer-ratings__averages__display">
+            2.9
+           </span>
+           out of 5
+          </div>
+          <div class="we-customer-ratings__count small-hide medium-show">
+           40 Ratings
+          </div>
+         </div>
+         <div class="l-column small-8 medium-6 large-4">
+          <figure class="we-star-bar-graph">
+           <div class="we-star-bar-graph__row">
+            <span class="we-star-bar-graph__stars we-star-bar-graph__stars--5">
+            </span>
+            <div class="we-star-bar-graph__bar">
+             <div class="we-star-bar-graph__bar__foreground-bar" style="width: 40%;">
+             </div>
+            </div>
+           </div>
+           <div class="we-star-bar-graph__row">
+            <span class="we-star-bar-graph__stars we-star-bar-graph__stars--4">
+            </span>
+            <div class="we-star-bar-graph__bar">
+             <div class="we-star-bar-graph__bar__foreground-bar" style="width: 5%;">
+             </div>
+            </div>
+           </div>
+           <div class="we-star-bar-graph__row">
+            <span class="we-star-bar-graph__stars we-star-bar-graph__stars--3">
+            </span>
+            <div class="we-star-bar-graph__bar">
+             <div class="we-star-bar-graph__bar__foreground-bar" style="width: 5%;">
+             </div>
+            </div>
+           </div>
+           <div class="we-star-bar-graph__row">
+            <span class="we-star-bar-graph__stars we-star-bar-graph__stars--2">
+            </span>
+            <div class="we-star-bar-graph__bar">
+             <div class="we-star-bar-graph__bar__foreground-bar" style="width: 8%;">
+             </div>
+            </div>
+           </div>
+           <div class="we-star-bar-graph__row">
+            <span class="we-star-bar-graph__stars">
+            </span>
+            <div class="we-star-bar-graph__bar">
+             <div class="we-star-bar-graph__bar__foreground-bar" style="width: 43%;">
+             </div>
+            </div>
+           </div>
+          </figure>
+          <p class="we-customer-ratings__count medium-hide">
+           40 Ratings
+          </p>
+         </div>
+        </div>
+       </div>
+       <div aria-labelledby="section__headline" class="l-row" role="feed">
+        <div class="l-column--grid l-column small-12 medium-6 large-4 small-valign-top l-column--equal-height" id="ember82">
+         <div>
+          <!-- -->
+          <!-- -->
+         </div>
+         <div aria-labelledby="we-customer-review-0" aria-posinset="1" aria-setsize="-1" class="we-customer-review lockup" role="article" tabindex="0">
+          <figure aria-label="3 out of 5" class="we-star-rating we-customer-review__rating we-star-rating--large">
+           <span class="we-star-rating-stars-outlines">
+            <span class="we-star-rating-stars we-star-rating-stars-3">
+            </span>
+           </span>
+           <!-- -->
+          </figure>
+          <div class="we-customer-review__header we-customer-review__header--user">
+           <span aria-label="" class="we-truncate we-truncate--single-line we-customer-review__user" dir="ltr">
+            Dawwzyy
+           </span>
+           <span class="we-customer-review__separator">
+            ,
+           </span>
+           <time aria-label="May 12, 2020" class="we-customer-review__date" data-test-customer-review-date="" datetime="2020-05-12T16:40:25.000Z">
+            05/12/2020
+           </time>
+          </div>
+          <h3 aria-label="" class="we-truncate we-truncate--single-line we-customer-review__title" dir="ltr" id="we-customer-review-0">
+           Needs language preference
+          </h3>
+          <blockquote aria-label="" class="we-truncate we-truncate--multi-line we-truncate--interactive we-truncate--truncated we-customer-review__body" dir="">
+           <div class="we-clamp" data-clamp="" ismorertl="false" style="height: 72px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);">
+            <p data-test-bidi="" dir="ltr">
+             Not sure what language it is but I’m using a translator &amp; it’s kinda harder for me to use. I think I will be using it temporary for now &amp; might remove it. This will be my last source of app to check
+            </p>
+           </div>
+           <button aria-hidden="true" class="link we-truncate__button" data-metrics-click='{"actionType":"more","targetType":"button","targetId":"More"}' data-more-button="" tabindex="-1" type="button">
+            more
+           </button>
+          </blockquote>
+          <!-- -->
+         </div>
+        </div>
+        <div class="l-column--grid l-column small-12 medium-6 large-4 small-valign-top l-column--equal-height" id="ember84">
+         <div>
+          <!-- -->
+          <!-- -->
+         </div>
+         <div aria-labelledby="we-customer-review-1" aria-posinset="2" aria-setsize="-1" class="we-customer-review lockup" role="article" tabindex="0">
+          <figure aria-label="1 out of 5" class="we-star-rating we-customer-review__rating we-star-rating--large">
+           <span class="we-star-rating-stars-outlines">
+            <span class="we-star-rating-stars we-star-rating-stars-1">
+            </span>
+           </span>
+           <!-- -->
+          </figure>
+          <div class="we-customer-review__header we-customer-review__header--user">
+           <span aria-label="" class="we-truncate we-truncate--single-line we-customer-review__user" dir="ltr">
+            Amandacrts
+           </span>
+           <span class="we-customer-review__separator">
+            ,
+           </span>
+           <time aria-label="January 2, 2021" class="we-customer-review__date" data-test-customer-review-date="" datetime="2021-01-02T00:34:35.000Z">
+            01/02/2021
+           </time>
+          </div>
+          <h3 aria-label="" class="we-truncate we-truncate--single-line we-customer-review__title" dir="ltr" id="we-customer-review-1">
+           HORRIBLE AND GLITCHY
+          </h3>
+          <blockquote aria-label="" class="we-truncate we-truncate--multi-line we-truncate--interactive we-truncate--truncated we-customer-review__body" dir="">
+           <div class="we-clamp" data-clamp="" ismorertl="false" style="height: 72px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);">
+            <p data-test-bidi="" dir="ltr">
+             This app is terrible and I wish I could get a refund for my purchase on it. There are still ads after I paid for them to go away, I keep getting logged out and the the app won’t remember me, and it can’t find most of the foods that I search for, and also why is it partially in English and partially in another language?? Stupid. Don’t waste your time or money on this app.
+            </p>
+           </div>
+           <button aria-hidden="true" class="link we-truncate__button" data-metrics-click='{"actionType":"more","targetType":"button","targetId":"More"}' data-more-button="" tabindex="-1" type="button">
+            more
+           </button>
+          </blockquote>
+          <!-- -->
+         </div>
+        </div>
+        <div class="l-column--grid l-column small-12 medium-6 large-4 small-valign-top l-column--equal-height" id="ember86">
+         <div>
+          <!-- -->
+          <!-- -->
+         </div>
+         <div aria-labelledby="we-customer-review-2" aria-posinset="3" aria-setsize="-1" class="we-customer-review lockup" role="article" tabindex="0">
+          <figure aria-label="2 out of 5" class="we-star-rating we-customer-review__rating we-star-rating--large">
+           <span class="we-star-rating-stars-outlines">
+            <span class="we-star-rating-stars we-star-rating-stars-2">
+            </span>
+           </span>
+           <!-- -->
+          </figure>
+          <div class="we-customer-review__header we-customer-review__header--user">
+           <span aria-label="" class="we-truncate we-truncate--single-line we-customer-review__user" dir="ltr">
+            Aruna2021
+           </span>
+           <span class="we-customer-review__separator">
+            ,
+           </span>
+           <time aria-label="February 1, 2021" class="we-customer-review__date" data-test-customer-review-date="" datetime="2021-02-01T13:51:27.000Z">
+            02/01/2021
+           </time>
+          </div>
+          <h3 aria-label="" class="we-truncate we-truncate--single-line we-customer-review__title" dir="ltr" id="we-customer-review-2">
+           Too incomplete
+          </h3>
+          <blockquote aria-label="" class="we-truncate we-truncate--multi-line we-truncate--interactive we-customer-review__body" dir="">
+           <div class="we-clamp" data-clamp="">
+            <p data-test-bidi="" dir="ltr">
+             The app has a mix of languages, and doesn't have a language selection option.  All food items have the same write up.  I would not recommend it.
+            </p>
+           </div>
+           <!-- -->
+          </blockquote>
+          <!-- -->
+         </div>
+        </div>
+        <div class="l-column--grid l-column small-12 medium-6 large-4 small-valign-top l-column--equal-height" id="ember88">
+         <div>
+          <!-- -->
+          <!-- -->
+         </div>
+         <div aria-labelledby="we-customer-review-3" aria-posinset="4" aria-setsize="-1" class="we-customer-review lockup" role="article" tabindex="0">
+          <figure aria-label="1 out of 5" class="we-star-rating we-customer-review__rating we-star-rating--large">
+           <span class="we-star-rating-stars-outlines">
+            <span class="we-star-rating-stars we-star-rating-stars-1">
+            </span>
+           </span>
+           <!-- -->
+          </figure>
+          <div class="we-customer-review__header we-customer-review__header--user">
+           <span aria-label="" class="we-truncate we-truncate--single-line we-customer-review__user" dir="ltr">
+            CowGoddess
+           </span>
+           <span class="we-customer-review__separator">
+            ,
+           </span>
+           <time aria-label="July 6, 2021" class="we-customer-review__date" data-test-customer-review-date="" datetime="2021-07-06T17:58:05.000Z">
+            07/06/2021
+           </time>
+          </div>
+          <h3 aria-label="" class="we-truncate we-truncate--single-line we-customer-review__title" dir="ltr" id="we-customer-review-3">
+           Too rough on the edges to bother using
+          </h3>
+          <blockquote aria-label="" class="we-truncate we-truncate--multi-line we-truncate--interactive we-truncate--truncated we-customer-review__body" dir="">
+           <div class="we-clamp" data-clamp="" ismorertl="false" style="height: 72px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);">
+            <p data-test-bidi="" dir="ltr">
+             As has been noted, it has a mix of English and French on the buttons. Not a huge source of products. Several screens don’t have a visible back button or home button. Sometimes the arrow is there but the font is white and it is on a white part of the background image. Latest Os, iPhone 8.
+            </p>
+           </div>
+           <button aria-hidden="true" class="link we-truncate__button" data-metrics-click='{"actionType":"more","targetType":"button","targetId":"More"}' data-more-button="" tabindex="-1" type="button">
+            more
+           </button>
+          </blockquote>
+          <!-- -->
+         </div>
+        </div>
+        <div class="l-column--grid l-column small-12 medium-6 large-4 small-valign-top l-column--equal-height" id="ember90">
+         <div>
+          <!-- -->
+          <!-- -->
+         </div>
+         <div aria-labelledby="we-customer-review-4" aria-posinset="5" aria-setsize="-1" class="we-customer-review lockup" role="article" tabindex="0">
+          <figure aria-label="1 out of 5" class="we-star-rating we-customer-review__rating we-star-rating--large">
+           <span class="we-star-rating-stars-outlines">
+            <span class="we-star-rating-stars we-star-rating-stars-1">
+            </span>
+           </span>
+           <!-- -->
+          </figure>
+          <div class="we-customer-review__header we-customer-review__header--user">
+           <span aria-label="" class="we-truncate we-truncate--single-line we-customer-review__user" dir="ltr">
+            Jackie;)
+           </span>
+           <span class="we-customer-review__separator">
+            ,
+           </span>
+           <time aria-label="January 26, 2020" class="we-customer-review__date" data-test-customer-review-date="" datetime="2020-01-26T01:16:03.000Z">
+            01/26/2020
+           </time>
+          </div>
+          <h3 aria-label="" class="we-truncate we-truncate--single-line we-customer-review__title" dir="ltr" id="we-customer-review-4">
+           French and English mixed
+          </h3>
+          <blockquote aria-label="" class="we-truncate we-truncate--multi-line we-truncate--interactive we-truncate--truncated we-customer-review__body" dir="">
+           <div class="we-clamp" data-clamp="" ismorertl="false" style="height: 18px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);">
+            <p data-test-bidi="" dir="ltr">
+             This app has French and English mixed throughout the app. An add pops up before every answer. The search bar doesn’t quit work. You can’t just type and push enter like normal. You must select one of their recommendations. Even if that recommendation is exactly what you typed in.
+            </p>
+           </div>
+           <button aria-hidden="true" class="link we-truncate__button" data-metrics-click='{"actionType":"more","targetType":"button","targetId":"More"}' data-more-button="" tabindex="-1" type="button">
+            more
+           </button>
+          </blockquote>
+          <h3 class="we-customer-review__header we-customer-review__header--response">
+           <span aria-label="" class="we-truncate we-truncate--single-line we-customer-review__title" dir="ltr">
+            Developer Response
+           </span>
+           <span class="we-customer-review__separator">
+            ,
+           </span>
+          </h3>
+          <blockquote aria-label="" class="we-truncate we-truncate--multi-line we-truncate--interactive we-truncate--truncated we-customer-review__body" dir="">
+           <div class="we-clamp" data-clamp="" ismorertl="false" style="height: 18px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);">
+            <p data-test-bidi="" dir="ltr">
+             Hi
+            </p>
+            <br/>
+            <p data-test-bidi="" dir="ltr">
+             Can you give us the ios version ? Please contact us by email so we can help you.
+            </p>
+           </div>
+           <button aria-hidden="true" class="link we-truncate__button" data-metrics-click='{"actionType":"more","targetType":"button","targetId":"More"}' data-more-button="" tabindex="-1" type="button">
+            more
+           </button>
+          </blockquote>
+         </div>
+        </div>
+        <div class="l-column--grid l-column small-12 medium-6 large-4 small-valign-top l-column--equal-height" id="ember92">
+         <div>
+          <!-- -->
+          <!-- -->
+         </div>
+         <div aria-labelledby="we-customer-review-5" aria-posinset="6" aria-setsize="-1" class="we-customer-review lockup" role="article" tabindex="0">
+          <figure aria-label="1 out of 5" class="we-star-rating we-customer-review__rating we-star-rating--large">
+           <span class="we-star-rating-stars-outlines">
+            <span class="we-star-rating-stars we-star-rating-stars-1">
+            </span>
+           </span>
+           <!-- -->
+          </figure>
+          <div class="we-customer-review__header we-customer-review__header--user">
+           <span aria-label="" class="we-truncate we-truncate--single-line we-customer-review__user" dir="ltr">
+            jajgroth
+           </span>
+           <span class="we-customer-review__separator">
+            ,
+           </span>
+           <time aria-label="June 12, 2020" class="we-customer-review__date" data-test-customer-review-date="" datetime="2020-06-11T21:42:05.000Z">
+            06/12/2020
+           </time>
+          </div>
+          <h3 aria-label="" class="we-truncate we-truncate--single-line we-customer-review__title" dir="ltr" id="we-customer-review-5">
+           Language
+          </h3>
+          <blockquote aria-label="" class="we-truncate we-truncate--multi-line we-truncate--interactive we-truncate--truncated we-customer-review__body" dir="">
+           <div class="we-clamp" data-clamp="" ismorertl="false" style="height: 18px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);">
+            <p data-test-bidi="" dir="ltr">
+             I can’t understand what the app is saying. I speak English. This is some other language. The app doesn’t let you change the language either. Useless app. Deleting
+            </p>
+           </div>
+           <button aria-hidden="true" class="link we-truncate__button" data-metrics-click='{"actionType":"more","targetType":"button","targetId":"More"}' data-more-button="" tabindex="-1" type="button">
+            more
+           </button>
+          </blockquote>
+          <h3 class="we-customer-review__header we-customer-review__header--response">
+           <span aria-label="" class="we-truncate we-truncate--single-line we-customer-review__title" dir="ltr">
+            Developer Response
+           </span>
+           <span class="we-customer-review__separator">
+            ,
+           </span>
+          </h3>
+          <blockquote aria-label="" class="we-truncate we-truncate--multi-line we-truncate--interactive we-truncate--truncated we-customer-review__body" dir="">
+           <div class="we-clamp" data-clamp="" ismorertl="false" style="height: 18px; -webkit-mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 18.0001px, rgb(0, 0, 0) 18.0001px), linear-gradient(270deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 32.8px, rgb(0, 0, 0) 68.8002px);">
+            <p data-test-bidi="" dir="ltr">
+             Hello,
+            </p>
+            <p data-test-bidi="" dir="ltr">
+             Could you make a screenshot of the language displayed and send it to support@alimentation-grossesse.com, because it should match the language you selected for your phone.
+            </p>
+            <p data-test-bidi="" dir="ltr">
+             Best regards
+            </p>
+           </div>
+           <button aria-hidden="true" class="link we-truncate__button" data-metrics-click='{"actionType":"more","targetType":"button","targetId":"More"}' data-more-button="" tabindex="-1" type="button">
+            more
+           </button>
+          </blockquote>
+         </div>
+        </div>
+        <div class="l-column--grid l-column small-12 medium-6 large-4 small-valign-top l-column--equal-height" id="ember94">
+         <div>
+          <!-- -->
+          <!-- -->
+         </div>
+         <div aria-labelledby="we-customer-review-6" aria-posinset="7" aria-setsize="-1" class="we-customer-review lockup" role="article" tabindex="0">
+          <figure aria-label="1 out of 5" class="we-star-rating we-customer-review__rating we-star-rating--large">
+           <span class="we-star-rating-stars-outlines">
+            <span class="we-star-rating-stars we-star-rating-stars-1">
+            </span>
+           </span>
+           <!-- -->
+          </figure>
+          <div class="we-customer-review__header we-customer-review__header--user">
+           <span aria-label="" class="we-truncate we-truncate--single-line we-customer-review__user" dir="ltr">
+            Sihwin
+           </span>
+           <span class="we-customer-review__separator">
+            ,
+           </span>
+           <time aria-label="November 25, 2019" class="we-customer-review__date" data-test-customer-review-date="" datetime="2019-11-25T05:07:48.000Z">
+            11/25/2019
+           </time>
+          </div>
+          <h3 aria-label="" class="we-truncate we-truncate--single-line we-customer-review__title" dir="ltr" id="we-customer-review-6">
+           Uh no
+          </h3>
+          <blockquote aria-label="" class="we-truncate we-truncate--multi-line we-truncate--interactive we-customer-review__body" dir="">
+           <div class="we-clamp" data-clamp="">
+            <p data-test-bidi="" dir="ltr">
+             Pregnant women should avoid deli meats due to high nitrites and listeria.
+            </p>
+           </div>
+           <!-- -->
+          </blockquote>
+          <!-- -->
+         </div>
+        </div>
+       </div>
+       <div class="we-loading-spinner we-loading-spinner--see-all" role="presentational" style="display: none;">
+       </div>
+      </section>
+      <!-- -->
+     </div>
+     <!-- -->
+     <!-- -->
+     <!-- -->
+    </main>
+   </div>
+  </div>
+  <div id="modal-container">
+  </div>
+  <script src="https://js-cdn.music.apple.com/-amp/v2/musickit.js">
+  </script>
+  <div id="ac-gn-viewport-emitter">
+  </div>
+  <script integrity="" src="/assets/vendor-6507f35d810698436a50035960268e58.js">
+  </script>
+  <script integrity="" src="/assets/web-experience-app-ba29225fdca610065aab6d27915a2aa1.js">
+  </script>
+  <footer class="no-js" dir="ltr" id="ac-globalfooter" lang="en-US" role="contentinfo">
+   <div class="ac-gf-content">
+    <section class="ac-gf-footer">
+     <div class="ac-gf-footer-shop" x-ms-format-detection="none">
+      More ways to shop:
+      <a data-analytics-title="find an apple store" href="https://www.apple.com/retail/">
+       Find an Apple Store
+      </a>
+      or
+      <a data-analytics-exit-link="" data-analytics-title="other retailers or resellers" href="https://locate.apple.com/">
+       other retailer
+      </a>
+      near you.
+      <span class="nowrap">
+       Or call 1-800-MY-APPLE.
+      </span>
+     </div>
+     <div class="ac-gf-footer-locale">
+      <a aria-label="Choose your country or region" class="ac-gf-footer-locale-link" data-analytics-title="choose your country" href="https://www.apple.com/choose-country-region/" title="Choose your country or region">
+       Choose your country or region
+      </a>
+     </div>
+     <div class="ac-gf-footer-legal">
+      <div class="ac-gf-footer-legal-copyright">
+       Copyright © 2021 Apple Inc. All rights reserved.
+      </div>
+      <div class="ac-gf-footer-legal-links">
+       <a class="ac-gf-footer-legal-link" data-analytics-title="privacy policy" href="https://www.apple.com/legal/privacy/">
+        Privacy Policy
+       </a>
+       <a class="ac-gf-footer-legal-link" data-analytics-title="terms of use" href="https://www.apple.com/legal/internet-services/terms/site.html">
+        Terms of Use
+       </a>
+       <a class="ac-gf-footer-legal-link" data-analytics-title="sales and refunds" href="https://www.apple.com/us/shop/goto/help/sales_refunds">
+        Sales and Refunds
+       </a>
+       <a class="ac-gf-footer-legal-link" data-analytics-title="legal" href="https://www.apple.com/legal/">
+        Legal
+       </a>
+       <a class="ac-gf-footer-legal-link" data-analytics-title="site map" href="https://www.apple.com/sitemap/">
+        Site Map
+       </a>
+      </div>
+     </div>
+    </section>
+   </div>
+  </footer>
+  <script async="" data-global-elements-nav-script="" src="/global-elements/2134.1.0/en_US/ac-global-nav.ccc0e77df31a0f92878170f464fca269.js" type="text/javascript">
+  </script>
+  <script async="" data-global-elements-footer-script="" src="/global-elements/2134.1.0/en_US/ac-global-footer.3e3c9823aeb5264f17e257f367d6b0e7.js" type="text/javascript">
+  </script>
+  <div data-viewport-emitter-dispatch="" data-viewport-emitter-state='{"viewport":"large","orientation":"landscape","retina":true}' id="localnav-viewport-emitter">
+  </div>
+ </body>
+</html>

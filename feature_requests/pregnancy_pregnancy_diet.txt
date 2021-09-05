@@ -1,0 +1,25 @@
+'Pregnancy' related feature requests in pregnancy_diet reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 1
+
+
+review id: 6
+
+matches and contexts:
+
+match = Preg
+context = Pregnant women should avoid deli meats due to high
+
+
+id: 6 | rating: 1 | user: Sihwin | date: 2019-11-25 | time: 05:07:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Uh no
+--------------------------------------------------------------------
+
+Pregnant women should avoid deli meats due to high nitrites and listeria.
+
+

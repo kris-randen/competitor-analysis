@@ -1,0 +1,1608 @@
+'Pregnancy' related feature requests in baby_to_body reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 89
+
+
+review id: 0
+
+matches and contexts:
+
+match = preg
+context = he model doing the exercises is the same stage of pregnancy as I am to ensure the safety of the move
+
+
+id: 0 | rating: 4 | user: cprado23 | date: 2019-01-15 | time: 17:52:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Edit* improved
+--------------------------------------------------------------------
+
+Edit**** the developers heard our concerns the glitches have been fixed. Since it’s a new app there’s always room for improvement. Some exercises are missing equipment needed before it starts. For example there’s some workouts where I’ve needed a mat since there’s floor stretching but it didn’t have it in the equipment needed. But it do enjoy that the model doing the exercises is the same stage of pregnancy as I am to ensure the safety of the movements.
+
+
+review id: 2
+
+matches and contexts:
+
+match = preg
+context = em so simple! I do hope to try some of them as my pregnancy progresses. All in all it is a very cool
+
+
+id: 2 | rating: 3 | user: CoriiSuee | date: 2020-04-20 | time: 14:30:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Excited for this app, annoyed with loading pauses
+--------------------------------------------------------------------
+
+I was so excited to find this app and have purchased the premium and been using it for a week now, but in the middle of the workouts the exercise will simply stop loading and I’m sitting waiting for it while my heart rate slows and I lose the burn. At first I figured out that if I click on the next movement it will load more quickly SOMETIMES, but mainly it just glitches more.  Another day I tried to let it “load” aka sit for 30 minutes before I even click play to begin the daily workout, but that didn’t work either. I use 5G WiFi and have no issues with slow connection in the house, I have deleted the app and re-downloaded it and re-started my phone to troubleshoot at no avail. If this one glitch would be fixed I would be happy to rate this app a 5 star! The workouts are challenging and easy to follow along, and I love being able to track my progress. I do wish I could track what I eat in the “kitchen” but I just had to download a separate app for that. I am a single mother and a lot of the recipes do not seem budget friendly, but the recipes are listed and arranged to make them so simple! I do hope to try some of them as my pregnancy progresses. All in all it is a very cool app!!
+
+
+review id: 3
+
+matches and contexts:
+
+match = preg
+context = his app as an option for a home workout during my pregnancy and quarantine period. I added my goal o
+
+
+id: 3 | rating: 3 | user: Alessandra Hirai | date: 2020-05-26 | time: 03:10:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Repetitive exercises, not exactly designed for pregnant women
+--------------------------------------------------------------------
+
+I subscribed this app as an option for a home workout during my pregnancy and quarantine period. I added my goal of exercising 4 days a week for about 30-40min. At the beginning I noticed that the videos was always crashing, so an exercise plan of 40 minutes normally takes longer as it restart the whole exercise. The plans are pretty similar, over and over, and not only there is a slim model on the videos (not a pregnant woman on an exercise app designed for pregnant women) but also a bunch of lunges for example and other exercises not really good or comfortable for 20+ weeks pregnancy. There is a huge amount of repetitive exercises during a pla. I’m 23 weeks pregnant and it has increasing the number of lunges and other extreme exercises as well as sending longer plans (47 minutes). They offer repetitive shorter options in case you wanna reduce your time, but really, same exercises all the time! I will not continue with my subscription and I’m extremely disappointed! Do not recommend!
+
+
+review id: 5
+
+matches and contexts:
+
+match = preg
+context = ve an app to lead me through home workouts during pregnancy especially during quarantine. At the sta
+
+
+id: 5 | rating: 2 | user: cstell12345 | date: 2020-05-09 | time: 11:20:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Limited Variation and ability to customize
+--------------------------------------------------------------------
+
+I was excited to have an app to lead me through home workouts during pregnancy especially during quarantine. At the start (in second trimester), I was enjoying the app overall. My biggest complaint was that I didn’t feel I was getting enough cardio and there is no way (so far as I can tell) to customize the workout type (eg have more  cardio routines to select from in a given week) apart from repeating a workout. As the weeks have gone on, as other reviewers have noted, it seems the exercises are just recycled —I’m doing the same exercises I have been, perhaps just in different order, for several weeks without any new additions mixed in. In addition, the trainer in the video barely appears pregnant so in my third trimester I’m following someone that has a lot more range of mobility etc. it seems for a pregnancy dedicated app, the very least it could do would be to film instructors at about the appropriate prenatal stage...  there is a lot of room for improvement and I don’t feel I will continue with the app beyond the initial period I’ve already paid for.
+
+
+review id: 7
+
+matches and contexts:
+
+match = Baby
+context = cause women are trusting you. Review your own app Baby2Body so you know you are charging women for t
+
+match = preg
+context =  a perfect addition to walking and yoga during my pregnancy. However, there isn’t sound and they don
+
+
+id: 7 | rating: 2 | user: TMammoser | date: 2018-08-01 | time: 15:55:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Seems Unfinished...
+--------------------------------------------------------------------
+
+I, at first, fell in love with this app for the weekly circuit workouts. They were a perfect addition to walking and yoga during my pregnancy. However, there isn’t sound and they don’t include transition time in between exercises so I had to be prepared to makeup those missed reps later. Well, now in my third trimester the circuits stopped. Are they not done creating them yet? So now I’ve tried using the MyFitnessStudio portion and the workout orders are not correct. Today I did a workout that went from warm-up, to cool down, and then the workout. Do the creators not test these out before they post them? Also who creates these workouts? One had a lot of bridge exercises so I was on my back for a long time and then there was reclined twists which can be unsafe. I hope they have certified instructors creating these workouts because women are trusting you. Review your own app Baby2Body so you know you are charging women for the app you are intending to give them.
+
+
+review id: 10
+
+matches and contexts:
+
+match = baby
+context = I’m trying to save as much as possible before our baby comes and spending $7/mo on an app isn’t wort
+
+
+id: 10 | rating: 3 | user: Laurenvieira | date: 2018-01-30 | time: 20:19:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Don’t waste your time unless you want to purchase
+--------------------------------------------------------------------
+
+The only reason I’m giving three stars is because the app is gorgeous and I’m sure its great once you purchase it. I’m trying to save as much as possible before our baby comes and spending $7/mo on an app isn’t worth it for me, regardless of how good the app is. I thought the free version would at least have some functionality but it’s a total waste of time. All of the content is locked until you purchase. It would be great if this app had at least some features that made the free version worth keeping. I downloaded it and immediately deleted it unfortunately.
+
+
+review id: 11
+
+matches and contexts:
+
+match = baby
+context = e . The amount of apps I have downloaded for this baby are definitely in the double digits but I hav
+
+
+id: 11 | rating: 5 | user: bellablaze19 | date: 2019-04-22 | time: 15:58:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Love It !
+--------------------------------------------------------------------
+
+Becoming a mom-to-be for the very first time is an amazing roller coaster ride . The amount of apps I have downloaded for this baby are definitely in the double digits but I have deleted some of them , I kept this one around because it’s the full package ! There’s Zen breathing which I just began doing ( it really helps ) , meal and recipe ideas , and full workouts ( did one today ! 💪🏾 broke a sweat and I felt amazing ) designed to your fitness level . You get a lot for it to be a free app but you get even more with the in app purchases ! I recommend this app to anybody that’s on their way to motherhood
+
+
+review id: 13
+
+matches and contexts:
+
+match = preg
+context = too. Looking forward to continuing this even post pregnancy as well. If you download this def use it
+
+
+id: 13 | rating: 5 | user: OpryFit | date: 2020-06-30 | time: 01:32:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Download now mama’s
+--------------------------------------------------------------------
+
+I started this app during my second trimester and it was def worth the investment! Each week you get 4 workouts with 4-5 bonus workouts If you want to do more! I also love the weekly recipes and daily bites of information. You can also log your weight and water intake too. Looking forward to continuing this even post pregnancy as well. If you download this def use it to your advantage this app has so much to offer. I wish it had an option to save workouts, that’s the only thing other than that it’s great!
+
+
+review id: 14
+
+matches and contexts:
+
+match = preg
+context = This app is amazing for pregnant women feeling lost on what things to eat,
+
+
+id: 14 | rating: 5 | user: Metz Brown | date: 2020-06-15 | time: 15:35:27.000Z
+
+--------------------------------------------------------------------
+                      Title: This app keeps you motivated
+--------------------------------------------------------------------
+
+This app is amazing for pregnant women feeling lost on what things to eat, which work outs are safe, and it keeps you wanting to stay on track! It’s super important to eat healthy to FEEL good. Specially in the first trimester. Which in my opinion it’s the worst time during pregnancy because hormones can really take a toll on how you feel. I feel extremely tired and sick if I don’t work out and get good foods in my body, so this app teaches you different recipes that will help you through “morning sickness” which is all day sickness for me.
+
+
+review id: 15
+
+matches and contexts:
+
+match = Baby
+context =  dig through all the prenatal apps out there, but Baby2Body offers easy to follow video workouts tha
+
+match = preg
+context =  room, wherever. It can also be confusing as your pregnancy progresses to know what exercises are sa
+
+
+id: 15 | rating: 5 | user: shellster129 | date: 2019-10-07 | time: 21:44:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to follow workouts
+--------------------------------------------------------------------
+
+It’s tough to dig through all the prenatal apps out there, but Baby2Body offers easy to follow video workouts that you can take with you on the go... to the gym, beach, living room, wherever. It can also be confusing as your pregnancy progresses to know what exercises are safe and accessible while still challenging. They tailor to your fitness level and desired frequency. I also love the pelvic floor exercise timer and recipe options. Worth paying for, but it’s great that they have free content available as well.
+
+
+review id: 16
+
+matches and contexts:
+
+match = preg
+context = ke that this app has nutritional recipes for when pregnant. I think that’s a great idea and the reci
+
+
+id: 16 | rating: 4 | user: SpicyTea18 | date: 2021-04-22 | time: 06:48:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Great, But Also Repetitive
+--------------------------------------------------------------------
+
+• I like that this app has nutritional recipes for when pregnant. I think that’s a great idea and the recipes themselves taste good.
+
+
+review id: 18
+
+matches and contexts:
+
+match = preg
+context =  this app. I would recommend it to anyone that is pregnant for sure. I love everything about it... I
+
+
+id: 18 | rating: 5 | user: kb8214jn | date: 2020-09-10 | time: 01:11:43.000Z
+
+--------------------------------------------------------------------
+                      Title: I love it
+--------------------------------------------------------------------
+
+I absolutely love this app. I would recommend it to anyone that is pregnant for sure. I love everything about it... I would recommend if possible to add other music platforms to sync to the app as well. I love the zen den and visualizations if there were multiple visualization breathing exercises you could choose from per week that would be so nice. I’ve been doing this to relax me after your recommended workout for the day and I absolutely love them. Thank you so much for creating such a wonderful app!!!!
+
+
+review id: 19
+
+matches and contexts:
+
+match = baby
+context = pregnancy and Fitness and well-being of me and my baby is my #1 GOAL and this app is great help and 
+
+match = preg
+context = th and I appreciate it SOO much. This is my first pregnancy and Fitness and well-being of me and my 
+
+
+id: 19 | rating: 5 | user: babybrain247 | date: 2020-08-08 | time: 16:52:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+I never leave reviews but I wanted others who are considering downloading this app to know you have the option to keep this app 100% free!  they do offer premium accounts for less than a Netflix account, but they have plenty of tailored workouts and meditations to follow along with and I appreciate it SOO much. This is my first pregnancy and Fitness and well-being of me and my baby is my #1 GOAL and this app is great help and reminder for my baby brain! Download this app, you won’t be disappointed!
+
+
+review id: 20
+
+matches and contexts:
+
+match = preg
+context = athletic woman trying to maintain fitness through pregnancy I was ecstatic to FINALLY find an app wi
+
+
+id: 20 | rating: 5 | user: Sarah.k.Hau | date: 2018-08-30 | time: 00:01:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Fantastic!
+--------------------------------------------------------------------
+
+I found this app during the last week of my second trimester. I am SO disappointed I did not find it sooner! As a very athletic woman trying to maintain fitness through pregnancy I was ecstatic to FINALLY find an app with real workouts that are challenging and yet safe to do. The advice and daily tips are absolutely wonderful compared to the outdated advice I found in other apps. Seriously, this app is worth every penny of the small cost.
+
+
+review id: 21
+
+matches and contexts:
+
+match = preg
+context = a lot of challenging and exhausted days during my pregnancy and postpartum period. My only complaint
+
+match = postpartum
+context = enging and exhausted days during my pregnancy and postpartum period. My only complaint is that I can
+
+match = postp
+context = enging and exhausted days during my pregnancy and postpartum period. My only complaint is that I can
+
+
+id: 21 | rating: 5 | user: a_manderss | date: 2018-10-10 | time: 21:22:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+Definitely worth the $6.99 a month price tag! The “thought of the day” quote helped me get through a lot of challenging and exhausted days during my pregnancy and postpartum period. My only complaint is that I can’t listen to music on my phone while following the workout. Makes working out at the gym a little boring since I enjoy working out to music. Overall, a great app with lots of yummy recipes, helpful tips, and great advice for staying emotionally, physically and mentally strong ♥️
+
+
+review id: 22
+
+matches and contexts:
+
+match = preg
+context = app! Having guided exercises for each phase of my pregnancy has been really helpful and has kept me 
+
+
+id: 22 | rating: 4 | user: PaigeNF | date: 2018-11-05 | time: 22:23:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+Love this app! Having guided exercises for each phase of my pregnancy has been really helpful and has kept me motivated. Only downside I have is some of the transitions from one exercise to another is unrealistically fast. For example when switching to an exercise that has ankle weights it doesn’t allow you time to get ready and then the pause button doesn’t actually pause the exercise so you get behind. Overall love the app and if that was fixed it would have 5 stars!
+
+
+review id: 24
+
+matches and contexts:
+
+match = preg
+context = Even before I got pregnant I was trying to find a workout that wasn’
+
+
+id: 24 | rating: 5 | user: Mama moonlove | date: 2019-03-07 | time: 10:29:40.000Z
+
+--------------------------------------------------------------------
+                      Title: I feeling great
+--------------------------------------------------------------------
+
+Even before I got pregnant I was trying to find a workout that wasn’t too strenuous for my back. I saw this app on an instagram Ad and checked it out, figured I would give it a try. I loveeeee it! It’s nice and short so it’s not too much, easy to fit in your schedule and great workouts to get you moving. I do it first thing in the morning and I feel stretched out and ready for the day! Thank you for this app!
+
+
+review id: 25
+
+matches and contexts:
+
+match = preg
+context = I have been using this app since I got pregnant and now I am in my third trimester. It ha
+
+
+id: 25 | rating: 3 | user: Puneezzy | date: 2019-05-24 | time: 17:03:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app but needs improvement
+--------------------------------------------------------------------
+
+I have been using this app since I got pregnant and now I am in my third trimester. It has few glitches that need to be fixed specially if you are paying $10+ every month. While using the fitness studio, if you make it full screen, it looses all the time and is stuck on 34 seconds. So by the end it will show you that you have only completed 34 seconds of workout and not the actual timing. It’s kind of annoying, specially if you want to share your progress. Please look into it.
+
+
+review id: 26
+
+matches and contexts:
+
+match = baby
+context = w what I should do to stay fit and be safe for my baby! The workouts are simple but I am always star
+
+match = preg
+context = rkouts every morning. I’m super early in my first pregnancy and was trying to find an app that knew 
+
+
+id: 26 | rating: 5 | user: New mama to be! | date: 2019-05-26 | time: 19:58:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+I’m loving doing these workouts every morning. I’m super early in my first pregnancy and was trying to find an app that knew what I should do to stay fit and be safe for my baby! The workouts are simple but I am always starting to sweat by the end of it. Gets me in the right mind set every day! Love the recipes too :) I’ve only done a few days so far and I’ve noticed the warm ups are always the same. Do y’all add variety through the trimesters? Thanks for putting this together I really enjoy this app!!
+
+
+review id: 27
+
+matches and contexts:
+
+match = postpartum
+context = g body. I thought I wouldn’t be ready to exercise postpartum, however, thus app is beautifully desig
+
+match = postp
+context = g body. I thought I wouldn’t be ready to exercise postpartum, however, thus app is beautifully desig
+
+
+id: 27 | rating: 5 | user: deevadev | date: 2021-04-08 | time: 18:33:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Wonderful App
+--------------------------------------------------------------------
+
+Fully recommend this app!!! I used this app through my second trimester into my third. It helped me stay motivated when in my beautifully changing body. I thought I wouldn’t be ready to exercise postpartum, however, thus app is beautifully designed to move with you through recovery. I also needed to make a change to my account and received a personal response from the customer service department within 1 business day. Hooray!
+
+
+review id: 28
+
+matches and contexts:
+
+match = baby
+context = me realize that exercise is my therapy. Thank you baby2body!!!
+
+
+id: 28 | rating: 5 | user: nurseychelle | date: 2021-07-13 | time: 17:37:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Stop thinking about it and get it!!!
+--------------------------------------------------------------------
+
+I absolutely love this app!  For a very reasonable fee, I’ve gotten so many amazing features! Delicious and healthy recipes, a variety of very effective workouts, interesting reads about various subjects pertaining to being a mother and self care, and many ways to include self care in my very busy day. In just 2 months of dedication, I’m at my goal of weight loss. This app has also made me realize that exercise is my therapy. Thank you baby2body!!!
+
+
+review id: 29
+
+matches and contexts:
+
+match = baby
+context = ncy loss. Just “I’ve conceived” and “I’ve had the baby”. Miscarriage is hard enough, would be nice t
+
+match = preg
+context = s because it does not have a function to report a pregnancy loss. Just “I’ve conceived” and “I’ve ha
+
+
+id: 29 | rating: 4 | user: jbdubyeah | date: 2021-08-17 | time: 11:44:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app—missing key feature
+--------------------------------------------------------------------
+
+I did enjoy the app and would have done 5 stars, however, I dropped it to 4 stars because it does not have a function to report a pregnancy loss. Just “I’ve conceived” and “I’ve had the baby”. Miscarriage is hard enough, would be nice to have that function so I do not have to worry about pregnancy/baby related emails while I am grieving. Given statistically at least 1 in 4 women have a miscarriage, they are hurting a huge demographic.
+
+
+review id: 32
+
+matches and contexts:
+
+match = preg
+context = s and quotes. I’ll be recommending this app to my pregnant friends for sure!!
+
+
+id: 32 | rating: 5 | user: bcstu | date: 2019-01-11 | time: 00:20:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for motivation!!
+--------------------------------------------------------------------
+
+I’m really loving this app so far. I’m one week into the exercise program, and I am feeling so fantastic and proud of what I have accomplished so far. I paid for three months of the extra workout features, and I’m really glad I did. Definitely worth it. I’m enjoying the other features too like the articles and quotes. I’ll be recommending this app to my pregnant friends for sure!!
+
+
+review id: 33
+
+matches and contexts:
+
+match = preg
+context =  that the person showing the workouts is actually pregnant! Completely love everything on this app. 
+
+
+id: 33 | rating: 5 | user: Geleny rojas | date: 2019-05-02 | time: 01:51:51.000Z
+
+--------------------------------------------------------------------
+                      Title: OMG! Amazing!
+--------------------------------------------------------------------
+
+Love this app! I hesitate it for a month to actually starting paying and now I regret it! The workouts are incredible so easy and short! As a moms we don’t have much time and all of the workouts are less than 30 min and it motives you that the person showing the workouts is actually pregnant! Completely love everything on this app. Must get it!
+
+
+review id: 35
+
+matches and contexts:
+
+match = preg
+context = I love always having a pregnancy-stage-appropriate workout ready to go on
+
+match = post-partum
+context = ut ready to go on my phone! Now that I’m 12 weeks post-partum, this app really takes away any excuse
+
+
+id: 35 | rating: 5 | user: MomofTomTom | date: 2020-06-08 | time: 00:21:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing for Pregnancy and Post-Partum!
+--------------------------------------------------------------------
+
+I love always having a pregnancy-stage-appropriate workout ready to go on my phone! Now that I’m 12 weeks post-partum, this app really takes away any excuse to work out and get back into shape. While I used it primarily for the fitness aspects, the food and general wellness tidbits are also great. Highly recommend for any expecting mom, and look forward to using it fo my next pregnancy!
+
+
+review id: 37
+
+matches and contexts:
+
+match = preg
+context = rall love this app. BUT. I am almost seven months pregnant and have a big belly already. If y’all wa
+
+
+id: 37 | rating: 4 | user: LaurelMarie | date: 2021-07-26 | time: 11:35:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Need time between reps
+--------------------------------------------------------------------
+
+Overall love this app. BUT. I am almost seven months pregnant and have a big belly already. If y’all wanna switch between a looped band leg exercises and exercises that don’t use the band, I’m gonna need a hot second to take that bad boy on and off. Having to constantly pause the workouts to change equipment is annoying. Would love a quick break between each rep if we’re changing equipment. We are pregnant, after all! Thank you!
+
+
+review id: 39
+
+matches and contexts:
+
+match = preg
+context = rcises. You aren’t really inclusive for high risk pregnancies and women whom have health issues. The
+
+
+id: 39 | rating: 2 | user: Kaylinrose | date: 2020-09-10 | time: 18:25:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Safe?
+--------------------------------------------------------------------
+
+I am 5wks along, have endometriosis, Adenomyosis and pelvic floor issues. The first thing this app wanted me to do, was pelvic floor exercises. You aren’t really inclusive for high risk pregnancies and women whom have health issues. There isn’t even a place to put this information in like there is with other pregnancy apps. Within the first 30 seconds of opening this app, it wanted me to sign up for a premium membership, I haven’t even looked over the app and you already want my credit card information? I’ll be deleting this app now.
+
+
+review id: 43
+
+matches and contexts:
+
+match = Baby
+context = Baby2Body has been an essential tool in helping me
+
+match = preg
+context = fun way to track health goals for the duration of pregnancy (and after!) I highly recommend this app
+
+
+id: 43 | rating: 5 | user: MeganMoeller | date: 2021-03-17 | time: 14:57:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Best Pregnancy App!
+--------------------------------------------------------------------
+
+Baby2Body has been an essential tool in helping me stay healthy- mind, body (and pelvic floor) in preparation for baby! I absolutely LOVE this app and how they provide options for ability levels, tips on nutrition, and a fun way to track health goals for the duration of pregnancy (and after!) I highly recommend this app to expecting mamas for a fun and fit pregnancy experience!
+
+
+review id: 48
+
+matches and contexts:
+
+match = preg
+context = I was using this app all my 9 month pregnancy and absolutely love it ! Good for little
+
+
+id: 48 | rating: 5 | user: Alis 🌸 | date: 2020-08-19 | time: 04:31:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Helpful !!
+--------------------------------------------------------------------
+
+I was using this app all my 9 month pregnancy and absolutely love it ! Good for little tips during the day , good following after your diet ,helpful for breathing ex. I was using only the free app but I think there is much more interesting stuff if you buy monthly .
+
+
+review id: 51
+
+matches and contexts:
+
+match = preg
+context = I have been using this app ever since I was pregnant and still use it 6 months after. I use to
+
+
+id: 51 | rating: 3 | user: Tiff 1011 | date: 2019-01-20 | time: 12:37:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Disappointed
+--------------------------------------------------------------------
+
+I have been using this app ever since I was pregnant and still use it 6 months after. I use to like reading the quotes at the bottom of the page which is mainly one of the reasons why I kept the app and now with the new update they took the quotes part out. I was so disappointed and still am. I guess you have to pay for that.....I didn't want to delete the app but I think I'm going to have to.
+
+
+review id: 52
+
+matches and contexts:
+
+match = baby
+context = am I supposed to do?! Report the “birthday” of my baby? Need to work this bug out ASAP.
+
+match = preg
+context = I downloaded the app and started tracking my pregnancy at about 5 weeks of pregnancy. I had a m
+
+
+id: 52 | rating: 2 | user: Kailyn Spears | date: 2019-01-22 | time: 23:07:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Can’t get the day counter off!!!
+--------------------------------------------------------------------
+
+I downloaded the app and started tracking my pregnancy at about 5 weeks of pregnancy. I had a miscarriage and despite the MULTIPLE times I’ve “reported a loss” it will not stop tracking my “pregnancy.” It’s hurtful to open the app and see that I should be at 8 weeks pregnancy now and I miscarried a week ago and the app still has not registered that I’m no longer pregnant. What am I supposed to do?! Report the “birthday” of my baby? Need to work this bug out ASAP.
+
+
+review id: 53
+
+matches and contexts:
+
+match = preg
+context =  to actually do exercise. Especially now that I’m pregnant, I OT was hard to find motivation to actu
+
+
+id: 53 | rating: 5 | user: Mondragon813 | date: 2019-10-25 | time: 16:36:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Great Workouts
+--------------------------------------------------------------------
+
+I love this app! It’s really saved me the hassle of trying to seek out different workouts to keep myself motivated to actually do exercise. Especially now that I’m pregnant, I OT was hard to find motivation to actually get up and go workout, but they make it easy and simple, so you don’t have an excuse to not do it.
+
+
+review id: 55
+
+matches and contexts:
+
+match = preg
+context = This app is fantastic for not only pregnancy safe workouts, but also workouts when yo
+
+
+id: 55 | rating: 5 | user: extrasmallburger | date: 2020-10-12 | time: 14:40:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+This app is fantastic for not only pregnancy safe workouts, but also workouts when you are trying to get pregnant. I’ve been using this for many months now, and I love that there are new great workouts every week. It keeps things fresh. The developer is also very responsive. Love it!
+
+
+review id: 59
+
+matches and contexts:
+
+match = preg
+context = to engage with physical activity during and after pregnancy can change significantly. I am pregnant 
+
+
+id: 59 | rating: 1 | user: webber2846284629 | date: 2021-03-24 | time: 20:05:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Rip off!
+--------------------------------------------------------------------
+
+Signed up for a free trial to see what this was like but failed to cancel in time. This app is EXPENSIVE.  I will edit that having it be a one year subscription, at over $100 a year, seems predatory to me. Options for month-to-month memberships or other models for membership would be better, as a persons ability to engage with physical activity during and after pregnancy can change significantly. I am pregnant and busy and exhausted and will now have to go through the App Store maze to figure out how to get my money back.
+
+
+review id: 60
+
+matches and contexts:
+
+match = baby
+context = ded prego workouts and tips that wouldn’t hurt my baby. Every single article and workout is blocked 
+
+match = preg
+context = I’m 6 months pregnant with my first child. I downloaded this ap
+
+
+id: 60 | rating: 1 | user: Ann_renee17 | date: 2018-06-20 | time: 01:04:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Don’t download free version
+--------------------------------------------------------------------
+
+I’m 6 months pregnant with my first child. I downloaded this app because I haven’t exercised at all during my pregnancy and wanted safe guided prego workouts and tips that wouldn’t hurt my baby. Every single article and workout is blocked from the free version. You might as well not even download it if you’re not going to pay for the unlimited because you can’t use ANY of the features in this app without paying. It’s sad because it seems like such a great app but I can’t afford it.
+
+
+review id: 62
+
+matches and contexts:
+
+match = baby
+context =  to get the rest if the workouts. As I have a new baby, I have better things to spend my money on. I
+
+
+id: 62 | rating: 2 | user: lisamarie0303 | date: 2018-12-22 | time: 00:02:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Free version is worthless
+--------------------------------------------------------------------
+
+This app seems like a great idea, and I was thrilled to see they offered a free version. However, almost all content is locked on the free version. I made my fitness plan to include 3 workouts per week, but only the first workout was unlocked. I would have to subscribe to get the rest if the workouts. As I have a new baby, I have better things to spend my money on. I have deleted this app and will go back to using 8fit for workouts.
+
+
+review id: 65
+
+matches and contexts:
+
+match = preg
+context = I was doing these workouts through week 30 of my pregnancy but after the app updated, I had to swit
+
+
+id: 65 | rating: 2 | user: kellyreview111 | date: 2019-12-23 | time: 15:02:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Don’t like most recent update
+--------------------------------------------------------------------
+
+I was doing these workouts through week 30 of my pregnancy but after the app updated, I had to switch away to a new app. The new exercises on this app are much harder to follow, the app has glitches every time I tried to use it and the woman doing the exercises was not pregnant herself. Too bad I had to switch away because I loved the previous version of the app but this new version is just not worth the money for me.
+
+
+review id: 67
+
+matches and contexts:
+
+match = preg
+context = much more then some people treat us we can during pregnancy, it feels good from the zen den breathin
+
+
+id: 67 | rating: 5 | user: krispypop19 | date: 2019-08-14 | time: 19:45:28.000Z
+
+--------------------------------------------------------------------
+                      Title: My first workout
+--------------------------------------------------------------------
+
+Wow! first I learned I can do much more then some people treat us we can during pregnancy, it feels good from the zen den breathing that will kick start ur day like a cup of joe then makes u feel active when u use that energy to a calming mid sweat 20 min workout. Looking forward to the cardio section!!!
+
+
+review id: 68
+
+matches and contexts:
+
+match = preg
+context = t and under supported in my first trimester bc my pregnancy was a surprise and it’s taken me a momen
+
+
+id: 68 | rating: 5 | user: Emily Walrus | date: 2020-10-04 | time: 15:22:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Thank you !!!
+--------------------------------------------------------------------
+
+Feeling so lost and under supported in my first trimester bc my pregnancy was a surprise and it’s taken me a moment to decide how to proceed. The supportive mantras, nutritional and lifestyle tips on this app are helping me feel strong and capable as I move toward my final decision. Thank you so much during this emotional time 💗💗🙏
+
+
+review id: 70
+
+matches and contexts:
+
+match = preg
+context = ard to using this app throughout the course of my pregnancy.
+
+
+id: 70 | rating: 5 | user: Elizabobb | date: 2017-11-14 | time: 17:30:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the positivity boosts
+--------------------------------------------------------------------
+
+I love going into the app and reading the inspirational quotes and messages. They help get me excited about the journey I’m on and always seem to make me feel better if I’m feeling low. Looking forward to using this app throughout the course of my pregnancy.
+
+
+review id: 72
+
+matches and contexts:
+
+match = preg
+context = hs later. The app also seems to be calculating my pregnancy week 1 week off from all of my other app
+
+
+id: 72 | rating: 1 | user: kel.c | date: 2018-07-13 | time: 20:10:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Great features bad functions
+--------------------------------------------------------------------
+
+The app appears to have great features. However, I cannot get the app to connect without being on WiFi. I reached out to their staff and they were extremely friendly but the issue is still happening months later. The app also seems to be calculating my pregnancy week 1 week off from all of my other apps. For some reason it is one week behind even though I entered the same due date.
+
+
+review id: 73
+
+matches and contexts:
+
+match = preg
+context =  to see what the app is about to have a healthier pregnancy my second time around but i cant make it
+
+
+id: 73 | rating: 1 | user: stefstarx33 | date: 2018-09-19 | time: 14:57:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Unable to log in
+--------------------------------------------------------------------
+
+I would love to see what the app is about to have a healthier pregnancy my second time around but i cant make it passed the login with facebook. It keeps telling me i have no internet connection. I also tried to with my email and it wouldn't stop loading, then it told me I already created an account with my email. I cant get passed the beginning at all. Ive tried multiple times, multiple days and nothing.
+
+
+review id: 74
+
+matches and contexts:
+
+match = preg
+context =  have workouts that are fitting for all stages of pregnancy! I love being able to stay fit and have 
+
+
+id: 74 | rating: 5 | user: mrswooden | date: 2018-10-14 | time: 14:56:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!!
+--------------------------------------------------------------------
+
+They have workouts that are fitting for all stages of pregnancy! I love being able to stay fit and have quick workouts to do at home! I have other children so it’s a great alternative to having to leave the comfort of home and packing everyone up!!
+
+
+review id: 75
+
+matches and contexts:
+
+match = preg
+context =  it’s only been one day. It’s hard to find a good pregnancy work out app for free! Please try this a
+
+
+id: 75 | rating: 5 | user: nativimommy | date: 2019-01-08 | time: 01:58:58.000Z
+
+--------------------------------------------------------------------
+                      Title: First time to use today.
+--------------------------------------------------------------------
+
+first I would like to thank this app for being free. Secondly, the content is amazing, but it’s only been one day. It’s hard to find a good pregnancy work out app for free! Please try this app if you’re considering downloading it. So far, i dont regret it at all.
+
+
+review id: 76
+
+matches and contexts:
+
+match = postpartum
+context = feedback is I wish they had more workouts for the postpartum period! That’s the only thing keeping m
+
+match = postp
+context = feedback is I wish they had more workouts for the postpartum period! That’s the only thing keeping m
+
+
+id: 76 | rating: 4 | user: ama11a | date: 2019-02-02 | time: 06:17:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Great workouts for pregnant women- just wish there were more postpartum workouts
+--------------------------------------------------------------------
+
+LOVE the workouts! They’re challenging without being too strenuous for a tired third-trimester momma. My only feedback is I wish they had more workouts for the postpartum period! That’s the only thing keeping me from purchasing the lifetime subscription.
+
+
+review id: 77
+
+matches and contexts:
+
+match = preg
+context = ideos are performed by a women who is clearly not pregnant or maybe barely in her first trimester. I
+
+
+id: 77 | rating: 2 | user: TayMC98 | date: 2019-09-27 | time: 01:12:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Exercises not recommended for third trimester
+--------------------------------------------------------------------
+
+Everything has been great except the exercises. Most of the videos are performed by a women who is clearly not pregnant or maybe barely in her first trimester. I don’t really think the developers understood what a women’s body literally cannot do in the third trimester because their stomach is so big. It’s made for some petty uncomfortable exercise. App could be five stars with actual pregnant models and exercises that moved with your pregnancy.
+
+
+review id: 78
+
+matches and contexts:
+
+match = preg
+context = On my third pregnancy and wanted to make sure to keep up with 
+
+
+id: 78 | rating: 5 | user: BonnielWood | date: 2019-09-14 | time: 17:00:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+On my third pregnancy and wanted to make sure to keep up with all the self care that’s helpful, this app definitely covers all of it- super sweet.  Haven’t gone premium yet but thinking of buying to get the recipes, they look very nourishing and satisfying.
+
+
+review id: 79
+
+matches and contexts:
+
+match = preg
+context = rkout just noticed it happened following. I’m now pregnant again and think I’ll try to give it anoth
+
+
+id: 79 | rating: 3 | user: Neeeeessssshhhhaaa | date: 2020-11-25 | time: 11:51:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Curious
+--------------------------------------------------------------------
+
+Honestly I’m giving this app another shot, when I first had it back in July I did the workout and started having horrible pains which lead to a miscarriage, not honestly sure if it was the workout just noticed it happened following. I’m now pregnant again and think I’ll try to give it another shot but be careful
+
+
+review id: 80
+
+matches and contexts:
+
+match = preg
+context = this app is pure motivation for a healthy pregnancy. I love the organization and layout of i
+
+match = postpartum
+context = ’t wait to get off bed rest, and start using some postpartum features once my babes are here!
+
+match = postp
+context = ’t wait to get off bed rest, and start using some postpartum features once my babes are here!
+
+
+id: 80 | rating: 5 | user: @heymace | date: 2018-05-24 | time: 15:45:45.000Z
+
+--------------------------------------------------------------------
+                      Title: love 😍
+--------------------------------------------------------------------
+
+this app is pure motivation for a healthy pregnancy. I love the organization and layout of it all and find new great tips and info daily. Can’t wait to get off bed rest, and start using some postpartum features once my babes are here!
+
+
+review id: 81
+
+matches and contexts:
+
+match = preg
+context = I am 19 weeks pregnant and so far I love this app! It’s easy to 
+
+
+id: 81 | rating: 5 | user: Brenaee | date: 2019-01-14 | time: 17:22:18.000Z
+
+--------------------------------------------------------------------
+                      Title: I love this app!
+--------------------------------------------------------------------
+
+I am 19 weeks pregnant and so far I love this app! It’s easy to do at home and I feel like the workouts are perfectly challenging. The workouts aren’t super long so I usually do more than 1 but that allows me to mix it up.
+
+
+review id: 86
+
+matches and contexts:
+
+match = preg
+context =  great too. Bottom line - this app has made being pregnant easier for me.
+
+
+id: 86 | rating: 5 | user: bmjo28 | date: 2020-01-04 | time: 23:18:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Really love it.
+--------------------------------------------------------------------
+
+I’ve had the app for a few months and the more I use it the more I love it. I love the formate. The workouts and recipes are great too. Bottom line - this app has made being pregnant easier for me.
+
+
+review id: 89
+
+matches and contexts:
+
+match = preg
+context = Provides exercises I can do, even at 34 weeks pregnant. It gives me energy. Helps strengthen my 
+
+match = postpartum
+context = ded it and i think it will also be helpful in the postpartum phase.
+
+match = postp
+context = ded it and i think it will also be helpful in the postpartum phase.
+
+
+id: 89 | rating: 4 | user: Obgyn res | date: 2020-02-02 | time: 23:26:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Helping me stay fit even when l’m feeling tired
+--------------------------------------------------------------------
+
+Provides exercises I can do, even at 34 weeks pregnant. It gives me energy. Helps strengthen my pelvic flor and reminds me to breath and relax. I have recommended it and i think it will also be helpful in the postpartum phase.
+
+
+review id: 94
+
+matches and contexts:
+
+match = preg
+context = ill be EFFECTIVE helping me be fit and healthy in pregnancy with how organized and easy it is!  Than
+
+
+id: 94 | rating: 5 | user: Bmones1988 | date: 2019-09-08 | time: 00:08:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Smart design
+--------------------------------------------------------------------
+
+This seems to be a really well thought out app that’s easy to use and I think will be EFFECTIVE helping me be fit and healthy in pregnancy with how organized and easy it is!  Thanks!!
+
+
+review id: 100
+
+matches and contexts:
+
+match = baby
+context = This app is so helpful with my baby. It has a countdown so I never have to check 
+
+
+id: 100 | rating: 5 | user: Wilkins!!!!!!! 🦄 | date: 2017-11-20 | time: 02:32:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Best app for pregnancy ever
+--------------------------------------------------------------------
+
+This app is so helpful with my baby. It has a countdown so I never have to check what day I’m on. There was so much useful and helpful information. Thanks!
+
+
+review id: 101
+
+matches and contexts:
+
+match = preg
+context = basically be my workout buddy through this second pregnancy but at this rate I guess I’ll never know
+
+
+id: 101 | rating: 1 | user: Kudjorocco1 | date: 2018-05-26 | time: 20:30:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Would love to love this app
+--------------------------------------------------------------------
+
+This is the second time that I’ve tried to download this app, gotten as far as going to the fitness studio and it crashes on me. I have an iPhone and I’ve never had issues with apps. I’m currently looking for an app to guide me and basically be my workout buddy through this second pregnancy but at this rate I guess I’ll never know.
+
+
+review id: 102
+
+matches and contexts:
+
+match = preg
+context = ually enjoyed using it and noticed results during pregnancy?
+
+
+id: 102 | rating: 5 | user: mcparrack | date: 2018-07-19 | time: 14:39:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Who purchased the $7.99??
+--------------------------------------------------------------------
+
+Who purchased the app and actually enjoyed using it and noticed results during pregnancy?
+
+
+review id: 104
+
+matches and contexts:
+
+match = preg
+context = m workouts to self care, recipes and articles for pregnancy are a good mix. the reason i’m giving it
+
+
+id: 104 | rating: 2 | user: marielarobpen | date: 2021-06-14 | time: 18:04:36.000Z
+
+--------------------------------------------------------------------
+                      Title: technical difficulties
+--------------------------------------------------------------------
+
+the program and app in general is well thought out- from workouts to self care, recipes and articles for pregnancy are a good mix. the reason i’m giving it a low rating is because of the video player they use. it is very inconvenient to not be able to rewind or fast forward while working out, especially since the videos mess up so much you have to constantly close and reopen the app to get them to start playing again. if it weren’t for this huge inconvenience of interrupting the workouts, i would happily pay for this app.
+
+
+review id: 109
+
+matches and contexts:
+
+match = preg
+context = r I just wish the woman in the exercise video was pregnant, I feel a little self conscious working o
+
+
+id: 109 | rating: 4 | user: Xtina Archer | date: 2021-03-17 | time: 16:41:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Some points
+--------------------------------------------------------------------
+
+I really like this so far I just wish the woman in the exercise video was pregnant, I feel a little self conscious working out to someone who isn’t pregnant
+
+
+review id: 111
+
+matches and contexts:
+
+match = preg
+context = I am 25 weeks which makes me 6 months pregnant this workout was awesome challenging at t
+
+
+id: 111 | rating: 5 | user: Dr.Collins | date: 2019-05-04 | time: 14:44:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Workout
+--------------------------------------------------------------------
+
+I am 25 weeks which makes me 6 months pregnant this workout was awesome challenging at times but necessary!!
+
+
+review id: 112
+
+matches and contexts:
+
+match = preg
+context = easy to manage and also for keeping track of your pregancy process. I'm so glad I found it.
+
+
+id: 112 | rating: 5 | user: karlat88 | date: 2019-09-20 | time: 23:47:30.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app!
+--------------------------------------------------------------------
+
+The app its really easy to manage and also for keeping track of your pregancy process. I'm so glad I found it.
+
+
+review id: 114
+
+matches and contexts:
+
+match = baby
+context = gym, but this app helps me still work out when my baby is sick or when he is napping.
+
+
+id: 114 | rating: 5 | user: Jenniespinnies | date: 2019-09-20 | time: 15:35:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the exercises
+--------------------------------------------------------------------
+
+I love the exercises, thank you. I joined a gym, but this app helps me still work out when my baby is sick or when he is napping.
+
+
+review id: 117
+
+matches and contexts:
+
+match = baby
+context = ially when your saving up and preparing for a new baby I don’t think I’m going to add another bill t
+
+
+id: 117 | rating: 2 | user: Efggvjjjbhggg | date: 2020-09-28 | time: 11:05:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Okay...
+--------------------------------------------------------------------
+
+It’s kind of expensive. Especially when your saving up and preparing for a new baby I don’t think I’m going to add another bill to my list. I just wish there was a few things you could look at on the free side of this app ☹️
+
+
+review id: 121
+
+matches and contexts:
+
+match = preg
+context = was going to get but they don’t actually show you pregnancy workouts
+
+
+id: 121 | rating: 2 | user: Sasha price | date: 2018-10-29 | time: 21:17:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Terrible
+--------------------------------------------------------------------
+
+The food options n info is good but the app only works in WiFi regardless of the phones data plan ... pointless! And I paid to upgrade for info I thought I was going to get but they don’t actually show you pregnancy workouts
+
+
+review id: 125
+
+matches and contexts:
+
+match = preg
+context = I literally use this app everyday during my pregnancy-28 weeks and going strong still at the g
+
+
+id: 125 | rating: 5 | user: tmuchmorw | date: 2019-04-23 | time: 22:18:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app!!
+--------------------------------------------------------------------
+
+I literally use this app everyday during my pregnancy-28 weeks and going strong still at the gym.
+
+
+review id: 126
+
+matches and contexts:
+
+match = baby
+context =  safe way to stay in shape and be strong for when baby arrives 💕
+
+
+id: 126 | rating: 5 | user: spsylvia | date: 2019-05-29 | time: 14:27:41.000Z
+
+--------------------------------------------------------------------
+                      Title: So glad I to stay active.
+--------------------------------------------------------------------
+
+This app showed me a safe way to stay in shape and be strong for when baby arrives 💕
+
+
+review id: 127
+
+matches and contexts:
+
+match = preg
+context = #1 I have pregnancy brain #2 I didn’t see anything on this a
+
+
+id: 127 | rating: 1 | user: Blue Eyes4 | date: 2021-03-03 | time: 13:09:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Not worth it!
+--------------------------------------------------------------------
+
+#1 I have pregnancy brain #2 I didn’t see anything on this app that’s worth $130, which is what I got charged after the free trial. I understand I had so many days to cancel, but I’ve never been charged so much for an app. That’s absolutely absurd. I have enough to think about and this isn’t worth it.
+
+
+review id: 130
+
+matches and contexts:
+
+match = preg
+context = Almost 10 weeks pregnant, and just got an email about week 8... sa
+
+
+id: 130 | rating: 3 | user: E-colb-I | date: 2018-05-11 | time: 20:04:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Why am I getting dated information?
+--------------------------------------------------------------------
+
+Almost 10 weeks pregnant, and just got an email about week 8... saw all that info two weeks ago.
+
+
+review id: 154
+
+matches and contexts:
+
+match = baby
+context =  is great but doesn’t offer an option to remove a baby due date (i.e. miscarriage).
+
+
+id: 154 | rating: 2 | user: NatureGirl2020 | date: 2018-12-15 | time: 14:41:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App but not flexible
+--------------------------------------------------------------------
+
+App is great but doesn’t offer an option to remove a baby due date (i.e. miscarriage).
+
+
+review id: 155
+
+matches and contexts:
+
+match = preg
+context = outs so fun and easy to follow ! Especially while pregnant !
+
+
+id: 155 | rating: 5 | user: Lindsay Olson | date: 2019-07-24 | time: 05:06:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app !
+--------------------------------------------------------------------
+
+Love the workouts so fun and easy to follow ! Especially while pregnant !
+
+
+review id: 178
+
+matches and contexts:
+
+match = postpartum
+context = So I’m 14 weeks postpartum, just found the app a week ago, and hav
+
+match = postp
+context = So I’m 14 weeks postpartum, just found the app a week ago, and hav
+
+
+id: 178 | rating: 3 | user: Disappointed151619 | date: 2020-05-01 | time: 05:55:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Ok app - free version used only
+--------------------------------------------------------------------
+
+So I’m 14 weeks postpartum, just found the app a week ago, and have only been using the free version so far before I commit to purchasing something. I realize there is a free trial for a week which doesn’t seem like enough time to decide if you like the app (monthly app subscription seems overpriced especially since I don’t want the kitchen or zen den part).
+
+
+review id: 181
+
+matches and contexts:
+
+match = preg
+context = I am deaf and pregnant. All videos have no closed captions. Plea
+
+
+id: 181 | rating: 3 | user: countrygal68 | date: 2018-04-08 | time: 04:31:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Need Closed captions
+--------------------------------------------------------------------
+
+I am deaf and pregnant. All videos have no closed captions. Please add the closed captions?
+
+
+review id: 192
+
+matches and contexts:
+
+match = preg
+context = Great app! Good pregnancy workouts.
+
+
+id: 192 | rating: 5 | user: Liberated Empress | date: 2019-03-25 | time: 23:27:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app. Good workouts.
+--------------------------------------------------------------------
+
+Great app! Good pregnancy workouts.
+
+
+review id: 194
+
+matches and contexts:
+
+match = preg
+context = I was not exercising daily before pregnancy but decided I wanted to stay healthy dur
+
+
+id: 194 | rating: 5 | user: Guedou13 | date: 2020-10-16 | time: 18:15:05.000Z
+
+--------------------------------------------------------------------
+                      Title: Best investment in my pregnancy!
+--------------------------------------------------------------------
+
+I was not exercising daily before pregnancy but decided I wanted to stay healthy during those 9 months. With the fatigue, hormones, strong calls for strange foods at strange times and your body changing things can become a bit overwhelming. This app helped me stay in control and balanced during my whole pregnancy. What I love about it:
+
+
+review id: 202
+
+matches and contexts:
+
+match = preg
+context = d I've been looking for fitness and food info for pregnancy for so long. At last I have it, and it's
+
+
+id: 202 | rating: 5 | user: 21 days to go | date: 2016-10-06 | time: 22:39:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Love love love this app.
+--------------------------------------------------------------------
+
+Absolutely love this. It's so much fun to see the daily countdown and I've been looking for fitness and food info for pregnancy for so long. At last I have it, and it's so cool to read. Loving it. 😄😄
+
+
+review id: 203
+
+matches and contexts:
+
+match = gesta
+context = na work properly if it doesn't know where I am in gestation. Needs fixing.
+
+match = gestation
+context = na work properly if it doesn't know where I am in gestation. Needs fixing.
+
+
+id: 203 | rating: 2 | user: JENicolC | date: 2016-11-28 | time: 06:48:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Disappointed
+--------------------------------------------------------------------
+
+Just downloaded the app and upon trying to sign up and enter my due date I found difficulty. As soon as I try to select a date they will will scroll back to today's date immediately. I guess the app is not gonna work properly if it doesn't know where I am in gestation. Needs fixing.
+
+
+review id: 205
+
+matches and contexts:
+
+match = baby
+context = chase especially if you're trying to save for the baby & all that entails & already going through so
+
+
+id: 205 | rating: 1 | user: RelaxedGamer | date: 2017-04-30 | time: 16:01:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Not worth the $$
+--------------------------------------------------------------------
+
+I have OVIA & What to expect apps, they've been so great. First time mama here. I come across this one & says I have to pay for an upgrade to see the content. It's ridiculous. For you interested consumers & especially for the first time mamas, this app isn't worth the purchase especially if you're trying to save for the baby & all that entails & already going through so much with doctors & your own preparation as a parent. Keep your $$ in your pockets. The information you gain from this app is dull compared to the apps I've mentioned above! I highly recommend OVIA or What to expect! 😁
+
+
+review id: 207
+
+matches and contexts:
+
+match = baby
+context = much information out there and so many other free baby apps that give you great articles. The 4.99 A
+
+
+id: 207 | rating: 2 | user: TheLoudChick | date: 2017-06-29 | time: 12:21:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Upgrade for what?
+--------------------------------------------------------------------
+
+I gave 2 stars because it does give you a day countdown which I really like towards the end. However, the app wants you to subscribe for 4.99 a month to access its articles. The articles are short and not very useful or informative. There is so much information out there and so many other free baby apps that give you great articles. The 4.99 A MONTH is a joke. Other than the daily countdown this app is a waste of space.
+
+
+review id: 214
+
+matches and contexts:
+
+match = preg
+context = ble check your soft cheese is pasteurized.  Treat pregnant women as capable adults!
+
+
+id: 214 | rating: 1 | user: Lc29222 | date: 2016-11-05 | time: 03:09:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Not helpful
+--------------------------------------------------------------------
+
+Dated, incorrect advice that's patronizing - tells women that they need to avoid all of something like soft cheeses vs just double check your soft cheese is pasteurized.  Treat pregnant women as capable adults!
+
+
+review id: 216
+
+matches and contexts:
+
+match = baby
+context = Really... I have a ton of other baby apps that give more details on my baby's deve
+
+
+id: 216 | rating: 2 | user: Katedylan09 | date: 2017-06-30 | time: 18:17:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Meh
+--------------------------------------------------------------------
+
+Really... I have a ton of other baby apps that give more details on my baby's development and what I should be eating. This app is lacking a lot of details I wouldn't waste my money on going "premium". I'll stick with the bump and nurture. Thanks
+
+
+review id: 217
+
+matches and contexts:
+
+match = preg
+context = is sounded like a good app for tips throughout my pregnancy, but when I went to sign up it kept prom
+
+
+id: 217 | rating: 1 | user: Ald48291 | date: 2017-07-27 | time: 18:35:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Wouldn't let me sign up
+--------------------------------------------------------------------
+
+This sounded like a good app for tips throughout my pregnancy, but when I went to sign up it kept prompting "registration error". It's a shame, I was really interested in this one!
+
+
+review id: 218
+
+matches and contexts:
+
+match = preg
+context = ion of finding an app to pay for the remainder of pregnancy and postpartum.  This app is a big NO fr
+
+match = postpartum
+context =  an app to pay for the remainder of pregnancy and postpartum.  This app is a big NO from me.  It’s i
+
+match = postp
+context =  an app to pay for the remainder of pregnancy and postpartum.  This app is a big NO from me.  It’s i
+
+
+id: 218 | rating: 2 | user: Mfantetti | date: 2021-06-25 | time: 13:53:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Glitchy. Repetitive. Not motivating
+--------------------------------------------------------------------
+
+I did 3 days of free trial and cancelled.  I have the intention of finding an app to pay for the remainder of pregnancy and postpartum.  This app is a big NO from me.  It’s incredibly slow moving and glitchy.  All the work out videos are the same movements so there isn’t a lot of variety (so why would I pay!??).  The voice that is used to describe the movements breaks-up and is so monotonous- it’s torture listening to it!  I tried to connect to Spotify to have background music playing but it plays random music that doesn’t go with the workout (it selected a Christmas song one time!!!). Also I don’t have a lot of the equipment that’s needed.  I have a yoga mat and a few lightweights- that’s it.  So it was hard to select from the very little workouts that were offered.
+
+
+review id: 221
+
+matches and contexts:
+
+match = Baby
+context = I have been using the premium subscription of Baby2body for about a year—through my pregnancy an
+
+match = preg
+context = cription of Baby2body for about a year—through my pregnancy and now well into baby’s 6th month, for 
+
+match = postpartum
+context = pregnancy and now well into baby’s 6th month, for postpartum weight loss.
+
+match = postp
+context = pregnancy and now well into baby’s 6th month, for postpartum weight loss.
+
+
+id: 221 | rating: 5 | user: MonasticBelle | date: 2020-08-06 | time: 08:53:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Loved and Used it Pregnancy and Postpartum
+--------------------------------------------------------------------
+
+I have been using the premium subscription of Baby2body for about a year—through my pregnancy and now well into baby’s 6th month, for postpartum weight loss.
+
+
+review id: 223
+
+matches and contexts:
+
+match = baby
+context = hed over a few days ago because we are trying for baby #2 (shh!).  I’m so relieved to have this kind
+
+match = preg
+context = I used this app for my first pregnancy and still use it for workouts every now 
+
+
+id: 223 | rating: 5 | user: Cate Stone | date: 2020-06-16 | time: 20:00:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Loving this update!!
+--------------------------------------------------------------------
+
+I used this app for my first pregnancy and still use it for workouts every now and then because they always kick my butt, in a. Good way! I was on the app the other day and just saw there is now a section for if you’re trying to conceive (🥳) so I switched over a few days ago because we are trying for baby #2 (shh!).  I’m so relieved to have this kind of support right now just want to be in the best shape possible for this next pregnancy. So far it looks great, will update review the more I use this
+
+
+review id: 224
+
+matches and contexts:
+
+match = preg
+context = n the days when we are feeling good. I’m 26 weeks pregnant now and some days I feel fabulous and wan
+
+match = postpartum
+context = n app that’s specifically geared towards pregnant/postpartum women, it’s a little surprising that th
+
+match = postp
+context = n app that’s specifically geared towards pregnant/postpartum women, it’s a little surprising that th
+
+
+id: 224 | rating: 4 | user: anniehotdogs | date: 2020-06-26 | time: 20:32:22.000Z
+
+--------------------------------------------------------------------
+                      Title: On the fence
+--------------------------------------------------------------------
+
+I love that this app integrates with Spotify so I can listen to my own music while I workout. I can’t figure out how to access the downloaded workouts though. They spend a lot of time on warm up and cool down, which is nice, but I wish there was a way to skip through those if I’ve already warmed up before the workout. I also wish there was a “workout library” of sorts, where we could do supplemental workouts on the days when we are feeling good. I’m 26 weeks pregnant now and some days I feel fabulous and want to do two workouts. One last thing - for an app that’s specifically geared towards pregnant/postpartum women, it’s a little surprising that the “instructors” are all thin, non-pregnant people. Overall it’s not a bad app for $13 a month. Just needs a little work.
+
+
+review id: 232
+
+matches and contexts:
+
+match = Baby
+context = nloading a free pregnancy information app such as Baby Center. If you try this app for free- be prep
+
+match = preg
+context = Looking for pregnancy health information and healthy workouts?
+
+
+id: 232 | rating: 1 | user: jts0545 | date: 2018-10-22 | time: 10:55:42.000Z
+
+--------------------------------------------------------------------
+                      Title: It’s pretty but that’s all...
+--------------------------------------------------------------------
+
+Looking for pregnancy health information and healthy workouts? Don’t even waste your time downloading this app. Treat yourself to quality free workouts on YouTube and downloading a free pregnancy information app such as Baby Center. If you try this app for free- be prepared to be disappointed. There is only one workout available unless you sign up for the free 7 day trial. The free trial( of course ) leads to automatic monthly debits unless you cancel it in time. The format and information on this app are not worth the price as far as I can tell. App designers- If you really wanted folks to try an app and determine the worth of it, you don’t make them submit their credit card information to access any of the worthwhile content.
+
+
+review id: 233
+
+matches and contexts:
+
+match = baby
+context = s fit the week of pregnancy I am in, so I know my baby and I are safe completing them. I also like t
+
+match = preg
+context =  using this app! I’m currently in my 25th week of pregnancy and have been using it for over a week n
+
+
+id: 233 | rating: 5 | user: AmyKmommy | date: 2019-01-06 | time: 15:32:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app for Prego Mamas
+--------------------------------------------------------------------
+
+I really enjoy using this app! I’m currently in my 25th week of pregnancy and have been using it for over a week now. I love that the workouts fit the week of pregnancy I am in, so I know my baby and I are safe completing them. I also like that you can stream music in the background (I use Amazon) or use your Spotify playlist. The workouts are all less than 30 minutes, so I’m able to complete them in the morning before work and my toddler waking up. They use minimal equipment I have already in my basement, or it’s easily supplemented with something else. For example, I don’t have a step, so I used my stairs. I really haven’t worked out much this pregnancy, but I’m going all out for the third trimester thanks to this app. I wish I had downloaded this app sooner! There are also lots of helpful articles and recipes. It may be cool to have some kind of communication set up with the ladies using this app, like a way to connect with other moms using the app also in week 25. Just a thought. 😊 Thanks!
+
+
+review id: 234
+
+matches and contexts:
+
+match = preg
+context = is app. It’s exactly what I was looking for in my pregnancy to help encourage and motivate me to sta
+
+
+id: 234 | rating: 5 | user: CayM0604 | date: 2019-01-17 | time: 20:11:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this App!
+--------------------------------------------------------------------
+
+So far, I am SO happy with this app. It’s exactly what I was looking for in my pregnancy to help encourage and motivate me to stay healthy and active. I opted to pay the money so I could use the fitness portion and I am not disappointed. I needed fairly easy and fast workouts that made me feel like I got a little workout with not too much intensity to make it hard on me in my third trimester AND shorter workouts since I’m busy running after my 2 year old at the same time. I’m a beginner when it comes to consistently working out and “medically” overweight for my height, so I like how simple they make it to follow along and workout in each trimester without it being too advanced to follow. I appreciated the videos portion in the fitness section and that it will link to Spotify for music to workout along to. I love all the little tips and advice and recipes. Overall- I think this is totally worth the monthly payment to add onto my yoga workouts and walking. I really enjoy it and recommend it to any of my preggo mommy friends! Thank you for this app!
+
+
+review id: 235
+
+matches and contexts:
+
+match = preg
+context = ed my mood and gave me more energy to endure this pregnancy. I started eating healthy little at a ti
+
+
+id: 235 | rating: 5 | user: EyRiLuLu | date: 2019-03-23 | time: 17:04:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome App
+--------------------------------------------------------------------
+
+I am on week 10 when I found this app and everyday before then I had no motivation to workout and kept eating all kinds of crazy unhealthy cravings. I wasn’t fully eating good when I started the excercises but this changed my mood and gave me more energy to endure this pregnancy. I started eating healthy little at a time and used their food suggestions on this app to slowly get me back on the right track. I feel amazing and some days I’m lazy but i love the simple and short workouts. They still kick my butt and everyday I feel stronger using this app. It’s awesome.
+
+
+review id: 236
+
+matches and contexts:
+
+match = preg
+context = or a good fitness app geared specifically towards pregnant women. I searched and searched and couldn
+
+
+id: 236 | rating: 5 | user: KellyKell2019 | date: 2019-04-13 | time: 22:37:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing is an Understatement!!
+--------------------------------------------------------------------
+
+I am currently expecting & will be a first time mom, so I was on the search for a good fitness app geared specifically towards pregnant women. I searched and searched and couldn’t seem to find an appropriate app and then I came across this gem! I completed my 1st full body blast workout today & I seriously broke a sweat!!
+
+

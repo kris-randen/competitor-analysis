@@ -1,0 +1,756 @@
+'Micronutrients' related feature requests in baby_center reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 44
+
+
+review id: 27
+
+matches and contexts:
+
+match = calci
+context = n’t know they needed to be putting more effort to calcium or high in fiber food intake and are now s
+
+
+id: 27 | rating: 5 | user: rfrenan | date: 2020-09-01 | time: 19:12:55.000Z
+
+--------------------------------------------------------------------
+                      Title: one of the best baby-parent apps out there
+--------------------------------------------------------------------
+
+I got so encouraged with what I had grasped through this app with my first ever parenting experience that I’m now planning to develop something similar for Azerbaijani mothers (that’s where I’m from) in a native language so first time moms and pregnant women know how to take care of themselves both for the sake of their own and their to-be-born babies’ health. sometimes hearing the stories of women who didn’t know they needed to be putting more effort to calcium or high in fiber food intake and are now struggling either with bone weakness or hemorrhoids - is making me appreciate what people at baby center  (and text for baby organization which sends couple of text messages with important info throughout pregnancy) do! thank you all so very much for helping all of us stay knowledgeable, healthy and happy and contribute to giving birth to and raising a successful baby with sound health!
+
+
+review id: 53
+
+matches and contexts:
+
+match = iron
+context =  but I don’t think it needs to be this kind of environment. I specifically deleted social media for 
+
+
+id: 53 | rating: 3 | user: nnixonn | date: 2020-12-18 | time: 21:17:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Moms attacking other moms
+--------------------------------------------------------------------
+
+I really liked the app until recently. I think all of the baby information is great, and if you only use it for that I guess it’s pretty solid. I’ve recently gotten into the “birth club community” where other moms post their questions/comments or are just looking for a safe space to vent. I’ve noticed a lot of people putting others down/spreading judgment. I wish they had a way to clean up this sort of thing. There’s very specific women on here who’s names seem to pop up on EVERYTHING that seem to always be looking for a chance to knock others down, and it quickly becomes moms ganging up on other moms. Maybe that’s just the internet and I should get off, but I don’t think it needs to be this kind of environment. I specifically deleted social media for this reason and wasn’t aware that a baby app could possibly come with the same amount of drama.
+
+
+review id: 85
+
+matches and contexts:
+
+match = iod
+context = llion appointments asking when the last missed period and other dates were.  It was also great to re
+
+
+id: 85 | rating: 5 | user: sierracece321 | date: 2020-05-20 | time: 17:41:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing App
+--------------------------------------------------------------------
+
+When trying to get pregnant for two years, I used many apps, but this one was the most accurate on the dates.  It was also a great resource to refer back to with the million appointments asking when the last missed period and other dates were.  It was also great to refer back to, to see what the symptoms should be during each week. It has so much information and other mothers to help to solve the worries that may come up. Now my baby is 3 months, and it tells me the baby milestones now.  It is so nice to read what I can expect! I definitely would recommend this app to anyone that would just like the extra info and sources to help when trying to conceive.
+
+
+review id: 141
+
+matches and contexts:
+
+match = iod
+context = Baby center helps me get through the long periods of pregnancy when I just can’t wait to meet m
+
+
+id: 141 | rating: 5 | user: Ambieprice | date: 2019-04-28 | time: 18:11:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Makes my day
+--------------------------------------------------------------------
+
+Baby center helps me get through the long periods of pregnancy when I just can’t wait to meet my baby and feel like it’s taking forever! The updates remind me to pause and reflect upon each little milestone. They also give accurate developmental information at all stages of life (as far as I have seen). As a person with a master’s degree in early childhood education, it is exciting to see relevant and important milestone information shared through this app for parents who may not already know the significance of each step or how to help facilitate their child’s healthy development.
+
+
+review id: 401
+
+matches and contexts:
+
+match = iod
+context = ty resource of other moms in the same due date period, which I would go into comment or learn every 
+
+
+id: 401 | rating: 5 | user: Lilyeun | date: 2020-11-30 | time: 16:16:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Helpful resource
+--------------------------------------------------------------------
+
+Each week I’m looking forward to the information provided by the app. It’s simple and not too wordy. There is also a community resource of other moms in the same due date period, which I would go into comment or learn every now and then.
+
+
+review id: 409
+
+matches and contexts:
+
+match = iod
+context = l. From just specifying what part of your last period to punch in to navigating the do’s and donts, 
+
+
+id: 409 | rating: 5 | user: stonethatgirl | date: 2019-06-24 | time: 08:10:33.000Z
+
+--------------------------------------------------------------------
+                      Title: So far the best
+--------------------------------------------------------------------
+
+Everything is so much easier and helpful. From just specifying what part of your last period to punch in to navigating the do’s and donts, suggestions of fun things to do (I.e starting weekly tummy pictures even in first trimester). So much information and such ease of getting it all. Loving this app much more than any of the others I’ve downloaded so far.
+
+
+review id: 486
+
+matches and contexts:
+
+match = vitam
+context =  your specific week. Articles range from prenatal vitamins, what foods to eat each week, work outs &
+
+
+id: 486 | rating: 5 | user: CynthiaOh | date: 2019-12-07 | time: 02:06:15.000Z
+
+--------------------------------------------------------------------
+                      Title: The best app for Pregnancy
+--------------------------------------------------------------------
+
+I love the bumpie photo gallery where I can keep track of my growing belly each week. Every week your baby is compared to the size of a vegetable or a fruit in the bumpie gallery. This app is fun and also has great articles to read that correlate to your specific week. Articles range from prenatal vitamins, what foods to eat each week, work outs & much more!  I definitely used this app more than the typical “expected” app. GREAT JOB!
+
+
+review id: 524
+
+matches and contexts:
+
+match = iod
+context = .  I have signed both my children up so that I periodically get updates.  Then chose whether or not 
+
+
+id: 524 | rating: 4 | user: Mamabear Ina | date: 2018-09-08 | time: 12:26:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Enjoy the Articles
+--------------------------------------------------------------------
+
+Whether you are a new or seasoned parent checking out the articles can help to lead to forums where you can get any question answered.  I enjoy getting different points of view than what I might receive through family to make better educated decisions on what type of parent I am versus the parent I want to be.  I have signed both my children up so that I periodically get updates.  Then chose whether or not I want to read.  No pressure reading at my leisure.
+
+
+review id: 576
+
+matches and contexts:
+
+match = iod
+context = In my pregnancy and now in postpartum period and also to raise babies, the only thing I can
+
+
+id: 576 | rating: 5 | user: mamta1 | date: 2020-12-29 | time: 23:46:24.000Z
+
+--------------------------------------------------------------------
+                      Title: I can’t imagine myself without Baby center app
+--------------------------------------------------------------------
+
+In my pregnancy and now in postpartum period and also to raise babies, the only thing I can rely on is baby center app. I’m so much deeply thankful to this app. My many Gratitude of the owner. Believe me I really am thankful to u. I can’t imagine myself without this app. U have make me understand so many things and helped me all the way and still doing. I can’t imagine myself without you. Love u ❤️❤️
+
+
+review id: 634
+
+matches and contexts:
+
+match = iod
+context = I had this app to keep track of my period it helped me know when not to get down in the 
+
+
+id: 634 | rating: 5 | user: 5AVAA12 | date: 2020-07-19 | time: 14:22:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Ive had this app from period to baby love it
+--------------------------------------------------------------------
+
+I had this app to keep track of my period it helped me know when not to get down in the bedroom but i stopped keeping track and then boom i got pregnant lol. But throughout my whole pregnancy from day 1 even to know i use it to help keep me updated on everything. It lets you know whats going on answers questions and concerns its amazing idk what id do without it.
+
+
+review id: 788
+
+matches and contexts:
+
+match = vitam
+context = ould do, keeping me up to date on taking prenatal vitamins and also allowing me to store my progress
+
+
+id: 788 | rating: 5 | user: Lissyliss620 | date: 2021-04-22 | time: 11:18:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Greatest App for Pregnancy
+--------------------------------------------------------------------
+
+I absolutely adore this app. From the time I got pregnant this app has been my guide on what to expect, what super foods I should be eating, what exercises I could do, keeping me up to date on taking prenatal vitamins and also allowing me to store my progress as my belly grows with the "bumpie" feature. All in all this app is very informative and I'd highly recommend to any expecting mother!
+
+
+review id: 819
+
+matches and contexts:
+
+match = iod
+context = tch due date they suggest according to my last period🤔.
+
+
+id: 819 | rating: 3 | user: Kroytoranna | date: 2019-08-03 | time: 15:29:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Somewhat helps
+--------------------------------------------------------------------
+
+A little messy, didn’t get the idea. Just a pile of medical articles that I can search for myself. App is ment to make everything easy and give short tips, this one doesn’t though. Also the due date is counted inaccurate. I know the exact date of embryo impantation and it doesn’t match due date they suggest according to my last period🤔.
+
+
+review id: 1093
+
+matches and contexts:
+
+match = iod
+context = question was "have you had sex since your last period?". As a married lesbian using home inseminatio
+
+
+id: 1093 | rating: 2 | user: LinzorTorte85 | date: 2017-12-30 | time: 14:11:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Heteronormative
+--------------------------------------------------------------------
+
+I was excited to begin tracking my pregnancy but from my first encounter with this app I have been struck by how heteronormative it is. I started by completing the "Am I pregnant?" quiz and the first question was "have you had sex since your last period?". As a married lesbian using home insemination with a known donor I did not become pregnant by having sex. In fact, many straight women become pregnant through alternative methods these days. It's time to get with the times and update the app to reflect the diversity of pregnancy in 2018.
+
+
+review id: 1120
+
+matches and contexts:
+
+match = iod
+context = d helpful tips that are offered related to the period you are in.
+
+
+id: 1120 | rating: 5 | user: moonymoonynice | date: 2019-03-18 | time: 12:08:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Practical & user friendly
+--------------------------------------------------------------------
+
+This is the first app I have used during my pregnancy and I stuck to it. It gave me all the info I need and it’s very user friendly (page display) so it’s easy to navigate and understand. Another plus is the added pointers and helpful tips that are offered related to the period you are in.
+
+
+review id: 1197
+
+matches and contexts:
+
+match = micro
+context = urns 1 years old. I’m saying that because I had a micro preemie and those who have preemies must go 
+
+
+id: 1197 | rating: 5 | user: Armyvet09 | date: 2019-11-06 | time: 03:32:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+This is a great app but I do think you should be able to use the app after your baby turns 1 years old. I’m saying that because I had a micro preemie and those who have preemies must go by age adjusted and not their actual age. This is due to developmental delays due to being born prematurely. This will be great for those who have preemies or micro preemies.
+
+
+review id: 1453
+
+matches and contexts:
+
+match = iron
+context = other pregnant women, and allowing a community environment for pregnancy talk. It has great informat
+
+
+id: 1453 | rating: 5 | user: JanFamMom | date: 2020-12-22 | time: 11:54:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Baby center app
+--------------------------------------------------------------------
+
+This app has been a big help to me with all three of my pregnancy’s. Helping keep track of everything, giving get advice and testimonials from other pregnant women, and allowing a community environment for pregnancy talk. It has great informative videos and polls. It’s so much more than I can explain!
+
+
+review id: 1776
+
+matches and contexts:
+
+match = iod
+context = ith my first 2 children that’s over an 11 year period and it has never fail me. The app has improved
+
+
+id: 1776 | rating: 5 | user: Sexychick mjj | date: 2021-04-07 | time: 11:30:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Reliable
+--------------------------------------------------------------------
+
+I have used it this app with my first 2 children that’s over an 11 year period and it has never fail me. The app has improved over the years to prove with the best information, tips and guide on how to strive through your pregnancy and even after birth....
+
+
+review id: 1866
+
+matches and contexts:
+
+match = iron
+context =  last 8 months. Gives you so much information and ironically everytime I’ve experienced anything new
+
+
+id: 1866 | rating: 5 | user: chelseeast | date: 2019-06-28 | time: 18:53:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Recommended
+--------------------------------------------------------------------
+
+I downloaded almost every pregnancy app they had this is the only one I’ve used for the last 8 months. Gives you so much information and ironically everytime I’ve experienced anything new it was explained on here that exact day
+
+
+review id: 1890
+
+matches and contexts:
+
+match = iod
+context = es we don’t remember the first day of our last period because we are irregular like me for example.
+
+
+id: 1890 | rating: 5 | user: ncabregu | date: 2021-03-03 | time: 19:00:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Baby center
+--------------------------------------------------------------------
+
+The only thing I will like for them to change is the option to calculate the due date. Sometimes we don’t remember the first day of our last period because we are irregular like me for example.
+
+
+review id: 2146
+
+matches and contexts:
+
+match = iod
+context =  most part, I can’t complain. There was a time period where it was stuck on my son being 8 weeks and
+
+
+id: 2146 | rating: 4 | user: lehcarm | date: 2021-07-04 | time: 04:59:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Good
+--------------------------------------------------------------------
+
+For the most part, I can’t complain. There was a time period where it was stuck on my son being 8 weeks and I never got updates or anything. Then something happened where it was fixed and I started getting updates again. But I do like this app.
+
+
+review id: 2168
+
+matches and contexts:
+
+match = iron
+context = itches with Bumpie, but it is NOT a supportive environment, especially for first time moms.
+
+
+id: 2168 | rating: 1 | user: Lex100199 | date: 2020-11-30 | time: 19:46:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Full Of Bullies.
+--------------------------------------------------------------------
+
+Worse than some Facebook mom groups. And the “group owners” are the worst ones. Plus you can’t turn off notifications for a post, you can’t delete posts, and you can’t block or ignore group owners. So if there’s a post you’ve made that’s filling up with bullies in the comments, there’s no way to stop seeing it or to delete it. The overall app is fine I guess aside from some glitches with Bumpie, but it is NOT a supportive environment, especially for first time moms.
+
+
+review id: 2261
+
+matches and contexts:
+
+match = iod
+context = ir symptoms for every day during the pregnancy period. I use it everyday and it has given us so many
+
+
+id: 2261 | rating: 5 | user: SN ROCKS | date: 2019-12-05 | time: 19:12:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Highly recommended for new parents
+--------------------------------------------------------------------
+
+This app is freakishly accurate and we love it. They are precise about their symptoms for every day during the pregnancy period. I use it everyday and it has given us so many insights about pregnancy. Highly recommended.
+
+
+review id: 2387
+
+matches and contexts:
+
+match = vitam
+context =  help me to eat healthy and reminds me to take my vitamins I love y’all keep up the amazing work y’a
+
+
+id: 2387 | rating: 5 | user: duvall6 | date: 2021-02-22 | time: 09:57:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Great job
+--------------------------------------------------------------------
+
+Idk what I would be with out y’all tracking my pregnancy it’s a blessing to have this app in my life so I could see how my baby grows while in my belly and help me to eat healthy and reminds me to take my vitamins I love y’all keep up the amazing work y’all are doing
+
+
+review id: 2800
+
+matches and contexts:
+
+match = iod
+context =  this app always I absolutely love! I track my periods, track my ovulation and my 3 pregnancies! Thi
+
+
+id: 2800 | rating: 5 | user: hello b nizzle | date: 2021-07-31 | time: 19:40:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it
+--------------------------------------------------------------------
+
+I have used this app always I absolutely love! I track my periods, track my ovulation and my 3 pregnancies! This app is easy to navigate and is very informative! I even recommend it to all my friends and family they love it too!
+
+
+review id: 3294
+
+matches and contexts:
+
+match = iod
+context = uld want to know.... I didn’t remember my last period but this app calculated my due date correctly 
+
+
+id: 3294 | rating: 5 | user: Ro Shatrice | date: 2018-12-23 | time: 18:12:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Love It
+--------------------------------------------------------------------
+
+It kept me up to date about everything a new mommy would want to know.... I didn’t remember my last period but this app calculated my due date correctly I love it and I would recommend it to new mommy’s ❤️
+
+
+review id: 3497
+
+matches and contexts:
+
+match = iron
+context = e that this is advertised as a “safe and kind” environment when the unkindness is allowed to persist
+
+
+id: 3497 | rating: 1 | user: cjbkihfds | date: 2019-07-06 | time: 05:50:19.000Z
+
+--------------------------------------------------------------------
+                      Title: Safe environment? Not so much.
+--------------------------------------------------------------------
+
+I enjoy the app. I also enjoy the idea of a community pregnancy board, but there is too much bullying and needless attacking that is left unchecked to consider it the safe place it is intended to be. It’s cool if you don’t mind that culture, but now that I know that the reality doesn’t match the advertising, I won’t be using this app or the community. I don’t like that this is advertised as a “safe and kind” environment when the unkindness is allowed to persist.
+
+
+review id: 3506
+
+matches and contexts:
+
+match = iron
+context = ARDS. Seriously. They do not harbor a positive environment whatsoever.
+
+
+id: 3506 | rating: 1 | user: Tallie98 | date: 2019-05-14 | time: 02:58:30.000Z
+
+--------------------------------------------------------------------
+                      Title: The Message Boards are Vicious
+--------------------------------------------------------------------
+
+The app itself is fine. Kind of glitchy, but nice to use for some basic info and storing pictures. The message boards and birth clubs are full of the most vicious mom bullies I’ve ever come across. They gang up on you and try to make you feel stupid and scared if you ask a question. Lots of bored, angry ladies using this app, from what I can tell. If you use it, STAY OFF THE MESSAGE BOARDS. Seriously. They do not harbor a positive environment whatsoever.
+
+
+review id: 4016
+
+matches and contexts:
+
+match = iod
+context = o track your pregnancy progress over a 40 week period. Must have for new moms🙌🏾  and Mother’s having
+
+
+id: 4016 | rating: 5 | user: Alli Rue | date: 2019-06-21 | time: 08:58:01.000Z
+
+--------------------------------------------------------------------
+                      Title: For Mother’s expecting new babies
+--------------------------------------------------------------------
+
+It’s a very useful app that allows you to track your pregnancy progress over a 40 week period. Must have for new moms🙌🏾  and Mother’s having more children!!!
+
+
+review id: 4550
+
+matches and contexts:
+
+match = iod
+context = ven before... to get the time for my fertility period.
+
+
+id: 4550 | rating: 5 | user: Lililove233 | date: 2020-07-06 | time: 08:07:34.000Z
+
+--------------------------------------------------------------------
+                      Title: Wonderful
+--------------------------------------------------------------------
+
+It was really helpful for my first pregnancy and even before... to get the time for my fertility period.
+
+
+review id: 4644
+
+matches and contexts:
+
+match = iod
+context =  be incredibly helpful if you could track your period in it, not just see an ovulation timeline.
+
+
+id: 4644 | rating: 4 | user: Brookieswall | date: 2021-07-12 | time: 06:12:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Great but needs something
+--------------------------------------------------------------------
+
+This app is great for information, however it would be incredibly helpful if you could track your period in it, not just see an ovulation timeline.
+
+
+review id: 4726
+
+matches and contexts:
+
+match = iod
+context =  the accuracy of the information given at each period & the layout of the App is so user friendly!
+
+
+id: 4726 | rating: 5 | user: YaraKaly | date: 2019-09-22 | time: 09:13:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App
+--------------------------------------------------------------------
+
+Great App to guide you through the pregnancy journey and after it! Loved the accuracy of the information given at each period & the layout of the App is so user friendly!
+
+
+review id: 4845
+
+matches and contexts:
+
+match = iod
+context = ody. I have already learned so much in a short period of time. I love the easy to understand picture
+
+
+id: 4845 | rating: 4 | user: melitza.wing | date: 2021-01-12 | time: 16:52:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use
+--------------------------------------------------------------------
+
+Baby Center made it easy to know about what’s happening with my baby and my body. I have already learned so much in a short period of time. I love the easy to understand pictures.
+
+
+review id: 4955
+
+matches and contexts:
+
+match = iod
+context =  I knew what was gonna happen at this and that period of my life. Thanks to this app
+
+
+id: 4955 | rating: 5 | user: YaaWiredua | date: 2017-12-06 | time: 09:42:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+Very helpful app. It guided me as a first time mum throughout my pregnancy, through to delivery and parenting. I literally became a mid-wife by the end of my pregnancy cos I knew what was gonna happen at this and that period of my life. Thanks to this app
+
+
+review id: 6283
+
+matches and contexts:
+
+match = iod
+context =  wife is passing through during this pregnancy period. It makes me even appreciate my mum more...
+
+
+id: 6283 | rating: 5 | user: Chrisnofear83 | date: 2019-06-05 | time: 17:11:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Very Educative
+--------------------------------------------------------------------
+
+This app have really helped me understand what my wife is passing through during this pregnancy period. It makes me even appreciate my mum more...
+
+
+review id: 6481
+
+matches and contexts:
+
+match = iod
+context = I tried to calculate my due date by my last period. There was no way to type it and the calendar 
+
+
+id: 6481 | rating: 1 | user: Gifehvhi | date: 2020-01-06 | time: 20:18:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Dates don’t work
+--------------------------------------------------------------------
+
+I tried to calculate my due date by my last period. There was no way to type it and the calendar doesn’t do anything when you click it. Figured out my own due date to put it in the other way, by the due date and it did the same.
+
+
+review id: 6482
+
+matches and contexts:
+
+match = iod
+context = zes to show the size of your baby in that week period. It also provided helpful tips for you and for
+
+
+id: 6482 | rating: 5 | user: ZM_21 | date: 2019-12-14 | time: 23:25:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Cute!
+--------------------------------------------------------------------
+
+I love how it provides fruit sizes to show the size of your baby in that week period. It also provided helpful tips for you and for baby.
+
+
+review id: 7312
+
+matches and contexts:
+
+match = iod
+context = Keeps you updated and periodically checks up on my baby with useful notific
+
+
+id: 7312 | rating: 5 | user: AmeriKenny | date: 2018-07-13 | time: 20:05:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome app
+--------------------------------------------------------------------
+
+Keeps you updated and periodically checks up on my baby with useful notifications.
+
+
+review id: 7540
+
+matches and contexts:
+
+match = iod
+context = Helped through my periods to plan my pregnancy. Now I have given birth 
+
+
+id: 7540 | rating: 5 | user: Cripson1 | date: 2018-04-02 | time: 19:44:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+Helped through my periods to plan my pregnancy. Now I have given birth to a bouncy baby boy and I still use this app to take good care of my son
+
+
+review id: 9484
+
+matches and contexts:
+
+match = Iron
+context = the email address I used...hello pregnancy brain. Ironic how an app I like to use during pregnancy s
+
+
+id: 9484 | rating: 2 | user: ktrid | date: 2018-06-30 | time: 14:05:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Pregnancy Brain Password Nightmare
+--------------------------------------------------------------------
+
+While the information in this app is detailed and helpful, the app logs me out monthly. Of course I can’t remember my password or the email address I used...hello pregnancy brain. Ironic how an app I like to use during pregnancy seems to play on my greatest pregnancy weakness.
+
+
+review id: 9982
+
+matches and contexts:
+
+match = iod
+context = uestions and normal doubts during this amazing period of life.
+
+
+id: 9982 | rating: 5 | user: amaly0213 | date: 2017-10-20 | time: 12:26:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Just love it
+--------------------------------------------------------------------
+
+Excellent guide during pregnancy, it answer many questions and normal doubts during this amazing period of life.
+
+
+review id: 10113
+
+matches and contexts:
+
+match = iod
+context = I’ve had this app for years now thru periods and hard times of txt & now thru pregnancy
+
+
+id: 10113 | rating: 5 | user: JCSpin | date: 2019-11-29 | time: 16:42:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app
+--------------------------------------------------------------------
+
+I’ve had this app for years now thru periods and hard times of txt & now thru pregnancy
+
+
+review id: 10335
+
+matches and contexts:
+
+match = iod
+context = Easy to use keep track your period and late period etc....
+
+
+id: 10335 | rating: 5 | user: Valerie McGuinness | date: 2019-12-16 | time: 08:42:28.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it
+--------------------------------------------------------------------
+
+Easy to use keep track your period and late period etc....
+
+
+review id: 16239
+
+matches and contexts:
+
+match = iod
+context = The best baby app ever made period!!! Thank you
+
+
+id: 16239 | rating: 5 | user: aaaaliatif | date: 2018-09-20 | time: 19:45:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Too good
+--------------------------------------------------------------------
+
+The best baby app ever made period!!! Thank you
+
+
+review id: 18114
+
+matches and contexts:
+
+match = iod
+context = Doesn’t not let you track your period. Or ovulation day. Only pregnancy.
+
+
+id: 18114 | rating: 2 | user: GizzyBabe | date: 2018-11-10 | time: 02:00:12.000Z
+
+--------------------------------------------------------------------
+                      Title: For pregnancy only
+--------------------------------------------------------------------
+
+Doesn’t not let you track your period. Or ovulation day. Only pregnancy.
+
+

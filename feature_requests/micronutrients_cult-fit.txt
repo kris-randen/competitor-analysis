@@ -1,0 +1,229 @@
+'Micronutrients' related feature requests in cult-fit reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 13
+
+
+review id: 54
+
+matches and contexts:
+
+match = iod
+context =  found this app really helpful during lockdown period when I was not able to go to gym. Now I am fee
+
+
+id: 54 | rating: 5 | user: CA Manjeet | date: 2020-04-11 | time: 06:43:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing Fitness App
+--------------------------------------------------------------------
+
+I and gymming since last 5 years and found this app really helpful during lockdown period when I was not able to go to gym. Now I am feeling that there us no need to go to gym anymore and keep following Cult live classes anytime.
+
+
+review id: 128
+
+matches and contexts:
+
+match = iod
+context = ription on my iphone app . It ran for the free period and now when I want to buy it , it doesnt go a
+
+
+id: 128 | rating: 5 | user: Arijit_fitness_bamboozelle | date: 2020-06-22 | time: 08:02:40.000Z
+
+--------------------------------------------------------------------
+                      Title: How to subscribe or even pay ?
+--------------------------------------------------------------------
+
+Guys how am I suppose to pay and get a subscription on my iphone app . It ran for the free period and now when I want to buy it , it doesnt go anywhere ?
+
+
+review id: 143
+
+matches and contexts:
+
+match = iod
+context = has been amazing experience for me during this period. I m moving forward step by step everyday. Tha
+
+
+id: 143 | rating: 4 | user: Mrs. Batra | date: 2021-07-09 | time: 03:52:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Journey to fitness
+--------------------------------------------------------------------
+
+Cult has been amazing experience for me during this period. I m moving forward step by step everyday. Thanks a lot for ur dedication And precious time. Trainers are amazing and  it’s fun doing workouts with such experienced guidance . Keep going
+
+
+review id: 176
+
+matches and contexts:
+
+match = iod
+context = de all the workouts free during this lock down period. Hats of to you 👏🏻👏🏻
+
+
+id: 176 | rating: 5 | user: Kavi kavi | date: 2020-04-25 | time: 06:38:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Best fitness app
+--------------------------------------------------------------------
+
+I am so proud to be part of this family for past 1 1/2 years. And it’s very commendable that you have made all the workouts free during this lock down period. Hats of to you 👏🏻👏🏻
+
+
+review id: 305
+
+matches and contexts:
+
+match = iod
+context = lly it helps me to keep fit in this quarantine period.
+
+
+id: 305 | rating: 5 | user: Raha Sayan | date: 2020-06-09 | time: 09:56:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Best app to keep myself fit at home
+--------------------------------------------------------------------
+
+This is the best app, I have ever come across. Especially it helps me to keep fit in this quarantine period.
+
+
+review id: 427
+
+matches and contexts:
+
+match = iod
+context = In this difficult period due to the covid19 situation, this app has bee
+
+
+id: 427 | rating: 5 | user: Siddhi97 | date: 2020-04-27 | time: 16:25:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it !
+--------------------------------------------------------------------
+
+In this difficult period due to the covid19 situation, this app has been a boon ! Ensures that a wholesome wellness is given to the user.
+
+
+review id: 750
+
+matches and contexts:
+
+match = micro
+context = is amazing coach with full of energy and train at micro levels
+
+
+id: 750 | rating: 5 | user: Baljeet84 | date: 2018-09-23 | time: 04:15:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Boxing
+--------------------------------------------------------------------
+
+Mr. Himanshu is amazing coach with full of energy and train at micro levels
+
+
+review id: 766
+
+matches and contexts:
+
+match = iod
+context =  have been using curefit through this lockdown period
+
+
+id: 766 | rating: 5 | user: kavyug | date: 2020-06-16 | time: 12:46:30.000Z
+
+--------------------------------------------------------------------
+                      Title: @@@@
+--------------------------------------------------------------------
+
+i have been using curefit through this lockdown period
+
+
+review id: 873
+
+matches and contexts:
+
+match = iron
+context = Amazing amenities and Environment
+
+
+id: 873 | rating: 5 | user: waghhh | date: 2019-05-14 | time: 16:08:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing
+--------------------------------------------------------------------
+
+Amazing amenities and Environment
+
+
+review id: 964
+
+matches and contexts:
+
+match = iod
+context = Lockdown period makes this app more important n after lockdown
+
+
+id: 964 | rating: 5 | user: robo fit | date: 2020-04-29 | time: 08:57:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Fab
+--------------------------------------------------------------------
+
+Lockdown period makes this app more important n after lockdown imp.for those who don’t have time to go to gyms n all...gr8 app n user friendly n u can give an option for Hindi language also..
+
+
+review id: 970
+
+matches and contexts:
+
+match = iod
+context = n keeping up fit and active even in quarantine period. Have also enrolled for live PT sessions which
+
+
+id: 970 | rating: 5 | user: Sunitjain | date: 2020-04-14 | time: 07:14:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Incredible !!
+--------------------------------------------------------------------
+
+Have been working out for over a month at Cult and around 15 days on live.cult I can easily say these guys are doing amazing work in keeping up fit and active even in quarantine period. Have also enrolled for live PT sessions which is also a good addition. Have also tried their yoga sessions. Simply amazing!! They have good App and good backend support. All in all I would definitely recommend it to everyone who wants to keep himself fit and active.
+
+
+review id: 986
+
+matches and contexts:
+
+match = iron
+context = the timing of the classes are flexible and the environment is perfect for the workouts, cult keeps m
+
+
+id: 986 | rating: 4 | user: akhil chandra bose | date: 2019-09-13 | time: 03:32:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Cult fit is the best place work out and stay fit
+--------------------------------------------------------------------
+
+I really enjoy the classes in the cult , the trainers are good, the equipment’s and facilities are good ,the timing of the classes are flexible and the environment is perfect for the workouts, cult keeps me motivated to stay fit and healthy. I enjoy participating in group workouts , cult provides me such a platform.Thank you cult.
+
+
+review id: 989
+
+matches and contexts:
+
+match = micro
+context =  not customer friendly which is printed in a tiny microscopic words will not help you to be trusted 
+
+
+id: 989 | rating: 1 | user: Tucles | date: 2019-07-12 | time: 12:31:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Your app is okay  but what so ever No contacts makes it dodgy startup company
+--------------------------------------------------------------------
+
+The app is not bad lots of useful informations for people looking for fitness videos. No proper clarity in your website or application makes it difficult to believe you people are genuine. But I am not sorry to say this,  your eat.fit kitchens and it’s locations where  unhealthy food ingredients in use and unhygienic filthy horrible kitchens and the direct venues of cult.fit and care.fit are unsafe and threat to humans in existing cities and still you people are busy expanding and entering into other cities and in Dubai as well.Signing up a lots of new subscribers with limited slots is  a cheating business with weird terms and conditions that are not customer friendly which is printed in a tiny microscopic words will not help you to be trusted brand or company. A company with NO contact person names and  numbers makes one thing  clear,  it’s not safe to subscribe any plans with your cure.fit and regret for being cheated.
+
+

@@ -1,0 +1,1196 @@
+User Review: 3046
+User Name: Autiger10
+User Rating: 1
+Date Time : 2021-08-13T22:08:16.000Z
+Title: Needs work
+----------------------------------------------------------
+I have used MyPlate in the past, so there are a number of things that I like about MyPlate. I love the layout of it and how things sync together, but I do have a number of gripes with it, too, one of which has caused me to request that my account be deleted. 1. Many of the calorie counts are not accurate on it, and they have been wrong for more than a year now. There is not an option to change any of them either. 2. The BIG ONE, which caused me to request that my account be deleted. The recipe builder is messed up when you go to their website and try to use it, and has been for over a year. It will allow you to go all the way through it, adding all of your ingredients, the instructions on how to fix it, and let’s you get to part where you click on “Creat Recipe.” Once you do this, nothing happens, and your recipe is not saved. I have reached out to MyPlate about it last year when it first happened, and last night when it happened again, and they still haven’t fixed this issue IN OVER A YEAR! Their suggestion is to add all of the ingredients and portion it out as a meal, which is very frustrating to say the least because you can’t just enter the stuff and tell it that you ate this many servings of it like you would the recipe builder. If you enter it there and you eat more or less the next time, you would have to go back in there each time and change the ingredients and the servings of each ingredient to get the calorie count correct. The main thing that is so frustrating is, I understand that things can happen with technology and it may take some time to get the bugs worked out of it, but it has been over a year, and they still haven’t fixed something as important as the recipe builder.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there! Thanks for the review and feedback. Please note, the MyPlate phone app does not contain a recipe builder feature. This is something we hope to include in a future update.
+
+
+
+User Review: 3237
+User Name: Thefirelion
+User Rating: 1
+Date Time : 2017-03-23T19:04:28.000Z
+Title: Such potential wasted.
+----------------------------------------------------------
+First the good. This app looks good, user interface is crisp and clean and intuitive to use. The list of foods is complete and specific, all that myfitday app isn't. It's specific with brand names of foods and brings up very relevant products when searching, all that myfitday can never seem to get right. The user experience is way better than MFP so that's also a big positive. That said, This app had every opportunity to be what my fitness pal could not/would not, but missed it's chance. Mainly, these free apps aren't useable in the sense that they provide just enough info to make it work but barely. They get you hooked so the idea/frustration of starting over with another app gets you to give in and pay. This app won't even show you your exact total daily macros, you have to upgrade to a monthly payment level to see that. Really?  The whole point of these apps is to know your daily macro totals and you shouldn't have to pay for that basic bit of info.  I've grown tired of all these fitness apps claiming to be free but to actually use them correctly/effectively you really need to upgrade to the super duper gold level package for 10-20 bucks a month. Can't someone just make a simple flippin app that lets you enter your food, set your macro %'S and see what they are at the end of the day without it looking like a nerd or a 12 year old girl made?  Geesh.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Thefirelion- thanks for your feedback! We just wanted to make sure you know that the free version of the app does allow you to view your total daily macros! You can view this information by pressing the mini pie chart icon located in the right corner of the Food Diary. Please don't hesitate to email us at support@livestrong.com with any questions!
+
+
+
+User Review: 3248
+User Name: ElaineAntonLotruglio
+User Rating: 1
+Date Time : 2017-07-18T13:50:29.000Z
+Title: MyPlate
+----------------------------------------------------------
+This app is the worst I have used of all fitness apps. To log your exercises, you practically have to create all of them yourself. The are almost no stored exercises inputed by the app creators. For example a burp -- everyone in fitness kows what a burpee is! Only, if you search for a burp in the app there are no matches. This is true with SO many basic fitness exercises. In another example, lets say you have done 50 squats -- the only option in recording this exercise is squats per hour. No one does squats straight for one hour -- which by the way the app says is just 133 calories burned -- completely impossible that if someone did squats for one hour straight he/she would only burn 133 calories! In a more likely scenario someone may do a number value of squats like 50 for example yet with this app you'd have to just guess on calories burned or look it up on the web which adds a whole other step to recording your exercise. The user will run into all of these same issues with food and calorie content. Oftentimes I would have to look something up online and then put it into the app. I would pretty much have to create my food record and calorie intake and then put it into the app. Complete hassle!
+
+Developer Response: 
+----------------------------------------------------------
+Hi Elaine, thank you for your feedback. We're so sorry that you have had this experience in the app. Please email us at support@livestrong.com so we can assist you further.
+
+
+
+User Review: 3223
+User Name: Haley Gascho
+User Rating: 1
+Date Time : 2017-04-08T04:26:59.000Z
+Title: Many issues with this app
+----------------------------------------------------------
+I've used this app on and off the last few years but recent dieting and exercise prompted me to start using it again. Initially it is a good app for tracking and logging your calories and carbs. But it doesn't let you select any less than 100% of your daily nutritional goals. When you're dieting, that's kind of what you're going for. Aside from that, the "community" page is a COMPLETE JOKE. You literally can not post anything without people trolling your posts and harassing you. When I spoke up about those internet trolls who literally did nothing but criticize you and insults your intelligence and say awful things, THEY reported my comments and had all my posts removed. Yet I still haven't figured out how to delete a comment or report one? I'm 20 it's not like in some old person who doesn't understand technology. They just have those options hidden very well I guess. Not only that, but when you go to log an exercise for the day, they have VERY limited information on most workouts and their calories burned. Aside from this their latest update made the app harder to figure out and more work than its worth with a lot of unnecessary clicking.
+
+
+
+User Review: 41
+User Name: cdavsnail
+User Rating: 1
+Date Time : 2018-07-21T13:22:52.000Z
+Title: Poor customer service
+----------------------------------------------------------
+I paid for the extra subscription to gain access to extra features, but realized after that the extra features were oversold by the app. There’s absolutely no reason at all to pay the extra subscription cost. Not only is there nothing original about the nutrition materials you get with the subscription, but the shopping lists are outrageous. Aside from that you really don’t get anything else from the app except access to extra data points, which don’t do anything at all except inform you about what you’ve consumed. Their server went down for several days, and during that time no one was able to log meals unless it was something they had already eaten that was stored in local memory. I inquired about the issue and asked for a refund, and Kali let me know that the server was down but ignored my request for a refund. I replied again to thank her for letting me know about the server and asked for a refund again and that request was ignored. I guess I’ll have to go to the consumer protection agency to get my money back.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there! We're so sorry! Unfortunately, the data outage affected most of our users and we have a very small customer support team. Your request for a refund has not been intentionally ignored. We received hundreds of emails during this outage, so it's taking us a bit longer than normal to respond to everyone. We appreciate your patience! If you've upgraded through an in app purchase, please contact Apple directly for a refund. We apologize, but unfortunately, we are unable to process refunds for in app purchases via iTunes as these subscriptions are managed by Apple. This is part of Apple's in app subscription policy across the board. However you can contact Apple directly for refund requests for any of our apps:
+
+
+
+User Review: 3275
+User Name: Punchyouintheface
+User Rating: 1
+Date Time : 2016-05-12T13:28:57.000Z
+Title: Registration/ log in error???
+----------------------------------------------------------
+Ok so I have used this app for years and I've LOVED it.  A couple days ago it signed me out so I tried to reconnect with Facebook but it said there was no account linked to it.  I knew this was wrong though because that's how I've logged in every time.  So I decided to log in manually and it kept saying my password was wrong, which it wasn't because I had it written down. But just to be sure, I clicked the "forgot password?" button and entered my email.  I have waited for hours and have tried it several different times but NO EMAIL CAME. So after that I just said screw it and decided to make a new account. Well, I did and when I was done, it said "registration error" and sent me back to the beginning. I did this FOUR TIMES.  There are no updates waiting to be downloaded and my internet has been working fine.  Please fix whatever this is because this was my FAVORITE calorie counter.  As soon as I am able to log in I will give it 5 stars.  Thanks
+
+
+
+User Review: 103
+User Name: Chaos Virus
+User Rating: 1
+Date Time : 2019-05-05T19:26:30.000Z
+Title: Poor Registration Experience
+----------------------------------------------------------
+Created an account through the app (rather than the website) and accidentally typed in the wrong email. I also used a one-off password that I intended to add to a password manager. I noticed the mistake in the email immediately after signing up, but found out it can’t be changed using the app. Went to the website to try to log in and fix my email address there, but it seems I also had a typo in the password I used to sign up. I can’t send myself a password reset request because of the typo in the email I used. I’m still logged in to the iOS app, but with no way to change any of my login settings. It’s not a huge effort to make a new account and consider this a throwaway, but it’s a frustrating first experience that could have been avoided with either an email or password confirmation field, or the ability to change email or password via the iOS app.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there. We're so sorry that you had such a frustrating start in the app. We'd love to make it right for you and to assist you with any remaining registration issues. Please email us at support@livestrong.com. Thanks so much.
+
+
+
+User Review: 3305
+User Name: AppleTechy54
+User Rating: 1
+Date Time : 2016-03-11T05:09:40.000Z
+Title: Sync Override-After updating
+----------------------------------------------------------
+I had heard glowing review about this app so I decided to give it a try. I experience a few minor issues originally but with this last update it is out of hand. All of my data got overridden by some one else. The only that I could spot that was similar between our two's data was that we both had Apple Watches(figured I would throw this out there to possibly help the devs) When I tried to sync with the server to get my data back it was to no avail. I tried logging in and back out and still someone else's data was there! When I gave up hope and decided to go create a new account, it wouldn't let me, it kept on giving me server errors. Overall I like this GUI more than My Fitness Pal but My Fitness Pal has never had an issue like this. If this doesn't get fixed immediately I will go back to using My Fitness Pal which has never screwed up this bad!
+
+
+
+User Review: 3337
+User Name: chaiffr
+User Rating: 1
+Date Time : 2017-03-23T21:44:47.000Z
+Title: It has potential
+----------------------------------------------------------
+I really like the simple interface design and workouts but I had to delete this and get "Lose It" instead since it has some functionality dealbreakers for me that's not offered. 1) I don't like how when adding a food entry, it doesn't allow me to add all the details such as sodium and vitamins. It seems this app is primarily concerned with carbohydrates, fats, and sugars only... which I understand however that's not for me because I like to take into account the whole nutritional profile. So when something I'd like to track has high sodium, but displays 0 sodium since there was no option to edit that when I was adding the entry... that information becomes false (misleading) and ultimately confusing and thus useless to me. 2) I'm a visual person and I did not see the option to add pictures of my food and/or body...
+
+
+
+User Review: 190
+User Name: grocerylistgone
+User Rating: 1
+Date Time : 2018-01-07T23:59:52.000Z
+Title: Grocery list
+----------------------------------------------------------
+I like that the app reminds you to track you foods,snacks and it syncs well with my Apple Watch. But when it comes to the meals and sending out the grocery list Sunday mornings. Well that didn’t happen. I reached out to them through the community like other users who also didn’t receive the email and still never received it.  Considering they have a countdown on how we as users should be prepared maybe they should as well with al least send the list out more than 24hrs ahead before meal prep starts(since issues of getting list out to users as promised time)😑. Especially considering that food intake is an important part of weightloss. Anyway my two cents of the ten dollars I paid. Hopefully this gets resolved. Otherwise my money can be spent elsewhere
+
+Developer Response: 
+----------------------------------------------------------
+Hello. We're so sorry for this! The grocery list should be sent upon signing up for the meal plans, and our team is looking into why this did not happen for a few users. Please email us at support@livestrong.com if you have still not received. Please note that the grocery list is also available in the app by tapping Meal Plans and then the grocery basket icon located in the upper right corner. Please also note that our meal plans are free to use for all users. Our upgraded Gold membership is a separate option.
+
+
+
+User Review: 3420
+User Name: JillyBean731
+User Rating: 1
+Date Time : 2012-11-30T00:40:33.000Z
+Title: Not much
+----------------------------------------------------------
+I am using the free version, so perhaps the upgraded version is better. I've used myfitnesspal, and it has many more ways to track your progress and allows you to update/edit an entry. Overall, this is far too simplistic, and, should you need to adjust an entry, I've not found a way to do so (for example, I wanted to change my water intake from 8 to 48, I clicked 48, no change, I tried again, no change, and then suddenly, it updated and now I have 250+ ounces and there is no way to correct this!!!, imagine if I made this mistake with a food entry???) There is only a daily tracker for calories consumed and percentages, and let's face it, we all have a bad day, so a weekly total/percentage would be nice. Heading back to MFP until things change.
+
+
+
+User Review: 14213
+User Name: GiggleGoddess66
+User Rating: 1
+Date Time : 2016-10-12T20:03:51.000Z
+Title: Want to rate higher but has ONE GLARING PROBLEM...
+----------------------------------------------------------
+when I go to add a food (after scrolling through the search list two options pop up in green on the bottom... Quick entry and create new food) from create a new food option it won't put in the correct number formatting.  For instance I put in 22gm of carbs and it displays as 0.0022gms of carbs... And it did this to all the nutrional data which makes EVERYTHING INCORRECT.  I saw another reviewer had this same issue so I tried their trick of adding a decimal point... 22.0gm. And it still didn't work.  PLUS.... there's  no way to delete that food entry if you select that option of adding it. You can tell because there are now TWO ENTRIES for caramel cobwebs from universal studios lol.  No way to edit or delete a food... This is TERRIBLE!
+
+
+
+User Review: 13984
+User Name: Le pa ix
+User Rating: 1
+Date Time : 2020-01-18T18:10:39.000Z
+Title: It’s Free But Nutrition Is All Over The Place
+----------------------------------------------------------
+I wanted an app that could track calories and nutrients to give me an idea of where my eating is at so I can be more aware of what and how much I eat. First off like most apps they have a bar code scanner but it doesn’t recognize a lot of the barcodes I use (like other apps) Secondly, of it does recognize the barcode the calories are usually always wrong (like other apps) Which is the main thing I’m interested in. From personal experience they can be off by 5-180 calories depending on the food and that becomes annoying that means you basically have to manually enter everything even if the barcode is accepted. Third, I was looking at the “nutrients” it claimed I ate and the protein was way off claiming I ate less than I actually did.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there! We're sorry to hear that you've had trouble with the app. We'd love to look into this for you and make sure that everything is working as it should. Please send us an email at support@livestrong.com.
+
+
+
+User Review: 3397
+User Name: BethLopez
+User Rating: 1
+Date Time : 2016-05-28T18:59:12.000Z
+Title: Horrible
+----------------------------------------------------------
+I had to use this app for a college class & hate it . It never let me add my foods, I would spend five minutes and train all the nutrition information then it would tell me a cannot add at the time. I get a lot of different brands and organic and none of them are in the system, every barcode I scan was not found. The app on my phone in the online version would not linked together. I tracked everything on my phone app, then had to manually enter on the computer to transfer the PDF of the class. It is not user-friendly at all, I do use my fitness pal for years and like it 100 times better. I also hate this is a government website and they're just tracking what everybody eats. I will absolutely not use this app after my class is over.
+
+
+
+User Review: 199
+User Name: MaddMax2u
+User Rating: 1
+Date Time : 2020-02-07T21:57:46.000Z
+Title: Unable to calculate proper grams
+----------------------------------------------------------
+This application, has a serious flaw. It calculates your gram intake up to 1,000 times more than it actually is. To be fair, it does seem to calculate calories correctly, If you can find the food you’re consuming and it’s database. But if you’re looking to track grams of proteins, carbohydrates, fats then this is not a good program to use.  Worse than the above, when customer services contacted about this flaw all that is given is excuses!  Weeks of excuses. This is not a terribly difficult problem to resolve. But it seems as though the developers intent is to rope in as many paid customers as they can rather than build the best application they can. My suggestion? Use a different application. There are many that are much better.
+
+Developer Response: 
+----------------------------------------------------------
+Thank you for your review. We've been in communication with you on this issue, and we're sorry that we haven't been able to resolve this yet. As we explained, there are no other users experiencing this, so it's been difficult to reproduce. We will continue working on this for you and hope to have a resolution soon.
+
+
+
+User Review: 185
+User Name: Gdeleon
+User Rating: 1
+Date Time : 2019-02-15T04:43:50.000Z
+Title: Long time user disappointed!
+----------------------------------------------------------
+I have used this app for years, in fact I’ve used this app more than any other app from the iTunes Store. This is a great app! I can easily track my food, make custom food entries, scan barcodes, track my fitness, get nutritional advice etc. What is disappointing is paying for the ads-free app,  which worked for years, then when the app developer updated the software to a new pay by month premium version, doesn’t grandfather the old users into the non ad version. These ads are annoying, I don’t think paying $9.99 a month is worth it, especially when I’m not looking for any other features. If you had a business model that your users purchased, you should honor that purchase, don’t force your users to re-pay.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for the loyal support, and thank you for the praise! Sincerely sorry to hear about the loss of your ad-free version of the app. This feature should have remained on your account despite the service being retired. At your convenience, please contact us at support@livestrong.com, and we'll gladly work with you to remove those ads.
+
+
+
+User Review: 3079
+User Name: Math guy201
+User Rating: 1
+Date Time : 2019-10-08T23:29:27.000Z
+Title: Latest release broken
+----------------------------------------------------------
+This has been a wonderful app prior the latest release. With this release you enter items you ate and then they disappear and are not displayed as eaten although their calorie counts are in the totals. You thus cannot see or edit all the items you actually ate and the total calorie counts don’t agree with what is displayed as eaten. The basic functionality of this app is to actually track what you ate and total the calories, carbs, proteins, etc. It is broken and can no longer do this. Thus it went from wonderful to totally worthless. What kind of test and quality control organization could have possibly let this release go to production with such an obvious flaw that made the program hopelessly unusable?
+
+Developer Response: 
+----------------------------------------------------------
+Hello! Our team is aware of and is working on the issue with the "done" button on our iPad app. We're also working hard to resolve the speed issue. We apologize for the frustration. Please email us at support@livestrong.com with any questions.
+
+
+
+User Review: 3407
+User Name: deedar01
+User Rating: 1
+Date Time : 2016-02-14T18:03:11.000Z
+Title: Won't sync and keeps logging off
+----------------------------------------------------------
+I have really loved the live strong tracker on my computer so I knew if I could sync that with this app my life would be easier to lose weight. However, even after attempting to sync the two it won't register what I've put on my computer version AND it constantly logs me off even in the middle of trying to input stuff which is annoying.  I wish it would have a 'remember me' or keep me logged in button.  But really I can't use it if it won't see what I've been inputting into the computer version of my plate.  It doesn't seem to recognize as many foods also so I'm just using the computer and writing things down to input later if I'm out.  That at least is working for me and I've lost 4 lbs this first week.
+
+
+
+User Review: 3258
+User Name: Hsh5684
+User Rating: 1
+Date Time : 2016-10-29T23:00:27.000Z
+Title: Could be better. PLEASE READ!!!
+----------------------------------------------------------
+The app is wonderful!It's is very useful on a day to day basic, but there are still some improvement that could be made. For example, the nutrients it tracks. It only follows the protein, fat, and carbs although there are other nutrients that are just as important and should be included in the pie chart. It would be very beneficial if it also tracked the total number of cholesterol, sodium, dietary fiber and/or sugars as well. And maybe let the user individualize what they want to track in the daily pie chart. That would be amazing! Considering people may have to monitor certain nutrients in order to maintain their health (Like a heart attack survivor would have to monitor their cholesterol and sodium).
+
+
+
+User Review: 3508
+User Name: Shpyvon
+User Rating: 1
+Date Time : 2017-03-09T19:20:01.000Z
+Title: Much harder to track macros
+----------------------------------------------------------
+There's no daily pie chart for macros anymore. Now instead of showing you what you have eaten and what percent of your day's diet it was, there are bars based on static macro goals with how much you have left in the day. And if you go over, you can't tell by how much. It just says zero grams left for the day. And if you work out that day your calorie goal adjusts, but the macros don't. The old version would show you the macro ratios no matter how much you ate so you could stay in balance during days with varying calorie burns. Plus they added more clicks to do the same thing and the new design requires scrolling to see the same information (calories per meal, calories burned). I used to like this app.
+
+
+
+User Review: 3475
+User Name: Silly Suz
+User Rating: 1
+Date Time : 2016-10-08T14:19:22.000Z
+Title: Frustrated
+----------------------------------------------------------
+Many of the aspects of this app look good.  I am frustrated as I downloaded the app 2 days ago and I have only been able to add 1 food item of my own to the more detailed create a food section.  Every time I try to do so it tells me that it can't be saved.  So I end up having to do the quick add.  I need to track some of the more detailed nutrition info.  The one that finally did go through I see that I made a spelling error on the food name.  I try to edit it and it won't let me . I even purchased the app thinking that was the problem. I will give it through today and if it is not fixed I'm seeking a refund. Really disappointed considering how much success everyone seems to be having with it.
+
+
+
+User Review: 14070
+User Name: Mcnulty234
+User Rating: 1
+Date Time : 2017-09-12T00:08:37.000Z
+Title: Unhappy
+----------------------------------------------------------
+I am extremely unhappy that after 3+ years of using this app I suddenly have to input my birthdate and information and a username to create yet another account just to use the app. I am more than capable of determining my own dietary needs and just want this app to track calories and exercise. I don't need your help to tell me what to eat. Especially since you're taking money from food companies--I'm sure that doesn't factor into anything. I was perfectly happy with this app until I had to go thru and create an account and profile just to use an app I was happily using for the last 3 years. The only reason I went through the process was to leave this review. I'll be finding something else.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Mcnulty! We are so sorry for this inconvenience. We completely understand your frustration. Please email us at support@livestrong.com so that we can work with you to make this right.
+
+
+
+User Review: 3447
+User Name: candacedawn
+User Rating: 1
+Date Time : 2016-03-10T21:00:08.000Z
+Title: Something went wrong
+----------------------------------------------------------
+I chose to write this app today. I would have given it five stars before today but all of a sudden everything on my app is wrong it says that yesterday I burn 53,000 calories! Which is clearly wrong everything is totally messed up all of the stuff on the app all of the data that I have tracked over the last two months is gone and it's replaced with all kinds of other things that aren't mine like one of them was Michael's Apple Watch (not me) and playing violin and all of these things that I've never done to burn calories so it's really confusing and very annoying but I've lost everything. Obviously when the update happened something went horribly wrong please fix as soon as possible!!
+
+
+
+User Review: 3466
+User Name: hinckley39
+User Rating: 1
+Date Time : 2017-03-14T04:08:00.000Z
+Title: Time waster
+----------------------------------------------------------
+I just recently starting tracking again and I was highly impressed that MyPlate had remembered all of my meals and common entries. However, when I went to track Dinner, the interface had completely changed and the ability to add dinner is completely lost on me. Not sure what changed in the last four hours but I don't have the time to try to figure it out. I freelance and my time is money. I can't get bogged down for a long time for something that I used to be able to do easily. I'll look for another app. It shouldn't take this long to do something I was able to do in a simple manner four hours ago. Don't download this if you haven't already. Use something with a better interface.
+
+
+
+User Review: 3496
+User Name: jrasimmons
+User Rating: 1
+Date Time : 2016-09-21T14:08:11.000Z
+Title: Poor Exercise Tracker
+----------------------------------------------------------
+The app promotes itself with the capacity to transfer exercise logs from iPhone's health app into the app for calorie reduction. This feature does not work well. If it records anything in the app it isn't accurate or consistent. This is a major setback in the app. It also is without enough verified foods. So many inaccurate submissions exist within the searchable food field that it's ineffective to attempt to use any of the apps current data. You're better off entering in your own nutrition count. The other downfall is it doesn't offer a wide enough variety of entry information. Calorie count and carbs are basically the only two items you can manually enter in. It's a major flaw.
+
+
+
+User Review: 1327
+User Name: kristine ehrlick
+User Rating: 1
+Date Time : 2021-06-23T20:44:05.000Z
+Title: it prioritizes weight over health
+----------------------------------------------------------
+this app does everything it’s supposed to do. you can easily track calories and workouts, and it recommends recipes. however, it’s extremely focused on losing weight. the chat section of the app is filled with people with extreme eating disorders talking about how they are eating less then 800 calories a day. it’s extremely triggering especially for people who are on the app to gain weight and recover from an eating disorder. i recommend they add chat sections for eating disorder recovery and weight gain. there’s no option to report posts that encourage disordered eating, and there’s no mention of body positivity. it’s entirely focused on weight instead of health.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Kristine! I'm pleased to hear you believe the MyPlate app is easy to use and functions well. I'm sorry you did not get to fully utilize the app before providing a review. MyPlate allows you to customize it to lose, gain, or maintain weight. Additionally, there certainly is an option to report posts that encourage unhealthy methods. There is a chat thread titled "Community Concerns" made specifically for reporting such things or you can reach out to us directly at support@livestrong.com. Additionally, the community is filled with body positivity and users cheering each other on. It is important to us that we create an environment that is healthy and welcoming for our users.
+
+
+
+User Review: 3535
+User Name: HappyEdugator
+User Rating: 1
+Date Time : 2016-03-27T20:02:23.000Z
+Title: Disappointed
+----------------------------------------------------------
+Loved the app until it crashed and lost all my data. All my stats were messed up with ridiculous numbers...like I had consumed  more of than 40,000 calories in a day. It was all connected to My iPhone Health app, and messed it all up, too. My Plate said they would fix it, and all our original data would not be lost, but although they updated the app, all the crazy numbers remain. I had to disconnect My Health and erase all erroneous data. I have been waiting for it to work, so I tried it today. Entered all my breakfast food, but when I went back to enter lunch, it was all gone! What the heck?! Changing over to the My Fitness Pal app since this one no longer works.
+
+
+
+User Review: 168
+User Name: NhojDar
+User Rating: 1
+Date Time : 2021-06-06T22:34:37.000Z
+Title: Dont install
+----------------------------------------------------------
+I installed it, deleted after not using.  They got me to register with my email.  Big mistake.  I unsubscribed, but, they continued to send spam.  I asked to be deleted and they continued to send me emails.  I filed CCPA requests to be deleted.  They 'confirmed' but still sent me emails.  The only time they listened is when I filed a complaint with CA AG. Wow, I got a response from the CA and their attorney.  The company 'blamed' me that I was doing stuff wrong.  All I am doing is following the privacy link and following their procedures.  They have multiple 'sites / apps / companies'.  They don't have a good process to track what request is coming from where.
+
+
+
+User Review: 14043
+User Name: Q baby shoes 67
+User Rating: 1
+Date Time : 2018-06-12T05:20:32.000Z
+Title: Meh
+----------------------------------------------------------
+Waaaaaaaay better food trackers and macro trackers in other apps. This is seriously lacking. Same with exercise. Recipes are not family friendly and meal plans call for too many weird ingredients. Have had this app less than a week and find it unusable. Want 45.00 back, refunds are not allowed. No way to eliminate meals that are not good from the menu. Most of the trackers don’t work most of the time. Limited calorie selection for foods. Others are waaaaaaay better. Sorely lacking in exercise choices to track. Says its going to send you you a weekly menu, doesn’t send until after 5 on Sunday nights, cannot choose specific foods or menus or eliminate others.
+
+Developer Response: 
+----------------------------------------------------------
+Hi, if you've purchased our Gold membership via an in app purchase, please reach out to Apple directly to request a refund - http://www.apple.com/contact/. They do not allow us to refund in app purchases.
+
+
+
+User Review: 305
+User Name: cwalker341
+User Rating: 1
+Date Time : 2019-03-15T04:58:51.000Z
+Title: Doesn’t Accurately Track Data
+----------------------------------------------------------
+I scan the labels, put in my serving size and it doesn’t accurately track my sodium intake at all. I am so frustrated and disappointed by this. No matter what I put in, the app tells me I’ve only had 1.3mg of sodium, which is completely inaccurate.  If the app is going to say that it is tracking it, then it needs to track it and not mislead me. The only thing is seems to actually track is calorie intake. However, at this stage I’m not convinced that the calories are accurate either. If it isn’t able to calculate the sodium correctly how do I know it’s tracking the calories correctly. Or anything else. I am just super frustrated by this. Please fix this!
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for giving MyPlate a try! We've actually identified and fixed the bug causing sodium and cholesterol to track inaccurately, and will be rolling out a fix in the next update for the app. Please keep an eye out for updates in the App Store, as this fix should be available soon. We apologize for the inconvenience this glitch has caused, and thank you for your extended patience while we work on correcting this and making our tracker as accurate as possible.
+
+
+
+User Review: 3716
+User Name: Kevdood83
+User Rating: 1
+Date Time : 2016-01-24T03:17:17.000Z
+Title: Glitch with macronutrients and calorie totals
+----------------------------------------------------------
+I set myself to a 1,200 calorie diet to loose weight, with 40% of my calories coming from carbs. That equals 120g of carbs a day. I entered in a banana and Chobani yogurt for breakfast, which the app correctly lists as 30g in total.... but it is telling me I'm already at 40% of my daily carbs?? That's not right... it should say 25%... basic math is not strong with this app, and basic carb counting is clearly glitched. I tried erasing and re-downloading... Same thing. I like everything else but if something as basic as carb counting is off by that much this all is useless. I hope others are over-doing or undergoing their carbs and trusting this app.
+
+
+
+User Review: 14242
+User Name: D200DSLR
+User Rating: 1
+Date Time : 2016-03-10T15:53:54.000Z
+Title: Not sure i trust it now
+----------------------------------------------------------
+I have used this app for a long time and thought it was great a few weeks ago when i was adjusting my weight after losing pounds i noticed my weight was back to the old weight the next day, same thing happened he day after that.   Yesterday it recorded i burned 28000 calories and had data from devices belonging to other people on it. I honestly have to question now if any of my information is accurate and if I have wasted my time.  I have been busting my but eating a low calorie diet and exercising and now i have to wonder how long this thing has been corrupting my data i use to keep myself on track.   There has to be a better solution
+
+
+
+User Review: 3630
+User Name: scotty321
+User Rating: 1
+Date Time : 2013-07-02T14:51:01.000Z
+Title: Annoying app
+----------------------------------------------------------
+This might be the most annoying app in the entire App Store. Every single time you enter a piece of food that you eat, it pops up with some Achievement that you've earned... and it blocks your entire screen so you can't do anything until you dismiss the achievement. There is no way to turn this off, either! We even emailed their tech support about this, and they said, "We can't find what you're talking about on our website", and we said, "No, not your website, the app!", and they said, "Sorry, we don't provide tech support for our apps." Terrible app from a terrible company. We wish we could give this app ZERO stars if we could.
+
+
+
+User Review: 393
+User Name: CChamb222
+User Rating: 1
+Date Time : 2019-02-02T16:03:08.000Z
+Title: Ridiculous menus & grocery lists
+----------------------------------------------------------
+I followed their menu and grocery lists for one month. I ended up spending 4x what I usually spend on groceries with most of it going to waste. I constantly had to sub ingredients because we don’t all live in LA. What’s the likelihood that I’m going to find fresh figs in my midwestern grocery store in  February?  Come on people. There were numerous errors in the recipes and lots of ingredients on the grocery lists that weren’t used in the recipes. I was so frustrated I stopped using the app completely and forgot about it. Six months later I got charged for an auto renewal and guess what? They are unable to process a refund.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for giving MyPlate a try, and sorry to hear about your frustration with the meal plan program. We've made a note with editorial team to review these recipes for any errors.
+
+
+
+User Review: 3616
+User Name: user5319636
+User Rating: 1
+Date Time : 2017-02-10T03:05:45.000Z
+Title: Maintain weight
+----------------------------------------------------------
+I was excited about this app and I really wanted to like it. However, one of the first questions it asks is if you want to lose or gain weight. There is no option for maintaining weight. I'm a healthy weight and have no interest in changing it--I just wanted to be able to track my nutrition. I was forced to say that I wanted to lose/gain weight when that is not true. I feel like I'm being told that I should be unhappy with my body and aim to change it. After registering an account you are able to go in to settings and choose "maintain weight". There's no reason why this can't be an option while registering your account.
+
+
+
+User Review: 3628
+User Name: BriannaJazmin
+User Rating: 1
+Date Time : 2016-03-13T22:40:08.000Z
+Title: Terrible new update!!
+----------------------------------------------------------
+I was confused as to why when I went to log my lunch all of this other data was already in my account. Random info populated over 2000 calories of added food & at a glance I'm seeing exercise & everything else for FUTURE dates. I see other people have mentioned the same problem so I really hope this gets fixed. The first thug that popped up when I opened the app after the update was an ad for the paid gold membership-HA! So glad I didn't sign up for that mess & PAY to have my data messed up. How annoying. I might be integrating my true data into Fitbit from now on & keep my information accurate, safe, & streamlined...
+
+
+
+User Review: 3418
+User Name: kittycat262728
+User Rating: 1
+Date Time : 2016-12-24T03:51:34.000Z
+Title: Doesn't automatically sync at all; zero customer support
+----------------------------------------------------------
+Count me in as yet another reviewer whose app simply won't sync to Livestrong's servers. No matter what I do, whenever I enter in new data, it won't sync on its own unless I dig down into my profile settings and hit "force sync," which is a huge pain in the neck and completely unnecessary. I contacted customer support whose response to me was to simply parrot a canned response stating that the app syncs on its own (um, no - I just told you it doesn't, so telling me that it does without acknowledging my problem is pretty obnoxious), and that if it doesn't for me I should just manually sync it every time I use the app.
+
+
+
+User Review: 3614
+User Name: Seagoon77
+User Rating: 1
+Date Time : 2015-12-15T13:46:14.000Z
+Title: Exercise calorie counter has gone haywire
+----------------------------------------------------------
+I've always disliked the fact that MyPlate doesn't accurately track calories burned when I run or bicycle -- it greatly undercounts them -- yet I've gotten used to adjusting the total after every workout. But for the past two or three months the exercise counter has been running amok; I go for a 30-minute jog and it adds 1,100 calories! Or I do an ordinary, 20-minute walk and the calorie count is either unchanged or 1,200 calories higher! I have other, minor complaints about this app, but obviously it's useless if it doesn't correctly track or retain my exercise calories. I'm going to have to find an app that does.
+
+
+
+User Review: 13976
+User Name: zAkLeSs
+User Rating: 1
+Date Time : 2020-08-12T01:29:42.000Z
+Title: Fails at the most basic function
+----------------------------------------------------------
+To add calories, you have to search for the food or scan the barcode. Not possible to enter calories manually and when choosing a food, you cannot change the amount consumed. This forces you to tell the app that you only consumed the packaged serving size or keep scanning the bar code over and over for additional servings. And if you are simply choosing a food such as “cooked rice” you cannot change the amount consumed. It’s just a full cup or whatever quantity you clicked on in your search. Very disappointed with this app, it has some other features that are really great like pairing with Apple Watch activity.
+
+Developer Response: 
+----------------------------------------------------------
+Hi zAkLeSs! Thank you for writing in! To adjust the serving size of an item you wish to track, you will want to tap on the "Servings" circle of the food item. This will populate the serving options and units of measurement that are available for that food item. Select how much of the food you ate, and then tap "I Ate This" in the top right-corner for the food item to save.
+
+
+
+User Review: 14223
+User Name: IUGWBR
+User Rating: 1
+Date Time : 2016-08-30T15:17:15.000Z
+Title: Unusable because of ads
+----------------------------------------------------------
+It started today with a pop up that says "Enter voucher code GORDIE20 20 USD in free rides". Ok, so what? it's a free app and there is going to be ads. I'll click ok, it goes away and then two seconds later it pops up with the same ad. THERE IS NO WAY TO MAKE IT STOP. I can not use this app anymore because every interaction with the interface is prevented by this stupid ad. It won't stop. Make it stop. I just want to count calories and cut weight. I will put 5 stars if you make these idiotic ads stop. Just put a banner at the bottom! That's all you have to do! I just want to ignore it and move on with my life.
+
+
+
+User Review: 3668
+User Name: Insolent-Icarus
+User Rating: 1
+Date Time : 2017-03-11T15:47:15.000Z
+Title: Interface DOWNGRADE
+----------------------------------------------------------
+So this app used to be great. Now the interface is awful. You have to make multiple clicks to enter daily information for food (one used to be able to just click lunch, dinner, weight, etc., now you you have to click an initial "track" button. Why? This is a wasted of a button and time. It also doesn't track macros the same. It used to tell you how much you've consumed. Now it tells you what you still have yet to consume. There are days I have to change my macros and so it's important I know how many I've consumed. This change doesn't help. Don't buy this app. I'm probably moving to a new one myself.
+
+
+
+User Review: 3704
+User Name: Stacy Forte
+User Rating: 1
+Date Time : 2017-03-09T20:05:16.000Z
+Title: Great app until they ruined it
+----------------------------------------------------------
+The latest update has ruined this app. I need to track total protein and fluid ounces as a bariatric patient and the update instead tries to tell me what it thinks I still need for the day. That's not what I needed, which is why I picked this app AND paid for gold status in the first place. The tracking is more convoluted and the pie chart which showed your daily percentages for fat, protein and carbs on your home page is gone. AWFUL update. You might have asked for user input before changing it. If I could get a refund on what I paid I would ask for it. Now I have to find another tracking app.
+
+
+
+User Review: 3677
+User Name: DPinch1
+User Rating: 1
+Date Time : 2017-04-26T01:07:59.000Z
+Title: Good for tracking food but not exercise
+----------------------------------------------------------
+My best advice is to be careful when inputting data. Very careful. Making changes for food is ok but DO NOT make a mistake when inputting exercise. I inadvertently added an exercise to the wrong date (next day). You cannot delete it  like you can for food. The "0" option is grayed out. Best you can hope for is reducing the exercise to one minute. But, that data still gets logged. Using the Community Board is useless and if there is a link to get technical support I wish you better luck than I had. I used to like this app but it has become more trouble than it us worth. Look elsewhere.
+
+Developer Response: 
+----------------------------------------------------------
+Hi DPinch1 - we're sorry you've had this experience. You actually can delete exercises that you've added by mistake. Scrolling down past your Food Diary will bring you to where exercise is logged. Tap on the exercise you've added, then select "Delete This Exercise" at the bottom of the screen. Please email us at support@livestrong.com if you have any questions!
+
+
+
+User Review: 409
+User Name: Ek7114
+User Rating: 1
+Date Time : 2021-08-12T19:55:31.000Z
+Title: Hard to use & confusing
+----------------------------------------------------------
+I rarely write reviews but get so annoyed while using this app I had to write one. Literally none of the food I eat which isn’t uncommon is never under the food when i search, making it annoying to have to write in all the calories and nutrition for my food. Especially if you’re someone who has a busy schedule and can’t spend 30 minutes a day tracking your food do not download this app. It shouldn’t be this difficult and makes reaching my weight loss goals so much harder. MyFitnessPal is 100x better and easier and I will be sticking with that app from here on
+
+Developer Response: 
+----------------------------------------------------------
+Hi there! We're so sorry for the frustration you've experienced. We'd love to help if you're willing to give us another shot. Please send us an email at support@livestrong.com.
+
+
+
+User Review: 3869
+User Name: Dwershi0525
+User Rating: 1
+Date Time : 2017-03-12T21:51:29.000Z
+Title: Hate latest version
+----------------------------------------------------------
+I have been using this app for over 2 years and I used to love it. They just updated the UI and now it's terrible. Takes extra taps to track, used to see %of carbs, protein, and Fat. Now you only see what's left and the total you've consumed....much preferred percentage. After using this app religiously, I sad to say I am going to look for a new one that works the way this app used to work. Why fix what wasn't broken. Seems like they made this switch in trying to get people to subscribe and PAY for an app that used to work great. Thanks for being greedy.
+
+
+
+User Review: 3907
+User Name: Caticle
+User Rating: 1
+Date Time : 2017-01-08T18:19:04.000Z
+Title: Very disappointing.
+----------------------------------------------------------
+I can't get past the sign up page. I enter all the information correctly. When I get to screen to register by Facebook or email I choose email. I put in my legitimate and correct email...I choose an 8-character long password. I keep getting a "oops you need to enter a correct email". Over and over. I deleted ap and re downloaded 3 times but this is still happening. Can u please fix this email signup glitch?  I do not have a Facebook acct nor do I want one.  The email I entered and password choice is appropriate and correct, so why isn't it working?
+
+
+
+User Review: 3839
+User Name: kkyyoollee
+User Rating: 1
+Date Time : 2016-03-28T21:29:35.000Z
+Title: Won't even let me sign in.
+----------------------------------------------------------
+I used to use this app all the time. I decided to start a diet this week and got back on today. I tried to log in to my account all morning, but it just got stuck on "syncing" forever and never went anywhere. I tried re-downloading the app, logging in through Facebook, and even tried setting up a new account because I really need the app ASAP. But alas, it had this same issue with "registering" and wouldn't let me register. I loved this app before, but I'm not going to waste my time all day on this stupid thing anymore. I'm finding something else.
+
+
+
+User Review: 583
+User Name: madashell654
+User Rating: 1
+Date Time : 2018-05-03T20:35:29.000Z
+Title: You can’t even use it
+----------------------------------------------------------
+This app use to be great. I used this app once with no problems. Now I can’t log in. No matter what I do it say “email address already in use”. Which is BULL because I created a brand new email account specifically to use this app. I thought it was my fault, that I must have done something wrong the first time. So I made the new email. But nope! This is the most infuriating app. There’s no point in it if you can’t even use it! Don’t waste your time. What’s the big secret that you have to keep our weight loss under lock and key anyway?
+
+Developer Response: 
+----------------------------------------------------------
+Hi madashell654, we'd love to help you with this. Please email us at support@livestrong.com.
+
+
+
+User Review: 3999
+User Name: anonymous reviewer 52
+User Rating: 1
+Date Time : 2017-04-03T20:34:40.000Z
+Title: Disappointing
+----------------------------------------------------------
+Out of date or inaccurate food database, and manually adding new foods is limited by not allowing enough characters for a precise name, it has a cumbersome user interface, there is not enough info in-app about the features and prices before upgrading, and also there is no way I will ever pay recurring monthly or annual fees to fully access my account.  A reasonably priced one-time fee might be acceptable, but I can't tell if that's even an option.  I will continue to use CalorieKing's desktop software and delete this frustrating app.
+
+
+
+User Review: 472
+User Name: Sterling Before
+User Rating: 1
+Date Time : 2018-07-18T15:56:04.000Z
+Title: Can’t create an account.
+----------------------------------------------------------
+The app keeps insisting that there is a network error, and it will not let me connect through Facebook or create an account on my own. I’ve tried using WiFi and data but neither are working. It kept indicating that my email was not recognized even though I tried four different emails, and it was being super picky about a user name (I tried several of those as well). This is super frustrating as it won’t even let me get started. I tried yesterday as well and the same thing happened. Probably just going to have to try a different app.
+
+Developer Response: 
+----------------------------------------------------------
+Hello! We are so sorry you faced this issue. We have been experiencing some technical difficulties on our servers. The team has been working hard to get it back up. Thanks so much for your patience. Look forward to having you around in our app! If you have any further questions, please reach us at support@livestrong.com.
+
+
+
+User Review: 467
+User Name: MM65182
+User Rating: 1
+Date Time : 2021-05-23T00:36:39.000Z
+Title: You will gain weight on this app
+----------------------------------------------------------
+I have been tracking my data for 25 years. I know my numbers. Any app that tells you that you can eat 2000 calories a day and lose weight is just broken. I would consider keeping it if I could adjust my own caloric goal but I can’t figure out how to do that. The tracking features are sufficient but I can’t see a weekly report anywhere.  My Fitness Pal is what I used for years and then one day, it just kept clocking instead of logging me in. I thought all these apps would have the same type of features but that is not the case.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there! I'm sorry that you input your information incorrectly and did not know how to correct it and did not contact support or utilize our online Community. We'd be happy to assist you with that.
+
+
+
+User Review: 3906
+User Name: BeachGirl330
+User Rating: 1
+Date Time : 2016-03-15T18:53:02.000Z
+Title: Too many issues
+----------------------------------------------------------
+Loved this app when I first started using it and lost 20 lbs, but everytime they run an update it doesn't work anymore which is getting tiresome. Have also discovered when scanning barcodes, the calorie counts are frequently wrong compared to what the package says. Thinking its time to find a more reliable app. The last update caused problems again. Followed their advice to delete and reload the app and lost every bit of data from all my hard work the past 6 months. Changing my review to one star and finding a better app.
+
+
+
+User Review: 509
+User Name: EducateUrMind
+User Rating: 1
+Date Time : 2019-09-30T17:05:46.000Z
+Title: So disappointing. Still broken
+----------------------------------------------------------
+How disappointing, even after today’s update on September 30, 2019 you are still having the same issue. Months ago I setup certain foods to reoccur. Then I change my diet and deleted those foods and turned off the reoccurring feature. Yet they still continued to reappear. Every day I have to manually delete a bunch of items. I have reached out to you two different times. Each time you say you will delete one months worth. And that’s all you can do. Are you honestly telling me your tech guys did not address this bug yet??
+
+Developer Response: 
+----------------------------------------------------------
+Hello! We're sorry for this inconvenience. A member of our team has reached out to you regarding this issue.
+
+
+
+User Review: 602
+User Name: Appuser303403
+User Rating: 1
+Date Time : 2018-07-19T05:20:09.000Z
+Title: App Fails Everytime
+----------------------------------------------------------
+I’ll start off by saying, maybe it’s just me. I’ve used the MyPlate website numerous times in the past and liked it a lot. But I can’t get this app to log into my existing account (from past use of the site), nor can I get it to create a new account for me. It gets to what may be the last step in the process and I hit NEXT and it throws an error. I’ve tried this several times with the same result which makes me insane for expecting something different I guess. Maybe it’ll be a great app for you but it’s a no-go for me.
+
+Developer Response: 
+----------------------------------------------------------
+Hello! Thank you for your feedback. Due to an outage at our data center, MyPlate experienced some functionality issues. This has been resolved and the current app version should be 100% functional. Thank you for your patience during the time our team was working on fixing the problem. We apologize for any inconvenience this may have caused. Your wellness means so much to us and our team is committed to your ongoing health and fitness success. If you have any further questions, please reach us at support@livestrong.com.
+
+
+
+User Review: 1037
+User Name: kimberlybrookeeee
+User Rating: 1
+Date Time : 2020-06-13T01:52:36.000Z
+Title: Censorship
+----------------------------------------------------------
+This app censors content and stifles human discussion. It deleted my comments in the community about eating less than their algorithms recommendation. If they want to include a section in the app for people to offer advice to other people then it shouldn’t be censored or regulated. As an American I can only support organizations that practice relentless free speech. This app is not qualified to decide what can be considered “unsafe” advice. Either allow people to speak freely or remove that feature on the app entirely.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there. Our Community Guidelines state that we will not allow promotion of unsafe methods. Our app does not allow calorie goals lower than 1,200 per day, as this is widely considered the lowest amount of calories a person can safely eat without consulting a doctor. Therefore we uphold this rule in the community for the safety of anyone who is not able to consult with a doctor. We wish you the very best on your journey!
+
+
+
+User Review: 4028
+User Name: ngseeya
+User Rating: 1
+Date Time : 2017-03-11T18:16:28.000Z
+Title: This new update is awful
+----------------------------------------------------------
+The older layout of this app was much better. The update from week of 3/10 made the interface really hard to navigate.  If you are trying to track macros(protein, carb, fat percentage) this update will not work easily for you because the pie chart that shows % of those things is gone. (App Store images show the old layout) now there are gram markers to show your intake but it doesn't do much good unless you are a math wiz while trying to keep 40% of your intake at proteins or what not. Currently looking for a new app!
+
+
+
+User Review: 14206
+User Name: Pumkin53
+User Rating: 1
+Date Time : 2017-03-11T22:57:53.000Z
+Title: Please bring back the old UI
+----------------------------------------------------------
+I hope the product team reads these reviews.  Why would you remove existing functionality in an update?  Many of your users are bariatric and keto dieters, who closely monitor their protein, carb and fat intake on a daily basis.  Not only did you remove this functionality, you also changed the interface to require MORE taps before logging meals and water.  WTH?  I've happily used this app for 18 months, but now I had to download MFP so I can track my macros.  I'm sad, hope you bring back the previous functionality.
+
+
+
+User Review: 62
+User Name: henry_lee__
+User Rating: 1
+Date Time : 2018-03-30T20:43:20.000Z
+Title: Frustrating
+----------------------------------------------------------
+This app is highly refined, very clear in design and presentation, but, I find it functionally useless. In stead of recipes that I can build then log servings, I have to disaggregate every meal and parse out ingredient amounts by servings. If I need to edit a meal, that is next to impossible as the “edit” link in the meal is so small, I can’t activate it to make changes. When setting up my physical characteristics, it pulled in Health Kit information, but on the main tracking page it displayed an incorrect weight.
+
+Developer Response: 
+----------------------------------------------------------
+Hi daseinx, thank you for your honest feedback. We've passed your comments on to our team for review.
+
+
+
+User Review: 3868
+User Name: Jake1667
+User Rating: 1
+Date Time : 2017-03-12T00:42:28.000Z
+Title: Recent Update Ruined App
+----------------------------------------------------------
+This app had previously worked wonderfully for me. I used it to lose over 50lbs. Loved the way you could track calories, macronutrients, water, and have everything right there. With the recent update, that has all changed. It is very difficult to track macronutrients now, and in order to see everything, you have to scroll through the app. It used to all be in a box at the top of the screen. I'm not sure why they felt the need to change the app, but they completely ruined it. I will be looking for a new app to use.
+
+
+
+User Review: 616
+User Name: finnaee
+User Rating: 1
+Date Time : 2020-12-18T01:30:22.000Z
+Title: New Update: Lost all of my weight progress
+----------------------------------------------------------
+Instead of a line graph with every single day of recorded weight, they replaced it with every week, and now using a bar type graph. I have been recording my weight every single day for years on this app and now it is all gone. The line graph visualized my weight loss as well as calories and macronutrients and the new graph shows nothing. Very disappointed. If the graphs return to the old way I will take this review down because this has been a LIFE-CHANGING app for me. Hope this message reaches the developers!
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your review and feedback. We’ve just released an update to the app addressing these concerns. Please update to version 5.31.0. If you still have questions or concerns, please send us an email at support@livestrong.com.
+
+
+
+User Review: 457
+User Name: Zip Zoo
+User Rating: 1
+Date Time : 2021-01-04T12:39:40.000Z
+Title: Used to be a good app before changes to progress tracking
+----------------------------------------------------------
+The latest upgrade of this app, with its *revamped* progress section has rendered it useless. I’ve been using it for years and found the detail for tracking progress over time, especially for maintaining weight, quite helpful. I often go long periods of time without entering information, and the app used to provide the ability to check in once in a while and be able to maintain a record. The *simplified* and utterly truncated visuals and timeline are not worthless. I will be looking for another tracking app.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your review and feedback. We’ve just released an update to the app addressing these concerns. Please update to version 5.31.0. If you still have questions or concerns, please send us an email at support@livestrong.com.
+
+
+
+User Review: 562
+User Name: dcdc2010
+User Rating: 1
+Date Time : 2018-06-01T18:36:25.000Z
+Title: Awful app. Just deleted all my data
+----------------------------------------------------------
+I've been using it for over a year. A few days ago, I think after an update, the app started demanding that I log in. For some reason it didn't recognize my email. Their tech support was less than useless. Kept repeating that they can't find my account. Doh. Didn't I just tell you that I was using your freaking app for over a year. Anyway, eventually I was able to start it up but now all my collected / customized food data and other records for over a year are wiped out!!! Great job whoever wrote this thing!
+
+Developer Response: 
+----------------------------------------------------------
+Hello, we're so sorry for the inconvenience. Please email us at support@livestrong.com for assistance.
+
+
+
+User Review: 4029
+User Name: Tirreniaman
+User Rating: 1
+Date Time : 2018-10-03T17:59:56.000Z
+Title: Not a friendly app
+----------------------------------------------------------
+This app leaves a lot to be desired. there are very few options available to choose grams, oz,etc.  I can choose a serving and then a portion of a serving.  I would prefer to be able to add grams or oz. by the number.  I weigh most of my food and to be able to add the amount by weight would be a great help.  in addition, when I change my profile weight and receive a recommended daily calorie  intake the app does not change to the new allowances even though I saved the changed.  That said, I'll keep looking.
+
+
+
+User Review: 14205
+User Name: Sharpie987
+User Rating: 1
+Date Time : 2017-03-10T19:00:00.000Z
+Title: Bring back the old version!!!!!
+----------------------------------------------------------
+I am very disappointed with the recent upgrade (downgrade)!!!! I used to love this app but it is now useless for my needs. I am on a keto diet and need to see the percentage of calories coming from fat, protein, and carbs. This feature is gone! It looks like you have to pay for this now, but the android app has not changed and it's still available on the free version. The overall look of the app is horrible now too! Please bring back the old version! Until then it's useless to me and I will not be using it.
+
+
+
+User Review: 684
+User Name: rapture197
+User Rating: 1
+Date Time : 2019-12-24T01:26:12.000Z
+Title: My child can’t use
+----------------------------------------------------------
+My child has to gain weight so I decided to download this app to help her track what she is eating and track her calories. I was very disappointed when we put in her birthdate and it said that she is not eligible to use the app. I feel like you should be able to use this at a younger age as some parents need something to help their child track calories for weight gain. I will use this if they add this feature but I suggest using a different app if you need a calorie and weight gain tracker for kids.
+
+
+
+User Review: 14321
+User Name: Don't fix it
+User Rating: 1
+Date Time : 2013-09-26T16:49:05.000Z
+Title: If its not broken
+----------------------------------------------------------
+I loved this app that is until  the last update. It crashes all the time no matter what you try to do with it. Why they changed to color from the live strong yellow and blue to orange and blue is beyond me. Basically they killed a great app and added a stupid bar code scanner that doesn't work hardly at all its a waste of time . The app is now crap . When it WAS working it was awesome! My advise is - Don't fix it if its not broken !  You better fix it now because you really broke it this time.
+
+
+
+User Review: 551
+User Name: What can I do to fix my app?
+User Rating: 1
+Date Time : 2018-07-18T20:27:08.000Z
+Title: Updated my app, now I can’t get in
+----------------------------------------------------------
+I updated this app this morning.  I tried to log in and it keeps telling that there is an error and try back later.  I tried through Facebook same problem.  I thought maybe I forgot my password and tried to recover my password.  Gives me the same error.  I have been using this app for a couple months and have recommended it to everyone.  I thought about reinstalling the app, but I don’t want to lose my information. I wish I wouldn’t have updated.  Everything was working fine.  What can I do?
+
+Developer Response: 
+----------------------------------------------------------
+Hello! Thank you for your feedback. Due to an outage at our data center, MyPlate experienced some functionality issues. This has been resolved and the current app version should be 100% functional. Thank you for your patience during the time our team was working on fixing the problem. We apologize for any inconvenience this may have caused. Your wellness means so much to us and our team is committed to your ongoing health and fitness success. If you have any further questions, please reach us at support@livestrong.com.
+
+
+
+User Review: 704
+User Name: Maggie <3
+User Rating: 1
+Date Time : 2021-02-04T05:06:37.000Z
+Title: So disappointed
+----------------------------------------------------------
+I was so upset when the weight tracking graph changed to a bar graph and was relieved to see the developers response to complaints and their plans to restore it. Well, I just updated to the new version which was meant to address the issue and was very disappointed to see that the old line graph is not back. It is a new line graph that essentially looks and functions just like the bar graph. Its almost impossible to visualize my progress with these graphs and I just want the old one back.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Maggie! Thank you for your review and feedback. I'm sorry to hear that you do not like the new graph. Can you tell us specifically what about the graph is difficult for you to visualize. Please reach out to us at support@livestrong.com.
+
+
+
+User Review: 663
+User Name: idontknowwhy??
+User Rating: 1
+Date Time : 2020-06-06T22:19:45.000Z
+Title: Password issues and no help
+----------------------------------------------------------
+I have an account, and just purchased the gold package, and I’m getting emails. However my password is not working and needs a reset. Customer Service says they can’t find me. I am having trouble finding the change I joined. I’m so frustrated with this app. I hope someone will reach out to me and let me know how I don’t have an account when you took my money and are sending me emails, and I’m logging meals etc I need to log on via PC because the online Articles are too small to read.
+
+Developer Response: 
+----------------------------------------------------------
+Hello! We're so sorry you've had trouble accessing your account! I believe you have an open ticket with our customer support team. Please be sure to keep working with them so we can resolve this for you.
+
+
+
+User Review: 745
+User Name: LynneSB
+User Rating: 1
+Date Time : 2018-09-18T10:23:11.000Z
+Title: Disappointed, can’t trust iPhone version
+----------------------------------------------------------
+Doesn’t give full info on my iPhone. One example: when I looked up egg on my eye iPhone the nutritional value for cholesterol count said 0. This misinformation could be dangerous if one has high cholesterol and it was some other food that is not so obviously wrong. On the computer app it had right info 186.5. That is quite a difference. On foods I’m not familiar with their specific nutritional info I can not trust this app. How unfortunate. Hope you fix this, it could be dangerous.
+
+Developer Response: 
+----------------------------------------------------------
+Hi LynneSB! We're aware of the issue with cholesterol tracking and we're working on a fix. We're so sorry for this inconvenience.
+
+
+
+User Review: 743
+User Name: Houseguru4
+User Rating: 1
+Date Time : 2018-07-18T03:47:44.000Z
+Title: Can’t login
+----------------------------------------------------------
+I’ve been using this app on and off for years now and love it.  The problem is there will be random times when it won’t log me in no matter what I do.  It sits in a never ending loading state and then eventually times out. I’ve forced closed the app, restarting my phone, uninstalling and reinstalling.  Nothing fixes the issue.  I’ve even tried creating a new account instead of using FB to login and it still won’t work.  Would love to get this resolved so I can go back to using it!
+
+Developer Response: 
+----------------------------------------------------------
+Hello! Thank you for your feedback. Due to an outage at our data center, MyPlate experienced some functionality issues. This has been resolved and the current app version should be 100% functional. Thank you for your patience during the time our team was working on fixing the problem. We apologize for any inconvenience this may have caused. Your wellness means so much to us and our team is committed to your ongoing health and fitness success. If you have any further questions, please reach us at support@livestrong.com.
+
+
+
+User Review: 577
+User Name: popseavey
+User Rating: 1
+Date Time : 2021-01-25T16:59:02.000Z
+Title: 5.30 update is junk
+----------------------------------------------------------
+Recent changes no longer display important nutritional data with the granularity we enjoyed before this last update.  As someone with type 2 diabetes losing detailed carb data is a problem.  The app also used to flag days when daily targets were exceeded by changing the bar data from green to red.  It no longer shows daily granularity and now provides a useless bar graph. I’ll have no choice but switch to another app since i cant view last 90 days in detail for my A1C tracking.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for your review and feedback. We’ve just released an update to the app addressing these concerns. Please update to version 5.31.0. If you still have questions or concerns, please send us an email at support@livestrong.com.
+
+
+
+User Review: 4288
+User Name: PixelPixie*
+User Rating: 1
+Date Time : 2016-03-10T13:25:07.000Z
+Title: Whoever wrote this update should be fired!
+----------------------------------------------------------
+Totally agree with Brendarino - useless!  I too had random info pre-added today.  Upon deleting each item individually I discovered the only 'recent' exercises available were 'iPhone Steps'.  Hey guys-not everyone uses an Apple Watch!   Also, there's no delete for the amount of water.  You get negative stars from me even if I have to give at least one to get this posted.    This used to be one of the best fitness apps, but with this update it's getting DELETED from my devices.
+
+
+
+User Review: 109
+User Name: Tikur_Anbesa
+User Rating: 1
+Date Time : 2019-09-29T04:33:33.000Z
+Title: Version 5.20.1 still Slooowwwww
+----------------------------------------------------------
+Your latest update really didn’t do any good. It didn’t fix as stated in the response to my previous review. This app, has turned to a buggy useless app. It takes ages to enter data once the app is launched. I would say on average it takes 8-10secs to, for example tap Breakfast and wait for that to open then again that long to look for food and save... it’s really annoyingly slow that I’m looking into if the apps provided by others are a better alternative and jumping ship.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there. We're so sorry for the continued frustration. Our team is working on this issue right now. We hope to have a solution for you ASAP. Please feel free to check in at support@livestrong.com with any questions.
+
+
+
+User Review: 798
+User Name: Mike Needs Refund ASAP
+User Rating: 1
+Date Time : 2019-07-04T13:37:24.000Z
+Title: Watch out for automatic Renewal!
+----------------------------------------------------------
+Once you purchase the full App there is no way to get out! Deleting the App does not stop your renewal. There is no easy way in the App to Cancel. Once the Parent Company LiveStrong has your account number they never ask your permission or alert you that they are taking another $30 a year later. What kind of unscrupulous Buisness does that. No phone number to call, no “Cancel Anytime” option within the App. Oh ya but they sure make it easy to buy their products in the App.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Mike! We're so sorry for any confusion. You are alerted to the auto-renewal of the subscription during checkout. To cancel, please do the following:
+
+
+
+User Review: 4189
+User Name: Okaaayevy
+User Rating: 1
+Date Time : 2017-08-23T15:36:05.000Z
+Title: Horrible
+----------------------------------------------------------
+This app is just so horrible Every time I go on the app it tells me the calories I've lost and it just keeps losing calories by itself every time I log in on the app the calories change it's so annoying even when I am not moving it changes by itself it's so stupid and also I tried to edit an exercise I did I tried changing the number of minutes I did it for and it just kept adding more and more calories this app needs work!!!! I am just very unhappy with this app
+
+Developer Response: 
+----------------------------------------------------------
+Hi there. We are so sorry for the experience you've had! We would love to assist you with the issues you have reported. Please email us at support@livestrong.com so that we can help you out!
+
+
+
+User Review: 4578
+User Name: Ckadz11246
+User Rating: 1
+Date Time : 2017-03-12T19:58:33.000Z
+Title: Hate the update
+----------------------------------------------------------
+As many previous reviews have stated, I used to love this app before the update. I loved the way I could track my carbs, protein and fat for the day on a user friendly pie chart. Now the app only tells me what I have left for the day, which means I have no way of quickly knowing how many grams I've eaten if I go over. I'm guessing they switched so people would upgrade to gold but it's ridiculously overpriced. I'll be deleting this and switching to something else.
+
+
+
+User Review: 822
+User Name: Elizabeth Snyder
+User Rating: 1
+Date Time : 2018-01-17T11:58:54.000Z
+Title: Awful start! Not an app for a healthy lifestyle...
+----------------------------------------------------------
+If you already have a healthy lifestyle and diet this is NOT the app for you. To even start you have to choose if you want to gain or lose weight.... well that means this app only applies to people who fall into those categories. I already like my diet, weight, body, exercise, just want to track the things I put in my body to make sure I’m staying nutritionally balanced. Why do we have to base all our consumption on discontentment? Very disappointed livestrong.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Elizabeth! The option to maintain your weight is available! To change your goals, please tap the person icon in the upper left corner of the app's home screen. Tap your profile picture. From this screen, you can change your Weekly Target. The option to maintain will be located at the very top of the list. Please feel free to email us at support@livestrong.com with any questions!
+
+
+
+User Review: 4337
+User Name: Dannie T-Hawk
+User Rating: 1
+Date Time : 2017-03-13T06:35:36.000Z
+Title: Newest update is a mess
+----------------------------------------------------------
+The newest update completely changed the look of the app. It is no longer user friendly. The app is clunky and it is hard to read your stats at a glance. Additionally, you can no longer collect your mPoints. I have over 1,000 mPoints that I cannot collect bc they refuse to resolve whatever issue prevents me from connecting to collect them. It's time for a new app. After nearly 9 years using MyPlate and 5 years using the app, it has become completely useless.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Dannie- we wanted to let you know that we've emailed you via our support desk to give you an update on your issue! Please check it out!
+
+
+
+User Review: 1125
+User Name: What?... 34
+User Rating: 1
+Date Time : 2020-06-09T18:16:12.000Z
+Title: Very damaging
+----------------------------------------------------------
+I’m 16 and this app helped me develop an eating disorder that hospitalized me. Using this app gives you a VERY poor relationship with food. If you are searching to loose weight this is not the way. There needs to be a disclaimer that it promotes ED behaviors (such as calorie counting). This app should only be used by people who have been told by their doctor they need to lose weight. Too many perfectly healthy people are using it to become slimmer.
+
+Developer Response: 
+----------------------------------------------------------
+Hello. We're so sorry to hear this. MyPlate does not promote eating disorders, and we work very hard to direct users in our community who are suffering from this to the appropriate resources. We strive to offer tools to help people live their lives in the healthiest way possible.
+
+
+
+User Review: 4479
+User Name: AudNC
+User Rating: 1
+Date Time : 2016-04-13T01:30:01.000Z
+Title: THE SEARCH FUNCTION IS TOTALLY USELESS!
+----------------------------------------------------------
+Since the latest update the search function DOES NOT WORK AT ALL!  Not to mention the scan function isn't either.  Now, the only food I can only log is food previously stored in my recent foods!  What good is this app if I can't search food I would like to log?  Please fix this ASAP!  I have been very disappointed that for MONTHS this app worked perfectly fine for my everyday needs and with the latest a updates there has been nothing but glitches!
+
+
+
+User Review: 4180
+User Name: Lulu2008
+User Rating: 1
+Date Time : 2016-03-10T17:49:10.000Z
+Title: It WAS my favorite but they completely destroyed it with the last update
+----------------------------------------------------------
+I was a real fan of this app. I even paid for a premium subscription. I went to log my dinner last night only to discover that they had mixed my logs with someon else's! All my logs are now useless! I contacted support only to be told they were working on it and to log into the website as that was still OK... Well, it happened there too... This was not just a little bug it was a HUGE bug that made the app useless... Back to the old stand by I go.
+
+
+
+User Review: 5181
+User Name: Bobjones76543
+User Rating: 1
+Date Time : 2016-03-10T14:14:02.000Z
+Title: Same as above
+----------------------------------------------------------
+I woke up this morning as a 5'6, 140 lb woman. (If I was a 5'6, 140 lb woman, I wouldn't be trying to lose weight.) Then I got a message thanking me for signing up for premium which I didn't. I'm waiting to hear back about whether or not I got charged for this. Anyway, I agree with the person above me. How does my information get mixed up with someone else's? And I feel bad for whoever got my stats because they probably gained 100 lbs overnight.
+
+
+
+User Review: 766
+User Name: ;;$3&$
+User Rating: 1
+Date Time : 2020-10-26T05:14:46.000Z
+Title: Unable to use app
+----------------------------------------------------------
+I have several problems, first is that I downloaded the app sometime ago and registered but didn’t get around to trying to use it until now. So I don’t remember my password, I’ve gone through the forgot password process five times and still no email and yes I checked the junk folder. Second and most frustrating is that since I can’t log in I can’t get anywhere to contact someone regarding the problem which leads me to coming here to complain
+
+Developer Response: 
+----------------------------------------------------------
+Hi there! We're sorry to hear you are experiencing issues logging in. Please reach out to us at support@livestrong.com and we'll take care of it right away. Thanks!
+
+
+
+User Review: 797
+User Name: Not loving memories
+User Rating: 1
+Date Time : 2019-07-28T16:22:50.000Z
+Title: Frustrated after one day
+----------------------------------------------------------
+I felt like everything I tried to track was incorrect. I would be looking at the nutrition facts on the label and the app is telling me all different numbers. Also when you search something basic to track it brings up such random items! I was trying to track a plum (like a real plum, a piece of fruit, actually food) and I had to scroll through multiple plum flavored drinks and snacks before I could find it. It should be the other way around.
+
+Developer Response: 
+----------------------------------------------------------
+Hello! We apologize for the frustration. MyPlate uses a third party food database called Nutritionix. As food manufacturers continue to update the nutritional labels on their products to meet new FDA-required guidelines, Nutritionix is working hard to make the changes on their end as well.
+
+
+
+User Review: 4404
+User Name: Lpatvh
+User Rating: 1
+Date Time : 2016-03-18T00:29:15.000Z
+Title: No longer can log in
+----------------------------------------------------------
+After using this app for over a year I find myself locked out. I have sent emails to the support people and even they cannot figure out why I can't log in. They changed my password and kept telling me try again. Nothing! I have deleted and reinstalled, turned my phone off completely and tried using a different email address. Still I can't log in. Time to throw in the towel and find a new app. I'm disappointed bc this was a really great app.
+
+
+
+User Review: 5078
+User Name: Justuskurtz
+User Rating: 1
+Date Time : 2017-03-10T16:27:50.000Z
+Title: Hate the update
+----------------------------------------------------------
+I used to love this ap for the main purpose of tracking how many grams of protein, fat and carbs I've eaten for the day. The new version only tells you how many you have left to eat for the day based on a percentage that relates to your goal calorie intake. So I'll be looking for a new macro tracker that allows me to track it, the original way. I'm a trainer and used to recommend this ap to every client on their very first day. Not anymore.
+
+
+
+User Review: 1099
+User Name: jfsupflg😄🤤⏰😃😊😃🤞🥺🛍😁☺️
+User Rating: 1
+Date Time : 2020-05-15T01:37:40.000Z
+Title: Room for improvement
+----------------------------------------------------------
+This app wasn’t the greatest and could use a major remodeling. It is great for tracking calories, but there is literally millions of calorie tracking apps. I feel like the community is way to toxic and judgmental and I just think that the app needs to look more modernly appealing, improve community and be more unique. I would love to give it a higher rating, but I was always told to be honest, so here’s my non-sugarcoated, harsh truth.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there. We're so sorry you've had this experience. We work hard to create a community that is open and supportive of everyone. If you feel that our guidelines have been violated, please send us an email at support@livestrong.com.
+
+
+
+User Review: 14041
+User Name: Boo👎🏽👎🏽👎🏽
+User Rating: 1
+Date Time : 2018-06-08T21:49:51.000Z
+Title: Not worth it
+----------------------------------------------------------
+I’ve been doing this for freaking 3 months straight and I’ve stayed under calories and even bought the premium pakage to help and I’ve only lost freaking 3 pounds! And to make it even harder it doesn’t know ANY FREAKING FOODS and then you try to scan the bar code and guess what it doesn’t work then you try to do a “Quick add” or a “Create your own” (which is when you put in all the nutrients facts in by your self) AND IT FIESNT WORK!!!
+
+
+
+User Review: 5149
+User Name: plsdontgetthisitsveryhorrible
+User Rating: 1
+Date Time : 2014-12-22T02:42:29.000Z
+Title: Do not
+----------------------------------------------------------
+Don't get this app if your under 20. They will deem you a child and everything you do, say, or ask will disregarded. That or people will talk down to you and team up to bully you. It's quite sad actually. These people have been there so long that if you don't praise what they say, your wrong and will be humiliated. It's not worth it community wise. Also, the app itself recommends too low of a calorie count, it made me physically sick.
+
+
+
+User Review: 5323
+User Name: zeng1rl
+User Rating: 1
+Date Time : 2013-07-01T18:03:04.000Z
+Title: This app was once awesome...
+----------------------------------------------------------
+I loved this app when it first came out - it was simple and concise. It helped me count and track calories (based on brand and portion size), breaking the calories down into carbs, fats, and protein. But the "upgrades" made this app OVERLY complicated - only someone with NO life could spend so much time focused on so many details. I check back in periodically to see if they've made improvements to this app, but sadly they haven't...
+
+
+
+User Review: 290
+User Name: Texanmutt
+User Rating: 1
+Date Time : 2017-10-23T01:04:04.000Z
+Title: Amateur hour of software development
+----------------------------------------------------------
+App is buggy and the user experience is terrible. You run into issues that any software development team with any pride or QA testing would not have let ship to customers. Simple or stuff like entering in a meal and all the vales are 2 decimal points off (eg 2 grams becomes .02 g), random blocks on the screen not properly formatting, crashes, freezing, etc. put in a support case in after 10 days have not heard anything back.
+
+Developer Response: 
+----------------------------------------------------------
+Hi Texanmutt! We're so sorry for the experience you've had. We've resolved the formatting and crashing issues with our latest update, released on Friday. The decimal point issue is something that our team is aware of and is working to fix. In the meantime, you can create a custom item with correct macros by tapping My Foods and then Create New Food. We don't see a support email from the email we have on file for your account. So sorry about that! Please send us another email so that we can assist you further.
+
+
+
+User Review: 4384
+User Name: Career_college_student
+User Rating: 1
+Date Time : 2014-07-14T10:55:19.000Z
+Title: Loses all data frequently
+----------------------------------------------------------
+I'd normally recommend this app, but lately it had been freezing and erasing all of my data. This has happened twice; once before I had synced my web account and once after. That's over a year worth of data gone. Using Myfitnesspal as a source of nutritional information and writing it down in a book seems more reliable. I only mention the other app because myplate doesn't have as much food items in its database as the other.
+
+
+
+User Review: 4838
+User Name: Mikagooddog
+User Rating: 1
+Date Time : 2017-08-09T18:38:06.000Z
+Title: Why is 'joining' required?
+----------------------------------------------------------
+Deleted right after install and first attempt at using it. I just want to count calories, not become a 'member' of yet another group. I'd probably pay a few bucks to use without registering or signing in. I have been told by the developer that registering is so I 'can accurately track and save [my] progress!' to which I call BS; plenty of apps store data locally without my registering. Registering is so THEY can track ME!
+
+Developer Response: 
+----------------------------------------------------------
+Hello! We require you to register so that you can accurately track and save your progress!
+
+
+
+User Review: 1042
+User Name: Joshburbine
+User Rating: 1
+Date Time : 2018-09-03T05:30:54.000Z
+Title: Useless
+----------------------------------------------------------
+This app is completely useless when it comes to meal prepping. You have no choice in foods you like or dislike. They give a lot of food I would never eat, with no alternative options. Additionally, buying all of that food would be very expensive. It would be great if they have meal option for breakfast lunch and dinner, make the app feel more personal. If I could give it a lower star than 1, I would. Highly disappointed.
+
+
+
+User Review: 4742
+User Name: David Fauser
+User Rating: 1
+Date Time : 2016-04-17T23:05:11.000Z
+Title: MyPlate App
+----------------------------------------------------------
+I really liked this program until I got an offer for a $1000 gift card.  It looked real but it was a scam after 15 minutes of answering question, I still did not get the card.  I thought the people that designed this app should screen there advertisers better.  I feel really deceived and plan to find another app the does not scam their customers. Just think what do they do with the information we input to this program.
+
+
+
+User Review: 1065
+User Name: Maggie0526
+User Rating: 1
+Date Time : 2018-07-18T13:06:27.000Z
+Title: Started good then...
+----------------------------------------------------------
+Started tracking and it worked well. After a month it stopped searching for food (no results). Is this to get us to upgrade?  I literally can’t use this unless it’s logging a food I previously logged. Can’t enter new foods unless I am ok with it setting a serving at 500 calories. It won’t let me edit. So frustrating. I downloaded MyFitnessPal and have switched to that now. I liked this app. Too bad it stopped working.
+
+Developer Response: 
+----------------------------------------------------------
+Hello! Thank you for your feedback. Due to an outage at our data center, MyPlate experienced some functionality issues. This has been resolved and the current app version should be 100% functional. Thank you for your patience during the time our team was working on fixing the problem. We apologize for any inconvenience this may have caused. Your wellness means so much to us and our team is committed to your ongoing health and fitness success. If you have any further questions, please reach us at support@livestrong.com.
+
+
+
+User Review: 862
+User Name: overbeforeitbegan
+User Rating: 1
+Date Time : 2018-03-18T17:32:16.000Z
+Title: Log in issues
+----------------------------------------------------------
+Just got the app, decided to upgrade after setting up my account but now can not get into my account. I’ve tried having my password reset but haven’t received the email even though it’s been sent several times. The app recognizes my email as in use if I try to set up another account so my email has to be correct. Pretty much just paid for nothing. Was really looking forward to using this but am simply frustrated now.
+
+Developer Response: 
+----------------------------------------------------------
+Hi there. Please email us at support@livestrong.com so we can reset your password for you.
+
+
+
+User Review: 1089
+User Name: peckt9034
+User Rating: 1
+Date Time : 2021-03-11T05:04:05.000Z
+Title: App counts calories wrong
+----------------------------------------------------------
+I have tracked my food and had a consumed total calories of 2324 although it’s actually 2491 fats:87 carbs:247 protein:180 witch totaled up equals 2491 not 2324 so if you actually care about your calories being correctly added up you should definitely go with a different app. Would love a response on why this system is messed up only noticed it because I was over on all of my macros but still under my calorie limit
+
+Developer Response: 
+----------------------------------------------------------
+Hi there! Thanks for the review and feedback. We'd love to look into this. Please contact us at support@livestrong.com.
+
+
+
+User Review: 14
+User Name: Disappointed_Customer123
+User Rating: 1
+Date Time : 2019-04-25T16:13:07.000Z
+Title: Limited app; don’t bother with membership
+----------------------------------------------------------
+This app is useful for tracking calories, though MyFitness Pal has way more products in their database than My Plate. I had a hard time finding many of the things I eat in their database and ended up guessing a lot; their portion size presets mostly didn’t make sense with the foods I was trying to enter either. But if you just want to loosely track activities and what you are eating, this app will do the trick.
+
+Developer Response: 
+----------------------------------------------------------
+Thanks for installing and trying MyPlate, and thank you for making time to write a review!
+
+
+

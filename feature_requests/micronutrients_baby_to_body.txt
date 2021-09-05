@@ -1,0 +1,93 @@
+'Micronutrients' related feature requests in baby_to_body reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 5
+
+
+review id: 3
+
+matches and contexts:
+
+match = iod
+context = ome workout during my pregnancy and quarantine period. I added my goal of exercising 4 days a week f
+
+
+id: 3 | rating: 3 | user: Alessandra Hirai | date: 2020-05-26 | time: 03:10:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Repetitive exercises, not exactly designed for pregnant women
+--------------------------------------------------------------------
+
+I subscribed this app as an option for a home workout during my pregnancy and quarantine period. I added my goal of exercising 4 days a week for about 30-40min. At the beginning I noticed that the videos was always crashing, so an exercise plan of 40 minutes normally takes longer as it restart the whole exercise. The plans are pretty similar, over and over, and not only there is a slim model on the videos (not a pregnant woman on an exercise app designed for pregnant women) but also a bunch of lunges for example and other exercises not really good or comfortable for 20+ weeks pregnancy. There is a huge amount of repetitive exercises during a pla. I’m 23 weeks pregnant and it has increasing the number of lunges and other extreme exercises as well as sending longer plans (47 minutes). They offer repetitive shorter options in case you wanna reduce your time, but really, same exercises all the time! I will not continue with my subscription and I’m extremely disappointed! Do not recommend!
+
+
+review id: 5
+
+matches and contexts:
+
+match = iod
+context =  will continue with the app beyond the initial period I’ve already paid for.
+
+
+id: 5 | rating: 2 | user: cstell12345 | date: 2020-05-09 | time: 11:20:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Limited Variation and ability to customize
+--------------------------------------------------------------------
+
+I was excited to have an app to lead me through home workouts during pregnancy especially during quarantine. At the start (in second trimester), I was enjoying the app overall. My biggest complaint was that I didn’t feel I was getting enough cardio and there is no way (so far as I can tell) to customize the workout type (eg have more  cardio routines to select from in a given week) apart from repeating a workout. As the weeks have gone on, as other reviewers have noted, it seems the exercises are just recycled —I’m doing the same exercises I have been, perhaps just in different order, for several weeks without any new additions mixed in. In addition, the trainer in the video barely appears pregnant so in my third trimester I’m following someone that has a lot more range of mobility etc. it seems for a pregnancy dedicated app, the very least it could do would be to film instructors at about the appropriate prenatal stage...  there is a lot of room for improvement and I don’t feel I will continue with the app beyond the initial period I’ve already paid for.
+
+
+review id: 21
+
+matches and contexts:
+
+match = iod
+context = austed days during my pregnancy and postpartum period. My only complaint is that I can’t listen to m
+
+
+id: 21 | rating: 5 | user: a_manderss | date: 2018-10-10 | time: 21:22:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!
+--------------------------------------------------------------------
+
+Definitely worth the $6.99 a month price tag! The “thought of the day” quote helped me get through a lot of challenging and exhausted days during my pregnancy and postpartum period. My only complaint is that I can’t listen to music on my phone while following the workout. Makes working out at the gym a little boring since I enjoy working out to music. Overall, a great app with lots of yummy recipes, helpful tips, and great advice for staying emotionally, physically and mentally strong ♥️
+
+
+review id: 76
+
+matches and contexts:
+
+match = iod
+context = wish they had more workouts for the postpartum period! That’s the only thing keeping me from purchas
+
+
+id: 76 | rating: 4 | user: ama11a | date: 2019-02-02 | time: 06:17:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Great workouts for pregnant women- just wish there were more postpartum workouts
+--------------------------------------------------------------------
+
+LOVE the workouts! They’re challenging without being too strenuous for a tired third-trimester momma. My only feedback is I wish they had more workouts for the postpartum period! That’s the only thing keeping me from purchasing the lifetime subscription.
+
+
+review id: 220
+
+matches and contexts:
+
+match = iod
+context = or. There’s also tons of other features like a period and ovulation tracker, different meal recipes 
+
+
+id: 220 | rating: 5 | user: AJ72097 | date: 2021-03-22 | time: 15:23:25.000Z
+
+--------------------------------------------------------------------
+                      Title: I love this app!  A bit pricy, but so worth it.
+--------------------------------------------------------------------
+
+I love this app. The workouts are easy and fun. I am not someone who enjoys exercising, but this app keeps me motivated. I’ve never had an issue with bugs or glitches (surprisingly considering I have an older iPhone), and I just love the general layout of the app. Everything is easy to find, and there’s a ton to do. You get a new selection of workouts every week, and most of them you need little to no equipment for. There’s also tons of other features like a period and ovulation tracker, different meal recipes each week, and a ton more. My husband and I are currently trying for our first, and there’s even a setting specifically for women trying to conceive.
+
+

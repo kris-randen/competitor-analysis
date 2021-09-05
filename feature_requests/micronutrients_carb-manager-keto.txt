@@ -1,0 +1,1590 @@
+'Micronutrients' related feature requests in carb-manager-keto reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 92
+
+
+review id: 12
+
+matches and contexts:
+
+match = micro
+context = I need. I have the premium so I can also track my micronutrients.  (Electrolytes!) The free version 
+
+
+id: 12 | rating: 5 | user: Jgil1970 | date: 2018-10-16 | time: 16:59:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Easiest to use for LCHF
+--------------------------------------------------------------------
+
+I’ve been using the app daily for more than 7 months now.  I’m down 58lbs, and I think carb manager has helped me stay on track.  It’s easy to use, and provides all the information I need. I have the premium so I can also track my micronutrients.  (Electrolytes!) The free version works as well, so there’s no need to purchase the premium version.
+
+
+review id: 67
+
+matches and contexts:
+
+match = vitam
+context =  every day, use more salt, and added a cheap multivitamin, C, and D for days I don’t get good balanc
+
+
+id: 67 | rating: 5 | user: Erinire | date: 2020-12-05 | time: 21:04:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Works
+--------------------------------------------------------------------
+
+It helped me loose 50 lbs in a year.  Took a month off, working on my next fifty now.  It is critical that you log everything BEFORE you eat it!   I tried the free version for about three days then paid for a year, it was totally worth it for the recipes, and to have it pull in data from my second Fitbit.    My lessons:   I do much better when I log water, don’t ignore that.   Short morning walk make a huge difference.  I drink an Ultima every day, use more salt, and added a cheap multivitamin, C, and D for days I don’t get good balance.  I know I would’ve gotten better results if I do exercise more but I’m just lazy. I have a cheat day once a month where I eat everything I want and a cheat meal once a week where I don’t get too crazy.  I did it with my wife and we joined a couple keto groups on Facebook for more crazy recipes. Good luck!
+
+
+review id: 145
+
+matches and contexts:
+
+match = sodium
+context = even paid for the premium today so I could see my sodium. I thought to myself “this app is so great 
+
+
+id: 145 | rating: 2 | user: Miya6 | date: 2019-09-28 | time: 22:49:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Thought it was great at first.
+--------------------------------------------------------------------
+
+Ok ... I totally loved this app when I started using it 4 days ago. I even gave up “myfitnesspal “ for this one. I even paid for the premium today so I could see my sodium. I thought to myself “this app is so great ; I want to give them $40 a year anyways just to support you guys.”  Now I’m starting to see a lot of errors when logging food. Like 3 net carbs for shrimp. Um... no. It even says in the nutrients info within the app when you scroll down that it is less than 1 gram. And if I edit the portion to correct the net carbs ; then all my other macros are off.  This is only one example. I’m finding numerous tnite. A lot of scanning Items and net carbs aren’t correct.
+
+
+review id: 147
+
+matches and contexts:
+
+match = micro
+context = ease. The upgraded version allows me to track the micronutrients that are now restricted in my menus
+
+
+id: 147 | rating: 5 | user: Abbie1dog | date: 2019-09-22 | time: 12:30:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use! More than a diet app!
+--------------------------------------------------------------------
+
+I started out using this app to track my carbs. At my age (looking at 70, soon) I wanted to be more pro active in preventing many conditions that come with age and genetics. This app is perfect for me. I especially like how the scan feature helps me at the grocery store! I decided to purchase the upgraded version. Shortly after that, I was diagnosed with kidney disease. The upgraded version allows me to track the micronutrients that are now restricted in my menus! My numbers began to fall into almost normal range. My nephrologist was amazed at how well I was managing my dietary restrictions. When I told him about Carb Manager, he said he would look into it for several other patients. THANK YOU, CM.
+
+
+review id: 155
+
+matches and contexts:
+
+match = iod
+context = e like I purchased the app during this upgrade period and it took a while to finally update for me. 
+
+
+id: 155 | rating: 5 | user: NadiaH. | date: 2021-01-14 | time: 23:16:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Unable to sync Fitbit...ugh! - re-review
+--------------------------------------------------------------------
+
+Initially I gave this app 2 stars for my issue below. The support center reached out to me today (2 days after my request). This was the response: “ Hi there, There have been updates to the new version of the app for syncing fitness devices!”. So it seems to me like I purchased the app during this upgrade period and it took a while to finally update for me. Either way, I’m very happy with Carb Manager! I look forward to losing weight with this app.
+
+
+review id: 160
+
+matches and contexts:
+
+match = vitam
+context = arbs and, especially, that it allows you to track vitamin supplements.  There are many other health-
+
+
+id: 160 | rating: 5 | user: Alsoomse | date: 2018-04-02 | time: 12:04:00.000Z
+
+--------------------------------------------------------------------
+                      Title: This app is amazing
+--------------------------------------------------------------------
+
+I had downloaded this app awhile ago but used another food tracking app until recently.  I decided to give this one a try, and am very happy that I did.  I like the way that the app tracks carbs and, especially, that it allows you to track vitamin supplements.  There are many other health-related factors that can be tracked besides weight, and this feature is very useful to me.  When using the other app, I was wishing that it included certain features.  My regret about this one is that I didn’t give it a closer look earlier - all the features that I want in a nutrition and physical well-being app are included in Carb Manager.  Outstanding!
+
+
+review id: 176
+
+matches and contexts:
+
+match = iod
+context = onths and I won’t be using this crap! No trial period so you are just hosed! Good idea but bad mobil
+
+
+id: 176 | rating: 1 | user: Esp8 | date: 2021-08-22 | time: 18:04:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Not as good as ratings
+--------------------------------------------------------------------
+
+Having used other apps like this before, I wanted to try something new at the suggestion of a friend. I upgraded to the premium version to access meal plans and recipes. First problem I had is if you tap to generate a plan you have to wait because there is delay. Didn’t realize this because I tapped again and it brought me all the way to the beginning and I lost the customized plan that took me 40minutes to build after going through looking at all the recipes and such. Then I lost time again after finally getting a plan to finding where it is. It doesn’t really give you the portions or tell you how much you should be consuming based on the macros in the plan. Overall disappointed I paid for 3 months and I won’t be using this crap! No trial period so you are just hosed! Good idea but bad mobile rollout in my opinion. Wouldn’t recommend!
+
+
+review id: 202
+
+matches and contexts:
+
+match = sodium
+context =  carbohydrates that I put into my body as well as sodium, fats and proteins. The only issue I have w
+
+
+id: 202 | rating: 4 | user: PWhizzy | date: 2019-06-04 | time: 15:24:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Best app for Keto lifestyle management
+--------------------------------------------------------------------
+
+This app is the best by far keto lifestyle management tool that I’ve seen in the App Store. Having said that, I was able to track all the carbohydrates that I put into my body as well as sodium, fats and proteins. The only issue I have with this app is the price. I personally think it’s too high for an app. But in carb managers defense all the other apps for keto or diet... price around the same range. I am only using the free version at this time, I think I am going to pull the trigger and buy a subscription to the app because I do think it’s a great tool that I need in my arsenal. Paradise ain't free, all of the high-quality things have to be paid for in order for you to enjoy them.
+
+
+review id: 220
+
+matches and contexts:
+
+match = micro
+context =  enough to accurately track the keto diet macro & micronutrients.
+
+
+id: 220 | rating: 5 | user: pwamss | date: 2018-07-15 | time: 00:33:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Has been excellent for keto diet
+--------------------------------------------------------------------
+
+I have had the Lose It app for years and happily paid for Premium version because the app & its features are great.  That app, however, is just not targeted enough to accurately track the keto diet macro & micronutrients.
+
+
+review id: 231
+
+matches and contexts:
+
+match = vitam
+context = I would love to be able to select the vitamin while under the “in depth” column and be t
+
+
+id: 231 | rating: 5 | user: calbarkat | date: 2018-03-21 | time: 19:19:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Almost perfect
+--------------------------------------------------------------------
+
+I would love to be able to select the vitamin while under the “in depth” column and be taken to a page with the percentage of that vitamin broken down by the food that accumulated that total. For example, if I’m at 60% vitamin A, I would like to be able to select it and see what foods got me to that 60%. It would help me identify what I need to incorporate more or less in my daily diet to insure I’m getting the best possible ratio of nutrients.
+
+
+review id: 276
+
+matches and contexts:
+
+match = micro
+context = ut there for calorie management, macro goals, and micro nutrient tracking.   It has a great social a
+
+
+id: 276 | rating: 5 | user: ac4u22 | date: 2021-02-10 | time: 17:35:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Best App out there, not just for keto!
+--------------------------------------------------------------------
+
+I got this app because I was trying Keto.  However I have shifted my macro goals and this app is still the best out there for calorie management, macro goals, and micro nutrient tracking.   It has a great social aspect that has helped me and a friend keep each other accountable.   The customer support is quick to reply and very friendly and helpful.   All around this is the best app for anyone trying to track their caloric intake, to help meet goals, and become a healthier person.   Thank you for all you guys do and the new update is awesome!
+
+
+review id: 312
+
+matches and contexts:
+
+match = micro
+context = net carbs this app does plus tracks all the other micronutrients  The reports are awesome. The only 
+
+
+id: 312 | rating: 5 | user: copahee | date: 2019-06-30 | time: 16:48:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Data entry needs work
+--------------------------------------------------------------------
+
+Overall a great app. I used to use My Fitness Pal which I liked a lot. MFP didn’t calculate net carbs this app does plus tracks all the other micronutrients  The reports are awesome. The only complaint I have is when editing names and foods on both my iPad and iPhone it gets crazy. Insert the cursor where you want to edit, hit backspace one character disappears but the cursor jumps to the end of the window, sometimes the edit window closes as soon as the first character is entered. Very frustrating. Fix that and it’s a 5 star.
+
+
+review id: 313
+
+matches and contexts:
+
+match = micro
+context =  many months. It’s and easy quick way to track my micros on my Keto lifestyle. I have some other hea
+
+
+id: 313 | rating: 4 | user: McBx4 | date: 2020-02-19 | time: 21:52:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Problems after moving the app into a iOS folder
+--------------------------------------------------------------------
+
+I have been using the premium erosion of Carb Manager for many months. It’s and easy quick way to track my micros on my Keto lifestyle. I have some other health related apps and wanted to organize them into one folder on my iPhone. Since moving them, I have had so many crashes using the app that I cannot use it anymore. I moved the app out of the folder but the app won’t even open now. I suppose it could be coincidence with an app update. I don’t know but I need help to get the app working again. How do I get assistance with the app?
+
+
+review id: 337
+
+matches and contexts:
+
+match = micro
+context = od as Chronometer for visualizing % completed for micronutrients. I think it should be an easy fix t
+
+
+id: 337 | rating: 3 | user: Octopuscandysticks | date: 2020-05-26 | time: 15:49:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app but...
+--------------------------------------------------------------------
+
+Great app for macros but not as good as Chronometer for visualizing % completed for micronutrients. I think it should be an easy fix to show all of the micronutrients bars in one place vs. having to flip through each of them individually from a drop down so I’m very surprised this is not already a feature.
+
+
+review id: 370
+
+matches and contexts:
+
+match = vitam
+context =  app was to see in detail my daily percentages of vitamin intake. I wanted to know how close I am to
+
+
+id: 370 | rating: 4 | user: billym92 | date: 2018-02-05 | time: 14:20:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Everything I hoped and almost perfect.
+--------------------------------------------------------------------
+
+What I wanted from this app was to see in detail my daily percentages of vitamin intake. I wanted to know how close I am to reach my daily goal. What I like very much about this app is the ability to select a food or custom input data then see my result. It’s great! ***my one improvement to the app would be time stamps for meals. I’d like to see when I last ate. This would make me check the app more often and also be helpful to me.*** You do have to pay for the detailed feature. I am currently trying it for one month at 8 bucks.
+
+
+review id: 409
+
+matches and contexts:
+
+match = iod
+context = on and it only allowed a change in the billing period/type but no option to cancel.  This seems pret
+
+
+id: 409 | rating: 1 | user: Fangs2 | date: 2020-09-29 | time: 22:47:26.000Z
+
+--------------------------------------------------------------------
+                      Title: The app is ok but
+--------------------------------------------------------------------
+
+It works fine but I personally found low carb unpalatable on a long term basis.  I want to cancel my subscription but can’t find a way to do it. In settings the website option says it will send an email with instructions. Tried it twice and received no email.  Tried the iPad option and it only allowed a change in the billing period/type but no option to cancel.  This seems pretty shady way to keep a subscription running when a person wants to cancel.  Could someone advise me how to cancel?
+
+
+review id: 422
+
+matches and contexts:
+
+match = micro
+context =  so I can see easily where I am for the day on my micros.
+
+
+id: 422 | rating: 4 | user: CathysTurn | date: 2018-02-01 | time: 20:38:25.000Z
+
+--------------------------------------------------------------------
+                      Title: I love the look of this app
+--------------------------------------------------------------------
+
+Every food item has an icon that goes with it. I like that the graph is at the top of the page so I can see easily where I am for the day on my micros.
+
+
+review id: 441
+
+matches and contexts:
+
+match = iod
+context = ot monthly. The other complaint I have is that periodically the app devs rollback features on non su
+
+
+id: 441 | rating: 5 | user: Kyaecker | date: 2018-06-08 | time: 15:15:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Very good app but... is it crippleware?
+--------------------------------------------------------------------
+
+Great for Keto if you spend $40 a year. Unfortunately the billing is all in one lump sum and not monthly. The other complaint I have is that periodically the app devs rollback features on non subscribers. What once was a feature you are used to using has been locked out until you pay. Almost sounds like a master marketing plan. It Gets you used to something that you can’t live without then bam pay up. Still a good app even though it is yes, crippleware
+
+
+review id: 444
+
+matches and contexts:
+
+match = micro
+context = mmend this for anyone who manages their macro and micronutrients on a daily basis. The only reason I
+
+
+id: 444 | rating: 4 | user: pokramer | date: 2018-11-07 | time: 14:57:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Fabulous, but no offline mode
+--------------------------------------------------------------------
+
+Fantastic app! I love all the premium settings and would highly recommend this for anyone who manages their macro and micronutrients on a daily basis. The only reason I took away one star is because the app does not have an offline setting. Considering that other “calorie counting” apps (like Livestrong) DO offer a limited but still functioning app when offline, I encourage the tech wizards of this app to get on that and OFFER IT!!
+
+
+review id: 576
+
+matches and contexts:
+
+match = iod
+context = ph. It tells me how many pounds I’ve lost in a period of time - whether it be one week, one month, t
+
+
+id: 576 | rating: 5 | user: shermama522 | date: 2021-04-09 | time: 15:30:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Lost 30 pounds in 3 months using this app!
+--------------------------------------------------------------------
+
+First of all, the daily log rings are super visual, and I love that about it. It’s helped me keep on track by sending me helpful reminders to log every meal. I also love the weight tracker and seeing my progress in a graph. It tells me how many pounds I’ve lost in a period of time - whether it be one week, one month, three months, or a whole year! Super great app for eating keto and losing weight! 🙌🏼
+
+
+review id: 581
+
+matches and contexts:
+
+match = micro
+context =  app. I have found this app very easy to use. The microphone feature is very handy. You can speak a 
+
+
+id: 581 | rating: 5 | user: Idrillem | date: 2018-10-08 | time: 12:57:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use
+--------------------------------------------------------------------
+
+I tried several nutrition apps before settling on this one. Like everyone i rarely pay for apps, so when i do its an important app and it has to be a good app. I have found this app very easy to use. The microphone feature is very handy. You can speak a list of foods you are eating/have eaten and it will enter them all. I have found its database to be very extensive as well. There are few foods that it does not have.
+
+
+review id: 619
+
+matches and contexts:
+
+match = vitam
+context = ut this one has a better food database and it has vitamin and mineral info too. Altogether, it just 
+
+
+id: 619 | rating: 5 | user: smalltalker2 | date: 2019-08-15 | time: 05:14:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Got this to reduce carbs
+--------------------------------------------------------------------
+
+I don’t know if Keto diet is for me, but this app is definitely making me aware of my carb intake. I also use the Fitbit app, but this one has a better food database and it has vitamin and mineral info too. Altogether, it just blows the Fitbit app out of the water! Note, I paid for the premium plan because I want the get real serious about losing 15 pounds and improving my health. So far, I think this app will help me get there.
+
+
+review id: 645
+
+matches and contexts:
+
+match = micro
+context = estaurant items, which help you keep up with your micros, total carbs and calories on the go. It als
+
+match = iod
+context = ently, so that I may easily add them to a meal period during the day. It’s got a large “library” of 
+
+
+id: 645 | rating: 5 | user: Sweetp4me | date: 2020-09-04 | time: 15:45:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Has Made Keto So Easy!
+--------------------------------------------------------------------
+
+I love this app mainly because it’s user-friendly. I’m able to scan products that I buy and eat frequently, so that I may easily add them to a meal period during the day. It’s got a large “library” of grocery and restaurant items, which help you keep up with your micros, total carbs and calories on the go. It also has some wonderful recipes. And this is the free version!!
+
+
+review id: 674
+
+matches and contexts:
+
+match = micro
+context = nyone to use it it’s easy. Make sure you turn the microphone on and use it it’s easier than searchin
+
+
+id: 674 | rating: 5 | user: €%#><~}{ | date: 2019-01-15 | time: 18:21:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Best thing since Sliced bread
+--------------------------------------------------------------------
+
+I was having great trouble counting carbs until I found this app yesterday. Go on with the voice adding your food it makes life a lot easier. I never realised there was such a thing and so glad that I found it and I urge anyone to use it it’s easy. Make sure you turn the microphone on and use it it’s easier than searching for food and typing it in great app
+
+
+review id: 743
+
+matches and contexts:
+
+match = micro
+context = ind. The ability to customize my goals for macros/micros/calories helps immensely. It’s also great t
+
+
+id: 743 | rating: 5 | user: Glamadom | date: 2021-02-15 | time: 21:57:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Actually the best
+--------------------------------------------------------------------
+
+I don’t write reviews, this app actually is the best I’ve found if it’s kind. The ability to customize my goals for macros/micros/calories helps immensely. It’s also great to be able to create my own recipe, so whenever I make a big stew or stir fry, I create a recipe with everything I added and divide by my estimated servings and tada! Accurate info on my homemade concoction. That’s priceless to me.
+
+
+review id: 1142
+
+matches and contexts:
+
+match = micro
+context =  was going to have a hard time tracking my macros/micros. I love how easy it is to search or scan ba
+
+
+id: 1142 | rating: 5 | user: AJones-BeautifulAndFabulous | date: 2020-04-23 | time: 14:56:12.000Z
+
+--------------------------------------------------------------------
+                      Title: Making KETO Beginner Life EASY
+--------------------------------------------------------------------
+
+I’ve been wanting to start KETO but knew I was going to have a hard time tracking my macros/micros. I love how easy it is to search or scan bar codes to find out how keto appropriate food is! AND you can add in custom foods for the recipes you find online. My friend recommended this and it beats the standards diet app!
+
+
+review id: 1206
+
+matches and contexts:
+
+match = sodium
+context = hey put a lot of work into it. But it’s missing a sodium tracker in it list of totals. I think that 
+
+
+id: 1206 | rating: 4 | user: Cylus13 | date: 2019-08-17 | time: 02:37:36.000Z
+
+--------------------------------------------------------------------
+                      Title: The only thing missing.
+--------------------------------------------------------------------
+
+This is a really great app. They put a lot of work into it. But it’s missing a sodium tracker in it list of totals. I think that is something very important for us over 40 types who are trying to get healthy again.
+
+
+review id: 1230
+
+matches and contexts:
+
+match = iod
+context = hasing the subscription. I would prefer  trial period. If i can't even log one day to try it out, I 
+
+
+id: 1230 | rating: 5 | user: cheddarkopf | date: 2017-09-19 | time: 08:18:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Must purchase to have adequate trial.
+--------------------------------------------------------------------
+
+I think the app would work very well for a Keto dieter, however you can only log 9 items a day without purchasing the subscription. I would prefer  trial period. If i can't even log one day to try it out, I am not going to purchase the app.
+
+
+review id: 1261
+
+matches and contexts:
+
+match = micro
+context = ng from, and this app auto enters all the macros, micros, calories. So easy.
+
+
+id: 1261 | rating: 5 | user: Kilagin11 | date: 2018-03-04 | time: 15:30:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use
+--------------------------------------------------------------------
+
+My favorite feature is the scan: hold your phone up to the barcode of the package you are eating from, and this app auto enters all the macros, micros, calories. So easy.
+
+
+review id: 1345
+
+matches and contexts:
+
+match = iod
+context = After a short introduction period and use it is simple works well and is accurat
+
+
+id: 1345 | rating: 5 | user: markdointheketo | date: 2019-01-14 | time: 18:50:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Works better than advertised
+--------------------------------------------------------------------
+
+After a short introduction period and use it is simple works well and is accurate
+
+
+review id: 1360
+
+matches and contexts:
+
+match = micro
+context = e of ads and be able to link my Fitbit and see my micronutrients.
+
+
+id: 1360 | rating: 3 | user: BonnieJHG | date: 2018-06-12 | time: 03:41:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Works well
+--------------------------------------------------------------------
+
+I’ve been using the app for a week. It’s relatively intuitive to use and the database seems very robust. The reason I only gave three stars is that a very large portion of the features require a premium membership, whereas other trackers I’ve used, such as MyFitnessPal, include those features for free. I’d rather see a couple of ads and be able to link my Fitbit and see my micronutrients.
+
+
+review id: 1390
+
+matches and contexts:
+
+match = micro
+context = uy premium comes on. Why is it you cannot use the microphone to say what you were eating? And I don’
+
+
+id: 1390 | rating: 3 | user: Rettab84 | date: 2018-03-12 | time: 16:23:31.000Z
+
+--------------------------------------------------------------------
+                      Title: Microphone
+--------------------------------------------------------------------
+
+I want to understand this a little better. Why would I want to do certain things the screen for to buy premium comes on. Why is it you cannot use the microphone to say what you were eating? And I don’t have time or the patience to measure everything out exactly so a lot of the stuff makes it hard to add food. Just as bad as doing weight watchers
+
+
+review id: 1480
+
+matches and contexts:
+
+match = vitam
+context =  own, you can even keep track of your meds and/or vitamins.
+
+
+id: 1480 | rating: 5 | user: Miss Yari | date: 2019-01-21 | time: 18:58:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Best App for Any Diet!
+--------------------------------------------------------------------
+
+Whether you’re doing any version of Keto or simply want to properly keep track of your diet this is the app for you. You can use pre-existing options or create your own, you can even keep track of your meds and/or vitamins.
+
+
+review id: 1490
+
+matches and contexts:
+
+match = vitam
+context = u would need to know (carbs, fats, protein, iron, vitamins, etc.). Seriously great!
+
+match = iron
+context = hat you would need to know (carbs, fats, protein, iron, vitamins, etc.). Seriously great!
+
+
+id: 1490 | rating: 5 | user: Jnettlesgirl | date: 2017-12-26 | time: 20:52:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Amazing!
+--------------------------------------------------------------------
+
+This is exactly what I was looking for. Add your own recipes or just look up foods. Either way it’s great. It tells you your macro counts and it even break down your food to show you all the info that you would need to know (carbs, fats, protein, iron, vitamins, etc.). Seriously great!
+
+
+review id: 1714
+
+matches and contexts:
+
+match = micro
+context = ow carb lifestyle. But it falls short on tracking micronutrients which can be so important in changi
+
+
+id: 1714 | rating: 3 | user: Comnav | date: 2019-12-15 | time: 17:06:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Need better micronutrient tracking
+--------------------------------------------------------------------
+
+I love this app for macro tracking and overall tracking for the low carb lifestyle. But it falls short on tracking micronutrients which can be so important in changing to a healthy lifestyle. Please add the ability to track more micronutrients or input our own. We also need better reporting on micronutrients.
+
+
+review id: 1752
+
+matches and contexts:
+
+match = sodium
+context =  I would like to do but can’t easily is break out sodium content of my individual meals or snacks. I
+
+
+id: 1752 | rating: 5 | user: lolo444777 | date: 2020-05-24 | time: 15:33:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Love everything + sodium tracking note
+--------------------------------------------------------------------
+
+Love everything about this app. The one thing I would like to do but can’t easily is break out sodium content of my individual meals or snacks. I would love to be able to do that!
+
+
+review id: 1920
+
+matches and contexts:
+
+match = iod
+context = y grams of carbs down to only 15 in a 3-4 hour period in order to burn fat and to get my A1C level b
+
+
+id: 1920 | rating: 5 | user: 45 Gianna | date: 2017-09-11 | time: 01:11:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Paleo diet tool
+--------------------------------------------------------------------
+
+I want to keep my grams of carbs down to only 15 in a 3-4 hour period in order to burn fat and to get my A1C level below 5.0. This app is great for meal planning and tracking calories, protein, fat, carbs and other nutrients. It has supplement values and exercise values.
+
+
+review id: 1994
+
+matches and contexts:
+
+match = micro
+context = I downloaded this app to keep track of micros. So far it is working pretty good. Its free
+
+
+id: 1994 | rating: 5 | user: Raven39 | date: 2019-04-17 | time: 19:25:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Good for keeping track of micros
+--------------------------------------------------------------------
+
+I downloaded this app to keep track of micros. So far it is working pretty good. Its free and you can upgrade for more in depth tracking and recipes for a monthly fee if you want. I choose not to.
+
+
+review id: 2248
+
+matches and contexts:
+
+match = micro
+context =  tried to help, but could not figure out why some micronutrients are not added by the app. Deal-brea
+
+
+id: 2248 | rating: 3 | user: Disabled RN | date: 2020-07-23 | time: 05:24:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Helpful for Keto. But micro nutrient counts unreliable
+--------------------------------------------------------------------
+
+Bought and used extensively for weeks Not quite as user-friendly as hoped. Had some challenges trying to maneuver. Support tried to help, but could not figure out why some micronutrients are not added by the app. Deal-breaker for me.  I need that info. Requesting a refund.
+
+
+review id: 2557
+
+matches and contexts:
+
+match = micro
+context = um version. Now that I’m really into tracking the micronutrients, I would like more micronutrients t
+
+
+id: 2557 | rating: 4 | user: Builderway | date: 2019-12-07 | time: 15:06:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Micronutrient info
+--------------------------------------------------------------------
+
+I really like this app. I have the premium version. Now that I’m really into tracking the micronutrients, I would like more micronutrients tracked. There are items disclosed on the food packages than what show up in the tracker.
+
+
+review id: 2621
+
+matches and contexts:
+
+match = iod
+context = ractive/real-time way to track/monitor fasting periods. Other than that, it’s great!
+
+
+id: 2621 | rating: 4 | user: iLove Mystery Games | date: 2019-05-21 | time: 15:07:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App for low carb/Keto lifestyle!!
+--------------------------------------------------------------------
+
+I’ve finally found an app that Fits my low carb tracking needs! I would rate it at 5 stars if there were a more interactive/real-time way to track/monitor fasting periods. Other than that, it’s great!
+
+
+review id: 2696
+
+matches and contexts:
+
+match = magnes
+context =  a great macro tracking app! I do wish it tracked magnesium, potassium, and sodium as a whole like M
+
+match = sodium
+context = p! I do wish it tracked magnesium, potassium, and sodium as a whole like MFP. That would be great fo
+
+
+id: 2696 | rating: 4 | user: JaeHebert | date: 2018-02-19 | time: 16:05:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App for Keto
+--------------------------------------------------------------------
+
+This is a great macro tracking app! I do wish it tracked magnesium, potassium, and sodium as a whole like MFP. That would be great for the Keto users. Also I wish the food entered was audited and more consistent. Sometimes it’s way off due to inaccurate data by users.
+
+
+review id: 3111
+
+matches and contexts:
+
+match = vitam
+context = ccurate so don’t count on this if you’re tracking vitamins/minerals.
+
+
+id: 3111 | rating: 2 | user: terrible1234689647 | date: 2020-09-21 | time: 17:34:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Vitamin/Mineral content inaccurate
+--------------------------------------------------------------------
+
+It seems that users can edit macronutrients at will to reflect whatever they want so you need to cross check everything you log. A lot of the amounts listed are wildly inaccurate so don’t count on this if you’re tracking vitamins/minerals.
+
+
+review id: 3292
+
+matches and contexts:
+
+match = sodium
+context =  to discontinue the keto diet because if the high sodium products. Please discontinue my subscriptio
+
+
+id: 3292 | rating: 5 | user: mldco | date: 2020-05-09 | time: 02:24:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Carb manager
+--------------------------------------------------------------------
+
+I have been diagnosed with congestive heart failure and have been advised to discontinue the keto diet because if the high sodium products. Please discontinue my subscription. Thank you
+
+
+review id: 3484
+
+matches and contexts:
+
+match = vitam
+context = er and easy to use measure and scan your food and vitamins before using you will enjoy it ❤️❤️
+
+
+id: 3484 | rating: 5 | user: joe-aiad-soha | date: 2019-03-27 | time: 06:32:38.000Z
+
+--------------------------------------------------------------------
+                      Title: Carb manager
+--------------------------------------------------------------------
+
+Is the best application ever and easy to use measure and scan your food and vitamins before using you will enjoy it ❤️❤️
+
+
+review id: 3605
+
+matches and contexts:
+
+match = vitam
+context = The old version tracked nutrients such as vitamins and supplements so you could see if you w
+
+match = iron
+context = ts so you could see if you were short of calcium, iron, vitamin D, etc,.  The new version did away w
+
+match = calci
+context = supplements so you could see if you were short of calcium, iron, vitamin D, etc,.  The new version d
+
+
+id: 3605 | rating: 1 | user: ForestRunnerOR | date: 2021-02-09 | time: 00:16:38.000Z
+
+--------------------------------------------------------------------
+                      Title: They removed nutrient tracking
+--------------------------------------------------------------------
+
+The old version tracked nutrients such as vitamins and supplements so you could see if you were short of calcium, iron, vitamin D, etc,.  The new version did away with this. You are left in the dark with this update. I have already cancelled my subscription to the paid version.
+
+
+review id: 3690
+
+matches and contexts:
+
+match = micro
+context = ch easier I just log and it keeps track of all my micros!
+
+
+id: 3690 | rating: 5 | user: Ariants | date: 2018-05-04 | time: 18:02:41.000Z
+
+--------------------------------------------------------------------
+                      Title: I love it
+--------------------------------------------------------------------
+
+It makes my life so much easier I just log and it keeps track of all my micros!
+
+
+review id: 3776
+
+matches and contexts:
+
+match = iod
+context =  update. Have only had for the initial 3 month period and knew I should have opted out. Unable to mu
+
+
+id: 3776 | rating: 2 | user: 4yearsurvivor/stage3 | date: 2021-01-31 | time: 15:42:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Updated version crashes
+--------------------------------------------------------------------
+
+Not impressed with latest update. Have only had for the initial 3 month period and knew I should have opted out. Unable to multi-add more than 2 items at a time and then it froze.
+
+
+review id: 4113
+
+matches and contexts:
+
+match = micro
+context = I love how thorough the micro and macro nutrients are. But it’s a pain hav
+
+
+id: 4113 | rating: 4 | user: Kiandets99979 | date: 2018-03-19 | time: 18:14:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Keeps me on track
+--------------------------------------------------------------------
+
+I love how thorough the micro and macro nutrients are. But it’s a pain having to add food because so much of it seems to be missing in the app.
+
+
+review id: 4175
+
+matches and contexts:
+
+match = sodium
+context = Tracking sodium intake is so important on keto. It makes me
+
+
+id: 4175 | rating: 3 | user: rippedoff273738489 | date: 2020-06-03 | time: 14:36:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Can’t track sodium :/
+--------------------------------------------------------------------
+
+Tracking sodium intake is so important on keto. It makes me sad that this was left out of the free version. I’ve never seen that done in a good tracking app before.
+
+
+review id: 4623
+
+matches and contexts:
+
+match = sodium
+context = ing for a replacement. Won't pay $8+/month to see sodium content of foods.
+
+
+id: 4623 | rating: 1 | user: Kt1957 | date: 2018-03-11 | time: 17:32:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Standard app crippled to support premium
+--------------------------------------------------------------------
+
+This used to be a great app, but key features once available (like full nutritional info for logged foods) now require buying the premium version. Looking for a replacement. Won't pay $8+/month to see sodium content of foods.
+
+
+review id: 4673
+
+matches and contexts:
+
+match = vitam
+context = Spinach and almonds record 0% vitamin E. This is incorrect. No contact info. To 
+
+
+id: 4673 | rating: 1 | user: Taaaketo kid | date: 2018-02-19 | time: 00:27:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Doesn't record nutrients correctly
+--------------------------------------------------------------------
+
+Spinach and almonds record 0% vitamin E. This is incorrect. No contact info. To report error. Will have to find another app that works properly.
+
+
+review id: 4735
+
+matches and contexts:
+
+match = vitam
+context = I wish it would show you your vitamin in take like the MyFitnessPal does.
+
+
+id: 4735 | rating: 4 | user: rahsha26 | date: 2021-04-06 | time: 18:47:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Vitamin
+--------------------------------------------------------------------
+
+I wish it would show you your vitamin in take like the MyFitnessPal does.
+
+
+review id: 4761
+
+matches and contexts:
+
+match = micro
+context = Makes it so easy to track my micros and keep my Keto diet in check!
+
+
+id: 4761 | rating: 5 | user: 1099Girl | date: 2019-02-03 | time: 17:24:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this App!
+--------------------------------------------------------------------
+
+Makes it so easy to track my micros and keep my Keto diet in check!
+
+
+review id: 4870
+
+matches and contexts:
+
+match = sodium
+context = My only regret is that it doesn’t track sodium and sugar.
+
+
+id: 4870 | rating: 5 | user: SD2056 | date: 2019-01-21 | time: 15:39:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Carb Manager
+--------------------------------------------------------------------
+
+My only regret is that it doesn’t track sodium and sugar.
+
+
+review id: 4903
+
+matches and contexts:
+
+match = micro
+context =  new upgrade took away the ability to run a macro/micro report detailing all with custom dates. I do
+
+
+id: 4903 | rating: 1 | user: EManwater | date: 2021-02-14 | time: 16:54:59.000Z
+
+--------------------------------------------------------------------
+                      Title: Deleted Report
+--------------------------------------------------------------------
+
+The new upgrade took away the ability to run a macro/micro report detailing all with custom dates. I do not want to take a daily snapshot or only be able to run a daily report. Very disappointing.
+
+
+review id: 5049
+
+matches and contexts:
+
+match = micro
+context = than half it says can’t be found or has the wrong micros listed. Please fix!
+
+
+id: 5049 | rating: 1 | user: hikergrl75 | date: 2021-01-16 | time: 20:15:47.000Z
+
+--------------------------------------------------------------------
+                      Title: New update
+--------------------------------------------------------------------
+
+This app will not work half time time now. And when it does all the food I scan more than half it says can’t be found or has the wrong micros listed. Please fix!
+
+
+review id: 5110
+
+matches and contexts:
+
+match = iod
+context =  tell because you have to buy it first. A demo period would be nice.
+
+
+id: 5110 | rating: 2 | user: PBOWEN | date: 2018-09-25 | time: 04:03:33.000Z
+
+--------------------------------------------------------------------
+                      Title: Features?
+--------------------------------------------------------------------
+
+This seems like it has a lot of cool features, but you can’t tell because you have to buy it first. A demo period would be nice.
+
+
+review id: 5180
+
+matches and contexts:
+
+match = micro
+context =   Very helpful and motivating to track macros AND micros!
+
+
+id: 5180 | rating: 5 | user: Teachum | date: 2021-03-26 | time: 14:58:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App
+--------------------------------------------------------------------
+
+So easy to use!  Very helpful and motivating to track macros AND micros!
+
+
+review id: 5577
+
+matches and contexts:
+
+match = omega
+context = Very good, but would love to see omega 3 and omega 6 able to be tracked on the free
+
+
+id: 5577 | rating: 4 | user: Anita Listen to Great Music | date: 2021-02-02 | time: 17:01:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Very good
+--------------------------------------------------------------------
+
+Very good, but would love to see omega 3 and omega 6 able to be tracked on the free version. Love the graphs.
+
+
+review id: 5611
+
+matches and contexts:
+
+match = vitam
+context =  and supplements. The only downside is putting in vitamins is a pain. There should be a way to switc
+
+
+id: 5611 | rating: 3 | user: lazulistar | date: 2018-07-30 | time: 00:35:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Almost perfect
+--------------------------------------------------------------------
+
+I have been trying out two diet apps back to back and find Carb Manager easier to use. You can track not only your weight but measurements and ketones and supplements. The only downside is putting in vitamins is a pain. There should be a way to switch to percentages or IU, but it is stuck in mg/mcg which makes me end up spending way too much time to figure out how much I am getting. The other app I use is all percentages which makes entering custom food quick and easy. The other thing I actually HATE is if you go over your carbs for the day (I had 4 cups of Broccoli for dinner so yeah) your bar/meter goes completely red and makes you feel as if you messed up. They need to get rid of that because I feel as if I am being punished for going say 1 or 2 carbs over my macro amount. I can understand if you went say 40 carbs over then yeah maybe but the red carb meter is too off putting. The app should be rewarding, not punishing. It is easier to look up foods but a lot in the system had nutrition all wrong so I am spending more time entering my food. I don’t see myself sticking with this app unless a few things are changed. I much prefer the other app as it rewards you plus was $10 cheaper for premium. Still I like this app but those few things take up too much time or aggravate me.
+
+
+review id: 5734
+
+matches and contexts:
+
+match = micro
+context = Great app! I use it for tracking my micros for the Keto diet, seriously great app!
+
+
+id: 5734 | rating: 5 | user: Chelseasmithphotos | date: 2018-05-25 | time: 19:08:04.000Z
+
+--------------------------------------------------------------------
+                      Title: 👍🏼 for Keto!
+--------------------------------------------------------------------
+
+Great app! I use it for tracking my micros for the Keto diet, seriously great app!
+
+
+review id: 5747
+
+matches and contexts:
+
+match = micro
+context = App is fantastic for calculating your macros and micros with an incredible list of foods in the ind
+
+
+id: 5747 | rating: 5 | user: tdhgham | date: 2020-03-03 | time: 02:41:05.000Z
+
+--------------------------------------------------------------------
+                      Title: TDH GC
+--------------------------------------------------------------------
+
+App is fantastic for calculating your macros and micros with an incredible list of foods in the index!
+
+
+review id: 5862
+
+matches and contexts:
+
+match = iod
+context = App was great until the trial period was up and then you had to sign up for Premium
+
+
+id: 5862 | rating: 1 | user: Voicewriter | date: 2018-03-07 | time: 00:05:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Limited 👎
+--------------------------------------------------------------------
+
+App was great until the trial period was up and then you had to sign up for Premium.  I’ll look for something else.
+
+
+review id: 6165
+
+matches and contexts:
+
+match = vitam
+context = Add a section to track supplements and vitamins or meds respectively.
+
+
+id: 6165 | rating: 5 | user: rhe 😍 | date: 2019-08-25 | time: 15:46:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Add this 1 thing to make it perfect
+--------------------------------------------------------------------
+
+Add a section to track supplements and vitamins or meds respectively.
+
+
+review id: 6376
+
+matches and contexts:
+
+match = iod
+context = ll I want is a count of carb, fat and protein. Period.
+
+
+id: 6376 | rating: 1 | user: Al Geared | date: 2017-06-27 | time: 13:02:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Time to drop this app...
+--------------------------------------------------------------------
+
+I'll go back to pencil and paper before I will struggle with this another hour. Was concerned as I watched it auto update this morning. Tried it and was very disappointed. Why does everything need rings just because Apple Watch has it??? I got rid of the rings and got a completely meaningless pie chart as I had only entered 1 item for the day. Tried editing my last item from last night as planned and it was a nightmare. The simple wheel of portions and measurement are gone. I hate tapping +++ vs ---.  The user interface is blurry. I actually saw 1-1/2 in font that was barely readable. Additional analysis charts  are there but I am not 'anal' and they are hard to read. Plus you do not know my goals and my goals are none of your business. But as I played with them, it is not easy,  not intuitive, and presumes too much on the part of the app. All I want is a count of carb, fat and protein. Period.
+
+
+review id: 6377
+
+matches and contexts:
+
+match = vitam
+context = nalysis reports available with a breakdown of the vitamins and nutrients you are or are not getting 
+
+
+id: 6377 | rating: 5 | user: TeamHMama | date: 2017-07-08 | time: 03:58:36.000Z
+
+--------------------------------------------------------------------
+                      Title: Latest Update is Great!
+--------------------------------------------------------------------
+
+The updated Carb Manager App has added more features that make it even more user friendly. I like the new recipe database, it allows you to search over 360,000 recipes while using the app. If you feel stuck in your meal options, simply search for new ones and the app will save them for you and figures the carbs, calories, etc. This is a great option! There are also more analysis reports available with a breakdown of the vitamins and nutrients you are or are not getting from the foods you eat, which I find helpful. As well as water intake and exercise, the amount of sleep you get a night is also featured on the app. I like this addition and think it helps with my overall health. The Carb Manager app is a great tool for a busy lifestyle, not only for low carb eating but for charting one's health. I highly recommend this app to anyone wanting to be more aware of what they are eating.
+
+
+review id: 6383
+
+matches and contexts:
+
+match = iod
+context =  was a way to get averages over a user-defined period (like the past month). Your only choice is to 
+
+
+id: 6383 | rating: 5 | user: Mjgator | date: 2013-10-21 | time: 23:56:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Fantastic, better than $50 programs
+--------------------------------------------------------------------
+
+Just what the paleo doctor ordered. A very similar program paleo tracker goes for $1 per week. Can't beat carb tracker. However, the graphs don't have a vertical axis. You can certainly see the trends, but have to touch each data point to see what it is. Also regarding tracking your weight, there's no way to set the date range, so when you look at the graph it goes from the beginning and you have to scroll for years just to see how you did over the last month. Nevertheless, this is the best carb or paleo tracker out there. I wish there was a way to get averages over a user-defined period (like the past month). Your only choice is to look at a graph and guess.  I wish you could edit dates weights were taken. I made a mistake and there is no way to change date
+
+
+review id: 6392
+
+matches and contexts:
+
+match = vitam
+context = per easy to use, shows all your Nutrition values, vitamins, and more!! I can also add items when I c
+
+
+id: 6392 | rating: 5 | user: Country Gurl 75 | date: 2012-08-27 | time: 14:54:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Great, and extremely helpful App
+--------------------------------------------------------------------
+
+I have been on the low carb living for over six years. I started off at 280lbs, now I'm 173, and 5'8. I wanted to drop more so I went back into weight loss mode. I lost 20 lbs, and stayed there for two months. Then I got this app and it has been amazing!! I have dropped another five lbs! It's not hard to see myself on a size seven, started as a size twenty four,I'm  a ten now :-)  It's super easy to use, shows all your Nutrition values, vitamins, and more!! I can also add items when I can't find them, along with adding  all the specs. Without this App I seriously don't think I could have figured out how to drop my last thirty pounds, thank you for this wonderful App!!!
+
+
+review id: 6460
+
+matches and contexts:
+
+match = sodium
+context = y other nutrient etc that you can think if but no sodium intake option. In addition the app is much 
+
+
+id: 6460 | rating: 1 | user: Sumshopper | date: 2011-05-15 | time: 01:35:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Want a refund
+--------------------------------------------------------------------
+
+Love Lose It app but was starting Atkins and thought this would be better for counting net carbs. Not really. The calculation for net carbs isn't the same as Atkins. There is no way to subtract sugar alcohols along with fiber; therefore, an Atkins product, for example, that really has 3 net carbs will show up on this app as having consumed 13 net carbs-very deceiving  and also impossible to keep your carb limit. Also, this app has a blank for every other nutrient etc that you can think if but no sodium intake option. In addition the app is much slower than it should be. I wouldn't recommend it for anyone who is trying to stick with net carb intake limits.
+
+
+review id: 6467
+
+matches and contexts:
+
+match = micro
+context =  it works pretty well for tracking both macro and micronutrients. Some areas for improvements:
+
+
+id: 6467 | rating: 5 | user: Lana1111 | date: 2016-08-31 | time: 04:27:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Using every day for several months!
+--------------------------------------------------------------------
+
+Using every day for several months now and it works pretty well for tracking both macro and micronutrients. Some areas for improvements:
+
+
+review id: 6539
+
+matches and contexts:
+
+match = sodium
+context = n track with my calories, fat, carbs, protein and sodium.
+
+
+id: 6539 | rating: 4 | user: LindaIT | date: 2017-07-04 | time: 15:59:29.000Z
+
+--------------------------------------------------------------------
+                      Title: New layout is good
+--------------------------------------------------------------------
+
+I really enjoy this app. It helps me stay on track with my calories, fat, carbs, protein and sodium.
+
+
+review id: 6559
+
+matches and contexts:
+
+match = vitam
+context = tein, etc... but where are the goals for my daily vitamin and fiber intake? I also would like a feat
+
+
+id: 6559 | rating: 2 | user: Newyork0123456 | date: 2017-06-30 | time: 15:31:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Where are the goals?
+--------------------------------------------------------------------
+
+I like that they figure out my goals for carbs, protein, etc... but where are the goals for my daily vitamin and fiber intake? I also would like a feature on how much natural sugar we should be getting. Obviously ideally we shouldn't eat any added.. I would like to track that.. there is another app that does, but I don't want to have to use two apps.. and since I paid for this once I figured they would have had that available on the app.
+
+
+review id: 6602
+
+matches and contexts:
+
+match = micro
+context =  based on your entries, you get a summary of your micronutrients (vitamins & minerals) along w carbs
+
+match = vitam
+context = ntries, you get a summary of your micronutrients (vitamins & minerals) along w carbs, fiber, calorie
+
+
+id: 6602 | rating: 5 | user: mal5ice | date: 2014-02-11 | time: 20:49:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Almost Perfect!!
+--------------------------------------------------------------------
+
+I love this app. It's easy to use and based on your entries, you get a summary of your micronutrients (vitamins & minerals) along w carbs, fiber, calories, etc. I'm following Atkins and this provides precise carb count versus using a booklet or other apps that I've tried. I just have to remember to log what I eat!!
+
+
+review id: 6616
+
+matches and contexts:
+
+match = calci
+context = 3 cup almond milk, Greek yogurt and cheese yet my calcium was still low??? That does not make sense!
+
+
+id: 6616 | rating: 5 | user: Ninnysgirl | date: 2017-06-01 | time: 03:43:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Review
+--------------------------------------------------------------------
+
+I really like this app. However it seems the analysis is not too accurate! For example today I Drank 1 cup of unsweetened coconut milk, 1/3 cup almond milk, Greek yogurt and cheese yet my calcium was still low??? That does not make sense! Otherwise I love the app, easy to use, easy to use recipe builder and graphics are great! Thanks for the app!!
+
+
+review id: 6623
+
+matches and contexts:
+
+match = vitam
+context = rbs for me, along with total calories and so many vitamins and minerals! I had a protein shake not i
+
+
+id: 6623 | rating: 5 | user: OhioJJ | date: 2016-08-17 | time: 14:50:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Love this app so far!
+--------------------------------------------------------------------
+
+I just started using this app today but I really like how it calculates my net carbs for me, along with total calories and so many vitamins and minerals! I had a protein shake not in database but barcode scanner found and entered all the up to date info for me - so convenient!
+
+
+review id: 6635
+
+matches and contexts:
+
+match = vitam
+context = tely. I can track all of my carbs, protein, fats, vitamins and how much weight I lost. I track all o
+
+
+id: 6635 | rating: 5 | user: Quinn Casey | date: 2017-03-23 | time: 22:42:11.000Z
+
+--------------------------------------------------------------------
+                      Title: I'm fine with it
+--------------------------------------------------------------------
+
+I haven't had any issues with this app. I don't see what the fuss is all about lately. I can track all of my carbs, protein, fats, vitamins and how much weight I lost. I track all of my food daily. I highly recommend this very helpful app!
+
+
+review id: 6684
+
+matches and contexts:
+
+match = vitam
+context =  This has some nice extras like the percentage of vitamins and minerals intake and the exercise log,
+
+
+id: 6684 | rating: 5 | user: RescuesRule | date: 2016-04-28 | time: 02:30:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Just what I wanted!
+--------------------------------------------------------------------
+
+I wanted a free carb counter. This has some nice extras like the percentage of vitamins and minerals intake and the exercise log, but I like the simplicity. I wish it had a way to copy your favorites so that the items don't hv to be looked up daily.
+
+
+review id: 6687
+
+matches and contexts:
+
+match = micro
+context = gging water and exercise and I like the macro and micro nutrient breakdowns and goal setting feature
+
+
+id: 6687 | rating: 5 | user: Hound05 | date: 2016-11-16 | time: 16:07:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Great tracker
+--------------------------------------------------------------------
+
+Great for tracking on a low carb diet - the only one I've found that tracks net carbs. Easy to add custom foods, large database of foods. Also good for logging water and exercise and I like the macro and micro nutrient breakdowns and goal setting features. Highly recommended!
+
+
+review id: 6711
+
+matches and contexts:
+
+match = sodium
+context = uick, a lot of the foods I eat. I tracks my sugar sodium fat and calorie in take too. The graphs rea
+
+
+id: 6711 | rating: 5 | user: Coco.go13 | date: 2012-05-05 | time: 04:13:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Carb killer
+--------------------------------------------------------------------
+
+I love this App.. I've tried others, but I'm hooked on Carb Manager. Easy quick, a lot of the foods I eat. I tracks my sugar sodium fat and calorie in take too. The graphs really help me stay on track....,I recommend it to everyone who asks.
+
+
+review id: 6718
+
+matches and contexts:
+
+match = micro
+context = e, in depth analysis of diet and macros, includes micronutrients counts. Lots of features to help di
+
+
+id: 6718 | rating: 5 | user: Dreamer in Denim | date: 2017-01-26 | time: 22:37:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Best Keto Tracker!
+--------------------------------------------------------------------
+
+This app is fantastic! I've had it for about a week now and it just keeps getting better! Very intuitive, easy interface, in depth analysis of diet and macros, includes micronutrients counts. Lots of features to help dial in your diet!
+
+
+review id: 6772
+
+matches and contexts:
+
+match = sodium
+context = ition information Cod for example has a very high sodium and net carb value for raw Cod!!!!  Need fa
+
+
+id: 6772 | rating: 2 | user: Tazmojo | date: 2012-01-21 | time: 20:25:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Ok but buggy... Needs work
+--------------------------------------------------------------------
+
+It's an ok app. The UI is somewhat cumbersome. There are bugs in the nutrition information Cod for example has a very high sodium and net carb value for raw Cod!!!!  Need facility to modify/edit custom food entries in case error was made during entry. Only option now is to delete an reenter!!
+
+
+review id: 6819
+
+matches and contexts:
+
+match = micro
+context = blem keeping track with this. Easy as pushing the microphone icons. The app really does all the work
+
+
+id: 6819 | rating: 5 | user: Rivoire7 | date: 2017-07-23 | time: 00:52:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Lifeline
+--------------------------------------------------------------------
+
+This is the cats Meow. It's all done right here for the right price. Life change ko problem keeping track with this. Easy as pushing the microphone icons. The app really does all the work.
+
+
+review id: 6851
+
+matches and contexts:
+
+match = vitam
+context = rbs, it counts calories and other macronutrients, vitamins and minerals.  Works  for any diet!
+
+
+id: 6851 | rating: 5 | user: vi99 | date: 2012-05-04 | time: 19:24:35.000Z
+
+--------------------------------------------------------------------
+                      Title: The best
+--------------------------------------------------------------------
+
+Not only does it count carbs, it counts calories and other macronutrients, vitamins and minerals.  Works  for any diet!
+
+
+review id: 6894
+
+matches and contexts:
+
+match = iod
+context = rying to keep net carbs down to 15 in a 6 hour period. Not only can I track, search foods but I can 
+
+
+id: 6894 | rating: 5 | user: RosebudWH | date: 2016-08-12 | time: 20:08:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it!!
+--------------------------------------------------------------------
+
+I'm trying to keep net carbs down to 15 in a 6 hour period. Not only can I track, search foods but I can add my own recipes. Its exactly what I needed.
+
+
+review id: 7065
+
+matches and contexts:
+
+match = vitam
+context = se 60 lbs.  it helps with fat intake and tracking vitamin and mineral intake.
+
+
+id: 7065 | rating: 5 | user: Randy Arnold | date: 2016-11-16 | time: 13:24:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Mr.
+--------------------------------------------------------------------
+
+This app is a must for carb tracking weight loss. This tool has helped me loose 60 lbs.  it helps with fat intake and tracking vitamin and mineral intake.
+
+
+review id: 7252
+
+matches and contexts:
+
+match = vitam
+context = bs, fat and sugars.  I also like how it shows the vitamin and mineral percentages.  Great app!
+
+
+id: 7252 | rating: 4 | user: Shaymom | date: 2012-02-23 | time: 02:30:42.000Z
+
+--------------------------------------------------------------------
+                      Title: Impressed!!!
+--------------------------------------------------------------------
+
+I really like the grafts showing the net carbs, fat and sugars.  I also like how it shows the vitamin and mineral percentages.  Great app!
+
+
+review id: 7566
+
+matches and contexts:
+
+match = sodium
+context = as a way to include more nutrients to track, line sodium and potassium. Otherwise I like the app, it
+
+
+id: 7566 | rating: 4 | user: ljhufvbxhudx | date: 2021-07-11 | time: 12:14:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Bar code Scanner
+--------------------------------------------------------------------
+
+Doesn't always work, even after multiple attempts. I wish there was a way to include more nutrients to track, line sodium and potassium. Otherwise I like the app, it's helped me to stay on track!
+
+
+review id: 7569
+
+matches and contexts:
+
+match = vitam
+context = nt) Years of waiting for them to put life Essence vitamin tablets in library, endless requests ignor
+
+
+id: 7569 | rating: 1 | user: Toucky toucky | date: 2021-06-06 | time: 13:40:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Clunky and useless
+--------------------------------------------------------------------
+
+Hate this worse all the time to the point I no  longer use it.  Can’t turn off the stupid auto generated newsfeed so you have to constantly delete things you wish to keep private. Can’t find a way to see what privacy they are giving away in their auto generated profile and there appears to be no way to edit it for personal privacy. Hate the in your face advertising to buy their cookbook from Amazon, I don’t use Amazon, EVER. Absolutely can’t stand the trashy cluttered homepage. Worse it’s blaring white is obnoxious. Can’t control or edit your own dashboard to avoid trashy clutter. Since update it’s just miserable to log food, scan barcodes, create personal recipes. (Which instantly pop up on stupid newsfeed without your consent) Years of waiting for them to put life Essence vitamin tablets in library, endless requests ignored. Library of foods has been reduced so many items can no longer be scanned. NONSTOP GLITCHES AND CRASHES EVERYWHERE IN APP. It’s really bad sensory overload and or mystery puzzle to even do simple things or simple intuitive data entry. Old version was far superior. NO LONGER WORTH PAYING FOR UNDER THESE CONDITIONS.
+
+
+review id: 7574
+
+matches and contexts:
+
+match = micro
+context = ight corner, the bar code scanner selection & the microphone selection bring up a pop-up window that
+
+
+id: 7574 | rating: 3 | user: Shortcircut | date: 2021-05-01 | time: 18:28:14.000Z
+
+--------------------------------------------------------------------
+                      Title: April iPad app update broke the search function
+--------------------------------------------------------------------
+
+When activating the + button in top right corner, the bar code scanner selection & the microphone selection bring up a pop-up window that requires me to download the app.  I'm using it already!
+
+
+review id: 7696
+
+matches and contexts:
+
+match = micro
+context = on the Keto Diet; Carbs, Protein, Fat. So all the micro-nutrients  are broken down for you. I use th
+
+
+id: 7696 | rating: 5 | user: joshuas ipod | date: 2019-05-12 | time: 07:25:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to Use!!!
+--------------------------------------------------------------------
+
+I really like using this app. It breaks down everything for you to use while on the Keto Diet; Carbs, Protein, Fat. So all the micro-nutrients  are broken down for you. I use the bar code scan quite a bit while grocery shopping. I have only had it not recognize 2 different items. This app is great. I have not had to purchase anything. Have logged every single item I have eaten for 7-days. They even have areas built into the app that allows you to read, in order to learn more about the Keto diet. The app must be working, I’ve lost 5+ pounds in the 7 days. YEAH!!!
+
+
+review id: 7795
+
+matches and contexts:
+
+match = vitam
+context = water I drink. I would like to be able to add the vitamins I take each day. If there is place for th
+
+
+id: 7795 | rating: 4 | user: Lanthony79 | date: 2017-04-01 | time: 01:39:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Very useful
+--------------------------------------------------------------------
+
+I have used this app every meal and find it very useful managing what I eat everyday and nutritional value. I do forget to record the water I drink. I would like to be able to add the vitamins I take each day. If there is place for that I haven't found it. I will try and scan the code and see if that works.
+
+

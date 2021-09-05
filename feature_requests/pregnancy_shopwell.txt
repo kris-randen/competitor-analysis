@@ -1,0 +1,351 @@
+'Pregnancy' related feature requests in shopwell reviews.
+
+'Pregnancy' Regular Expression RE 
+breastfeed | breast- | milk | baby | lactat | preg | postpartum | post-partum | postp | feeding | gesta | gestation | gestational | post-baby | post baby | nursing | nurs
+
+Number of reviews that mention pregnancy are: 20
+
+
+review id: 3
+
+matches and contexts:
+
+match = feeding
+context = has really opened my eyes to see what foods I was feeding my family. It is so easy (and fun) to adju
+
+
+id: 3 | rating: 5 | user: Mommika | date: 2019-01-26 | time: 23:10:59.000Z
+
+--------------------------------------------------------------------
+                      Title: New/improved version - So easy to use!
+--------------------------------------------------------------------
+
+I love this app! It has really opened my eyes to see what foods I was feeding my family. It is so easy (and fun) to adjust your personal/family diet settings, and then search for products that match what you are looking for. When you open the app, it automatically shows several products that are good matches for you.
+
+
+review id: 23
+
+matches and contexts:
+
+match = breastfeed
+context = I have to be on a strict diet while breastfeeding my daughter and this app has been a 
+
+match = feeding
+context = I have to be on a strict diet while breastfeeding my daughter and this app has been a lifesa
+
+
+id: 23 | rating: 5 | user: Laurac283 | date: 2021-04-02 | time: 17:06:17.000Z
+
+--------------------------------------------------------------------
+                      Title: I have never reviewed an app but this one deserves it.
+--------------------------------------------------------------------
+
+I have to be on a strict diet while breastfeeding my daughter and this app has been a lifesaver. The amount of “hidden” ingredients that exist out there is crazy and this app helps keep me from spending all day in the grocery store reading labels.
+
+
+review id: 66
+
+matches and contexts:
+
+match = milk
+context =  free ice cream will be categorized as containing milk just because milk is in the title,,,
+
+
+id: 66 | rating: 3 | user: rabbitwhydidyoudothat | date: 2020-03-26 | time: 20:11:29.000Z
+
+--------------------------------------------------------------------
+                      Title: It could be good
+--------------------------------------------------------------------
+
+But often it’s inaccurate. For example dairy free ice cream will be categorized as containing milk just because milk is in the title,,,
+
+
+review id: 111
+
+matches and contexts:
+
+match = milk
+context = This thing is awesome tells me what has milk in it and helps me from having allergic react
+
+
+id: 111 | rating: 5 | user: Spicyketchup | date: 2012-10-04 | time: 03:28:40.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome oh and read all of it to let you in on. Secret
+--------------------------------------------------------------------
+
+This thing is awesome tells me what has milk in it and helps me from having allergic reaction. And from what I've read people who gave one star don't know what there saying when it's says that it has something like milk or gluten its true some manufactures don't list it or say dairy free but have milk I found a creamer that was dairy free but had dairy and had a allergic reaction. So don't listen to those people who gave it one star. This thing is a life saver. just take your time and learn to use it.
+
+
+review id: 165
+
+matches and contexts:
+
+match = feeding
+context = life-saver for me and my family, trying to manage feeding a toddler with multiple food allergies! Es
+
+
+id: 165 | rating: 5 | user: LizzieNmom | date: 2016-03-10 | time: 01:23:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Life-saver
+--------------------------------------------------------------------
+
+Thank you! Thank you! Thank you! This ap is a life-saver for me and my family, trying to manage feeding a toddler with multiple food allergies! Especially love that you can scan products, search for them, and even find alternatives. It even scores them nutritionally AND tells you where you can find items nearby. Makes "reading" labels so much easier!!
+
+
+review id: 201
+
+matches and contexts:
+
+match = baby
+context = s and teethers. I realize the app isn't meant for baby type food but would be nice of there was some
+
+
+id: 201 | rating: 4 | user: Sbmccarrrier | date: 2012-05-08 | time: 06:54:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Love it for the most part
+--------------------------------------------------------------------
+
+I live the app for myself... I have scanned a few items for my son (10 months) like these yogurt melts and teethers. I realize the app isn't meant for baby type food but would be nice of there was some option for those. We homemake mostly everything so the snack type stuff we could use a little guidance on. One item I have removed from my diet after using this- fig nutons!
+
+
+review id: 205
+
+matches and contexts:
+
+match = preg
+context = sing the app now to lose the weight gained during pregnancy. Also continuing to manage carb intake d
+
+
+id: 205 | rating: 5 | user: Quackny | date: 2012-10-04 | time: 23:42:43.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome and useful!
+--------------------------------------------------------------------
+
+Using the app now to lose the weight gained during pregnancy. Also continuing to manage carb intake due to high numbers during post-pregnancy glucose challenge. Really important to manage now to avoid getting type 2 diabetes making this app a lifesaver. Really loving the fact that I can now see what stores have he products I want.
+
+
+review id: 206
+
+matches and contexts:
+
+match = milk
+context = xample, I have an allergy to soy, so I use almond milk instead. When I scan the barcode for the almo
+
+
+id: 206 | rating: 4 | user: Conniebon7 | date: 2013-03-08 | time: 15:21:20.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app, BUT...
+--------------------------------------------------------------------
+
+This app is excellent in how it caters to specific dietary needs, but it definitely needs to improve in accuracy. For example, I have an allergy to soy, so I use almond milk instead. When I scan the barcode for the almond milk, it lists it as containing soy, even though the ingredients say otherwise. I would recommend this app to anyone who doesn't have specific food allergies until they get more precise.
+
+
+review id: 214
+
+matches and contexts:
+
+match = milk
+context = credibly helpful in alerting me to finding hidden milk and dairy. If you have a food allergy or alwa
+
+
+id: 214 | rating: 5 | user: Sarabobara333 | date: 2013-04-11 | time: 13:39:09.000Z
+
+--------------------------------------------------------------------
+                      Title: One of my favorite apps!
+--------------------------------------------------------------------
+
+I absolutely love this app- I rely on it while grocery shopping now because of the barcode scanner. I have a lactose intolerance and I find this app incredibly helpful in alerting me to finding hidden milk and dairy. If you have a food allergy or always try to find the healthiest item out there in a sea of choices, you NEED this app.
+
+
+review id: 312
+
+matches and contexts:
+
+match = milk
+context = was trying to compare various brands of chocolate milk (my trainer 💪 says it's a good workout recove
+
+
+id: 312 | rating: 5 | user: wannebe9999 | date: 2012-12-17 | time: 18:42:55.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app 👍
+--------------------------------------------------------------------
+
+Nice looking app and pretty useful in terms of helping me find healthier food options. I was trying to compare various brands of chocolate milk (my trainer 💪 says it's a good workout recovery drink) the other day and I was able to find a brand that's better than the one I bought.
+
+
+review id: 511
+
+matches and contexts:
+
+match = milk
+context =  dairy section. There aren't a lot of choices for milk
+
+
+id: 511 | rating: 5 | user: Applova | date: 2013-01-04 | time: 16:54:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Great
+--------------------------------------------------------------------
+
+Love this app. Some of the things I thought was good for me turns out wasn't. Very helpful. I would like some more addition to the dairy section. There aren't a lot of choices for milk
+
+
+review id: 623
+
+matches and contexts:
+
+match = feeding
+context = e, easy and quick to use for the mom in charge of feeding the family!
+
+
+id: 623 | rating: 4 | user: Jessica Abarca | date: 2012-09-11 | time: 19:12:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use shopping list for the family!
+--------------------------------------------------------------------
+
+Fun,informative, easy and quick to use for the mom in charge of feeding the family!
+
+
+review id: 795
+
+matches and contexts:
+
+match = milk
+context = This app is wonderful. I am highly allergic to milk & have Alpha-Gal which is caused by tick bite
+
+
+id: 795 | rating: 5 | user: thewybaby | date: 2014-10-16 | time: 02:35:16.000Z
+
+--------------------------------------------------------------------
+                      Title: Great App
+--------------------------------------------------------------------
+
+This app is wonderful. I am highly allergic to milk & have Alpha-Gal which is caused by tick bites & causes you to be allergic to red meat. This app makes shopping much easier.
+
+
+review id: 879
+
+matches and contexts:
+
+match = milk
+context = ause I really wanted to use this for my daughters milk protein allergy.
+
+
+id: 879 | rating: 2 | user: ...merpp... | date: 2018-01-31 | time: 20:37:41.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the idea
+--------------------------------------------------------------------
+
+Love the idea of the app. Wish I could actually use it. Will only come up to a white screen. I have deleted and reinstalled several times. Nothing. Sad because I really wanted to use this for my daughters milk protein allergy.
+
+
+review id: 891
+
+matches and contexts:
+
+match = milk
+context =  vegans. Also it listed things as containing whey/milk but the ingredients on the bread did not list
+
+
+id: 891 | rating: 3 | user: Sphinsa | date: 2012-09-25 | time: 03:39:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Good but not complete
+--------------------------------------------------------------------
+
+Wish it had a section for vegans. Also it listed things as containing whey/milk but the ingredients on the bread did not list milk or whey :-( Not sure who I should be mad at Shopwell for falsifying ingredients or the bread company for withholding ingredients...
+
+
+review id: 1066
+
+matches and contexts:
+
+match = milk
+context = This makes it easy to find out if there is milk in foods.
+
+
+id: 1066 | rating: 5 | user: Jimmyjoseph | date: 2014-01-07 | time: 00:15:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Best app for lactose intolerance
+--------------------------------------------------------------------
+
+This makes it easy to find out if there is milk in foods.
+
+
+review id: 1098
+
+matches and contexts:
+
+match = breastfeed
+context = I have to go off dairy and soy to breastfeed my son due to an allergy and this app l
+
+
+id: 1098 | rating: 4 | user: R A in the Valley | date: 2016-07-15 | time: 02:08:09.000Z
+
+--------------------------------------------------------------------
+                      Title: Helpful
+--------------------------------------------------------------------
+
+I have to go off dairy and soy to breastfeed my son due to an allergy and this app looks like it will be very helpful.
+
+
+review id: 1239
+
+matches and contexts:
+
+match = Milk
+context = It only looks for listed label allergen warnings. Milky Way, for instance, says it's a weak match & 
+
+
+id: 1239 | rating: 1 | user: heather17015 | date: 2015-12-19 | time: 23:30:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Do NOT trust gluten results, GLUTEN RESULTS NOT ACCURATE
+--------------------------------------------------------------------
+
+It only looks for listed label allergen warnings. Milky Way, for instance, says it's a weak match & safe because it doesn't list wheat but it DOES CONTAIN MALTED BARLEY. Barley contains GLUTEN-wheat-rye-barley... can't have any of those if you're allergic to gluten. I have Celiac Disease & this app is VERY UNSAFE!!!
+
+
+review id: 1579
+
+matches and contexts:
+
+match = milk
+context = I intentionally scanned almond milk that said no dairy, no soy and no gluten but 
+
+
+id: 1579 | rating: 1 | user: need good app | date: 2018-04-18 | time: 22:08:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Crap.
+--------------------------------------------------------------------
+
+I intentionally scanned almond milk that said no dairy, no soy and no gluten but yet the app says that there is soy in it. Not a trustworthy app.
+
+
+review id: 1759
+
+matches and contexts:
+
+match = milk
+context = lly USEFUL app for this mom that has a child with milk and wheat intolerances.
+
+
+id: 1759 | rating: 5 | user: Jeneeleebee | date: 2014-03-22 | time: 18:33:18.000Z
+
+--------------------------------------------------------------------
+                      Title: Great First Impression!
+--------------------------------------------------------------------
+
+Just got it and can't stop scanning! Love it so far. An actually USEFUL app for this mom that has a child with milk and wheat intolerances.
+
+

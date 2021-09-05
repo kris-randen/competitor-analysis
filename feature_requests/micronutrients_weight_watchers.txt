@@ -1,0 +1,1488 @@
+'Micronutrients' related feature requests in weight_watchers reviews.
+
+'Micronutrients' Regular Expression RE 
+micro | vitam | folate | choli | iron | magnes | thiamin | ribof | iod | niacin | panto | biotin | omega | calci | chromi | copper | manga | phosp | selen | zinc | sodium
+
+Number of reviews that mention micronutrients are: 86
+
+
+review id: 35
+
+matches and contexts:
+
+match = micro
+context = rge for two points. I also had a revelation about microwave popcorn which also is satisfying. I just
+
+
+id: 35 | rating: 5 | user: diana2391957 | date: 2021-06-23 | time: 17:42:43.000Z
+
+--------------------------------------------------------------------
+                      Title: So nice and easy to use
+--------------------------------------------------------------------
+
+I started mid January on weight watchers and I can honestly say if you’re serious about losing weight and keeping it off this is the way to do it. There’s absolutely no reason to be hungry to set yourself up to fail. There’s room for days when you need to eat or cheat, whatever you’d like to call it. In any event this diet should work for every lifestyle and you should not go hungry. I do not drink alcohol so I don’t know how that factors in but the points are the points. I often time say to myself and my partner, I don’t know how I’m losing weight with all of this fruit that I eat. Sometimes I eat 4 to 6 servings of fruit a day. I also treat myself to the weight watchers snack bar peanut butter and chocolate. It’s like two bites and enough to satisfy the sweet tooth urge for two points. I also had a revelation about microwave popcorn which also is satisfying. I just got a healthy pop from jolly time of 100 cal bags. I was just about to check out the points and the review option came up. Well happy trails to all of you in your journey with weight watchers but I just don’t think you’ll find it all that much of a challenge if you’re a newbie
+
+
+review id: 40
+
+matches and contexts:
+
+match = iod
+context = hey offered a reduced cost for an introductory period. I felt I needed a boost to my dietary regimen
+
+
+id: 40 | rating: 5 | user: TasaPNW | date: 2018-05-15 | time: 20:17:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Overpriced, needs improvement
+--------------------------------------------------------------------
+
+I decided to give Weight Watchers a try when they offered a reduced cost for an introductory period. I felt I needed a boost to my dietary regimen and also was looking for a way to improve my Type II diabetes numbers. I opted for the 6-month intro, and after 4 months I have, indeed, learned a lot and improved my health and lost weight. HOWEVER! I've also used My Fitness Pal for over 10 years, it's database is superior to the WW database, data entry is more intuitive, and virtually all the same types of community support options are available through MFP as through WW, but for a fraction of the price (if you opt for the MFP paid version, which I prefer to the free version). While using WW, I have simultaneously continued to use MFP, and will continue the lessons I've learned from WW but for much less cost. The WW interface is, I feel, lacking in functionality. I find myself using MFP first, and now only using WW as a check on my carb and fats intake. I've now adjusted my MFP daily nutritional goals to reflect the kinds of goals I learned from WW, so for the limited time I've used WW it was worth it, but not on a continuum.
+
+
+review id: 125
+
+matches and contexts:
+
+match = iron
+context = ll-time and part-time job gave me the time and environment to address my weight issue.  I tried nume
+
+
+id: 125 | rating: 5 | user: Pattykate4253 | date: 2021-08-16 | time: 16:01:10.000Z
+
+--------------------------------------------------------------------
+                      Title: Accountability
+--------------------------------------------------------------------
+
+I’ve been trying to lose weight forever.  Part of the issue was stress eating.  Retiring from my full-time and part-time job gave me the time and environment to address my weight issue.  I tried numerous different weight loss plans with varying degrees of success.  This was during the Pandemic year.  Finally, after getting fully vaccinated, I decided to get serious and went back to the one plan that had always worked for me in the past—WW.  I never liked the points plans  and preferred the old plans.  But, I decided to try the points plan again and it was a breeze!  I’m on the Blue plan and the app holds me accountable.  I enter my food every day and to date I’ve lost 51 pounds.  The app is quick and accurate.  I can look up food choices and also add new foods to my plan.  Normally, I’m a paper and pen person, but this app is everything and I know it’s going to help me continue on my weight loss journey and help when I reach maintenance.
+
+
+review id: 126
+
+matches and contexts:
+
+match = iod
+context = hy way and not from some excessively stressful period.  I will continue to use this app for life bec
+
+
+id: 126 | rating: 5 | user: clarasage | date: 2020-05-07 | time: 17:17:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Life changing, WW for life
+--------------------------------------------------------------------
+
+I should have signed up much sooner!  I LOVE this app so much!  I love tracking everything I eat and knowing how many more points I have for the rest of day, etc.  Plus this app gives you flexibility, in addition to providing amazing structure that I NEED.  I love and appreciate the weekly weighing part too because this keeps me in check if I need to adjust a little for the following week.  This app works wonders - lost weight gradually and in a very healthy way!  What a dream come true that I reached my goal in a - happy & healthy way and not from some excessively stressful period.  I will continue to use this app for life because I can’t imagine being without this app now.  Also, I love the WW products too like the snacks (barbecue chips) and the frying Pan too - so many outstanding products!  The motivating navy blue cards I received in the mail for reaching “milestones” with the cute little gifts inside the cards gave me huge boosts too!  Thank you so much WW!
+
+
+review id: 130
+
+matches and contexts:
+
+match = Iron
+context = Ironically, I’m writing this review because I was 
+
+
+id: 130 | rating: 4 | user: Omshanti1081008 | date: 2018-05-18 | time: 09:48:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Soooo many glitches
+--------------------------------------------------------------------
+
+Ironically, I’m writing this review because I was prompted to complete a survey about the app when I opened it and the field where I could comment stopped allowing me to type after about 150 characters when it appeared there was unlimited space to comment.  There are constant glitches with this app. I frequently have to uninstall and reinstall to try to fix the issues. Most recently I lost my ability to see my blue dot calendar. When I want to edit a comment or post on Connect the cursor jumps around or the part I’m trying to edit scrolls out of view. Connect feed should default to “Following” or “New” instead of “Trending” or we should at least be able to select our own default. There should be an activity calendar where we can see a more broad snapshot of fitpoints earned per day. Please pass along that WW needs to dump DJ Khaled as spokesperson after the misogynistic comments he made. It’s ridiculous they haven’t made a public statement about this yet as far as I can tell.
+
+
+review id: 375
+
+matches and contexts:
+
+match = Iron
+context = hem and have yet to get any update on this issue. Ironically, out of the 5 different coaches I spoke
+
+
+id: 375 | rating: 1 | user: Lexi Gorman | date: 2020-07-27 | time: 00:23:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Used to LOVE the app - before most recent update
+--------------------------------------------------------------------
+
+The program is great and I used to LOVE the convenience and user-friendliness of the app. With the most recent update, however, the app’s built-in calculator has changed requiring all nutritional data to be entered rather than just the prior 4 requirements (calories, saturated fat, sugar, and protein). Because I weigh all of my food, and the calculator is more accurate than the barcode scanner or food search, the calculator is the main thing I use in the app and has now created a huge inconvenience. I have reached out to WW and spoken with 5 people who have not been able to fix the issue. I supposedly was escalated to technical support however I am still waiting to hear from them and have yet to get any update on this issue. Ironically, out of the 5 different coaches I spoke to about the issue, none of them had this problem on their app, so I must assume it is due to the most recent update 8.16. Please fix this WW. The app would be 5 stars without this issue.
+
+
+review id: 406
+
+matches and contexts:
+
+match = iod
+context = ted on Keto and it was ok but not for any long period of time . So, a friend told me who had also be
+
+
+id: 406 | rating: 5 | user: HEAVENLY 46 | date: 2021-07-31 | time: 21:08:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Awesome plan!
+--------------------------------------------------------------------
+
+I had belonged to WW when it first started . Yes, I’m older.... it was so different then. Much harder ....it did work though . But now, it’s fantastic ! So easy and food inclusive . I had started on Keto and it was ok but not for any long period of time . So, a friend told me who had also been on Keto that she was on the new plan and I needed to take a look . The rest is history .... I’m 74 so losing weight is much harder when you’re in the more mature range ....LOL ! My internist was so shocked that I could lose weight . I told her how WW was so easy and it’s just now my way of life .....so, I know now I have found my new and improved way of eating and can finally conquer my life long weight issues....... I prayed for GOD to help me and WW appeared ! Thank you for being my answer !
+
+
+review id: 487
+
+matches and contexts:
+
+match = sodium
+context = is because my doctor wants me to keep tract of my sodium intake and that is the only item I have to 
+
+
+id: 487 | rating: 4 | user: Noreen in Kissimmee | date: 2020-02-07 | time: 00:34:32.000Z
+
+--------------------------------------------------------------------
+                      Title: Review of WW app
+--------------------------------------------------------------------
+
+I love the app. It is so easy to use. I have been a member off and on for years. I have always faithfully tracked my food by writing everything by hand as I did not have a smartphone. In December my son bought both my husband and I new smartphones. I love my new phone and this is my first experience using the app. It is so handy in the grocery store and I feel like I’m telling God what I eat so I’m honest as I can be. Like someone is critiquing me on a daily basis. The reason I didn’t give the app 5 stars is because my doctor wants me to keep tract of my sodium intake and that is the only item I have to do manually. I have checked other apps for sodium and haven’t found a good one yet. Otherwise the WW app is wonderful. Thanks for all the work that clearly has been put into this app.
+
+
+review id: 533
+
+matches and contexts:
+
+match = iron
+context = e’ lil screen that said oops file not found - the ironic part is here in the app store where I selec
+
+
+id: 533 | rating: 5 | user: karma1968 | date: 2021-01-19 | time: 16:55:40.000Z
+
+--------------------------------------------------------------------
+                      Title: No app support
+--------------------------------------------------------------------
+
+There are a few links within the app that don’t work, I even got a ‘cute’ lil screen that said oops file not found - the ironic part is here in the app store where I selected ‘App Support’ & was taken to Weight Watcher’s site with an ‘OOPS, this page can’t be found’
+
+
+review id: 541
+
+matches and contexts:
+
+match = sodium
+context = ause I think it is very important to keep up with sodium and cholesterol and I cannot do that on the
+
+
+id: 541 | rating: 3 | user: teacart47 | date: 2019-04-09 | time: 01:29:26.000Z
+
+--------------------------------------------------------------------
+                      Title: More Nutrition Information: Sodium & Cholesterols
+--------------------------------------------------------------------
+
+Been using the app for 2 weeks since I joined WW.  Used Lose-it app off and on for several years. I am now tracking on both because I think it is very important to keep up with sodium and cholesterol and I cannot do that on the WW. .  Given the number of older adults in your program, I feel this is an oversight that needs to be corrected.  The first week I only lost 1 lb.  I was in my zone and only went into weekly points one time for about 3 points.  2nd week I started watching sodium by logging on to lose-it.  I lost 4 lbs.    Lose it also connects with the heart app on Apple which does a fabulous job charting all the nutrients for comparison day to day and week to week.  For healthy weight loss, I feel WW falls a little short and I probably will not renew after my 3 mos are up.
+
+
+review id: 556
+
+matches and contexts:
+
+match = iod
+context = ife. It’s surprisingly easy to uphold for long periods of time without breaking down and binge eatin
+
+
+id: 556 | rating: 5 | user: wanting scholarships | date: 2020-03-25 | time: 18:50:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Surprisingly works great
+--------------------------------------------------------------------
+
+I’m not extremely overweight but I have always been very uncomfortable with the size of body. My mother decided to go into this program and pressured me into doing it as well. I had very little hope of it working and even less once I started and realized it was an easy diet that barely changed what I ate. However I was completely wrong and have been losing so much weight. Only a month in and I’m 1/3rd of the way to my goal even after breaking the diet badly for a whole week. This has been the only diet that’s simultaneously works while not altering my entire life. It’s surprisingly easy to uphold for long periods of time without breaking down and binge eating.
+
+
+review id: 616
+
+matches and contexts:
+
+match = sodium
+context = o see a daily nutritional rack-up (calories, fat, sodium, fiber, carbs, etc) and 2)  if the app woul
+
+
+id: 616 | rating: 4 | user: Fitness and Health Retooling | date: 2021-08-19 | time: 14:25:21.000Z
+
+--------------------------------------------------------------------
+                      Title: Lots of features….
+--------------------------------------------------------------------
+
+I find it pretty easy to log my breakfast, lunch, dinner and the available food lists are pretty extensive.  It also allows me to enter and save the points value for recipes I create. I can easily track my progress, shop for WW products, contact support, join an online meeting, access articles and mindset videos, and join an exercise class.  I would give the app 5 stars but for two things: 1) in addition to my daily points, it would be helpful if there was an obvious way to see a daily nutritional rack-up (calories, fat, sodium, fiber, carbs, etc) and 2)  if the app would allow me to enter a recipe then divide it into servings and capture the points value for each serving, not just the whole recipe.
+
+
+review id: 696
+
+matches and contexts:
+
+match = iod
+context = f love that carry me back from the inevitable, periodic backslides. Even though I’ve been on for ove
+
+
+id: 696 | rating: 5 | user: mzjoseph | date: 2021-08-22 | time: 12:48:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Joy and Happiness
+--------------------------------------------------------------------
+
+The WW app has been the center of my weight loss, lifestyle change, mindset recalibration, and fitness crush since I decided I can do hard things in December 2019. Since then and throughout the magnificent and stunning 2020, to the now, ever changing new normal of 2021, it has been my precious. Virtual meetings, coaching and Connect are my people and the tides of love that carry me back from the inevitable, periodic backslides. Even though I’ve been on for over a year and a half, I’m still learning new things. (Omg - literally just discovered how to really use the restaurant function last week just in time for a trip to NYC.)
+
+
+review id: 788
+
+matches and contexts:
+
+match = sodium
+context = ps. I think the addition of totaling daily fiber, sodium, fats, calories, etc, would really make thi
+
+
+id: 788 | rating: 5 | user: Momma J McD | date: 2021-07-07 | time: 11:14:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Track like a rock star
+--------------------------------------------------------------------
+
+Easy to use. Very intuitive. Love the subtle changes in updates. One suggestion- it’s a big one. I would like to see some enhanced capabilities that you see in other tracking apps. I think the addition of totaling daily fiber, sodium, fats, calories, etc, would really make this app perfect - particular if that information could be framed with the recommended daily amounts for each value. I’ve lost over 30 lbs using this app and will continue to track this way. Now on maintenance, I’m fine tuning my food selections to make sure I’m hitting those specific daily targets, but doing that on paper.
+
+
+review id: 834
+
+matches and contexts:
+
+match = Iron
+context = make me feel so much better physically every day. Ironically, when I signed up for a 6-month commitm
+
+
+id: 834 | rating: 5 | user: Mn Travelers 70 | date: 2020-09-14 | time: 14:38:55.000Z
+
+--------------------------------------------------------------------
+                      Title: This App is my coach 24-7. Highly recommend
+--------------------------------------------------------------------
+
+I come from a family that loves fattening food and eats it whenever we want. Thanks to this App I have “broken” my addiction to these foods and been re-educated regarding what foods taste good and make me feel so much better physically every day. Ironically, when I signed up for a 6-month commitment I woke up the next day regretting the financial commitment because I was not committed to weight loss. This App made it so easy to make small commitments to what I eat by providing so many choices that still satisfy me - and some WW treats and Halo ice cream fit into my diet too.  I am now 6 lbs from my goal of losing 60 lbs!
+
+
+review id: 855
+
+matches and contexts:
+
+match = sodium
+context =  do love the app, much easier to track. I do wish sodium was included in the items logged, so that w
+
+
+id: 855 | rating: 5 | user: Back to life! | date: 2020-09-21 | time: 14:59:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Wish it Tracked Sodium, Totaled Calories etc
+--------------------------------------------------------------------
+
+I really do love the app, much easier to track. I do wish sodium was included in the items logged, so that when analyzing a sudden gain, one can look at whether it was a high-sodium factor. I would also love the categories to be totaled at the end of each day, so we can see our total grams of sugar etc, like other apps do, so I don't have to double-log. And I agree with a previous post, would like an easier way to go back to a few former day. I'm going to a restaurant tonight that we went to on Feb 15, and I know it's going to take quite awhile to find that day!
+
+
+review id: 889
+
+matches and contexts:
+
+match = vitam
+context =  daily details I’m doing to reach my goal: water, vitamins, physical therapy for my ankle, walking, 
+
+
+id: 889 | rating: 4 | user: laura.elias | date: 2019-08-17 | time: 15:29:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Great but please add a few customizable goals
+--------------------------------------------------------------------
+
+I love the simplicity. And not having to track foods that are good for me as if it is a loss. I had a hard time on other plans where I had to track lettuce and veggies - so I love that this plan celebrates those and treats them like a bonus! One thing I would loooove is a section for each person to put in customizable goals that can be checked off each day. I am doing the plan but I also have another app that has daily details I’m doing to reach my goal: water, vitamins, physical therapy for my ankle, walking, strength training. It would be nice to have one place for me to check them off :) thanks! I love the new version of ww.
+
+
+review id: 1125
+
+matches and contexts:
+
+match = vitam
+context = uld be in alphabetical order, a place to track my vitamin and mineral supplements, tally of nutrient
+
+
+id: 1125 | rating: 4 | user: Lynne 8 | date: 2021-08-08 | time: 16:07:54.000Z
+
+--------------------------------------------------------------------
+                      Title: Weight Watchers App
+--------------------------------------------------------------------
+
+I enjoy the many aspects of the app such as: the ability to look back at you week, being able to plan ahead with your meals and points and being able to create recipes and tally points. The things that I wish were different are: that the items for each restaurant should be in alphabetical order, a place to track my vitamin and mineral supplements, tally of nutrients for the day (calories, grams of protein etc) and you should be able to track your servings of fruits, vegetables etc. I also wish that I could manually log my meditation since I use another app.
+
+
+review id: 1130
+
+matches and contexts:
+
+match = vitam
+context = s a way to track nutritional values like protein, vitamins, and stuff. I’ve been using Fooducate for
+
+
+id: 1130 | rating: 4 | user: KristenS1981 | date: 2018-08-21 | time: 19:12:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Great program! App could use a couple of tweaks.
+--------------------------------------------------------------------
+
+I signed up for the Weight Watchers program a couple of weeks ago and love it so far! I’ve already lost a couple of pounds. The app especially is convenient for tracking my points and looking for recipes and ideas. I also love it integrates with Apple Health. My one wish though is that there was a way to track nutritional values like protein, vitamins, and stuff. I’ve been using Fooducate for a while as well and would like to be able to get rid of it and use just the Weight Watchers app instead of having to manually enter the same data into  separate apps.
+
+
+review id: 1149
+
+matches and contexts:
+
+match = vitam
+context = all nutrition in (fat, carbs, protein, as well as vitamins and minerals) I end up having to also ent
+
+
+id: 1149 | rating: 4 | user: BWTobw | date: 2020-09-27 | time: 18:42:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Good but needs to provide more
+--------------------------------------------------------------------
+
+The app works well and has helped me be effective in tracking my daily intake via point count but is not complete. Although it does whats needed in tracking points it does not offer any information on overall nutrition and this should be a part of any diet plan. Since WW lacks this feature, in order to track my overall nutrition in (fat, carbs, protein, as well as vitamins and minerals) I end up having to also enter my foods into my fitness pal. It would be a very welcome addition if WW added this feature or worked with my fitness pal to automatically integrate together.
+
+
+review id: 1156
+
+matches and contexts:
+
+match = iod
+context = Tried it for the introductory period and i liked it ok. I’d prefer it over free My 
+
+
+id: 1156 | rating: 3 | user: Mrsgrow94 | date: 2020-01-09 | time: 01:43:44.000Z
+
+--------------------------------------------------------------------
+                      Title: Too expensive
+--------------------------------------------------------------------
+
+Tried it for the introductory period and i liked it ok. I’d prefer it over free My Fitness Pal. I’d pay for this app in a heartbeat, just not $20 a MONTH. I am going back to My Fitness PAL. I might even buy premium. There are just too many free or cheaper things. I’d pay $3-$5 a month but no more. My husband and I like to track together and $40 is ridiculous. There is also no way to stop paying like in regular WW with meetings I could get to goal weight. No incentive.
+
+
+review id: 1224
+
+matches and contexts:
+
+match = vitam
+context = mend that WW improve this app by also calculating vitamin and mineral intake.  The food is already c
+
+
+id: 1224 | rating: 5 | user: BroadwayBoomer | date: 2019-08-01 | time: 14:01:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Wonderful!  And could be better!
+--------------------------------------------------------------------
+
+Yes!  This app is good.  I agree with the most positive reviews that you have read or will read!  But there's something important missing.  I highly recommend that WW improve this app by also calculating vitamin and mineral intake.  The food is already calculated, so let's take it to the next excellent level!  That way, when we see that we are missing certain nutrients, we'll have the information necessary to make adjustments to our diets. After all, WW is all about living to our most healthy potential!  I love WW!!!
+
+
+review id: 1331
+
+matches and contexts:
+
+match = iron
+context = sire are low and it’s nice to know it’s a safe environment where I can be truly open and honest abou
+
+
+id: 1331 | rating: 4 | user: busy mom & educator | date: 2018-01-04 | time: 18:12:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Better->Best
+--------------------------------------------------------------------
+
+I love this app!  It has many features and is user-friendly. I adore the ability to scan a barcode and get the points value instantly. I REALLY wish there were more recipes available on it and that there was a way to sort the favorites by type, since I may not remember the exact name of a recipe and therefore have to scroll through the whole list to find it. Connect is a great place to go when my inspiration and desire are low and it’s nice to know it’s a safe environment where I can be truly open and honest about what’s going on in my head (or in my mouth😆).
+
+
+review id: 1389
+
+matches and contexts:
+
+match = vitam
+context = diet. The only thing I would change is to include vitamins, minerals, nutrients, cholesterol , fat, 
+
+match = iron
+context = l for individuals with dietary concerns, i.e. low iron content, etc.
+
+
+id: 1389 | rating: 5 | user: Nickname undisplayed | date: 2020-08-17 | time: 21:51:07.000Z
+
+--------------------------------------------------------------------
+                      Title: Inclusion of Nutrients in Diary
+--------------------------------------------------------------------
+
+I love this app and it really has helped me lose weight and stay on track with my diet. The only thing I would change is to include vitamins, minerals, nutrients, cholesterol , fat, fiber, etc., in the food diary so we could see how we were doing in reaching our dietary recommended doses of each. I think that would be beneficial for individuals with dietary concerns, i.e. low iron content, etc.
+
+
+review id: 1419
+
+matches and contexts:
+
+match = iod
+context =  the only one I ever really stick with for any period of time.  If you’re a mega athlete and you wan
+
+
+id: 1419 | rating: 5 | user: szewy | date: 2021-03-10 | time: 14:15:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Agree with other good reviews!
+--------------------------------------------------------------------
+
+Weight watchers app & tech has improved in huge ways.  I’ve tried all of these, MyFitnessPal, Noom, Beachbody, you name it.  WW is still the best one and the only one I ever really stick with for any period of time.  If you’re a mega athlete and you want to down protein shakes with a daily 2 hour workout, and have no trouble saying no to a bagel, then yeah it might not be entirely for you.  For the rest of us who are just trying to make it through this pandemic without gaining 100 lbs, this is for you!!  Recommend!! 🙌
+
+
+review id: 1501
+
+matches and contexts:
+
+match = micro
+context =  that two different foods with basically the same micro count will have a higher SP value because it
+
+
+id: 1501 | rating: 4 | user: Roachwomanfw | date: 2020-04-07 | time: 13:14:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Mystery SP Calculations
+--------------------------------------------------------------------
+
+I really do love the app, for the most part. The only quibble I have with it is that the actual calculation of the SP values are not revealed. I know it is based on calories, sat fat and protein but it seems that two different foods with basically the same micro count will have a higher SP value because it is considered a snack food. My WW snacks have the same calorie and fat count as, say, an apple and the WW snack has two points and the apple has zero. It seems like the snack foods are artificially inflated for “nudging” purposes and I really hate being “nudged” I call it being manipulated. Otherwise, the app is great.
+
+
+review id: 1788
+
+matches and contexts:
+
+match = sodium
+context = y total.)  Total calories, protein, added sugars, sodium, etc.  All of those numbers are available i
+
+
+id: 1788 | rating: 5 | user: Kalscope | date: 2020-11-22 | time: 16:51:29.000Z
+
+--------------------------------------------------------------------
+                      Title: Almost the best
+--------------------------------------------------------------------
+
+The WW program has helped me lose weight.  This app is amazing.  To be the perfect app it needs to give me a daily summary of nutrition. (And if I’m wishing for the stars, a weekly total.)  Total calories, protein, added sugars, sodium, etc.  All of those numbers are available in the app.  I would be able to look back over a day and perhaps see why I felt hungry, or satisfied, or why I stayed within daily points each day but still gained weight.  Please make this the perfect app WW!
+
+
+review id: 1956
+
+matches and contexts:
+
+match = micro
+context = However, I would like the app the track macro and micronutrients as well. Something similar to mypla
+
+
+id: 1956 | rating: 4 | user: elmobig2 | date: 2019-09-28 | time: 11:32:21.000Z
+
+--------------------------------------------------------------------
+                      Title: WW App
+--------------------------------------------------------------------
+
+I love the app and the ease of use. Everything is organized and easy to find. Connect is very helpful in finding support and others who are changing their lifestyle. However, I would like the app the track macro and micronutrients as well. Something similar to myplate would be nice. Also, the quick track feature is a bit annoying because when I’m trying to slide back a page my finger is in the same place as the food so the app accidentally, automatically tracks that food.
+
+
+review id: 2029
+
+matches and contexts:
+
+match = iod
+context =  and how many left so u can plan and allow for periodic splurges, which is what life is all about! L
+
+
+id: 2029 | rating: 5 | user: mtlower | date: 2021-03-03 | time: 22:22:52.000Z
+
+--------------------------------------------------------------------
+                      Title: So Easy to Keep On “Track”
+--------------------------------------------------------------------
+
+This app makes it so easy to keep in control of your food and drink intake! You know in real time how many pts u have consumed and how many left so u can plan and allow for periodic splurges, which is what life is all about! Love the recipes and ability to put your own recipes in to track, and look up items at many restaurants, so helpful and handy. Just wish u could print recipes, cannot now since app updated☹️
+
+
+review id: 2165
+
+matches and contexts:
+
+match = iod
+context = r we lost almost 35lbs in 2 months. WW works...period!
+
+
+id: 2165 | rating: 5 | user: Btmomof3 | date: 2021-04-29 | time: 20:02:25.000Z
+
+--------------------------------------------------------------------
+                      Title: I love WW!
+--------------------------------------------------------------------
+
+I used WW after each of my 3 pregnancies and lost weight. Years later, after putting on weight due to my own eating issues, I tried every diet one could imagine and none of them worked. It took so many attempts at trying to lose weight and then seeing a friend and her husband do WW that I decided to go back to what works. I put my husband, son and I on WW and the results are amazing! Altogether we lost almost 35lbs in 2 months. WW works...period!
+
+
+review id: 2254
+
+matches and contexts:
+
+match = sodium
+context = ertension and heart disease suffers need to track sodium. Not just ingredient by ingredient, but als
+
+
+id: 2254 | rating: 3 | user: pj younger | date: 2021-03-15 | time: 02:22:51.000Z
+
+--------------------------------------------------------------------
+                      Title: Why can't I have a place to find total calories each day?
+--------------------------------------------------------------------
+
+Although the app shows Smart Points just fine, it would be nice to have a place to see the calories and macro nutrients in the back end. Diabetes need to track carbs. Hypertension and heart disease suffers need to track sodium. Not just ingredient by ingredient, but also for the day. Plus, it would help if we could see total calories which might keep us from leaning on nothing but zero points. I've tracked in other apps, and when I'm hoping to eat 1400 calories I end up at 1600 or more.
+
+
+review id: 2374
+
+matches and contexts:
+
+match = iod
+context = there are definitely some glitches.  There are periodic "no internet connection" messages that are n
+
+
+id: 2374 | rating: 5 | user: Pacatholic | date: 2021-01-09 | time: 01:54:40.000Z
+
+--------------------------------------------------------------------
+                      Title: pretty good
+--------------------------------------------------------------------
+
+I like the app in general, but there are definitely some glitches.  There are periodic "no internet connection" messages that are not true.  You cannot search your "scanned items," and therefore have to scroll down a long list, or just type it in.  I do like the way it helps tracking both food and weight.
+
+
+review id: 2448
+
+matches and contexts:
+
+match = sodium
+context = rfect. I wish there was a daily tally of protein, sodium, fat, etc much like My Fitness Pal has. Rig
+
+
+id: 2448 | rating: 5 | user: Ha$Htagger | date: 2019-09-08 | time: 13:11:04.000Z
+
+--------------------------------------------------------------------
+                      Title: Progress, but not perfection
+--------------------------------------------------------------------
+
+This app has many cool features and has improved,  but it’s not perfect. I wish there was a daily tally of protein, sodium, fat, etc much like My Fitness Pal has. Right now I use both apps to track my daily intake.
+
+
+review id: 2492
+
+matches and contexts:
+
+match = vitam
+context = ch I ate of protein fats, carbs, and calories and vitamins. It was very helpful for me and my medica
+
+
+id: 2492 | rating: 4 | user: Nana plays | date: 2020-11-06 | time: 00:36:48.000Z
+
+--------------------------------------------------------------------
+                      Title: Ww app
+--------------------------------------------------------------------
+
+This is great. Tracking is easy. Suggestions are doable. I love my WW.  The things I feel would be a great benefit is a recipe builder for my recipes.  Another thing is something WW offered a while ago. I could see on a chart how much I ate of protein fats, carbs, and calories and vitamins. It was very helpful for me and my medical needs and controls. WW has always been my friend and help. I have been through many medical setbacks and WW is always there to help me up. Thanks be to God for helping me through along with my WW family.
+
+
+review id: 2580
+
+matches and contexts:
+
+match = vitam
+context = y to see the total nutritional value for the day (vitamins, calcium, protein, ect). I’d also like to
+
+match = calci
+context = he total nutritional value for the day (vitamins, calcium, protein, ect). I’d also like to see the m
+
+
+id: 2580 | rating: 4 | user: moon_glade | date: 2018-07-17 | time: 04:46:49.000Z
+
+--------------------------------------------------------------------
+                      Title: Good but could use some improvements
+--------------------------------------------------------------------
+
+I love WW, like the app but I wish it had a quick way to see the total nutritional value for the day (vitamins, calcium, protein, ect). I’d also like to see the mobile app have the recipe builder. It’s a bit frustrating to have to log into the website to create recipe. And just in case someone from Ww are taking the suggestions seriously, a water tracking feature that you could mark off on your glasses per day goal would be awesome :-)
+
+
+review id: 2701
+
+matches and contexts:
+
+match = vitam
+context = pp to make sure I’m balancing protein carbs fiber vitamins a and c potassium iron calcium. I’m glad 
+
+match = iron
+context = ng protein carbs fiber vitamins a and c potassium iron calcium. I’m glad ww pays more attention to p
+
+match = calci
+context = otein carbs fiber vitamins a and c potassium iron calcium. I’m glad ww pays more attention to protei
+
+
+id: 2701 | rating: 4 | user: Jens2Cents | date: 2019-03-17 | time: 02:24:13.000Z
+
+--------------------------------------------------------------------
+                      Title: App feedback
+--------------------------------------------------------------------
+
+I like it but wish there was more of a breakdown of major nutrients for my day. I do another app to make sure I’m balancing protein carbs fiber vitamins a and c potassium iron calcium. I’m glad ww pays more attention to protein in the past but it’d be good to have a good crosscheck on all important daily requirements. I look at the other app when I’m hungry to see what I’m low on that day and then choose that. My two cents. I think some people just worry about points and not balance. Can help stop cravings too.
+
+
+review id: 3160
+
+matches and contexts:
+
+match = iod
+context = aper. There is one small glitch— it freezes up periodically. Haven’t figured out if there’s a way to
+
+
+id: 3160 | rating: 5 | user: joycekc | date: 2021-03-23 | time: 22:54:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Great, but . . .
+--------------------------------------------------------------------
+
+I love the convenience of this app. I have kept track of my points religiously since it was first introduced. A vast improvement over tracking on paper. There is one small glitch— it freezes up periodically. Haven’t figured out if there’s a way to avoid it but it is frustrating because I have to power off my phone or iPad to rest it.
+
+
+review id: 3335
+
+matches and contexts:
+
+match = vitam
+context = is if a feature that would also log the nutrient/ vitamin value of the my logged foods. This additio
+
+
+id: 3335 | rating: 5 | user: skinnyminnie😁 | date: 2021-03-01 | time: 21:03:01.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the video workouts!
+--------------------------------------------------------------------
+
+I applaud the improvements that have been added to the app! The one thing, I would appreciate, is if a feature that would also log the nutrient/ vitamin value of the my logged foods. This addition would allow me to only log everything once. Currently I am using 2 apps to make up for the shortcomings in this app. Great job guys!
+
+
+review id: 3519
+
+matches and contexts:
+
+match = vitam
+context = uch water I have had in a day, if I have taken my vitamins and also a ‘note’ section for me to be ab
+
+
+id: 3519 | rating: 5 | user: Lizzybug495 | date: 2020-03-14 | time: 15:21:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app but...
+--------------------------------------------------------------------
+
+I really wish there was a place to log how much water I have had in a day, if I have taken my vitamins and also a ‘note’ section for me to be able to reflect on a NSV or challenge- etc.  the program book that we use at workshops isn’t something that I carry around so having space in the app would be helpful on the journey.
+
+
+review id: 3588
+
+matches and contexts:
+
+match = vitam
+context = healthy eating habits but not having my macros or vitamins and calories available makes it hard to u
+
+
+id: 3588 | rating: 2 | user: Soren446 | date: 2021-01-06 | time: 02:10:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Needs better Health App syncing and ability to export dietary data
+--------------------------------------------------------------------
+
+I appreciate the ability for WW to read fitness data from the Health app on my iPhone. However, i also like to see a breakdown of my nutritional intake per day and WW does not give me one nor does it sync data with the Health app. I enjoy the point system for encouraging healthy eating habits but not having my macros or vitamins and calories available makes it hard to use with a dietician. Please consider allowing users to export the data since it is in each food logged.
+
+
+review id: 3683
+
+matches and contexts:
+
+match = iron
+context = his app. There's some bumps in the road that need ironing out but overall it's fantastic. Easy and f
+
+
+id: 3683 | rating: 5 | user: moniruesing | date: 2021-01-25 | time: 19:07:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy
+--------------------------------------------------------------------
+
+I love this app. There's some bumps in the road that need ironing out but overall it's fantastic. Easy and fun. It makes losing weight easy. Thanks!!
+
+
+review id: 3738
+
+matches and contexts:
+
+match = sodium
+context =  summary of nutritional information, particularly sodium, carbs, sugars and calories.
+
+
+id: 3738 | rating: 4 | user: kgdayb | date: 2019-06-11 | time: 11:35:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Summary info
+--------------------------------------------------------------------
+
+Upgrade would be to make daily and weekly summary of nutritional information, particularly sodium, carbs, sugars and calories.
+
+
+review id: 3764
+
+matches and contexts:
+
+match = sodium
+context = ecially, for those of us on any restrictions like sodium or carbs.
+
+
+id: 3764 | rating: 5 | user: FitforlifeV | date: 2021-06-24 | time: 04:23:56.000Z
+
+--------------------------------------------------------------------
+                      Title: Nevr2late2start
+--------------------------------------------------------------------
+
+Enjoy using the App. very much! Love Connect!!! Would like to be able to go back a day if I forge to sync my fit points or log a meal. Also being able to log more then one food item at a time would be great. Lastly, seeing nutrition totals or goals would be very helpful. Especially, for those of us on any restrictions like sodium or carbs.
+
+
+review id: 3920
+
+matches and contexts:
+
+match = sodium
+context = ing) and a caloric break down of proteins, carbs, sodium, etc that I have eaten for the day!
+
+
+id: 3920 | rating: 4 | user: koalabear22492 | date: 2019-09-18 | time: 16:31:22.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy to use!
+--------------------------------------------------------------------
+
+I love the app because it’s an easy way to track everything. I also love that ALL my tools are right at my finger tips - coaching, connect, recipe ideas, tacking, weight - etc. The only reason that I give it 4 stars and not 5 is because I wish it had a way to track water intake (besides just putting it in tracking) and a caloric break down of proteins, carbs, sodium, etc that I have eaten for the day!
+
+
+review id: 3988
+
+matches and contexts:
+
+match = iod
+context = ensive for what you get after the introductory period.  The concept is sound:  measurement of food a
+
+
+id: 3988 | rating: 2 | user: Garbage847 | date: 2021-01-22 | time: 14:44:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Used to be great, now terrible
+--------------------------------------------------------------------
+
+I started using this app in June and for months, it was great.  Then, a few months ago, they started messing with it on a fairly regular basis.  It has become unstable, it loses data I’ve input, and does not operate according to the settings I’ve input into my profile.  It is also expensive for what you get after the introductory period.  The concept is sound:  measurement of food and beverage intake, and measurement of exercise.  The formula works but I’m sure there’s a better, more economical app out there than WW.
+
+
+review id: 4328
+
+matches and contexts:
+
+match = vitam
+context = ng the healthy checks in the app? Water and multi-vitamins are also needed to live on plan. They use
+
+
+id: 4328 | rating: 4 | user: Crystal*Monique | date: 2019-11-27 | time: 16:58:11.000Z
+
+--------------------------------------------------------------------
+                      Title: Request for healthy checks
+--------------------------------------------------------------------
+
+Would Weight Watchers please consider including the healthy checks in the app? Water and multi-vitamins are also needed to live on plan. They used to be included with the Core plan (this is going back a few years).
+
+
+review id: 4444
+
+matches and contexts:
+
+match = iod
+context = I’ve lost 130 pounds this time around (after a period of grief and regaining), and learned that I mu
+
+
+id: 4444 | rating: 5 | user: blmcnair1 | date: 2019-12-28 | time: 21:00:43.000Z
+
+--------------------------------------------------------------------
+                      Title: The app is great.
+--------------------------------------------------------------------
+
+I’m an introvert and addicted to food.  The app allows me the privacy of weighing myself and tracking what I eat.  The app helps me hold myself accountable.  I’ve lost 130 pounds this time around (after a period of grief and regaining), and learned that I must track what o ear so my eyes and brain can see that I have been eating.  I know it’s psychological, but it works for me.
+
+
+review id: 4647
+
+matches and contexts:
+
+match = vitam
+context = ion tracker to make it easier to remember to take vitamins and meds.
+
+
+id: 4647 | rating: 4 | user: Cmclarke | date: 2021-04-29 | time: 19:21:02.000Z
+
+--------------------------------------------------------------------
+                      Title: Very helpful tool
+--------------------------------------------------------------------
+
+I’ve used this app for years. Without this app tracking your food is much more challenging. It’s so helpful with making a purchase when shopping to scan a product and know what the point values are. I like the animation on the water tracking. I wish WW would consider a medication tracker to make it easier to remember to take vitamins and meds.
+
+
+review id: 4956
+
+matches and contexts:
+
+match = iron
+context = There are still some things to be ironed out - for example, if you have a favorite f
+
+
+id: 4956 | rating: 4 | user: I_Am_Debra | date: 2019-07-26 | time: 18:25:52.000Z
+
+--------------------------------------------------------------------
+                      Title: Practically Perfect
+--------------------------------------------------------------------
+
+There are still some things to be ironed out - for example, if you have a favorite food you enter with Quick Add, it doesn’t retain the information unless you add a recipe. What if it’s a favorite, but you don’t make it and it’s not commercially available? There should be an option to to ‘Favorite’ a Quick Add. But on the whole it’s very user friendly.
+
+
+review id: 5195
+
+matches and contexts:
+
+match = vitam
+context = e cool iPhone speakers, a gift certificate to the vitamin shop and donated meals to those in need!
+
+
+id: 5195 | rating: 5 | user: Monster Jam Man 2011 | date: 2020-08-16 | time: 12:50:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the rewards!
+--------------------------------------------------------------------
+
+I have been a lifetime WW member for a couple years and love how WW keeps refreshing the app to keep it interesting. I love the new rewards and they have been keeping me motivated through these challenging times of the pandemic. I have already received one of the cool iPhone speakers, a gift certificate to the vitamin shop and donated meals to those in need!
+
+
+review id: 5317
+
+matches and contexts:
+
+match = iod
+context =  Love the recipes from WW and the point system period!
+
+
+id: 5317 | rating: 5 | user: Behr728 | date: 2021-04-26 | time: 10:39:00.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the WW app!
+--------------------------------------------------------------------
+
+It’s all about accountability for me and this is what I’ve needed. I think twice before eating something I’m not suppose to when I see how many points something is. I used to be a runner and could eat anything I wanted to, not the case anymore. Love the recipes from WW and the point system period!
+
+
+review id: 5444
+
+matches and contexts:
+
+match = vitam
+context = racking consumption of fruits, dairy, vegetables, vitamins etc. Tracking points is important but it 
+
+
+id: 5444 | rating: 4 | user: Onthemark3 | date: 2017-12-07 | time: 22:44:25.000Z
+
+--------------------------------------------------------------------
+                      Title: Better
+--------------------------------------------------------------------
+
+The WW app is VERY easy to use and really keeps me on track to losing weight. Recommendations: It would be nice if their was a way to 1) track liquid consumption as well as healthy eating practices such as 2) tracking consumption of fruits, dairy, vegetables, vitamins etc. Tracking points is important but it should encourage healthy eating practices. 3) PLEASE make it possible to scan ingredients when you create a recipe.
+
+
+review id: 5594
+
+matches and contexts:
+
+match = Micro
+context =  is a dull and depressing to use (welcome to 1995 MicroSoft). Can you go back to the previous versio
+
+
+id: 5594 | rating: 1 | user: Azsmith1 | date: 2018-10-09 | time: 18:05:50.000Z
+
+--------------------------------------------------------------------
+                      Title: Updated app version
+--------------------------------------------------------------------
+
+The look and feel and usability of the new update is awful. Last version where you can scroll to enter in your servings was way more convenient and the colors are more vibrant. The plain blue and white makes is a dull and depressing to use (welcome to 1995 MicroSoft). Can you go back to the previous version in regards to the look and feel and features. I would rather track in My Fitness Pal and forget about the WW Wellness points. Hopefully others will comment on what they think with the new update today.
+
+
+review id: 5606
+
+matches and contexts:
+
+match = micro
+context = his app is lacking when you are trying to monitor micro nutrients such as fat calories and fiber. It
+
+
+id: 5606 | rating: 3 | user: lootahooty | date: 2018-03-09 | time: 00:40:15.000Z
+
+--------------------------------------------------------------------
+                      Title: Good app
+--------------------------------------------------------------------
+
+Although this is a good app, there are other apps that are free that offer more. This app is lacking when you are trying to monitor micro nutrients such as fat calories and fiber. It doesn’t help you understand how these affect your weight. It does all the work for you. If you just want to monitor points then this is the app for you. I found it lacking especially when there are better ones out there for free.
+
+
+review id: 5663
+
+matches and contexts:
+
+match = iod
+context = ne app!!  I highly recommended it…It does have periods of not loading & no communication from WW abo
+
+
+id: 5663 | rating: 5 | user: Montarn | date: 2020-10-15 | time: 12:57:05.000Z
+
+--------------------------------------------------------------------
+                      Title: It works!!!
+--------------------------------------------------------------------
+
+I have successfully lost 23# by just using the online app!!  I highly recommended it…It does have periods of not loading & no communication from WW about the issue.  I find this minor.  The one complaint I have is the restaurant list & menu items that are available.
+
+
+review id: 6050
+
+matches and contexts:
+
+match = micro
+context = I only wish there were a way to see the macro and micronutrients I am getting (or not getting). I wi
+
+
+id: 6050 | rating: 4 | user: QueenKD12 | date: 2019-04-23 | time: 02:58:10.000Z
+
+--------------------------------------------------------------------
+                      Title: User friendly
+--------------------------------------------------------------------
+
+I enjoy using the app to track my point and see my progress. I can also connect with the community and check in at meetings. I only wish there were a way to see the macro and micronutrients I am getting (or not getting). I wish they would bring the water tracker back. Why did that go away?
+
+
+review id: 6064
+
+matches and contexts:
+
+match = iod
+context = s showing trends in weight over different time periods have really helped me to maintain perspective
+
+
+id: 6064 | rating: 5 | user: JulieJane98 | date: 2019-04-18 | time: 05:02:03.000Z
+
+--------------------------------------------------------------------
+                      Title: Better WW
+--------------------------------------------------------------------
+
+I returned to WW after being a lifetime member years ago. I love the app, particularly the Connect feature. My Fitbit communicates with the WW app, making it easier to earn and tally activity points. The weekly recipes are good, and the charts showing trends in weight over different time periods have really helped me to maintain perspective.
+
+
+review id: 6326
+
+matches and contexts:
+
+match = sodium
+context = dly.   My key suggestion would be to also include sodium consumption tracking.  Lots of overweight f
+
+
+id: 6326 | rating: 5 | user: noabc:( | date: 2019-06-24 | time: 01:00:46.000Z
+
+--------------------------------------------------------------------
+                      Title: Wish it also tracked sodium
+--------------------------------------------------------------------
+
+Really like this app - very helpful snd user-friendly.   My key suggestion would be to also include sodium consumption tracking.  Lots of overweight folk are concerned about high blood pressure and are trying to limit sodium consumption.  It would be really helpful if the app also tracked daily sodium consumption.
+
+
+review id: 6373
+
+matches and contexts:
+
+match = vitam
+context = to track daily nutrition goals, like calcium, key vitamins and fiber!
+
+match = calci
+context = it better is to track daily nutrition goals, like calcium, key vitamins and fiber!
+
+
+id: 6373 | rating: 5 | user: 325566Jf | date: 2021-07-13 | time: 18:27:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app overall
+--------------------------------------------------------------------
+
+I like that there are so many available food entries from brand names to restaurants. Also many activities to track. The only thing that I can think of to make it better is to track daily nutrition goals, like calcium, key vitamins and fiber!
+
+
+review id: 6702
+
+matches and contexts:
+
+match = micro
+context = ve enough options for the servings.  For example, microwave popcorn-- it gives me the option of meas
+
+
+id: 6702 | rating: 3 | user: alysa :-) | date: 2018-04-13 | time: 18:28:32.000Z
+
+--------------------------------------------------------------------
+                      Title: The app keeps me honest
+--------------------------------------------------------------------
+
+I love being able to track everything on the app, but I find that some foods don't have enough options for the servings.  For example, microwave popcorn-- it gives me the option of measuring the unpopped kernels, which is not how I would be measuring the popcorn I eat!!  Also— when I enter foods by name recipes that others have entered always come up even for seemingly “generic” foods
+
+
+review id: 6796
+
+matches and contexts:
+
+match = sodium
+context =  my fitness pal app). It would also help to track sodium intake, etc. Being able to adjust these lev
+
+
+id: 6796 | rating: 4 | user: Toniree | date: 2020-07-26 | time: 03:35:13.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the app, but...
+--------------------------------------------------------------------
+
+Being diabetic, it’s important for me to be able to monitor my sugar and carbs throughout the day. It would be extremely helpful if the app provided us with a summary of nutrients (similar to the my fitness pal app). It would also help to track sodium intake, etc. Being able to adjust these levels would make this the PERFECT app!
+
+
+review id: 6970
+
+matches and contexts:
+
+match = sodium
+context = have though, is that it could track and summarize sodium intake per day. I have to track salt, so us
+
+
+id: 6970 | rating: 5 | user: Qwerty Pop 1966 | date: 2021-04-04 | time: 00:41:26.000Z
+
+--------------------------------------------------------------------
+                      Title: Great tool for staying on track
+--------------------------------------------------------------------
+
+Now that tracking is so simple, I do much better at it! One wish I have though, is that it could track and summarize sodium intake per day. I have to track salt, so use a second food tracker (Lose It!) to do so. Great app otherwise.
+
+
+review id: 7034
+
+matches and contexts:
+
+match = micro
+context = se. My only wish is that it was possible to track micronutrients-I know the goal is to stream line t
+
+
+id: 7034 | rating: 4 | user: Princess Spanky | date: 2020-02-27 | time: 17:43:53.000Z
+
+--------------------------------------------------------------------
+                      Title: Good, but missing...
+--------------------------------------------------------------------
+
+I am enjoying using WW app. The interface is clear and easy to use. My only wish is that it was possible to track micronutrients-I know the goal is to stream line the food tracking experience, but it would be simple enough to provide a deeper dive if one wanted to see the number, protein, carbs, sugars, fats, etc.
+
+
+review id: 7121
+
+matches and contexts:
+
+match = iod
+context = hole day right on my Home Screen. I had a test period earlier this week with a different format of t
+
+
+id: 7121 | rating: 5 | user: ScoobyShlee | date: 2021-08-27 | time: 17:35:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Don’t change it again!
+--------------------------------------------------------------------
+
+I love the app and the visibility into my whole day right on my Home Screen. I had a test period earlier this week with a different format of the app and it derailed my entire week. Please don’t change it again!
+
+
+review id: 7286
+
+matches and contexts:
+
+match = micro
+context = y goal. One suggestion I might make is displaying micronutrients on it, in someway. I think showing 
+
+
+id: 7286 | rating: 4 | user: jab.adam | date: 2018-05-25 | time: 17:04:47.000Z
+
+--------------------------------------------------------------------
+                      Title: Weight loss
+--------------------------------------------------------------------
+
+I love this app, I do very well on it. This may be my third time using it and that is due to the fact that I “fall of the wagon” not long after I have reached my goal. One suggestion I might make is displaying micronutrients on it, in someway. I think showing the allowance of fat, protein, and fat, would be a great plus for this app and program.
+
+
+review id: 7675
+
+matches and contexts:
+
+match = sodium
+context = ntial. Would like to also be able to track carbs, sodium, and sugars.  When you are truly tracking a
+
+
+id: 7675 | rating: 3 | user: mcfly1893 | date: 2019-03-21 | time: 03:35:52.000Z
+
+--------------------------------------------------------------------
+                      Title: It has potential
+--------------------------------------------------------------------
+
+The app has potential. Would like to also be able to track carbs, sodium, and sugars.  When you are truly tracking and not losing these are key components that can be reviewed and altered to create the best combination that works for you.  I am currently having to track in multiple apps(which are free)To get the results I need and to be successful.
+
+
+review id: 7738
+
+matches and contexts:
+
+match = iod
+context = d you aren’t able to log back in for prolonged periods of time, it tells you that you don’t have a s
+
+
+id: 7738 | rating: 3 | user: NotoriousAMC | date: 2021-03-30 | time: 14:38:48.000Z
+
+--------------------------------------------------------------------
+                      Title: App crashes
+--------------------------------------------------------------------
+
+The app constantly crashes and you aren’t able to log back in for prolonged periods of time, it tells you that you don’t have a subscription even when you do. The program is great but for a minimum of $25 a month you would expect the app to have less bugs and function properly.
+
+
+review id: 7914
+
+matches and contexts:
+
+match = iod
+context =  in with my fingerprint. It doesn’t close down periodically like it used to. I have lost 21 pounds b
+
+
+id: 7914 | rating: 5 | user: OutlanderNC | date: 2017-11-11 | time: 14:26:08.000Z
+
+--------------------------------------------------------------------
+                      Title: Happy with the app
+--------------------------------------------------------------------
+
+Thank you for fixing the login issues. I love logging in with my fingerprint. It doesn’t close down periodically like it used to. I have lost 21 pounds by using the app for the online program. To say I’m pleased is an understatement. Thanks and keep up the good work!
+
+
+review id: 8377
+
+matches and contexts:
+
+match = sodium
+context = ystem but hate this app. My doc wants me tracking sodium, my dietician wants to know my fat intake. 
+
+
+id: 8377 | rating: 2 | user: - turbo | date: 2018-11-04 | time: 16:42:45.000Z
+
+--------------------------------------------------------------------
+                      Title: App leaves a lot to be desired
+--------------------------------------------------------------------
+
+I love the points system but hate this app. My doc wants me tracking sodium, my dietician wants to know my fat intake. Nowhere can I get a daily total for these items. There is no way to track water easily. The measurement choices are limited and creating recipes is a nightmare.
+
+
+review id: 8779
+
+matches and contexts:
+
+match = vitam
+context = t if they had the healthy tracks again for water, vitamins etc.
+
+
+id: 8779 | rating: 5 | user: Julesz. A | date: 2019-05-29 | time: 00:14:45.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+I love the weight watchers app but it would be even better if there were an accessibility for large print. It will be great for me because I'm visually impaired :-) I would also love it if they had the healthy tracks again for water, vitamins etc.
+
+
+review id: 8839
+
+matches and contexts:
+
+match = sodium
+context = is cumbersome.  Would love to see it track fiber, sodium, fat grams in addition to points.  Want the
+
+
+id: 8839 | rating: 5 | user: fawnmc | date: 2017-10-02 | time: 23:35:04.000Z
+
+--------------------------------------------------------------------
+                      Title: I agree. Go back to earlier version
+--------------------------------------------------------------------
+
+Love the app with exceptions.  Scanning feature rocks.   Recipe adding is cumbersome.  Would love to see it track fiber, sodium, fat grams in addition to points.  Want the app to return to 2016 version. For examples of tracking fiber etc grams check out myfitnesspal.
+
+
+review id: 8841
+
+matches and contexts:
+
+match = micro
+context = r social site. I would love more ability to track micronutrients, but other than that it’s all here.
+
+
+id: 8841 | rating: 4 | user: Zorro1959 | date: 2017-11-18 | time: 22:54:14.000Z
+
+--------------------------------------------------------------------
+                      Title: Easy and Complete
+--------------------------------------------------------------------
+
+This app makes staying on the program really easy and convenient. I love linking my Fitbit so all my data is in one place. Scan food labels, look for recipes, post to their social site. I would love more ability to track micronutrients, but other than that it’s all here.
+
+
+review id: 8866
+
+matches and contexts:
+
+match = iron
+context = ctions with other members is a very supportive environment that goes both ways. I am living a health
+
+
+id: 8866 | rating: 5 | user: Jamper52 | date: 2021-08-10 | time: 15:50:22.000Z
+
+--------------------------------------------------------------------
+                      Title: This app helps me
+--------------------------------------------------------------------
+
+From keeping me on track to delicious recipes, the WW app is one of the most helpful tools on my electronic devices. Connections with other members is a very supportive environment that goes both ways. I am living a healthier life thanks to WW and the app is an important facet.
+
+
+review id: 8911
+
+matches and contexts:
+
+match = sodium
+context = ee one for years.  I only wish the WW app tracked sodium.  Then it would be perfect!
+
+
+id: 8911 | rating: 5 | user: Mooseflute | date: 2021-03-07 | time: 01:39:17.000Z
+
+--------------------------------------------------------------------
+                      Title: Love but still getting used to it
+--------------------------------------------------------------------
+
+There are so many resources on this app in one place.  My only problem is getting used to navigating it, having used a free one for years.  I only wish the WW app tracked sodium.  Then it would be perfect!
+
+
+review id: 9085
+
+matches and contexts:
+
+match = iod
+context = fund your money if you sign up for the 3 month period. Poor business practice to charge customers fo
+
+
+id: 9085 | rating: 1 | user: cocopen890 | date: 2018-05-30 | time: 21:17:06.000Z
+
+--------------------------------------------------------------------
+                      Title: Glitchy app & not worth the monthly fee!
+--------------------------------------------------------------------
+
+I’m cancelling my subscription because the app frequently crashes on my iPhone.  They are aware of the issue. If you still want to try it don’t sign up for a subscription since they won’t refund your money if you sign up for the 3 month period. Poor business practice to charge customers for a faulty product. There are so many more features on the MyFitnessPal app. I should have researched more at the get go.
+
+
+review id: 9092
+
+matches and contexts:
+
+match = micro
+context = function is great but why would the app not track micronutrients?   Free apps like Lose It do it and
+
+
+id: 9092 | rating: 2 | user: Adventure147 | date: 2018-01-01 | time: 21:41:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Missing critical elements
+--------------------------------------------------------------------
+
+The bar scan function is great but why would the app not track micronutrients?   Free apps like Lose It do it and eating the right balance is part of healthy eating.  I find this to be a major loss. When I wrote to the help line the response
+
+
+review id: 9127
+
+matches and contexts:
+
+match = sodium
+context = for those of us that have to track such things as sodium, sugar, fiber intake
+
+
+id: 9127 | rating: 5 | user: jlgred | date: 2021-07-10 | time: 12:33:35.000Z
+
+--------------------------------------------------------------------
+                      Title: Great app
+--------------------------------------------------------------------
+
+I give it 5 with a couple of recommendations for improvement. I wish it would have a place to give you cumulative Nutritional data per day for those of us that have to track such things as sodium, sugar, fiber intake
+
+
+review id: 9173
+
+matches and contexts:
+
+match = micro
+context = point foods.  Would love the addition of tracking micro nutrients, such as grams of saturated and un
+
+match = sodium
+context = ms of saturated and unsaturated fat, calories and sodium, or cholesterol.  Until then, I’ll muddle t
+
+
+id: 9173 | rating: 3 | user: music&stuff | date: 2021-03-06 | time: 05:47:58.000Z
+
+--------------------------------------------------------------------
+                      Title: Constantly improving!
+--------------------------------------------------------------------
+
+The longer I use the app, the more useful it becomes. Tracking is as easy as you want it to be.  I’m still tracking everything, including zero point foods.  Would love the addition of tracking micro nutrients, such as grams of saturated and unsaturated fat, calories and sodium, or cholesterol.  Until then, I’ll muddle through.
+
+
+review id: 9281
+
+matches and contexts:
+
+match = iod
+context = added foods - I tend to eat the same foods for periods of time. Graphs your weight loss so you can s
+
+
+id: 9281 | rating: 5 | user: Miss Ellie 86 | date: 2019-09-12 | time: 22:02:46.000Z
+
+--------------------------------------------------------------------
+                      Title: WW Lifetime Member
+--------------------------------------------------------------------
+
+Best way for me to track. I always have my phone with me. Saves my fav foods & recently added foods - I tend to eat the same foods for periods of time. Graphs your weight loss so you can see if you are trending in the right direction. Definitely recommend.
+
+
+review id: 9359
+
+matches and contexts:
+
+match = iod
+context = pabilities for logging in. The app logs me out periodically throughout the day and then when I do lo
+
+
+id: 9359 | rating: 4 | user: KMUnit | date: 2017-09-20 | time: 12:09:23.000Z
+
+--------------------------------------------------------------------
+                      Title: Great for tracking
+--------------------------------------------------------------------
+
+Love the fact that I can scan barcodes and easily figure out how many points I would be using. BUT, they really need to add TouchID capabilities for logging in. The app logs me out periodically throughout the day and then when I do log in, it says there is an issue with my login, then goes in.
+
+
+review id: 9362
+
+matches and contexts:
+
+match = micro
+context = r than ever it would be nice to see my macros and micro-nutrients. It is frustrating to have to use 
+
+
+id: 9362 | rating: 5 | user: carebear805 | date: 2017-10-27 | time: 21:21:37.000Z
+
+--------------------------------------------------------------------
+                      Title: Macros!
+--------------------------------------------------------------------
+
+I’m very active and down to my last few pounds to lose. The app is very easy to use but now that I’m training harder than ever it would be nice to see my macros and micro-nutrients. It is frustrating to have to use an additional app.
+
+
+review id: 9501
+
+matches and contexts:
+
+match = sodium
+context = bring back produce tracker and even incorporate a sodium tracker. That would be amazing!!
+
+
+id: 9501 | rating: 5 | user: angiell85 | date: 2020-04-13 | time: 07:22:27.000Z
+
+--------------------------------------------------------------------
+                      Title: Love the return of an old feature.
+--------------------------------------------------------------------
+
+Love the app still and that they finally brought back the water tracker, but I wish they would also bring back produce tracker and even incorporate a sodium tracker. That would be amazing!!
+
+
+review id: 9662
+
+matches and contexts:
+
+match = vitam
+context = I have seen apps which allow the user to track vitamins and minerals, etc. though the foods they 
+
+
+id: 9662 | rating: 4 | user: Chelsea402 | date: 2021-06-29 | time: 01:05:39.000Z
+
+--------------------------------------------------------------------
+                      Title: Nutrition
+--------------------------------------------------------------------
+
+I have seen apps which allow the user to track vitamins and minerals, etc. though the foods they eat and track. It is an eye opening experience and helpful to know which items we lack .I wish this app offered the same.
+
+
+review id: 10092
+
+matches and contexts:
+
+match = sodium
+context = ely and having to total it up, for example fiber, sodium, protein and fat etc. Thank you
+
+
+id: 10092 | rating: 5 | user: Snbbbp | date: 2019-10-20 | time: 10:37:59.000Z
+
+--------------------------------------------------------------------
+                      Title: WW app recommendations
+--------------------------------------------------------------------
+
+I love this app, in addition I would like to see all nutrition info at a glance for the day,  instead of opening each food item separately and having to total it up, for example fiber, sodium, protein and fat etc. Thank you
+
+
+review id: 10438
+
+matches and contexts:
+
+match = sodium
+context = h the Barcode Scanner would include the amount of sodium in a serving. Although it might not be nece
+
+
+id: 10438 | rating: 4 | user: Kclee3 | date: 2019-03-30 | time: 21:05:57.000Z
+
+--------------------------------------------------------------------
+                      Title: Sodium content
+--------------------------------------------------------------------
+
+I really wish the Barcode Scanner would include the amount of sodium in a serving. Although it might not be necessary for calculating points, it is an important piece of information for those of us who are trying to monitor our sodium intake. This is certainly a part of Wellness and would be a WW (WinWin)!
+
+
+review id: 10538
+
+matches and contexts:
+
+match = calci
+context = a recommendation. For example. You are 10% low on calcium. Here are are a list of foods that could i
+
+
+id: 10538 | rating: 5 | user: Nancy K Schieno | date: 2021-03-12 | time: 23:47:24.000Z
+
+--------------------------------------------------------------------
+                      Title: Weight watchers
+--------------------------------------------------------------------
+
+I think you should provide weekly nutritional values consumer and compare to a recommendation. For example. You are 10% low on calcium. Here are are a list of foods that could increase your calcium consumption. Just a thought
+
+
